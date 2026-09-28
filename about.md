@@ -22,7 +22,7 @@ sources:
 音乐史是整套知识的**时间轴**。它不孤立地讲一件作品或一件乐器，而是回答：
 **在某一个时间点上，音乐里发生了什么，和它前后是什么关系。**
 
-## 会收录哪些内容
+## 时间线里有什么
 
 - **时期总览** —— 从早期的单声部圣咏到当代，每个时期一篇，讲清这个时期的音乐在做什么、
   为什么那样做、给后面留下了什么。
@@ -45,7 +45,7 @@ sources:
 2. **按专题横读** —— 顺着「记谱」「乐器」「场合」这类线索跨时期看。
 3. **读到中国那一段时** —— 从对照段直接进中国音乐站。
 
-## 现在到哪一步
+## 会按什么顺序出现
 
 时期与里程碑正在陆续上线。这一站的内容要等时间线成形才有意义，
 所以会**按时期一段一段地推进**，而不是零散地先发几条。
@@ -58,7 +58,7 @@ Music history is the **timeline** of the whole library. It does not treat a work
 instrument in isolation; it answers **what was happening in music at a given moment, and
 how that relates to what came before and after.**
 
-## What it will contain
+## What the timeline will hold
 
 - **Period overviews** — from early monophonic chant to the present; each period gets a
   piece explaining what its music was doing, why, and what it left behind.
@@ -83,7 +83,7 @@ the same moment. The depth lives on the Chinese music station, so nothing is wri
 2. **Across, by feature** — follow notation, instruments or venues across periods.
 3. **At the Chinese comparison** — go straight from there to the Chinese music station.
 
-## Where it stands today
+## How it will be released
 
 Periods and milestones are being added over time. This station only makes sense once the
 timeline holds together, so it is being built **one period at a time** rather than as a
