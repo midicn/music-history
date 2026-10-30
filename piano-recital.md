@@ -70,7 +70,7 @@ The soloist became the event, and the piano became an instrument able to hold an
 Begin with the Réminiscences de Don Juan, where Liszt turns Mozart's opera into display and song; then the Réminiscences de Norma, with Bellini's melody loaded with octaves and trills; finally the Sonata in B minor, a work of 1853 that proves one piano can carry thirty minutes without a break.
 
 ```audiolab
-{"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["B3","D4","F#4","B4","A#4","F#4","D4","B3"],"label":"独奏会的第一个和弦","label_en":"The first chord of a recital","hint":"听低音先落下，再听高音把同一个和弦撑开","hint_en":"Hear the bass land first, then the top line open the same chord"}
+{"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["B3", "D4", "F#4", "B4", "A#4", "F#4", "D4", "B3"], "label": "The first chord of a recital", "label_en": "The first chord of a recital", "hint": "听低音先落下，再听高音把同一个和弦撑开", "hint_en": "Hear the bass land first, then the top line open the same chord"}
 ```
 
 ## Related

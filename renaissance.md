@@ -210,7 +210,7 @@ Voices remain central, but instrumental ensembles are now organised. Viols are m
 In a madrigal, follow the entries: one motive passes from high to low like several people taking up the same sentence. In the Agnus Dei of a Mass, hear the texture thin and the harmony become transparent as voices drop out, with cadences marking the sections. Then check whether word stress and musical stress coincide; that craft mattered more than any single chord.
 
 ```audiolab
-{"type":"instrument","gm":"Recorder","synth":"blown","phrase":["G4","A4","B4","D5","C5","B4","A4","G4"],"label":"直笛：文艺复兴的清亮音色","label_en":"Recorder: the clear timbre of the Renaissance","hint":"听直音、清晰吐音与快速音型，再想象它与人声交替","hint_en":"Hear the straight tone, clean articulation and quick figures, then imagine it alternating with voices"}
+{"type": "instrument", "gm": "Recorder", "synth": "blown", "phrase": ["G4", "A4", "B4", "D5", "C5", "B4", "A4", "G4"], "label": "Recorder: the clear timbre of the Renaissance", "label_en": "Recorder: the clear timbre of the Renaissance", "hint": "听直音、清晰吐音与快速音型，再想象它与人声交替", "hint_en": "Hear the straight tone, clean articulation and quick figures, then imagine it alternating with voices"}
 ```
 
 ## China, at the same time

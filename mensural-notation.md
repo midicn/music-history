@@ -73,7 +73,7 @@ Music moved from recording pitch to recording time. Composers could build large 
 In Machaut's Mass, hear how four voices offset one another inside a single grid. In the Florentine Gloria, hear triple and duple groupings alternate. Then hear Machaut's chanson, where note shapes fix rhythm in a secular song as well. The library versions are synthesized; follow the proportions between the voices.
 
 ```audiolab
-{"type":"instrument","gm":"Church Organ","synth":"blown","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"有量记谱：把时值分成三份","label_en":"Mensural notation: dividing duration into three","hint":"听三拍的分组如何让同一段旋律有了可数的骨架","hint_en":"Hear how triple grouping gives the line a countable frame"}
+{"type": "instrument", "gm": "Church Organ", "synth": "blown", "phrase": ["C4", "E4", "G4", "C5", "G4", "E4", "C4"], "label": "Mensural notation: dividing duration into three", "label_en": "Mensural notation: dividing duration into three", "hint": "听三拍的分组如何让同一段旋律有了可数的骨架", "hint_en": "Hear how triple grouping gives the line a countable frame"}
 ```
 
 ## Related

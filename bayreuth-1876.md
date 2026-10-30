@@ -73,7 +73,7 @@ The composer who runs his own festival, chooses the repertory and controls the t
 Begin with the opening of Das Rheingold and hear how a sustained bass draws the audience into myth; then the interweaving motives of Die Walküre; finally the end of Götterdämmerung, where the four evenings close. The library versions are synthesized; listen for orchestral layers and motives, not the 1876 performance.
 
 ```audiolab
-{"type":"instrument","gm":"French Horn","synth":"brass","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"拜罗伊特：乐池里的圆号","label_en":"Bayreuth: horns from the hidden pit","hint":"听圆号的动机如何从乐队深处升起，再交给歌手","hint_en":"Hear the horn motive rise from the depths of the orchestra and pass to the singers"}
+{"type": "instrument", "gm": "French Horn", "synth": "brass", "phrase": ["C4", "E4", "G4", "C5", "G4", "E4", "C4"], "label": "Bayreuth: horns from the hidden pit", "label_en": "Bayreuth: horns from the hidden pit", "hint": "听圆号的动机如何从乐队深处升起，再交给歌手", "hint_en": "Hear the horn motive rise from the depths of the orchestra and pass to the singers"}
 ```
 
 ## Related

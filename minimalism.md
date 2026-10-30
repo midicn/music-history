@@ -68,7 +68,7 @@ Minimalism put listening back at the centre, so an audience could feel a process
 In C lets any ensemble enter through its fifty-three patterns, the whole forming without a conductor. Reich's Six Marimbas layers the same pattern out of alignment, the phase difference giving simple material a complex shadow. Glass's Dead Things, written for film, carries minimalist language into narrative, where repetition holds emotion and image.
 
 ```audiolab
-{"type":"instrument","gm":"Marimba","synth":"struck","phrase":["C4","C4","G4","C4","E4","C4","G4","C4"],"label":"一个音型的循环","label_en":"One pattern, looping","hint":"听这四个音不断回来，重音在移动；极简主义把变化藏在重复里面","hint_en":"Hear four notes return while the accent shifts; minimalism hides change inside repetition"}
+{"type": "instrument", "gm": "Marimba", "synth": "struck", "phrase": ["C4", "C4", "G4", "C4", "E4", "C4", "G4", "C4"], "label": "One pattern, looping", "label_en": "One pattern, looping", "hint": "听这四个音不断回来，重音在移动；极简主义把变化藏在重复里面", "hint_en": "Hear four notes return while the accent shifts; minimalism hides change inside repetition"}
 ```
 
 ## Related

@@ -69,7 +69,7 @@ Composers and performers could face a market directly, instead of relying only o
 Handel's Hallelujah was written for a Dublin charity concert, sacred music turning into a public event in a ticketed room. Mozart's Symphony No. 39 was aimed at a ticket-buying Viennese public in 1788. Haydn's Symphony No. 100 was premiered at Salomon's London concerts, its drums and triangle turning court instruments into public sound.
 
 ```audiolab
-{"type":"instrument","gm":"Trumpet","synth":"brass","phrase":["C5","C5","G4","C5","E5","D5","C5","G4"],"label":"售票厅的开门号","label_en":"A fanfare for a ticketed hall","hint":"听这句像演出开始前的信号，短、亮、要让最后一排也听见","hint_en":"Hear a phrase like the signal before a concert, short, bright and meant to reach the back row"}
+{"type": "instrument", "gm": "Trumpet", "synth": "brass", "phrase": ["C5", "C5", "G4", "C5", "E5", "D5", "C5", "G4"], "label": "A fanfare for a ticketed hall", "label_en": "A fanfare for a ticketed hall", "hint": "听这句像演出开始前的信号，短、亮、要让最后一排也听见", "hint_en": "Hear a phrase like the signal before a concert, short, bright and meant to reach the back row"}
 ```
 
 ## Related

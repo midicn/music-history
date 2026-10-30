@@ -169,7 +169,7 @@ The modern [[instrument:piano|piano]] settles in the 1800s: cast-iron plate, ove
 Listen first to how the melody speaks: phrases are stretched or cut short, accents fall off the beat. Then follow the bass: a chromatic descending line pushes harmony far from home. Finally listen to colour: piano pedal, string vibrato and valved brass thicken the same line. The five examples sample song, piano ballade, opera, symphony and requiem, showing how one period writes for different rooms.
 
 ```audiolab
-{"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["E4","G4","B4","D5","C5","B4","G4","E4"],"label":"钢琴上的浪漫句法","label_en":"Romantic phrasing at the piano","hint":"听音区先向上展开再收回，句尾留一点余音；这就是踏板与自由速度给钢琴的呼吸","hint_en":"Hear the register open upward and fall back, with the ending left ringing — the breath that pedal and rubato give the piano"}
+{"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["E4", "G4", "B4", "D5", "C5", "B4", "G4", "E4"], "label": "Romantic phrasing at the piano", "label_en": "Romantic phrasing at the piano", "hint": "听音区先向上展开再收回，句尾留一点余音；这就是踏板与自由速度给钢琴的呼吸", "hint_en": "Hear the register open upward and fall back, with the ending left ringing — the breath that pedal and rubato give the piano"}
 ```
 
 ## China in the same years

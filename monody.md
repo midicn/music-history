@@ -73,7 +73,7 @@ The voice became the protagonist and harmony moved into support. Recitative, ari
 Begin with Caccini's Al fonte al prato, where the voice moves freely over simple chords; then hear Monteverdi's Lamento della ninfa, with a ground bass under a lament; finally Francesca Caccini's Non sò se quel sorriso, a solo song by a woman composer.
 
 ```audiolab
-{"type":"instrument","gm":"Voice Oohs","synth":"bowed","phrase":["A4","B4","C5","B4","A4","G4","F4","E4"],"label":"单声歌曲：一个声音在前面","label_en":"Monody: one voice at the front","hint":"听人声如何自由拐弯，伴奏只在下面托住和声","hint_en":"Hear the voice turn freely while the accompaniment only holds the harmony below"}
+{"type": "instrument", "gm": "Voice Oohs", "synth": "bowed", "phrase": ["A4", "B4", "C5", "B4", "A4", "G4", "F4", "E4"], "label": "Monody: one voice at the front", "label_en": "Monody: one voice at the front", "hint": "听人声如何自由拐弯，伴奏只在下面托住和声", "hint_en": "Hear the voice turn freely while the accompaniment only holds the harmony below"}
 ```
 
 ## Related

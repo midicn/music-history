@@ -68,7 +68,7 @@ The orchestra stopped being a singer's backdrop and became the subject of the wo
 Begin with Haydn's early Symphony No. 2, small in forces and still courtly in tone. Then Mozart's Symphony No. 29, whose finale binds the four movements with counterpoint. End with Haydn's Symphony No. 100, written for a ticketed London concert, drums and triangle pushing the sound to the back of the hall.
 
 ```audiolab
-{"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["C4","E4","G4","C5","B4","G4","E4","C4"],"label":"从序曲到交响曲","label_en":"From overture to symphony","hint":"听这句如何先向上打开再收回家，像歌剧序曲的开门与闭幕","hint_en":"Hear the phrase open upward and return home, like an opera overture raising and closing its curtain"}
+{"type": "instrument", "gm": "String Ensemble 1", "synth": "bowed", "phrase": ["C4", "E4", "G4", "C5", "B4", "G4", "E4", "C4"], "label": "From overture to symphony", "label_en": "From overture to symphony", "hint": "听这句如何先向上打开再收回家，像歌剧序曲的开门与闭幕", "hint_en": "Hear the phrase open upward and return home, like an opera overture raising and closing its curtain"}
 ```
 
 ## Related

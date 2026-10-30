@@ -68,7 +68,7 @@ Professional musicians gained a shared standard and a diploma, and orchestras an
 The massive sound of Berlioz's Requiem comes from a Conservatoire-trained composer impatient to break out of it. Bizet's stage entr'acte is neat and transparent, the school's phrasing and scoring audible in every bar. Debussy's Estampes puts harmonic colour before syntax, proof that a Conservatoire student could demolish its walls.
 
 ```audiolab
-{"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["C4","D4","E4","F4","G4","A4","B4","C5"],"label":"学院里的音阶","label_en":"A scale in the classroom","hint":"听这条音阶走得不快，每个音都要干净；学院先把基本功变成可检查的标准","hint_en":"Hear a scale that does not rush, every note clean; the school first made technique something examinable"}
+{"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["C4", "D4", "E4", "F4", "G4", "A4", "B4", "C5"], "label": "A scale in the classroom", "label_en": "A scale in the classroom", "hint": "听这条音阶走得不快，每个音都要干净；学院先把基本功变成可检查的标准", "hint_en": "Hear a scale that does not rush, every note clean; the school first made technique something examinable"}
 ```
 
 ## Related

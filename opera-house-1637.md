@@ -73,7 +73,7 @@ Opera turned from a one-off celebration into a permanent industry. Theatres, age
 Begin with the final duet Pur ti miro from L'incoronazione di Poppea and hear how it holds an audience; then hear recitative from the same opera and how it moves the plot on a limited budget; finally the Lamento d'Arianna, the solo heritage that court opera left behind.
 
 ```audiolab
-{"type":"instrument","gm":"Voice Oohs","synth":"bowed","phrase":["D4","F4","A4","G4","F4","E4","D4"],"label":"公共歌剧：为买票的耳朵唱","label_en":"Public opera: singing for a paying audience","hint":"听旋律如何在前半句停住，等观众的反应","hint_en":"Hear how the melody pauses at the midpoint, leaving room for the audience"}
+{"type": "instrument", "gm": "Voice Oohs", "synth": "bowed", "phrase": ["D4", "F4", "A4", "G4", "F4", "E4", "D4"], "label": "Public opera: singing for a paying audience", "label_en": "Public opera: singing for a paying audience", "hint": "听旋律如何在前半句停住，等观众的反应", "hint_en": "Hear how the melody pauses at the midpoint, leaving room for the audience"}
 ```
 
 ## Related

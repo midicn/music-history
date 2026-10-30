@@ -73,7 +73,7 @@ Listening no longer required a musician in the room. Recording made a copy of a 
 The library has no historical discs, only MIDI realisations of these pieces. Begin with The Stars and Stripes Forever, then Maple Leaf Rag, then Alexander's Ragtime Band. Follow the brass, the syncopation and the dance step, and imagine them coming out of a cylinder with a rough and narrow sound.
 
 ```audiolab
-{"type":"instrument","gm":"Brass Section","synth":"brass","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"留声机：铜管乐队走进客厅","label_en":"Phonograph: a brass band enters the parlour","hint":"听进行曲的强拍如何被刻成一条可以反复播放的沟槽","hint_en":"Hear how the march's strong beats become a groove that can be played again and again"}
+{"type": "instrument", "gm": "Brass Section", "synth": "brass", "phrase": ["C4", "E4", "G4", "C5", "G4", "E4", "C4"], "label": "Phonograph: a brass band enters the parlour", "label_en": "Phonograph: a brass band enters the parlour", "hint": "听进行曲的强拍如何被刻成一条可以反复播放的沟槽", "hint_en": "Hear how the march's strong beats become a groove that can be played again and again"}
 ```
 
 ## Related

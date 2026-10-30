@@ -69,7 +69,7 @@ Harmony stopped ruling form, and composers had to invent a grammar for each work
 Berg's Piano Sonata keeps the frame of a sonata, yet the theme cannot find a tonic. The last of Schoenberg's Five Pieces Op. 23 bring the twelve-tone method forward. Webern's Variations Op. 27 break interval and colour into points, the texture thinned to a few grains in strict symmetry.
 
 ```audiolab
-{"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["C4","C#4","E4","F#4","G4","G#4","B4","A#4"],"label":"没有主音的句子","label_en":"A phrase without a home key","hint":"听这串音找不到一个可以停下来的中心，每个音都像临时落脚","hint_en":"Hear a line with no centre to rest on, every note a temporary landing"}
+{"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["C4", "C#4", "E4", "F#4", "G4", "G#4", "B4", "A#4"], "label": "A phrase without a home key", "label_en": "A phrase without a home key", "hint": "听这串音找不到一个可以停下来的中心，每个音都像临时落脚", "hint_en": "Hear a line with no centre to rest on, every note a temporary landing"}
 ```
 
 ## Related

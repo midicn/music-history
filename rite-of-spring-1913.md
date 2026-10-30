@@ -73,7 +73,7 @@ Rhythm moved from background to protagonist, and dissonance stopped being someth
 The Rite itself is not in the library. Begin with Stravinsky's Four Etudes, whose piano language already has hard edges five years before the premiere; then Piano-Rag-Music, where popular rhythm is folded into modernism; finally Les cinq doigts, where the harmonic sting remains inside a simple melody.
 
 ```audiolab
-{"type":"instrument","gm":"Timpani","synth":"perc","phrase":["C3","C3","G3","C3","D3","C3","G3"],"label":"春之祭：重音把拍子撕开","label_en":"The Rite of Spring: accents tear the metre apart","hint":"跟着低音的每一次敲击数拍，听重音如何落在意想不到的位置","hint_en":"Count with each low stroke and hear the accents land where you do not expect"}
+{"type": "instrument", "gm": "Timpani", "synth": "perc", "phrase": ["C3", "C3", "G3", "C3", "D3", "C3", "G3"], "label": "The Rite of Spring: accents tear the metre apart", "label_en": "The Rite of Spring: accents tear the metre apart", "hint": "跟着低音的每一次敲击数拍，听重音如何落在意想不到的位置", "hint_en": "Count with each low stroke and hear the accents land where you do not expect"}
 ```
 
 ## Related

@@ -69,7 +69,7 @@ Chamber music moved from social background to a genre that demanded careful list
 Haydn's early Op. 1 movement still sounds like a divertimento, the four parts only beginning to divide. Mozart's K. 157 has three movements and a light tone, the play of a young composer. In Haydn's Lark Quartet the first violin flies up while the other three hold the ground, and the mature quartet is suddenly there.
 
 ```audiolab
-{"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["G4","D5","B4","G4","E4","G4","B4","D5"],"label":"四把琴的对话","label_en":"Four strings in conversation","hint":"听主题先在第一声部出现，再落到低音；四重奏的乐趣就在这一次次传递","hint_en":"Hear the theme appear up high and fall to the bass; the pleasure of a quartet lies in these handovers"}
+{"type": "instrument", "gm": "String Ensemble 1", "synth": "bowed", "phrase": ["G4", "D5", "B4", "G4", "E4", "G4", "B4", "D5"], "label": "Four strings in conversation", "label_en": "Four strings in conversation", "hint": "听主题先在第一声部出现，再落到低音；四重奏的乐趣就在这一次次传递", "hint_en": "Hear the theme appear up high and fall to the bass; the pleasure of a quartet lies in these handovers"}
 ```
 
 ## Related

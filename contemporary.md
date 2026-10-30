@@ -171,7 +171,7 @@ Synthesizer, sampler, computer, tape machine and mixing desk become instruments;
 First ask what organises sound: a serial table, tape editing, a repeated cell, or a spectrum? Then listen to time: minimalism runs straight, spectral music unfolds gradually, chance changes each performance. Finally, space: do speakers, reverb and placement compose the work? Electronic and spectral works depend on recording and live space; the five examples use piano and percussion, covering minimalism, film, Messiaen and variations.
 
 ```audiolab
-{"type":"instrument","gm":"Marimba","synth":"struck","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"极简的重复细胞","label_en":"A minimalist repeated cell","hint":"同一组音不断回来，重心靠重复和错位慢慢移动，而不是靠和声解决","hint_en":"The same group returns again and again; its centre shifts through repetition and displacement rather than harmonic resolution"}
+{"type": "instrument", "gm": "Marimba", "synth": "struck", "phrase": ["C4", "E4", "G4", "C5", "G4", "E4", "C4"], "label": "A minimalist repeated cell", "label_en": "A minimalist repeated cell", "hint": "同一组音不断回来，重心靠重复和错位慢慢移动，而不是靠和声解决", "hint_en": "The same group returns again and again; its centre shifts through repetition and displacement rather than harmonic resolution"}
 ```
 
 ## China in the same years

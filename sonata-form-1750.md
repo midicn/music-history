@@ -73,7 +73,7 @@ Instrumental music could make conflict and resolution without text, scenery or v
 Begin with the first movement of Haydn's Hob. XVI:52 and the tonal contrast between theme and second subject; then Mozart's K.157, where four instruments take the exposition apart; finally Beethoven's Waldstein, where the development travels far and the recapitulation returns.
 
 ```audiolab
-{"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["C4","E4","G4","B4","G4","E4","C4"],"label":"奏鸣曲式：对比与回归","label_en":"Sonata form: contrast and return","hint":"先记住开头的主题，再听它在发展部被拆散，最后在再现部回家","hint_en":"Hold on to the opening theme, hear it broken up in development, then brought home in recapitulation"}
+{"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["C4", "E4", "G4", "B4", "G4", "E4", "C4"], "label": "Sonata form: contrast and return", "label_en": "Sonata form: contrast and return", "hint": "先记住开头的主题，再听它在发展部被拆散，最后在再现部回家", "hint_en": "Hold on to the opening theme, hear it broken up in development, then brought home in recapitulation"}
 ```
 
 ## Related

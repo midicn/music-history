@@ -72,7 +72,7 @@ Pitch could be written down, sent away and sung from the page instead of being h
 Begin with Hildegard's monophonic chant, a single line moving within an octave. Then hear Perotin's four-voice organum, where sustained notes support florid upper voices and the parts need a written page to coordinate. The versions are synthesized; listen to pitch relationships.
 
 ```audiolab
-{"type":"instrument","gm":"Choir Aahs","synth":"bowed","phrase":["C4","D4","E4","F4","G4","A4","G4","E4"],"label":"圭多手：六个音节搭起的音阶","label_en":"Guido's hand: a scale built from six syllables","hint":"听六声音节如何把全音与半音的位置固定下来","hint_en":"Hear how the six syllables fix the places of whole and half steps"}
+{"type": "instrument", "gm": "Choir Aahs", "synth": "bowed", "phrase": ["C4", "D4", "E4", "F4", "G4", "A4", "G4", "E4"], "label": "Guido's hand: a scale built from six syllables", "label_en": "Guido's hand: a scale built from six syllables", "hint": "听六声音节如何把全音与半音的位置固定下来", "hint_en": "Hear how the six syllables fix the places of whole and half steps"}
 ```
 
 ## Related

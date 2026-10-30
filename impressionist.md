@@ -179,7 +179,7 @@ The piano is the laboratory: the sustain pedal blends overtones, the soft pedal 
 Stop looking for a theme. Hear whether the bass stays put, whether chords refuse to resolve, whether melody is assembled from short cells. Then listen to colour: harp harmonics, celesta's metal, the nasal tone of mutes. The five examples at the end offer gamelan pentatonic, moonlight, static harmony, watery virtuosity and a pavane.
 
 ```audiolab
-{"type":"instrument","gm":"Orchestral Harp","synth":"plucked","phrase":["C4","D4","E4","F#4","G#4","A#4","C5"],"label":"全音阶的六等分","label_en":"The whole-tone scale, six equal steps","hint":"每个相邻音的距离都一样，没有导音，所以听不到一个必须回去的家","hint_en":"Every step is the same size and there is no leading note, so the ear hears no home that must be restored"}
+{"type": "instrument", "gm": "Orchestral Harp", "synth": "plucked", "phrase": ["C4", "D4", "E4", "F#4", "G#4", "A#4", "C5"], "label": "The whole-tone scale, six equal steps", "label_en": "The whole-tone scale, six equal steps", "hint": "每个相邻音的距离都一样，没有导音，所以听不到一个必须回去的家", "hint_en": "Every step is the same size and there is no leading note, so the ear hears no home that must be restored"}
 ```
 
 ## China in the same years

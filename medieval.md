@@ -264,7 +264,7 @@ Voices are central. The church avoided instruments as lacking meaning; the organ
 Begin with chant: do not count beats, follow the pause at each phrase's end. Then hear organum: the lowest voice stretches the chant while the upper voice moves above it, the first lesson in layered time. Finally hear Machaut's Mass: the same words sound in several voices, and each syllable should stay clear. Many library versions use synthetic timbres, so listen for voice-leading rather than historical instruments.
 
 ```audiolab
-{"type":"instrument","gm":"Church Organ","synth":"blown","phrase":["D4","F4","A4","G4","F4","E4","D4"],"label":"管风琴：把圣咏的调式音高固定住","label_en":"Organ: holding the modal pitch of chant","hint":"听低音的长音与上方旋律的关系，再想象它在石造教堂里的混响","hint_en":"Hear the sustained bass under the melody, then imagine the resonance of a stone church"}
+{"type": "instrument", "gm": "Church Organ", "synth": "blown", "phrase": ["D4", "F4", "A4", "G4", "F4", "E4", "D4"], "label": "Organ: holding the modal pitch of chant", "label_en": "Organ: holding the modal pitch of chant", "hint": "听低音的长音与上方旋律的关系，再想象它在石造教堂里的混响", "hint_en": "Hear the sustained bass under the melody, then imagine the resonance of a stone church"}
 ```
 
 ## China, at the same time

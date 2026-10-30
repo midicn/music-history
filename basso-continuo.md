@@ -73,7 +73,7 @@ Harmony became an independent structural layer, and a composer could plan a whol
 Begin with Corelli's trio sonata, where an independent bass runs under two upper voices; then hear Purcell's trio sonata and how the figures keep the harmony upright; finally Bach's trio sonata, with flute and violin crossing above a bass that never lets go.
 
 ```audiolab
-{"type":"instrument","gm":"Harpsichord","synth":"plucked","phrase":["C3","G3","C4","E4","G4","E4","C4"],"label":"通奏低音：低音线决定和声","label_en":"Continuo: the bass line decides the harmony","hint":"先跟最低的音，再听上方和弦如何由它推出来","hint_en":"Follow the lowest line first, then hear how the chords above are derived from it"}
+{"type": "instrument", "gm": "Harpsichord", "synth": "plucked", "phrase": ["C3", "G3", "C4", "E4", "G4", "E4", "C4"], "label": "Continuo: the bass line decides the harmony", "label_en": "Continuo: the bass line decides the harmony", "hint": "先跟最低的音，再听上方和弦如何由它推出来", "hint_en": "Follow the lowest line first, then hear how the chords above are derived from it"}
 ```
 
 ## Related

@@ -73,7 +73,7 @@ Music moved from manuscript into the world of goods. Composers could write for r
 Begin with Josquin's Mille regretz, a chanson reprinted again and again; then hear the joke of El grillo, and finally the polyphonic frame of the Missa l'homme armé. The library versions are synthesized; listen to how four voices align on one page, not to the printing itself.
 
 ```audiolab
-{"type":"instrument","gm":"Acoustic Guitar (nylon)","synth":"plucked","phrase":["G3","C4","E4","G4","E4","C4","G3"],"label":"印刷乐谱：一首尚松走进家庭","label_en":"Printed music: a chanson enters the household","hint":"借尼龙弦吉他近似：听琉特琴如何把多声部缩成一条可弹的线","hint_en":"A nylon-string guitar stands in: hear how the lute reduces polyphony to a line one player can pluck"}
+{"type": "instrument", "gm": "Acoustic Guitar (nylon)", "synth": "plucked", "phrase": ["G3", "C4", "E4", "G4", "E4", "C4", "G3"], "label": "Printed music: a chanson enters the household", "label_en": "Printed music: a chanson enters the household", "hint": "借尼龙弦吉他近似：听琉特琴如何把多声部缩成一条可弹的线", "hint_en": "A nylon-string guitar stands in: hear how the lute reduces polyphony to a line one player can pluck"}
 ```
 
 ## Related

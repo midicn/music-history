@@ -68,7 +68,7 @@ The symphony was no longer purely instrumental: voices, words and public ideals 
 Begin with the Choral Fantasy: in 1808 Beethoven already ended a work with piano, chorus and orchestra, and the Ninth's finale is its enlargement. Then hear the Ninth, following the last movement from instrumental argument to the entry of voices. Finally take the short excerpt and remember the theme before returning to the whole.
 
 ```audiolab
-{"type":"instrument","gm":"Choir Aahs","synth":"vocal","phrase":["E4","E4","F4","G4","G4","F4","E4","D4"],"label":"欢乐颂的开头","label_en":"The opening of the Ode to Joy","hint":"听这四个音级进上行再退回，简单到能让整个大厅一起唱","hint_en":"Hear the stepwise rise and fall, simple enough for a whole hall to sing"}
+{"type": "instrument", "gm": "Choir Aahs", "synth": "vocal", "phrase": ["E4", "E4", "F4", "G4", "G4", "F4", "E4", "D4"], "label": "The opening of the Ode to Joy", "label_en": "The opening of the Ode to Joy", "hint": "听这四个音级进上行再退回，简单到能让整个大厅一起唱", "hint_en": "Hear the stepwise rise and fall, simple enough for a whole hall to sing"}
 ```
 
 ## Related

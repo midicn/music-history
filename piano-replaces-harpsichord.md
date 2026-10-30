@@ -69,7 +69,7 @@ Keyboard music moved from playing the notes clearly to shaping the tone. Compose
 Start with the aria of the Goldberg Variations, harpsichord repertory later moved wholesale onto the piano and turned into a laboratory of colour. Then C. P. E. Bach's keyboard sonata, where the clavichord's sensitive touch asks for tiny dynamic shades. Finally Mozart's K. 332, whose theme and accompaniment exploit the piano's levels; the harpsichord can no longer hold this writing.
 
 ```audiolab
-{"type":"instrument","gm":"Harpsichord","synth":"plucked","phrase":["G4","B4","D5","G5","F5","D5","B4","G4"],"label":"拨弦之后","label_en":"After the pluck","hint":"听每个音出来就迅速衰减，没有踏板可以挽回；钢琴的同一条旋律能把余音留在空气里","hint_en":"Hear each note decay at once, with no pedal to rescue it; on a piano the same line can leave its sound in the air"}
+{"type": "instrument", "gm": "Harpsichord", "synth": "plucked", "phrase": ["G4", "B4", "D5", "G5", "F5", "D5", "B4", "G4"], "label": "After the pluck", "label_en": "After the pluck", "hint": "听每个音出来就迅速衰减，没有踏板可以挽回；钢琴的同一条旋律能把余音留在空气里", "hint_en": "Hear each note decay at once, with no pedal to rescue it; on a piano the same line can leave its sound in the air"}
 ```
 
 ## Related

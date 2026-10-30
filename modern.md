@@ -190,7 +190,7 @@ The orchestra becomes a percussion machine: more drums, woodblocks, bells and pi
 First ask whether home still exists: does the melody return to a tonic, does harmony resolve? Then count: do accents cycle in 2, 3, 5 or 7, does the bass repeat a cell? Finally listen to colour: is the piano treated as percussion, is the orchestra layered by timbre? Six examples sample percussive piano, Soviet irony, the mystic chord, twelve-tone pointillism, a neoclassical suite and free atonality.
 
 ```audiolab
-{"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["C4","F#4","G#4","D4","A#4","E4"],"label":"一条十二音音列的骨架","label_en":"The skeleton of a twelve-tone row","hint":"听每个音都尽量避开主音，旋律被拆成没有重心的点与线","hint_en":"Hear how each note avoids a tonic, leaving melody as points and lines without a centre of gravity"}
+{"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["C4", "F#4", "G#4", "D4", "A#4", "E4"], "label": "The skeleton of a twelve-tone row", "label_en": "The skeleton of a twelve-tone row", "hint": "听每个音都尽量避开主音，旋律被拆成没有重心的点与线", "hint_en": "Hear how each note avoids a tonic, leaving melody as points and lines without a centre of gravity"}
 ```
 
 ## China in the same years

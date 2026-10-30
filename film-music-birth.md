@@ -70,7 +70,7 @@ Music became part of narrative, telling audiences in advance whether to fear or 
 The library has no score for The Assassination of the Duke of Guise. Begin with Saint-Saëns's Danse macabre, whose orchestra paints a scene to the bone; then Joplin's Maple Leaf Rag and The Entertainer, popular pieces a silent-film pianist kept at hand, syncopation beating time for the image.
 
 ```audiolab
-{"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["A3","C4","E4","A4","G#4","E4","C4","A3"],"label":"为画面写一条动机","label_en":"A motive written for the image","hint":"听低音如何一步步逼近，再听高音把恐惧拉长","hint_en":"Hear the bass step closer, then the top line stretch the fear"}
+{"type": "instrument", "gm": "String Ensemble 1", "synth": "bowed", "phrase": ["A3", "C4", "E4", "A4", "G#4", "E4", "C4", "A3"], "label": "A motive written for the image", "label_en": "A motive written for the image", "hint": "听低音如何一步步逼近，再听高音把恐惧拉长", "hint_en": "Hear the bass step closer, then the top line stretch the fear"}
 ```
 
 ## Related

@@ -68,7 +68,7 @@ The border between popular and art music was breached: composers could openly us
 Gershwin's Three Preludes bring rag and blues vocabulary into a piano recital, short-phrased and syncopated yet shaped as concert pieces. Swanee, his 1919 popular song, was the kind of success that convinced Whiteman jazz could enter the hall. Stravinsky's Piano-Rag-Music turns ragtime into a modernist rhythm experiment through staccato and displaced accents.
 
 ```audiolab
-{"type":"instrument","gm":"Trumpet","synth":"brass","phrase":["C5","E5","G5","A5","G5","E5","D5","C5"],"label":"音乐厅里的切分","label_en":"Syncopation in the hall","hint":"听重音故意落在弱拍上，身体想动，椅子却还在音乐厅里","hint_en":"Hear accents land off the beat; the body wants to move while the chair stays in the concert hall"}
+{"type": "instrument", "gm": "Trumpet", "synth": "brass", "phrase": ["C5", "E5", "G5", "A5", "G5", "E5", "D5", "C5"], "label": "Syncopation in the hall", "label_en": "Syncopation in the hall", "hint": "听重音故意落在弱拍上，身体想动，椅子却还在音乐厅里", "hint_en": "Hear accents land off the beat; the body wants to move while the chair stays in the concert hall"}
 ```
 
 ## Related

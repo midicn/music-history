@@ -69,7 +69,7 @@ Music carried a drama whole for the first time, no longer an ornament of liturgy
 Arianna's lament is the only surviving fragment of Monteverdi's lost opera, the voice sliding over a held bass between speech and song. By Poppea the same manner could sustain an evening in a public theatre. The Lamento della ninfa carries that grief into the madrigal, showing the new style spilling out of the opera house.
 
 ```audiolab
-{"type":"instrument","gm":"Choir Aahs","synth":"vocal","phrase":["A4","A4","B4","C5","B4","A4","G4","A4"],"label":"歌唱代替说话","label_en":"Song takes over speech","hint":"听这一句没有明显节拍重音，像一个人在持续低音上把话说完","hint_en":"Hear a line without a strong beat, like someone speaking a whole sentence over a held bass"}
+{"type": "instrument", "gm": "Choir Aahs", "synth": "vocal", "phrase": ["A4", "A4", "B4", "C5", "B4", "A4", "G4", "A4"], "label": "Song takes over speech", "label_en": "Song takes over speech", "hint": "听这一句没有明显节拍重音，像一个人在持续低音上把话说完", "hint_en": "Hear a line without a strong beat, like someone speaking a whole sentence over a held bass"}
 ```
 
 ## Related

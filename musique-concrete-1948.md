@@ -70,7 +70,7 @@ The studio became an instrument. Composers no longer needed performers or notati
 The library holds no Schaeffer studies, so listen to the prehistory. Antheil's Airplane Sonata drives machine rhythm into the piano, Cowell's Dynamic Motion turns the piano into percussion, and Ornstein's Suicide in an Airplane lets a gliding roar override melody. None is musique concrète, yet each teaches the ear to treat noise as material.
 
 ```audiolab
-{"type":"instrument","gm":"Woodblock","synth":"perc","phrase":["C4","D4","F4","A4","F4","D4"],"label":"声音对象：把噪声剪成节奏","label_en":"Sound object: cutting noise into rhythm","hint":"听干、短、无来源的敲击，想象它在磁带上被循环和倒放","hint_en":"Hear dry, short hits without a source, then imagine them looped and reversed on tape"}
+{"type": "instrument", "gm": "Woodblock", "synth": "perc", "phrase": ["C4", "D4", "F4", "A4", "F4", "D4"], "label": "Sound object: cutting noise into rhythm", "label_en": "Sound object: cutting noise into rhythm", "hint": "听干、短、无来源的敲击，想象它在磁带上被循环和倒放", "hint_en": "Hear dry, short hits without a source, then imagine them looped and reversed on tape"}
 ```
 
 ## Related

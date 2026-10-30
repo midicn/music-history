@@ -69,7 +69,7 @@ Listening moved from buying a ticket to turning a switch, and the home became a 
 Turina's Radio Madrid puts the medium in its title, treating the city's broadcast sound as material. Gershwin's The Man I Love, a 1924 song, spread through radio and dance halls, becoming an early national standard. Swanee, his 1919 hit, shows the melody radio carried into thousands of homes.
 
 ```audiolab
-{"type":"instrument","gm":"Alto Sax","synth":"reed","phrase":["D4","F4","G4","A4","C5","A4","G4","F4"],"label":"电台里的舞曲","label_en":"Dance music on the radio","hint":"听萨克斯的滑音与切分，像客厅里的收音机把舞厅搬了进来","hint_en":"Hear the saxophone's slides and syncopation, a dance hall carried into the living room"}
+{"type": "instrument", "gm": "Alto Sax", "synth": "reed", "phrase": ["D4", "F4", "G4", "A4", "C5", "A4", "G4", "F4"], "label": "Dance music on the radio", "label_en": "Dance music on the radio", "hint": "听萨克斯的滑音与切分，像客厅里的收音机把舞厅搬了进来", "hint_en": "Hear the saxophone's slides and syncopation, a dance hall carried into the living room"}
 ```
 
 ## Related

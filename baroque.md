@@ -223,7 +223,7 @@ Strings become the core of the orchestra, with the violin family replacing viols
 Follow the bass: continuo motion decides where the music is going. Then hear the alternation of tutti and solo; the concerto's returns arrive in the same music and give stable direction. Finally hear a fugue: the subject appears alone, then each entry changes voice or key. Some library versions are keyboard arrangements, so listen to voice-leading before timbre.
 
 ```audiolab
-{"type":"instrument","gm":"Harpsichord","synth":"plucked","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"羽管键琴：通奏低音的拨弦","label_en":"Harpsichord: the plucked sound of the continuo","hint":"听清脆的音头与很快的衰减，再听数字低音如何把和声交给演奏者","hint_en":"Hear the crisp attack and quick decay, then how figured bass hands harmony to the player"}
+{"type": "instrument", "gm": "Harpsichord", "synth": "plucked", "phrase": ["C4", "E4", "G4", "C5", "G4", "E4", "C4"], "label": "Harpsichord: the plucked sound of the continuo", "label_en": "Harpsichord: the plucked sound of the continuo", "hint": "听清脆的音头与很快的衰减，再听数字低音如何把和声交给演奏者", "hint_en": "Hear the crisp attack and quick decay, then how figured bass hands harmony to the player"}
 ```
 
 ## China, at the same time

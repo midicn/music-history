@@ -74,7 +74,7 @@ The network of keys became an even map. Composers could start anywhere and stay 
 Begin with the C major prelude, then hear the fugues in C sharp major, F sharp major and A flat major. Remote keys no longer carry the tension of being out of tune; the subject holds in five or six sharps or flats. The versions are piano; listen for stable intonation, not old instruments' tuning differences.
 
 ```audiolab
-{"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["C4","C#4","D4","D#4","E4","F4","F#4","G4","G#4","A4","A#4","B4","C5"],"label":"平均律：十二个等距的半音","label_en":"Equal temperament: twelve equidistant semitones","hint":"听每个半音的宽度是否一样，再想所有调为什么都能成立","hint_en":"Hear whether every semitone has the same width, then why every key can work"}
+{"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["C4", "C#4", "D4", "D#4", "E4", "F4", "F#4", "G4", "G#4", "A4", "A#4", "B4", "C5"], "label": "Equal temperament: twelve equidistant semitones", "label_en": "Equal temperament: twelve equidistant semitones", "hint": "听每个半音的宽度是否一样，再想所有调为什么都能成立", "hint_en": "Hear whether every semitone has the same width, then why every key can work"}
 ```
 
 ## Related

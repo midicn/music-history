@@ -209,7 +209,7 @@ The piano gradually replaces the harpsichord in the late eighteenth century and 
 In a symphony's first movement, remember the two themes of the exposition, then hear the development break them into motives. In a concerto, the orchestra gives way when the soloist enters, and the soloist rebuilds order with new material. In a string quartet there is no accompaniment: if one voice stops listening, the whole texture shows it.
 
 ```audiolab
-{"type":"instrument","gm":"Clarinet","synth":"reed","phrase":["C4","E4","G4","C5","B4","G4","E4","C4"],"label":"单簧管：古典乐队的新木管","label_en":"Clarinet: the Classical orchestra's new woodwind","hint":"注意低音区的温暖与句尾的轻巧，再听它如何与弦乐对话","hint_en":"Notice the warm low register and light phrase endings, then how it answers the strings"}
+{"type": "instrument", "gm": "Clarinet", "synth": "reed", "phrase": ["C4", "E4", "G4", "C5", "B4", "G4", "E4", "C4"], "label": "Clarinet: the Classical orchestra's new woodwind", "label_en": "Clarinet: the Classical orchestra's new woodwind", "hint": "注意低音区的温暖与句尾的轻巧，再听它如何与弦乐对话", "hint_en": "Notice the warm low register and light phrase endings, then how it answers the strings"}
 ```
 
 ## China, at the same time

@@ -70,7 +70,7 @@ The conductor changed from a time-beater into an interpreter. One ear took charg
 Mendelssohn's Hebrides Overture turns the sea into the rise and fall of a theme, held together by small adjustments of tempo and scoring. Berlioz's Requiem fills space with huge choirs and brass, and needs one person to lock several groups together. The long suspensions of Wagner's Tristan und Isolde depend even more on a conductor who can sustain the harmony's breath.
 
 ```audiolab
-{"type":"instrument","gm":"Timpani","synth":"struck","phrase":["C3","G3","C3","G3"],"label":"指挥给出的第一拍","label_en":"The conductor's first beat","hint":"听定音鼓把拍点钉住，想象整支乐队等这一下才进入","hint_en":"Hear the timpani pin the beat, and imagine the whole orchestra waiting for it"}
+{"type": "instrument", "gm": "Timpani", "synth": "struck", "phrase": ["C3", "G3", "C3", "G3"], "label": "The conductor's first beat", "label_en": "The conductor's first beat", "hint": "听定音鼓把拍点钉住，想象整支乐队等这一下才进入", "hint_en": "Hear the timpani pin the beat, and imagine the whole orchestra waiting for it"}
 ```
 
 ## Related
