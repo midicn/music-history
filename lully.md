@@ -27,27 +27,27 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 一个人的来历
 
 **让-巴蒂斯特·吕利**（1632–1687）生于佛罗伦萨，十四岁来到法国宫廷，从仆役与舞者做起，后来成为路易十四最信任的音乐家。他掌管宫廷音乐，又取得皇家音乐学院的经营权，用法语写下一种新的歌剧。
 
-## 时代与位置
+## 他所在的时代
 
 吕利站在法国古典宫廷文化的中心。他与莫里哀合作喜剧芭蕾，把戏剧、舞蹈与歌唱放在同一舞台上；1672 年获得歌剧专营权后，他创立法语抒情悲剧，用宣叙调推进剧情，用合唱与舞蹈收束场面。他的音乐服从法语的重音与句法，而不是意大利式的花腔。
 
-## 听什么
+## 先听这三首
 
 先听**法式宣叙调**：它不像意大利歌剧那样停在旋律上，而是顺着台词的语调起伏，像被音乐托住的朗诵。再听**舞曲**：小步舞、恰空与加沃特不断回到舞台上，低音进行稳而清楚。最后听**序曲**：慢—快—慢的法国序曲，附点节奏一响起，宫廷的气派就出来了。
 
-## 代表作
+## 作品与写法
 
 - 抒情悲剧《阿米德》《阿蒂斯》《阿尔切斯特》
 - 喜剧芭蕾《贵人迷》《爱情医生》
 - 宗教声乐《Salve Regina》、感恩赞
 
-## 影响
+## 留下的痕迹
 
-吕利确立了法国歌剧的语法：宣叙调、合唱、舞蹈与舞台机械合成一个整体。他的序曲被巴赫与亨德尔借去，他的乐队纪律成为后来法国乐团的传统。**他让歌剧在法国不是意大利的仿制品，而是一种国家语言。**
+吕利确立了法国歌剧的语法：宣叙调、合唱、舞蹈与舞台机械合成一个整体。他的序曲被巴赫与亨德尔借去，他的乐队纪律成为后来法国乐团的传统。他让歌剧在法国不是意大利的仿制品，而是一种国家语言。
 
 ```audiolab
 {"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["G4","G4","A4","B4","B4","A4","G4","D4"],"label":"吕利的法国序曲：附点与庄严","label_en":"Lully's French overture: dotted rhythm and pomp","hint":"借弦乐合奏近似：听附点节奏把重音拉长，低音一步一步走稳。真正的宫廷乐队还要加上双簧管与鼓。","hint_en":"A string ensemble stands in: hear the dotted rhythm stretch the beat while the bass steps firmly. The real court band added oboes and drums."}
@@ -55,7 +55,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Life
 
 **Jean-Baptiste Lully** (1632–1687) was born in Florence and came to the French court at fourteen, starting as a servant and dancer before becoming Louis XIV's most trusted musician. He ran the royal music and secured the privilege of the Royal Academy of Music, writing a new kind of opera in French.
 
@@ -73,9 +73,9 @@ Listen first for **French recitative**: it does not settle into Italian melody b
 - Comédies-ballets: Le Bourgeois gentilhomme, L'Amour médecin
 - Sacred vocal: Salve Regina, Te Deum
 
-## Influence
+## Influence and misreadings
 
-Lully fixed the grammar of French opera: recitative, chorus, dance and stage machinery as one whole. His overtures were borrowed by Bach and Handel, and his orchestral discipline became a French tradition. **He made opera in France a national language rather than an Italian imitation.**
+Lully fixed the grammar of French opera: recitative, chorus, dance and stage machinery as one whole. His overtures were borrowed by Bach and Handel, and his orchestral discipline became a French tradition. He made opera in France a national language rather than an Italian imitation.
 
 ```audiolab
 {"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["G4","G4","A4","B4","B4","A4","G4","D4"],"label":"Lully's French overture: dotted rhythm and pomp","label_en":"Lully's French overture: dotted rhythm and pomp","hint":"A string ensemble stands in: hear the dotted rhythm stretch the beat while the bass steps firmly. The real court band added oboes and drums.","hint_en":"A string ensemble stands in: hear the dotted rhythm stretch the beat while the bass steps firmly. The real court band added oboes and drums."}

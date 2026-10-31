@@ -37,7 +37,7 @@ updated: 2026-10-30
 
 ## 听什么
 
-先听**钢琴的模仿**。《你窗下有一只鸟》里钢琴用高音区的装饰音画鸟叫，人声停下时它接着说，听两者怎样接力。再听**音色的性格**。《猫头鹰》几乎全在低音区，圆润、慢、带一点滑稽，听她怎样只用音区和连断就写出一种动物。再听**角色的分配**。《假如我是一只鸟》里人声与钢琴互换主意，一会儿人声领、一会儿钢琴领，听这种对话感。最后听**儿童曲的分寸**。《蛛网城堡》句子很短，音域很窄，却每一句都有形状，不靠幼稚取胜。
+先听**钢琴的模仿**。《你窗下有一只鸟》里钢琴用高音区的装饰音画鸟叫，人声停下时它接着说，听两者怎样接力。再听**音色的性格**。《猫头鹰》几乎全在低音区，圆润、慢、带一点滑稽，听她怎样只用音区和连断就写出一种动物。再听角色的分配。《假如我是一只鸟》里人声与钢琴互换主意，一会儿人声领、一会儿钢琴领，听这种对话感。最后听儿童曲的分寸。《蛛网城堡》句子很短，音域很窄，却每一句都有形状，不靠幼稚取胜。
 
 ## 代表作
 
@@ -47,7 +47,7 @@ updated: 2026-10-30
 
 ## 影响
 
-她的组歌在二十世纪初的英国卖得极好，也引来轻视，被当成客厅里的消遣。**但她把"几个歌手分角色唱一组诗"变成了一个可靠的形式**，后来的英国作曲家写这类作品时都绕不开她。她担任女音乐家学会首任会长，让女性写作有了组织与场合。今天重听这些歌，会发现它们的野心不在和声，而在把诗句、角色和钢琴摆成一台小戏。
+她的组歌在二十世纪初的英国卖得极好，也引来轻视，被当成客厅里的消遣。但她把"几个歌手分角色唱一组诗"变成了一个可靠的形式，后来的英国作曲家写这类作品时都绕不开她。她担任女音乐家学会首任会长，让女性写作有了组织与场合。今天重听这些歌，会发现它们的野心不在和声，而在把诗句、角色和钢琴摆成一台小戏。
 
 ```audiolab
 {"type":"instrument","gm":"Voice Oohs","synth":"vocal","phrase":["E5","G5","E5","C5","E5","G5","A5","G5"],"label":"莱曼：窗下的鸟叫","label_en":"Lehmann: a bird at the window","hint":"借合成人声吹出鸟鸣式的高音短句，听它停顿时钢琴接话。真正的歌曲里人声与钢琴轮流模仿同一只鸟。","hint_en":"A synth voice chirps a short high phrase; when it stops, the piano answers. In the real song voice and piano take turns imitating the same bird."}
@@ -65,7 +65,7 @@ British middle-class drawing rooms held a piano, and choral societies needed mus
 
 ## What to hear
 
-Listen first for **the piano imitating**. In There's a bird beneath your window the piano draws birdsong with high ornaments and keeps talking when the voice stops; hear the relay. Then for **character through colour**. The Owl stays low, round, slow and slightly comic, and register plus legato do all the work. Next, **the sharing of roles**. In If I were a bird the voice and piano swap the lead, and the piece becomes a conversation. Finally, **the scale of the children's pieces**. Cobweb Castle uses very short phrases and a narrow range, yet every phrase has a shape.
+Listen first for **the piano imitating**. In There's a bird beneath your window the piano draws birdsong with high ornaments and keeps talking when the voice stops; hear the relay. Then for **character through colour**. The Owl stays low, round, slow and slightly comic, and register plus legato do all the work. Next, the sharing of roles. In If I were a bird the voice and piano swap the lead, and the piece becomes a conversation. Finally, the scale of the children's pieces. Cobweb Castle uses very short phrases and a narrow range, yet every phrase has a shape.
 
 ## Key works
 
@@ -75,7 +75,7 @@ Listen first for **the piano imitating**. In There's a bird beneath your window 
 
 ## Influence
 
-Her cycles sold extremely well and were looked down on as drawing-room entertainment. **But she made "several singers taking roles in a set of poems" a reliable form**, and later British composers worked in her shadow. As first president of the Society of Women Musicians she gave women composers an organisation. Heard now, the ambition lies not in harmony but in arranging poem, role and piano into a small theatre.
+Her cycles sold extremely well and were looked down on as drawing-room entertainment. But she made "several singers taking roles in a set of poems" a reliable form, and later British composers worked in her shadow. As first president of the Society of Women Musicians she gave women composers an organisation. Heard now, the ambition lies not in harmony but in arranging poem, role and piano into a small theatre.
 
 ```audiolab
 {"type":"instrument","gm":"Voice Oohs","synth":"vocal","phrase":["E5","G5","E5","C5","E5","G5","A5","G5"],"label":"Lehmann: a bird at the window","label_en":"Lehmann: a bird at the window","hint":"A synth voice chirps a short high phrase; when it stops, the piano answers. In the real song voice and piano take turns imitating the same bird.","hint_en":"A synth voice chirps a short high phrase; when it stops, the piano answers. In the real song voice and piano take turns imitating the same bird."}

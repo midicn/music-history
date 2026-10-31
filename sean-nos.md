@@ -27,7 +27,7 @@ updated: 2026-10-30
 ::: zh
 爱尔兰语的无伴奏老歌 sean-nós，把曲调交给一个嗓子，节奏跟着词走，装饰音比拍子更重要。
 
-## 起源与年代
+## 年代与地点
 sean-nós 意为老样式，17 至 18 世纪的手稿与诗歌传统里已有这类歌，主要在康诺特与芒斯特的爱尔兰语地区流传。19 世纪末的语言复兴运动开始记录歌者，20 世纪中叶的录音与 Claddagh 唱片把 Joe Heaney 等人保存下来。随着爱尔兰语社区缩小，这门唱法从日常变成专门的技艺，今天多在音乐节与学校教授。
 
 ## 听辨特征
@@ -36,7 +36,7 @@ sean-nós 意为老样式，17 至 18 世纪的手稿与诗歌传统里已有这
 ## 代表人物
 Joe Heaney 从康尼马拉带来的版本成为参考，Darach Ó Catháin 保留了另一路地方风格，Iarla Ó Lionáird 把这种唱法带进当代录音与电影配乐。许多歌者的名字只在地方记忆中流传，录音是 20 世纪才有的保存方式。
 
-## 谱系
+## 前后脉络
 上承盖尔语的诗歌与竖琴传统、天主教圣歌的演唱方式，下接爱尔兰传统音乐复兴与世界音乐舞台上的凯尔特标签；它也影响了器乐演奏者，很多提琴手把歌调当作曲目来源。它把诗、曲与语言绑在一起，离开爱尔兰语就很难完整。
 
 ## 常见误解
@@ -50,7 +50,7 @@ sean-nós 不是凯尔特背景音乐，它没有伴奏，也不靠乐器。它�
 ::: en
 Sean-nós is unaccompanied song in Irish, where the tune is given to one voice, rhythm follows the words and ornament matters more than the beat.
 
-## Origins and era
+## Era and place
 The term means old style. Songs of this kind appear in manuscripts and poetic traditions of the seventeenth and eighteenth centuries, mainly in Irish-speaking parts of Connacht and Munster. The language revival at the end of the nineteenth century began recording singers, and mid-twentieth-century recordings and the Claddagh label preserved figures such as Joe Heaney. As Irish-speaking communities shrank, the practice moved from daily life into a specialised skill taught at festivals and schools.
 
 ## What you hear
@@ -59,7 +59,7 @@ One person sings without instruments. The beat is not fixed, phrase lengths foll
 ## Key figures
 Joe Heaney's versions from Connemara became a reference, Darach Ó Catháin preserved another regional manner, and Iarla Ó Lionáird brought the style into contemporary recordings and film scores. Many singers survive only in local memory, since recording as a means of preservation arrived in the twentieth century.
 
-## Lineage
+## Lines before and after
 Gaelic poetry and harp tradition, and Catholic hymn singing, feed in; the Irish traditional revival and the Celtic label on world music stages come out, and instrumentalists also drew on it, with many fiddlers taking song airs into their repertoire. It binds poem, tune and language together, and is hard to separate from Irish.
 
 ## Common misunderstandings

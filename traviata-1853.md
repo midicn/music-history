@@ -46,7 +46,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Voice Oohs","synth":"vocal","phrase":["A4","B4","C5","B4","A4","G#4","A4","E4"],"label":"茶花女：从说话到咏叹","label_en":"Violetta: from speech to aria","hint":"听旋律从窄音域起步，再向上打开，像一句话忽然变成歌声","hint_en":"Hear the line start in a narrow range and open upward, as speech turns into song"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:romantic]]，连接[[glossary:opera]]、[[glossary:aria]]与[[glossary:coloratura]]。
 :::
@@ -72,7 +72,7 @@ Begin with the first-act melody and notice how the orchestra wraps Violetta's mo
 {"type": "instrument", "gm": "Voice Oohs", "synth": "vocal", "phrase": ["A4", "B4", "C5", "B4", "A4", "G#4", "A4", "E4"], "label": "Violetta: from speech to aria", "label_en": "Violetta: from speech to aria", "hint": "听旋律从窄音域起步，再向上打开，像一句话忽然变成歌声", "hint_en": "Hear the line start in a narrow range and open upward, as speech turns into song"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:romantic]] and connects [[glossary:opera]], [[glossary:aria]] and [[glossary:coloratura]].
 :::

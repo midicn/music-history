@@ -27,28 +27,28 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 一个人的来历
 
 **沃尔夫冈·阿马德乌斯·莫扎特**（1756–1791）出生于萨尔茨堡，六岁起随父亲巡演欧洲，后来在维也纳度过创作最成熟的十年。他写作了歌剧、交响曲、协奏曲、室内乐、钢琴曲与宗教音乐，几乎在每个体裁里都留下核心曲目。
 
-## 时代与位置
+## 他所在的时代
 
 莫扎特是**古典主义**的中心人物：他继承了巴洛克的复调与通奏低音，又把古典时期的**清晰句法、对称结构与戏剧性**推到顶点。他的音乐听起来「自然」，但那种自然是高度计算的结果——每个终止、每个转调都在为下一步铺路。
 
-## 听什么
+## 先听这三首
 
-先听**句法与比例**：莫扎特的乐句像说话，有逗号、问号与句号；再听**戏剧性**：他的器乐常带歌剧式的角色感，钢琴曲也能听出「谁在唱、谁在答」。最后听**透明**：声部多，但每一条都听得见。
+先听**句法与比例**：莫扎特的乐句像说话，有逗号、问号与句号；再听戏剧性：他的器乐常带歌剧式的角色感，钢琴曲也能听出「谁在唱、谁在答」。最后听透明：声部多，但每一条都听得见。
 
-## 代表作
+## 作品与写法
 
 - 歌剧：《费加罗的婚礼》《唐璜》《魔笛》
 - 交响曲：第 40、41 号
 - 协奏曲：钢琴协奏曲 K. 466、K. 488、K. 491
 - 室内乐：弦乐四重奏 K. 387、K. 465；单簧管五重奏 K. 581
 
-## 影响
+## 留下的痕迹
 
-莫扎特之后，「古典风格」几乎以他为标准：海顿的晚年、贝多芬的早期、舒伯特的艺术歌曲都从他这里出发。**他的音乐让「简单」听起来最难——因为一切都暴露在光里。**
+莫扎特之后，「古典风格」几乎以他为标准：海顿的晚年、贝多芬的早期、舒伯特的艺术歌曲都从他这里出发。他的音乐让「简单」听起来最难——因为一切都暴露在光里。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["D4","F4","A4","D5","A4","F4","D4"],"label":"莫扎特的钢琴：透明、会说话的句子","label_en":"Mozart's piano: transparent, speaking phrases","hint":"借钢琴近似：听音头之后的余响与句尾的收束。莫扎特的句法像说话，注意每个乐句在哪里「呼吸」。","hint_en":"A piano stands in: listen to the ring after the attack and the close of each phrase. Mozart's phrasing is speech-like — hear where each phrase breathes."}
@@ -56,7 +56,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Life
 
 **Wolfgang Amadeus Mozart** (1756–1791) was born in Salzburg, toured Europe as a child prodigy with his father, and spent his mature decade in Vienna. He wrote operas, symphonies, concertos, chamber music, piano music and sacred music, leaving core repertoire in nearly every genre.
 
@@ -66,7 +66,7 @@ Mozart is the central figure of the **Classical** style: he inherited Baroque co
 
 ## What to hear
 
-Listen first for **phrasing and proportion**: Mozart's phrases speak, with commas, questions and full stops. Then hear **drama**: his instrumental music often carries operatic character, and even a piano piece can sound like voices singing and answering. Finally hear **transparency**: many voices, each audible.
+Listen first for **phrasing and proportion**: Mozart's phrases speak, with commas, questions and full stops. Then hear drama: his instrumental music often carries operatic character, and even a piano piece can sound like voices singing and answering. Finally hear transparency: many voices, each audible.
 
 ## Key works
 
@@ -75,7 +75,7 @@ Listen first for **phrasing and proportion**: Mozart's phrases speak, with comma
 - Concertos: Piano Concertos K. 466, K. 488, K. 491
 - Chamber: String Quartets K. 387, K. 465; Clarinet Quintet K. 581
 
-## Influence
+## Influence and misreadings
 
 After Mozart, the "Classical style" is almost measured by him: Haydn's late works, Beethoven's early works and Schubert's songs all start from here. **His music makes "simple" sound the hardest — because everything is exposed in the light.**
 

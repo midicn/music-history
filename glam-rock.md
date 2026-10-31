@@ -28,7 +28,7 @@ updated: 2026-10-28
 ::: zh
 华丽摇滚把摇滚做成表演，服装、妆容与舞台形象和音乐一样重要。
 
-## 起源与年代
+## 年代与地点
 1970 年代初的英国，马克·博兰与 T. Rex 用短促的流行摇滚打开市场，大卫·鲍伊、Roxy Music 与 Slade 把它推向电视与体育馆。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-28
 ## 代表人物
 大卫·鲍伊把角色与概念带上台，T. Rex 把电声民谣改成青少年颂歌，Roxy Music 用合成器与艺术学校美学，Slade 用合唱与跺步做体育场口号。Suzi Quatro 把女性乐手放在舞台中心。
 
-## 谱系
+## 前后脉络
 上承 1960 年代英国节拍、艺术学校摇滚与音乐厅传统，下接朋克、新浪漫与 1980 年代流行；它把形象与性别表演写进摇滚常规。
 
 ## 常见误解
@@ -51,7 +51,7 @@ updated: 2026-10-28
 ::: en
 Glam rock makes rock into theatre, where clothes, make-up and stage persona matter as much as the music.
 
-## Origins and era
+## Era and place
 In early-1970s Britain, Marc Bolan and T. Rex opened the market with short pop-rock songs, and David Bowie, Roxy Music and Slade took it to television and arenas. Image became part of the record industry.
 
 ## What you hear
@@ -60,7 +60,7 @@ Listen to the beat: kick and handclaps land on the strong beats like a crowd sto
 ## Key figures
 Bowie put characters and concepts on stage, T. Rex turned electric folk into teenage anthems, Roxy Music used synthesizers and art-school aesthetics, and Slade made stadium slogans from chants and stomps. Suzi Quatro put a woman at the centre of the stage.
 
-## Lineage
+## Lines before and after
 1960s British beat, art-school rock and music hall feed in; punk, new romantic and 1980s pop come out. Image and gender performance entered rock's normal kit.
 
 ## Common misunderstandings

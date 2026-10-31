@@ -48,7 +48,7 @@ updated: 2026-10-30
 {"type":"instrument","gm":"Choir Aahs","synth":"vocal","phrase":["D4","F4","A4","C5","A4","F4","E4","D4"],"label":"礼拜堂里的无伴奏四声部","label_en":"Four unaccompanied voices in the chapel","hint":"听四个声部同时进入，没有乐器托底","hint_en":"Hear four voices enter together with no instrument underneath"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于 [[period:renaissance]]，体裁见 [[glossary:motet]] 与 [[glossary:mass]]，礼拜堂在特伦托会议之后的调整另见专条。
 :::
@@ -76,7 +76,7 @@ Begin with Allegri's Miserere, where chant verses alternate with polyphonic ones
 {"type": "instrument", "gm": "Choir Aahs", "synth": "vocal", "phrase": ["D4", "F4", "A4", "C5", "A4", "F4", "E4", "D4"], "label": "Four unaccompanied voices in the chapel", "label_en": "Four unaccompanied voices in the chapel", "hint": "听四个声部同时进入，没有乐器托底", "hint_en": "Hear four voices enter together with no instrument underneath"}
 ```
 
-## Related
+## Related entries
 
 The turn belongs to [[period:renaissance]], with genres at [[glossary:motet]] and [[glossary:mass]]; the chapel's later adjustment under Trent is treated separately.
 :::

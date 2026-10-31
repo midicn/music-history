@@ -43,7 +43,7 @@ updated: 2026-10-30
 
 先听《贵人迷》的序曲，附点节奏让每个音像被拉长又突然松手。再听《阿米德》序曲，慢段之后低音先起，其他声部依次追上来。最后听《斯卡拉穆什的恰空》，同一支乐队换上舞曲的步子，序曲里的庄严立刻变成可跳舞的节拍。三首连起来，能听出法国序曲的两副面孔，仪式性的开场与身体性的节奏。
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:baroque]]，连接吕利、[[glossary:overture]]与威尼斯公共歌剧院。
 
@@ -71,7 +71,7 @@ The overture became a form that could travel on its own. Dotted rhythm turned in
 
 Begin with the overture to Le Bourgeois gentilhomme, where the dotted figures stretch each note and release it sharply. Then the overture to Armide, where the bass enters first after the slow section and the other parts follow. Finally the Chaconne des Scaramouches, where the same band changes step and the ceremonial opening becomes dance rhythm. Together they show the two faces of the French overture, ritual and body.
 
-## Related
+## Related entries
 
 This turn belongs to [[period:baroque]] and connects 吕利, [[glossary:overture]] and 威尼斯公共歌剧院.
 

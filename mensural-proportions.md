@@ -48,7 +48,7 @@ updated: 2026-10-30
 {"type":"rhythm","sig":"4/4","pattern":"h h h h q q q q q q q q","bpm":84,"label":"二比一与三比二的拍值","label_en":"Duple and triple proportions","hint":"先数两拍一组，再换三拍一组，听同一段时间怎样被重新切分","hint_en":"Count in twos, then in threes, and hear the same span re-cut"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:renaissance]]，上接[[period:medieval]]，术语见[[glossary:meter]]与[[glossary:tempo]]。
 
@@ -77,7 +77,7 @@ Begin with Machaut's Mass of Our Lady, where sections use different proportions 
 {"type": "rhythm", "sig": "4/4", "pattern": "h h h h q q q q q q q q", "bpm": 84, "label": "Duple and triple proportions", "label_en": "Duple and triple proportions", "hint": "先数两拍一组，再换三拍一组，听同一段时间怎样被重新切分", "hint_en": "Count in twos, then in threes, and hear the same span re-cut"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:renaissance]] and follows [[period:medieval]]; see [[glossary:meter]] and [[glossary:tempo]].
 

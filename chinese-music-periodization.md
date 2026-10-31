@@ -26,15 +26,15 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 时间与地点
+## 年代与地方
 
 中国音乐史分期没有唯一答案。常见做法以朝代为骨架：先秦、秦汉魏晋、隋唐、宋元、明清、近代；另一条线索看制度与载体，如礼乐、燕乐、词乐、戏曲与民间乐种。
 
-## 发生了什么
+## 它是怎么来的
 
 考古与谱本不断改写时间表。1978年随州擂鼓墩出土曾侯乙编钟，把先秦音律证据推到公元前五世纪；敦煌琵琶谱、姜夔俗字谱、明清工尺谱，又把记谱史串成另一条线。分期不只看朝代，也看乐器、乐谱与听众的改变。
 
-## 音乐特征
+## 声音的骨架
 
 按体裁分层更贴近听觉。礼乐用钟磬管弦，重场合与等级；燕乐用歌舞大曲，吸收西域乐器与曲调；词乐把长短句系于词牌；戏曲以曲牌体或板腔体组织长篇；器乐靠工尺谱、减字谱与口传心授延续。各层尺度不同，礼乐跨数代，俗曲几十年一轮。
 
@@ -46,21 +46,21 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Koto","synth":"plucked","phrase":["D4","E4","F#4","A4","B4","A4","F#4","E4","D4"],"label":"琴歌的骨架（筝近似）","label_en":"Qin-song skeleton, koto approximation","hint":"听五声如何跨句，再想诗与乐为何互相延长","hint_en":"Hear how the pentatonic line spans phrases, then why poem and tune lengthen each other"}
 ```
 
-## 常见误解
+## 常被误会的地方
 
 最常见的误解是把朝代当风格。唐宋之间没有一刀切的听觉断裂，许多曲调靠口传与谱本跨代存活；同一朝代宫廷与乡村的声音也可以完全不同。分期是工具，不是围墙。
 :::
 
 ::: en
-## Time and place
+## When and where
 
 Chinese music history has no single agreed periodisation. The common dynastic frame runs from pre-Qin ritual music through Qin-Han, Wei-Jin, Sui-Tang, Song-Yuan and Ming-Qing to modern China. A second frame follows institutions and media: court ritual, temple liturgy, literati qin music, urban song, opera and folk ensembles.
 
-## What happened
+## How it came about
 
 Archaeology and scores keep revising the grid. The Zeng Houyi bells, unearthed at Suizhou in 1978, pushed evidence for pre-Qin twelve-lü tuning back to the fifth century BCE. Dunhuang pipa scores, Jiang Kui's suzipu songs and Ming-Qing gongche scores trace a separate history of notation. Periods therefore mark changes in instruments, scores and listeners, not only dynasties.
 
-## Musical features
+## The sound's frame
 
 Genres are a better guide. Ritual music uses bells, chimes and winds and stresses occasion and rank. Yanyue uses song-dance suites and absorbs Central Asian instruments. Ci fixes irregular lines to tune patterns. Opera organises long narratives through qupai suites or banqiang metre. Instrumental music survives through gongche, jianzipu and oral teaching. Each layer has its own clock.
 
@@ -72,7 +72,7 @@ Begin with Yangguan Sandie, a qin song that turns a Tang poem into a threefold f
 {"type":"instrument","gm":"Koto","synth":"plucked","phrase":["D4","E4","F#4","A4","B4","A4","F#4","E4","D4"],"label":"Qin-song skeleton, koto approximation","label_en":"Qin-song skeleton, koto approximation","hint":"Hear how the pentatonic line spans phrases, then why poem and tune lengthen each other","hint_en":"Hear how the pentatonic line spans phrases, then why poem and tune lengthen each other"}
 ```
 
-## Common misunderstandings
+## What is often mistaken
 
 The usual mistake is to treat a dynasty as a style. There is no clean break between Tang and Song; tunes crossed through oral and written transmission. Court and village music could differ completely in the same century. Periodisation is a tool, not a wall.
 :::

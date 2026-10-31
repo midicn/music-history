@@ -29,7 +29,7 @@ updated: 2026-10-30
 ::: zh
 坎佐纳原本是法国的多声部尚松，十六世纪被搬进器乐，去掉歌词，留下分段的模仿与舞曲节奏。
 
-## 起源与年代
+## 年代与地点
 十六世纪二十年代，意大利出版家把法国尚松改编成琉特琴与键盘曲，保留原曲的节奏型。十六世纪中叶，威尼斯乐派把这种写法扩展成四到八声部的器乐合奏，加布里埃利在圣马可教堂用分组乐队演奏，形成对唱效果。十七世纪，坎佐纳的段落逐渐固定为慢快交替，直接长成巴洛克奏鸣曲。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-30
 ## 代表人物
 安德烈亚与乔瓦尼·加布里埃利把坎佐纳写成威尼斯式分组合奏，马萨伊诺把它扩展到十六声部，梅鲁拉在单主题与舞曲节奏之间搭桥，弗雷斯科巴尔迪把坎佐纳的段落搬到管风琴上。
 
-## 谱系
+## 前后脉络
 上承法国尚松与佛兰德乐派的模仿对位，下接巴洛克奏鸣曲、赋格与威尼斯的双合唱队写作。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-30
 ::: en
 A canzona began as a French polyphonic chanson, moved into instrumental music in the sixteenth century, lost its words and kept its sectional imitation and dance rhythms.
 
-## Origins and era
+## Era and place
 In the 1520s Italian publishers arranged French chansons for lute and keyboard, keeping the rhythm of the model. By the middle of the century the Venetian school had expanded the manner into instrumental ensemble music for four to eight parts, and Gabrieli set groups of players against each other at San Marco to create polychoral answering. In the seventeenth century canzona sections settled into slow-fast alternation and grew directly into the Baroque sonata.
 
 ## What you hear
@@ -61,7 +61,7 @@ A sectional structure, each section with its own subject and rhythmic type, sect
 ## Key figures
 Andrea and Giovanni Gabrieli made the canzona a polychoral Venetian form, Massaino stretched it to sixteen parts, Merula bridged single-subject variation and dance rhythm, and Frescobaldi carried its sections onto the organ.
 
-## Lineage
+## Lines before and after
 It descends from the French chanson and Franco-Flemish imitative counterpoint and leads to the Baroque sonata, the fugue and Venetian double-choir writing.
 
 ## Common misunderstandings

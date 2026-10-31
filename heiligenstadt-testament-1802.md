@@ -43,7 +43,7 @@ updated: 2026-10-30
 
 先听《第二交响曲》首乐章，D大调的明亮与突然的重音并置，像一个人努力维持体面。再听《暴风雨奏鸣曲》的开头，慢速的宣叙调近似说话，随后突然冲进快板。最后听《克鲁采奏鸣曲》的慢引子与爆发，小提琴与钢琴互相打断。三首都在1802到1803年之间，遗书之后的声音并不是变暗，而是变得更不稳定。
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:classical]]，连接贝多芬与[[glossary:sonata-form]]。
 
@@ -71,7 +71,7 @@ For the first time a composer's inner life sat beside his works as a document. L
 
 Begin with the first movement of the Second Symphony, where D major brightness sits beside sudden accents, like someone holding himself together. Then the opening of the Tempest sonata, a slow recitative close to speech that suddenly breaks into the allegro. Finally the Kreutzer Sonata, where a slow introduction gives way to violin and piano interrupting each other. All three date from 1802 and 1803. After the letter the sound does not turn dark; it turns unstable.
 
-## Related
+## Related entries
 
 This turn belongs to [[period:classical]] and connects 贝多芬 and [[glossary:sonata-form]].
 

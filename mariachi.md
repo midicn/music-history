@@ -27,7 +27,7 @@ updated: 2026-10-30
 ::: zh
 马里亚奇是墨西哥的合奏传统，提琴与两支小号互相应答，比乌埃拉与吉他龙在下面推着节奏。
 
-## 起源与年代
+## 年代与地点
 19 世纪，哈利斯科、科利马与纳亚里特一带的 son jalisciense 用提琴与吉他演奏，关于科库拉起源与法国婚礼的词源说法都缺乏证据。墨西哥革命之后，乡村移民把乐队带进城市，1930 年代墨西哥城的电台 XEW 与电影工业把它变成全国符号，Pedro Infante 与 Jorge Negrete 让它进入家庭。小号在 1930 年代加入，最初是为了让露天广场上的声音传得更远。2011 年联合国教科文组织把它列入人类非物质文化遗产。
 
 ## 听辨特征
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## 代表人物
 Mariachi Vargas de Tecalitlán 从 19 世纪末的乐队发展成标准编制，Silvestre Vargas 把乐队的训练与编曲制度化，José Alfredo Jiménez 写下的歌成为曲目核心，Pedro Infante 与 Jorge Negrete 用电影把它推广，Lola Beltrán 把女声带进这个以男声为主的传统。
 
-## 谱系
+## 前后脉络
 上承西班牙的弦乐合奏、当地的三拍舞曲、德国铜管与波尔卡的影响以及古巴的 bolero，下接 ranchera、norteño 与 banda 的跨界，以及奇卡诺摇滚；它也成了墨西哥移民社区的身份符号，洛杉矶与圣安东尼奥的乐队把它带出国外。它把乡村的合奏变成城市的演出行业。
 
 ## 常见误解
@@ -50,7 +50,7 @@ Mariachi Vargas de Tecalitlán 从 19 世纪末的乐队发展成标准编制，
 ::: en
 Mariachi is Mexico's ensemble tradition, with violins answering two trumpets while vihuela and guitarrón push the rhythm underneath.
 
-## Origins and era
+## Era and place
 In the nineteenth century the son jalisciense of Jalisco, Colima and Nayarit was played on violins and guitars, and the stories about a Cocula origin and a French wedding etymology lack evidence. After the Mexican Revolution rural migrants brought the ensemble into the cities, Mexico City's XEW radio and the film industry made it a national symbol in the 1930s, and Pedro Infante and Jorge Negrete carried it into households. Trumpets were added in the 1930s, at first so the sound would carry across open plazas. UNESCO listed it as intangible cultural heritage in 2011.
 
 ## What you hear
@@ -59,7 +59,7 @@ The line-up is fixed: two violins, two trumpets, vihuela, guitarrón and guitar,
 ## Key figures
 Mariachi Vargas de Tecalitlán grew from a late-nineteenth-century band into the standard line-up, Silvestre Vargas turned its training and arranging into an institution, José Alfredo Jiménez wrote songs that became the core repertoire, Pedro Infante and Jorge Negrete spread the ensemble through film, and Lola Beltrán brought a female voice into a tradition dominated by men.
 
-## Lineage
+## Lines before and after
 Spanish string ensembles, local triple-time dances, German brass and polka influence, and the Cuban bolero feed in; ranchera, norteño and banda crossovers and Chicano rock come out. It turned a rural ensemble practice into an urban entertainment profession.
 
 ## Common misunderstandings

@@ -29,19 +29,19 @@ updated: 2026-10-28
 ::: zh
 安第斯音乐是安第斯高原多国共享的声景，排箫、竖笛、查朗戈与鼓把舞曲与哀歌连在一起。
 
-## 起源与年代
+## 从哪儿来
 印加与更早的高原文化留下排箫、竖笛与陶笛。西班牙殖民带来弦乐器，查朗戈在波托西成形。20 世纪，秘鲁、玻利维亚与智利的音乐家把舞曲带进城市；1950 到 1970 年代，新歌运动把它变成国际舞台的声音。
 
-## 听辨特征
+## 耳朵先抓到什么
 先听排箫的交替，sikuri 合奏把旋律拆成两半，两组乐手轮流补音。竖笛音色明亮，查朗戈快速扫弦，鼓给 2/4 或 6/8 的舞步。旋律常用五声音阶、平行三度与六度，句尾下行。
 
-## 代表人物
+## 绕不开的人
 比奥莱塔·帕拉与阿塔瓦尔帕·尤潘基把安第斯素材写进新歌，Inti-Illimani 与 Quilapayún 把排箫与吉他带上世界舞台，洛斯·卡尔卡斯把玻利维亚舞曲变成流行。丹尼尔·阿洛米亚·罗夫莱斯在 1913 年写下《El Cóndor Pasa》。
 
-## 谱系
+## 它影响了谁
 上承印加与殖民时期的高原音乐、西班牙弦乐与非洲节奏，下接新歌运动、安第斯流行与世界音乐；它把集体合奏变成可辨认的声音。
 
-## 常见误解
+## 常被说错的地方
 《El Cóndor Pasa》不是印加古曲，而是 1913 年的创作。安第斯音乐也不只属于一个国家，秘鲁、玻利维亚、智利与阿根廷北部各有分支。排箫不是唯一乐器，查朗戈与竖笛同样核心。
 
 ```audiolab
@@ -52,19 +52,19 @@ updated: 2026-10-28
 ::: en
 Andean music is a highland soundscape shared across the Andes, where panpipes, flutes, charango and drums link dances and laments.
 
-## Origins and era
+## Where it came from
 Inca and earlier highland cultures left panpipes, vertical flutes and ocarinas. Spanish colonisation brought strings, and the charango took shape around Potosi. In the twentieth century musicians from Peru, Bolivia and Chile carried dances into cities. From the 1950s the Nueva Cancion movement and Inti-Illimani made it an international voice.
 
-## What you hear
+## What the ear catches
 Listen for panpipe alternation: in sikuri ensembles the melody is split in two, with two groups trading notes. Vertical flutes are bright, charango strums fast on nylon strings, and drums carry a 2/4 or 6/8 step. Melody often uses pentatonic scales, parallel thirds and falling endings. Voices can be high or mournful, with choruses answering in unison.
 
-## Key figures
+## Names you cannot avoid
 Violeta Parra and Atahualpa Yupanqui brought Andean material into nueva cancion, Inti-Illimani and Quilapayun took panpipes and guitar to the world, and Los Kjarkas turned Bolivian dances into pop. Daniel Alomia Robles wrote El Condor Pasa in 1913.
 
-## Lineage
+## What it influenced
 Inca and colonial highland music, Spanish strings and African rhythm feed in; nueva cancion, Andean pop, world music and film scoring come out. Collective playing became a recognisable sound.
 
-## Common misunderstandings
+## What is often misread
 El Condor Pasa is not an ancient Inca tune but a composition from 1913. Andean music does not belong to one country either, since Peru, Bolivia, Chile and Argentina have distinct branches. Panpipes are not the only instrument, as charango and flutes are equally central.
 
 ```audiolab

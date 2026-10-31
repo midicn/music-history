@@ -26,15 +26,15 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 时间与地点
+## 年代与地方
 
 1978年，湖北随州擂鼓墩。曾侯乙墓出土，墓主是战国早期曾国君主，下葬约在公元前433年或稍晚。编钟立在中室，65件，三层悬挂，总重约2.5吨；同墓还有编磬、鼓、瑟、笙等乐器。
 
-## 发生了什么
+## 它是怎么来的
 
 每件钟能发两个音，敲正鼓与侧鼓，音高约差三度。钟体刻有二千八百余字，钟架与挂件另有九百余字，记下曾、楚、齐、晋、周等地的律名与音程。铸钟者以三分损益生律，再按实测修正，使中音区十二个半音齐备，可以旋宫。
 
-## 音乐特征
+## 声音的骨架
 
 编钟为合瓦形，声音衰减快，适合奏旋律而不至混成一片。65件跨五个八度以上，低音沉厚，高音清亮。铭文把宫、商、角、徵、羽与变声并列，说明五声是骨架，七声与十二律是可用资源。
 
@@ -46,21 +46,21 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Tubular Bells","synth":"metal","phrase":["C3","D3","E3","G3","A3","G3","E3","D3","C3"],"label":"青铜编钟的余响（管钟近似）","label_en":"Bronze-bell resonance, tubular approximation","hint":"听每一击的起音与长衰减，再听五声音阶的落点","hint_en":"Hear each strike's attack and long decay, then the pentatonic landing points"}
 ```
 
-## 常见误解
+## 常被误会的地方
 
 常见说法是编钟只能奏五声，或它只是礼器。铭文与测音显示它具备十二律与旋宫能力，也确为祭祀与宴享中的乐器；现存旋律多用五声，不等于乐器受五声限制。
 :::
 
 ::: en
-## Time and place
+## When and where
 
 In 1978, at Leigudun near Suizhou in Hubei, the tomb of Marquis Yi of Zeng was opened. The ruler died around 433 BCE. Sixty-five bells hang in three tiers in the central chamber, weighing about 2.5 tonnes; chimes, drums, zithers and sheng were buried with them.
 
-## What happened
+## How it came about
 
 Each bell sounds two pitches, one at the centre and one at the side, roughly a third apart. Some 2,800 characters cover the bells, with more on the frame and fittings, recording pitch names and intervals from Zeng, Chu, Qi, Jin and Zhou. The casters generated pitches by sanfen sunyi and corrected them by ear, leaving twelve semitones available in the middle register for modal rotation.
 
-## Musical features
+## The sound's frame
 
 The oval bells decay quickly, so melodies stay clear instead of blurring. The set spans more than five octaves, deep below and bright above. Inscriptions place gong, shang, jue, zhi and yu beside altered notes: the pentatonic frame is basic, while seven-note and twelve-lü resources remain available.
 
@@ -72,7 +72,7 @@ Begin with the tubular-bell imitation: hear each strike's attack and long decay,
 {"type":"instrument","gm":"Tubular Bells","synth":"metal","phrase":["C3","D3","E3","G3","A3","G3","E3","D3","C3"],"label":"Bronze-bell resonance, tubular approximation","label_en":"Bronze-bell resonance, tubular approximation","hint":"Hear each strike's attack and long decay, then the pentatonic landing points","hint_en":"Hear each strike's attack and long decay, then the pentatonic landing points"}
 ```
 
-## Common misunderstandings
+## What is often mistaken
 
 A common claim is that the bells play only five notes, or that they were merely ritual objects. The inscriptions and measurements show twelve-lü tuning and modal rotation, and the set was used in sacrifice and banquets. Surviving tunes favour pentatonic writing; that does not limit the instrument.
 :::

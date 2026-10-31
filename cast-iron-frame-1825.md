@@ -48,7 +48,7 @@ updated: 2026-10-30
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["A1","A2","A3","A4"],"label":"铁框撑住的低音","label_en":"A bass held by the iron plate","hint":"听最低的 A 是否有厚度，再想木框为什么做不到","hint_en":"Hear the weight of the lowest A, then why a wooden frame could not"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:romantic]]，通向[[period:modern]]，乐器见[[instrument:piano]]，音色见[[glossary:timbre]]。
 
@@ -77,7 +77,7 @@ Begin with Chopin's First Ballade, written when tension was lower, its sound car
 {"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["A1", "A2", "A3", "A4"], "label": "A bass held by the iron plate", "label_en": "A bass held by the iron plate", "hint": "听最低的 A 是否有厚度，再想木框为什么做不到", "hint_en": "Hear the weight of the lowest A, then why a wooden frame could not"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:romantic]] and leads toward [[period:modern]]; see [[instrument:piano]] and [[glossary:timbre]].
 

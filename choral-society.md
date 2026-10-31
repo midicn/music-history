@@ -48,7 +48,7 @@ updated: 2026-10-30
 {"type":"instrument","gm":"Choir Aahs","synth":"vocal","phrase":["C4","E4","G4","C5","G4","E4","D4","C4"],"label":"四个声部一起进来","label_en":"Four parts entering together","hint":"听女高音领进，其余声部依次跟上","hint_en":"Hear the sopranos lead and the other parts follow"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于 [[period:romantic]]，体裁见 [[glossary:oratorio]] 与 [[glossary:anthem]]，1846 年的首演是这条线索的顶点。
 :::
@@ -76,7 +76,7 @@ Begin with a chorus from Messiah, its entries clear and its harmony mostly block
 {"type": "instrument", "gm": "Choir Aahs", "synth": "vocal", "phrase": ["C4", "E4", "G4", "C5", "G4", "E4", "D4", "C4"], "label": "Four parts entering together", "label_en": "Four parts entering together", "hint": "听女高音领进，其余声部依次跟上", "hint_en": "Hear the sopranos lead and the other parts follow"}
 ```
 
-## Related
+## Related entries
 
 The turn belongs to [[period:romantic]], with genres at [[glossary:oratorio]] and [[glossary:anthem]], and the 1846 premiere marking the peak of the line.
 :::

@@ -25,19 +25,19 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 问题
+## 要回答的问题
 
 音乐厅里坐着谁，舞台上站着谁？从赞助人到售票口，从仆人到工人合唱，音乐一直在安排人与人之间的距离。歌剧的喜剧常让仆人赢，现实里的仆人仍要回到厨房。
 
-## 历史脉络
+## 前后经过
 
 宫廷与教会赞助让乐师依附于贵族；18世纪公共音乐会与出版让作曲家面对市场；19世纪歌剧把仆人、妓女与工人推上舞台，20世纪录音与流行工业又制造新的阶层趣味。
 
-## 关键案例
+## 几个例子
 
 《女仆作夫人》1733年让女仆塞尔皮娜反过来支配主人；《费加罗的婚礼》1786年把仆人放在伯爵之上；《国际歌》1888年从工人集会唱到国际运动。三首分别用喜剧、歌剧与进行曲改写等级。
 
-## 听什么
+## 听这几处
 
 听仆人角色是否用更快的语速，听贵族是否被低音或笨重的和声嘲笑，听副歌是否故意写成容易合唱。
 
@@ -45,7 +45,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["C4","D4","E4","F4","G4","F4","E4","D4"],"label":"主仆的对话","label_en":"A dialogue of master and servant","hint":"听两个音区怎样一高一低地抢话，最后谁先停下","hint_en":"Hear the two registers interrupt each other, and who stops first"}
 ```
 
-## 相关
+## 接着读
 
 阶层冲突常在 [[glossary:opera-buffa]] 里被喜剧化，[[period:classical]] 的公共音乐会改变听众，[[glossary:opera]] 则把社会等级做成角色。
 :::
@@ -59,11 +59,11 @@ Who sits in the hall, and who stands on stage? From patrons to box office, from 
 
 Court and church patronage tied musicians to nobles. Public concerts and music publishing in the eighteenth century made composers face a market. Nineteenth-century opera brought servants, courtesans, and workers onto the stage, and the recording and pop industries of the twentieth century produced new class tastes.
 
-## Key cases
+## A few examples
 
 La serva padrona (1733) lets the servant Serpina outwit her master. Le nozze di Figaro (1786) places a servant above a count, and The Internationale (1888) traveled from workers' meetings to an international movement. The three rewrite rank through comedy, opera, and march.
 
-## What to listen for
+## Listen to these
 
 Hear whether the servant speaks in faster phrases, whether the noble is mocked by a heavy bass or clumsy harmony, and whether the refrain is deliberately easy to sing together.
 
@@ -71,7 +71,7 @@ Hear whether the servant speaks in faster phrases, whether the noble is mocked b
 {"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["C4","D4","E4","F4","G4","F4","E4","D4"],"label":"A dialogue of master and servant","label_en":"A dialogue of master and servant","hint":"Hear the two registers interrupt each other, and who stops first","hint_en":"Hear the two registers interrupt each other, and who stops first"}
 ```
 
-## Related
+## Read next
 
 Class conflict is made comic in [[glossary:opera-buffa]]; the public concerts of [[period:classical]] changed the audience, and [[glossary:opera]] turned social rank into a role.
 :::

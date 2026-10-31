@@ -29,7 +29,7 @@ updated: 2026-10-30
 ::: zh
 跨步钢琴是 1910 至 1920 年代纽约哈莱姆的独奏钢琴风格。它把拉格泰姆的切分留在右手，把左手改成更大的跳跃，让一台钢琴同时充当低音、和弦与鼓。
 
-## 起源与年代
+## 年代与地点
 1910 年代，哈莱姆的黑人钢琴师在公寓租借派对、舞厅与剧场里互相较量。詹姆斯·P·约翰逊 1921 年出版的《Carolina Shout》被当作试金石，琴手靠听唱片与钢琴纸卷学它。1920 年代唱片与纸卷把这一风格传遍美国，1930 年代塔特姆与泰迪·威尔逊把它带进摇摆乐队。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-30
 ## 代表人物
 詹姆斯·P·约翰逊把跨步写成可教的技法，威利·“狮子”·史密斯以打击般的触键著称，胖子沃勒在技巧之外加上歌唱性旋律与教堂管风琴式的低音。勒基·罗伯茨的十度跳跃更宽，塔特姆把它推向和声与速度的极限，泰迪·威尔逊则把它带进摇摆小乐队。
 
-## 谱系
+## 前后脉络
 它上承拉格泰姆的切分与进行曲低音，下接摇摆时代的钢琴伴奏与比波普钢琴的右手语汇。布吉伍吉与它共享左手大跳与固定音型，但布吉伍吉来自南方的钢琴布鲁斯，两条线在 1930 年代末的纽约重新交汇。1930 年代以后大乐队接管舞厅，但独奏钢琴的传统经由塔特姆一直留到现代。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-30
 ::: en
 Stride piano is the solo piano style that took shape in Harlem, New York, in the 1910s and 1920s. It kept ragtime's syncopation in the right hand and enlarged the left hand's leap, so one player supplied bass, chords and drums at once.
 
-## Origins and era
+## Era and place
 In the 1910s Harlem pianists competed at rent parties, ballrooms and theatres. James P. Johnson's Carolina Shout, published in 1921, became the test piece, learned from records and piano rolls. Records and rolls carried the style across the United States in the 1920s, and in the 1930s Art Tatum and Teddy Wilson brought it into swing bands.
 
 ## What you hear
@@ -61,7 +61,7 @@ The left hand puts a single bass note on beats one and three and a chord in the 
 ## Key figures
 James P. Johnson made stride teachable, Willie "The Lion" Smith was known for a percussive attack, and Fats Waller added singable melody and a church organist's bass. Luckey Roberts reached wider tenths, Tatum pushed harmony and speed to their limit, and Teddy Wilson carried the idiom into small swing groups.
 
-## Lineage
+## Lines before and after
 Ragtime syncopation and march bass feed in; swing-era accompaniment and bebop piano's right hand come out. Boogie-woogie shares the leaping left hand and repeating figures, but it grew from Southern piano blues, and the two lines met again in New York in the late 1930s.
 
 ## Common misunderstandings

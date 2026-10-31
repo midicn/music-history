@@ -28,19 +28,19 @@ updated: 2026-10-28
 ::: zh
 东岸说唱用采样拼贴、boom-bap 鼓组与密集押韵，把纽约街区写进歌里。
 
-## 起源与年代
+## 从哪儿来
 1980 年代中后期纽约，DJ 把唱片拼成伴奏，MC 加长句子。1988 年前后，boom-bap 鼓组与采样美学成形；1990 年代 Wu-Tang Clan、Nas 与 Notorious B.I.G. 把它做成东岸名片。
 
-## 听辨特征
+## 耳朵先抓到什么
 先听鼓，底鼓军鼓干脆，节拍在 85 到 95 BPM，留白多，让人声有位。采样来自爵士、灵魂与放克唱片，常带黑胶噪声与短循环。贝斯用采样或合成低音补强。押韵密集，句内押韵多，叙事具体，常写街区生活。
 
-## 代表人物
+## 绕不开的人
 Rakim 定下内部押韵与冷静 flow 的标准，Wu-Tang Clan 用粗糙采样与轮唱，Nas 把城市写成地图，Notorious B.I.G. 把律动与故事接得更顺。
 
-## 谱系
+## 它影响了谁
 上承 1970 年代纽约街区派对与灵魂采样，下接硬核、地下说唱与东西岸对话；它把采样变成风格标志。
 
-## 常见误解
+## 常被说错的地方
 东岸说唱不都慢，许多曲子中速推进。也不等于阴暗，幽默与派对曲同属这个场景。把它当旧唱片采样，会漏掉制作人对鼓组与人声的设计。
 
 ```audiolab
@@ -51,19 +51,19 @@ Rakim 定下内部押韵与冷静 flow 的标准，Wu-Tang Clan 用粗糙采样�
 ::: en
 East Coast hip hop builds songs from sampled collages, boom-bap drums and dense rhymes, with New York street detail at the centre.
 
-## Origins and era
+## Where it came from
 In New York in the mid-to-late 1980s, DJs pieced records into backing tracks and MCs stretched lines across the beat. Around 1988 the boom-bap drum sound and sampling aesthetic took shape; in the 1990s Wu-Tang Clan, Nas and the Notorious B.I.G. made it the East Coast signature.
 
-## What you hear
+## What the ear catches
 Start with the drums, kick and snare crisp, usually between 85 and 95 BPM, with enough space for the voice. Samples come from jazz, soul and funk records, often carrying vinyl noise and a short loop. Bass is reinforced by a sampled or synthetic low end. Rhymes are dense, with internal rhyme, and the storytelling stays concrete, often about blocks and city life.
 
-## Key figures
+## Names you cannot avoid
 Rakim set the standard for internal rhyme and a calm flow, Wu-Tang Clan used rough samples and group rounds, Nas mapped the city in narrative, and the Notorious B.I.G. joined groove to story.
 
-## Lineage
+## What it influenced
 1970s New York block parties, funk and soul sampling feed in; hardcore rap, underground rap and the 1990s East-West dialogue come out. Sampling moved from method to signature.
 
-## Common misunderstandings
+## What is often misread
 East Coast rap is not necessarily slow, since much of it moves at medium tempo. Nor is it only dark, as humour and party tracks belong to the same scene. Reducing it to old-record samples misses how producers place drums and voice.
 
 ```audiolab

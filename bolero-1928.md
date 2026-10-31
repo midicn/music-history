@@ -26,19 +26,19 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 时间与地点
+## 年份与坐标
 
 1928年11月22日，巴黎歌剧院。鲁宾斯坦委约拉威尔写一部西班牙风格的芭蕾，编舞是尼金斯卡，指挥是斯特拉姆。舞台设在一间西班牙酒馆，舞者在桌上起舞，音乐从头到尾只有一个不断重复的节奏与旋律。
 
-## 发生了什么
+## 事情本身
 
 《波莱罗》没有发展，也没有真正的对比。主题由长笛、单簧管、巴松、双簧管等乐器轮流奏出，每次重复都加一层伴奏或换一组音色，小鼓的固定节奏从头敲到尾。拉威尔把配器本身写成结构，最后用调性偏移和全奏把张力推到顶点。
 
-## 改变了什么
+## 留下的变化
 
 配器不再只是给旋律上色，它成为曲式的主要动力。重复也不再意味着静止，而可以积累成高潮。作品很快脱离芭蕾，成为音乐会和录音的常客，也进入电影与流行文化。它同时引发争论，有人听到机械与强制，有人听到精确的音响建筑。
 
-## 听这个转折
+## 听一段转折
 
 先听开头，长笛在极轻的伴奏上吹出主题。再听主题换到单簧管和萨克斯，音色一变，同一旋律像换了一个人。最后听结尾，所有声部一起进来，调性突然转开，重复终于断裂。
 
@@ -46,21 +46,21 @@ updated: 2026-10-28
 {"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["C4","C4","C4","C4","D4","C4","C4","C4"],"label":"波莱罗：一条旋律的加厚","label_en":"Boléro: one tune thickens","hint":"跟着固定节奏数拍，听同样的音如何被越来越多的声部包住","hint_en":"Count with the fixed pulse and hear the same notes gather more and more players around them"}
 ```
 
-## 相关
+## 接着读
 
 这条转折属于[[period:impressionist]]，连接[[glossary:bolero]]、[[glossary:timbre]]与[[instrument:snare-drum]]。
 :::
 
 ::: en
-## Time and place
+## Year and coordinates
 
 22 November 1928, Paris Opéra. Rubinstein commissioned a Spanish ballet from Ravel, with choreography by Nijinska and Straram conducting. A dancer performed on a table, and the music had one recurring rhythm and melody.
 
-## What happened
+## The event itself
 
 Boléro has no development and no real contrast. The theme passes through flute, clarinet, bassoon and oboe, each repetition adding colour. A side drum keeps the rhythm. Ravel made orchestration the structure, then used a key shift and full tutti to push the tension to its peak.
 
-## What changed
+## What it left behind
 
 Orchestration stopped being mere colouring and became the main engine of form. Repetition no longer meant stasis; it could accumulate into climax. It quickly left the ballet for the concert hall and recording studio, and entered film and popular culture. It also provoked argument: some heard machinery and compulsion, others precise sonic architecture.
 
@@ -72,7 +72,7 @@ Begin with the flute carrying the theme over a light accompaniment. Then hear th
 {"type": "instrument", "gm": "String Ensemble 1", "synth": "bowed", "phrase": ["C4", "C4", "C4", "C4", "D4", "C4", "C4", "C4"], "label": "Boléro: one tune thickens", "label_en": "Boléro: one tune thickens", "hint": "跟着固定节奏数拍，听同样的音如何被越来越多的声部包住", "hint_en": "Count with the fixed pulse and hear the same notes gather more and more players around them"}
 ```
 
-## Related
+## Read next
 
 This turn belongs to [[period:impressionist]] and connects [[glossary:bolero]], [[glossary:timbre]] and [[instrument:snare-drum]].
 :::

@@ -27,7 +27,7 @@ updated: 2026-10-30
 ::: zh
 加美兰是爪哇与巴厘的青铜合奏，锣、金属排琴与鼓围成一个循环，让时间由集体的合奏来标记。
 
-## 起源与年代
+## 年代与地点
 8 至 9 世纪的婆罗浮屠浮雕上已有金属排琴与鼓，爪哇与巴厘的宫廷与寺庙后来发展出各自的编制。中爪哇的日惹与梭罗宫廷保留了大量曲目，巴厘的村落寺庙则以更快的速度与更密的交错演奏。1889 年巴黎世界博览会带来爪哇的加美兰，德彪西与后来的西方作曲家听到这种音响。20 世纪，Colin McPhee 与 Lou Harrison 等人把它写进西方作品。
 
 ## 听辨特征
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## 代表人物
 加美兰很少以个人署名，曲目属于宫廷或村社；爪哇的 Ki Nartosabdho 以皮影戏伴奏与作曲闻名，巴厘的村落乐团以竞赛与祭祀演出维持技艺。西方的德彪西、Colin McPhee 与 Lou Harrison 是它最著名的外部回应者。
 
-## 谱系
+## 前后脉络
 上承印度教与佛教宫廷的青铜乐器、皮影戏与祭祀，下接西方印象派的和声、极简主义的重复结构、电影配乐与流行音乐的采样；1950 年代以后，美国的大学与作曲家建立自己的加美兰乐团，把它变成一种可以演奏的当代编制。它把合奏的时间感变成一种可以借用的作曲资源。
 
 ## 常见误解
@@ -50,7 +50,7 @@ updated: 2026-10-30
 ::: en
 Gamelan is the bronze ensemble music of Java and Bali, where gongs, metallophones and drums ring out a cycle and the ensemble itself marks time.
 
-## Origins and era
+## Era and place
 Metallophones and drums already appear in eighth- and ninth-century reliefs at Borobudur, and the courts and temples of Java and Bali later developed their own line-ups. The Central Javanese courts of Yogyakarta and Surakarta preserved a large repertoire, while Balinese village temples played faster with denser interlocking. The 1889 Paris Exposition brought a Javanese gamelan, and Debussy and later Western composers heard the sound. In the twentieth century Colin McPhee and Lou Harrison wrote it into Western works.
 
 ## What you hear
@@ -59,7 +59,7 @@ Metallophones, gongs of several sizes, drums, flute and voices make up the ensem
 ## Key figures
 Gamelan rarely carries individual authorship, since repertoire belongs to a court or a village. In Java Ki Nartosabdho was known for shadow-puppet accompaniment and composition, and in Bali village ensembles keep technique alive through competitions and temple rituals. Debussy, Colin McPhee and Lou Harrison are its best-known outside responders.
 
-## Lineage
+## Lines before and after
 Hindu-Buddhist court bronze instruments, shadow puppetry and ritual feed in; Western impressionist harmony, minimalist repetition, film scores and pop sampling come out, and after the 1950s American universities and composers built their own gamelan ensembles, turning it into a playable contemporary medium. It turned an ensemble sense of time into a compositional resource others could borrow.
 
 ## Common misunderstandings

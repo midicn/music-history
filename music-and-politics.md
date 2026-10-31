@@ -25,19 +25,19 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 问题
+## 争议在哪
 
 音乐能不能改变政治？更常见的是政治先改变音乐：谁出钱、在什么场合演、唱什么词，决定了音乐长什么样。反过来，一首歌也可能被群众接管，变成罢工或革命的号角。声音如何被权力征用，又怎样反咬一口？
 
-## 历史脉络
+## 脉络
 
 中世纪到巴洛克，音乐多服务于宫廷与教会，确认秩序。18世纪末法国大革命打破这套关系：广场、军队和公民仪式需要新声音，《马赛曲》把集体步伐写进旋律。19世纪民族主义把歌剧合唱与钢琴舞曲变成民族象征。20世纪广播与唱片让政治音乐跨越国界，也更容易被审查收编。
 
-## 关键案例
+## 几个例子
 
 1727年亨德尔的《祭司撒督》在威斯敏斯特教堂响起，此后英国君主加冕几乎都用它，王位变成可听见的连续性。1792年《马赛曲》在前线写成，几年内传遍欧洲，后来成为法国国歌。肖邦的《军队波兰舞曲》写于流亡巴黎时期，波兰人把它听成故国的军容。三首曲子对应王权、革命与民族，说明政治音乐没有固定立场，只有具体场合与听众。
 
-## 听什么
+## 听这几处
 
 先听号角式的开头，再听低音如何把步伐压稳。注意同一段旋律在铜管、人声和钢琴上更威严还是更悲壮。
 
@@ -45,7 +45,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Trumpet","synth":"brass","phrase":["G4","G4","G4","C5","B4","G4","A4","G4"],"label":"号角式的政治开场","label_en":"A fanfare-like political opening","hint":"听四度跳进如何把听众叫到一起","hint_en":"Hear how the fourths call a crowd to attention"}
 ```
 
-## 相关
+## 接着读
 
 政治仪式离不开 [[glossary:anthem]] 与 [[glossary:march]]，这一主题横跨 [[period:romantic]]。
 :::
@@ -59,11 +59,11 @@ Can music change politics? Politics often changes music first: who pays, where i
 
 Medieval and Baroque music mostly served court and church, confirming the order. The French Revolution broke that system. Squares, armies, and civic ceremonies needed new sound; La Marseillaise wrote collective steps into melody. Nineteenth-century nationalism turned opera choruses and piano dances into symbols of community. Radio and records let political music cross borders, and helped censors capture it.
 
-## Key cases
+## A few examples
 
 In 1727 Handel's Zadok the Priest sounded in Westminster Abbey; British coronations since have used it, turning the throne into audible continuity. La Marseillaise was written at the front in 1792, spread across Europe, and became France's anthem. Chopin's Military Polonaise, composed in exile, was heard by Poles as the bearing of a lost army. The three stand for monarchy, revolution, and nation; political music has no fixed stance.
 
-## What to listen for
+## Listen to these
 
 Listen to the fanfare opening, then to how the bass steadies the step. Notice whether the tune sounds more majestic or mournful on brass, voices, or piano.
 
@@ -71,7 +71,7 @@ Listen to the fanfare opening, then to how the bass steadies the step. Notice wh
 {"type":"instrument","gm":"Trumpet","synth":"brass","phrase":["G4","G4","G4","C5","B4","G4","A4","G4"],"label":"A political fanfare","label_en":"A political fanfare","hint":"Hear the fourths call a crowd","hint_en":"Hear the fourths call a crowd"}
 ```
 
-## Related
+## Read next
 
 Political ritual depends on [[glossary:anthem]] and [[glossary:march]]; this theme runs through [[period:romantic]].
 :::

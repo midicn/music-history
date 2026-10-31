@@ -26,11 +26,11 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 生平一笔
 
 朱塞佩·威尔第（1813–1901）是意大利歌剧作曲家，生于布塞托附近的农村。早年丧妻丧子，却以《纳布科》中的合唱一举成名，此后近六十年持续写作，晚年完成《奥赛罗》与《法尔斯塔夫》。他的名字几乎就是十九世纪意大利歌剧的同义词。
 
-## 时代与位置
+## 他生活的城市
 
 他是意大利歌剧“人声优先”传统的集大成者，也是意大利统一运动的音乐象征。《纳布科》的“飞吧，思想”被当作民族合唱传唱。他尊重传统分曲结构，却让乐队与和声为戏剧服务。他既是剧院里的工匠，也是公共生活中的道德声音。
 
@@ -38,11 +38,11 @@ updated: 2026-10-28
 
 先听人声的线条，咏叹调常从说话般的音调开始，再展开成宽广的旋律。再听重唱，不同人物同时各唱各的心事，戏剧冲突在和声里叠加。最后听男中音的重量，威尔第的父辈、权力与悔恨常由它承担。乐队不抢戏，但每次进入都改变温度。
 
-## 代表作
+## 代表作品
 
 《纳布科》；《弄臣》；《茶花女》；《游吟诗人》；《阿依达》；《奥赛罗》；《安魂曲》。
 
-## 影响
+## 留下的痕迹
 
 他让歌剧既是大众娱乐，也是政治与道德的表达。真实主义歌剧、普契尼与二十世纪的意大利电影配乐，都从他的人声写作里学习如何让旋律承担戏剧。他证明了最简单的旋律，只要放对位置，就能让整个剧院安静下来。
 
@@ -52,11 +52,11 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## A life in brief
 
 Giuseppe Verdi (1813–1901) was an Italian opera composer born near Busseto. After the deaths of his wife and children he scored a triumph with Nabucco and its chorus of Hebrew slaves, then wrote operas for nearly sixty years, ending with Otello and Falstaff. His name is almost a synonym for nineteenth-century Italian opera.
 
-## His place
+## The city he worked in
 
 He is the summation of the Italian tradition in which the voice comes first, and a musical symbol of Italian unification. "Va, pensiero" from Nabucco became a national song. He respected the conventional set piece, yet made orchestra and harmony servants of drama. He was both a craftsman of the theatre and a moral voice in public life.
 
@@ -68,7 +68,7 @@ Listen to the vocal line: arias often begin close to speech and then open into b
 
 Nabucco; Rigoletto; La traviata; Il trovatore; Aida; Otello; Requiem.
 
-## Influence
+## What remains
 
 He made opera both popular entertainment and political or moral statement. Verismo, Puccini and generations of Italian film composers learned from him how melody can carry drama. He proved that the simplest tune, placed exactly right, can make a whole theatre fall silent.
 

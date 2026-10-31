@@ -27,7 +27,7 @@ updated: 2026-10-30
 ---
 
 ::: zh
-## 他是谁
+## 出身与师承
 
 **奥兰多·吉本斯**（1583–1625）是英国文艺复兴最后一批作曲家之一。他生于牛津，父亲是城里乐师。1605 年前后进入皇家礼拜堂任管风琴师，1623 年又兼任西敏寺的管风琴师。1625 年，他到坎特伯雷准备迎接查理一世的婚礼，染上天花去世，年仅四十一岁。他留下牧歌集一册、大量英文赞美歌、圣咏曲调与几十首键盘小品。
 
@@ -35,18 +35,18 @@ updated: 2026-10-30
 
 他处在一个短暂而密集的交接点上。意大利牧歌的写法已经传入英国，英国作曲家把它改造成更克制、更重和声的样式；同时，宗教改革后的英文礼拜需要新的音乐，独唱加合唱的「独唱赞美歌」成为主要体裁。吉本斯两边都写，而且写得好：牧歌的句法、赞美歌的段落结构、键盘的装饰，在他手里用同一套和声语汇。
 
-## 听什么
+## 先听什么
 
 先听**声部的撤退**。《The Silver Swan》结尾几个声部依次停下，音乐越来越薄，最后只剩一条线，这种「减法」是他最擅长的手法。再听**独唱与合唱的分工**。独唱赞美歌里，独唱者唱叙事，合唱在关键句上接入，形成一问一答。最后听**和声的密度**。圣咏曲调往往四声部同时移动，纵向的厚度比横向的旋律更重要。
 
-## 代表作
+## 作品与写法
 
 - 牧歌集《The First Set of Madrigals and Motets》（1612），含《The Silver Swan》
 - 独唱赞美歌《This is the record of John》
 - 圣咏曲调《Drop, Drop, Slow Tears》《Song 1》
 - 键盘曲《Pavan》MB15、《Coranto》MB39
 
-## 影响
+## 影响与误读
 
 吉本斯之后，英国教堂音乐与室内声乐都沿用他的段落处理方式；十七世纪的手稿把他的琴曲与伯德、布尔抄在一起，形成「维吉纳琴乐派」的核心。二十世纪英国作曲家重新编订他的赞美歌，他的牧歌至今是合唱团训练句法与平衡的常用材料。
 
@@ -56,7 +56,7 @@ updated: 2026-10-30
 :::
 
 ::: en
-## Who he was
+## Training and teachers
 
 **Orlando Gibbons** (1583–1625) was one of the last composers of the English Renaissance. He was born in Oxford, the son of a town musician, joined the Chapel Royal as a keyboard player around 1605, and added the post of organist at Westminster Abbey in 1623. In 1625 he went to Canterbury to prepare for the wedding of Charles I, caught smallpox and died there at forty-one. He left one book of madrigals, a large number of English anthems, hymn tunes and several dozen keyboard pieces.
 
@@ -64,18 +64,18 @@ updated: 2026-10-30
 
 He sits on a brief, crowded handover point. The Italian madrigal had reached England and English composers had made it more restrained and more chordal; at the same time the English service after the Reformation needed new music, and the verse anthem, solo voices answered by choir, became the main form. Gibbons wrote both, and wrote both well: madrigalian phrasing, anthem structure and keyboard ornament all run on the same harmonic language.
 
-## What to hear
+## Where to start
 
 Listen first for **voices withdrawing**. At the end of The Silver Swan the parts stop one after another, the texture thins, and a single line is left; this subtraction is his signature. Then listen for **the division of labour between solo and choir**. In a verse anthem the soloist narrates and the choir enters at the key sentences, so the music answers itself. Finally listen for **harmonic density**. In the hymn tunes all four parts move together, and the vertical thickness matters more than the horizontal melody.
 
-## Key works
+## Works and craft
 
 - Madrigals, The First Set of Madrigals and Motets (1612), including The Silver Swan
 - Verse anthem, This is the record of John
 - Hymn tunes, Drop, Drop, Slow Tears and Song 1
 - Keyboard, Pavan MB15 and Coranto MB39
 
-## Influence
+## Influence and misreadings
 
 After Gibbons, English church music and domestic vocal music kept his way of shaping sections; seventeenth-century manuscripts copy his keyboard pieces alongside Byrd and Bull, forming the core of what is now called the virginalists. Twentieth-century editors revived his anthems, and his madrigals remain standard material for teaching choirs phrase and balance. His short keyboard dances are also among the first English pieces written for the instrument rather than for voices.
 

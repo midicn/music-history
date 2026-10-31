@@ -27,7 +27,7 @@ updated: 2026-10-30
 ::: zh
 德里尔是 2010 年代从芝加哥传出的说唱，滑音低音、稀疏旋律与冷峻的人声让它听起来像夜里的街道。
 
-## 起源与年代
+## 年代与地点
 2010 至 2012 年，芝加哥南区的 Chief Keef 与制作人 Young Chop 用简单的钢琴或钟声、滑动的 808 低音与密集踩镲做出《I Don't Like》，Lil Durk 与 Fredo Santana 把场景扩大，地下视频与电台让这些歌扩散得很快。芝加哥的版本常以简单的三音动机循环，伦敦的版本更依赖低音滑动的形状。2012 年后，伦敦的 67、Harlem Spartans 与 Headie One 把速度与低音改得更暗，形成 UK drill；2019 年前后布鲁克林的 Pop Smoke 又把伦敦的伴奏带回纽约，做成新的混合。
 
 ## 听辨特征
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## 代表人物
 Chief Keef 与 Young Chop 定义了芝加哥的模板，Lil Durk 把它带进主流，Fredo Santana 与 G Herbo 延续了芝加哥的写法，Headie One 与 67 把伦敦的版本做成一种地方语言，Pop Smoke 用低沉的嗓音把纽约版推到全球，Sheff G 与 Sleepy Hallow 在布鲁克林接上这条线。
 
-## 谱系
+## 前后脉络
 上承 trap、芝加哥说唱与英国 road rap，下接全球 drill、采样翻红的流行歌与舞曲化的改编，2020 年代的流行歌也开始借用它的滑音与半速鼓。它把 trap 的低音进一步做成滑动的线条。
 
 ## 常见误解
@@ -50,7 +50,7 @@ drill 不是英国独有的，它先在芝加哥成形。它也不完全等于 t
 ::: en
 Drill is rap that came out of Chicago in the 2010s, where sliding bass, sparse melody and a cold delivery sound like a street at night.
 
-## Origins and era
+## Era and place
 Between 2010 and 2012 Chief Keef, from Chicago's South Side, and producer Young Chop built I Don't Like from simple piano or bells, a sliding 808 bass and dense hats; Lil Durk and Fredo Santana widened the scene, and underground videos and radio spread the songs fast. After 2012 London's 67, Harlem Spartans and Headie One made the tempo and bass darker, forming UK drill, and around 2019 Pop Smoke in Brooklyn carried the London backing back to New York and made a new blend.
 
 ## What you hear
@@ -59,7 +59,7 @@ Tempo sits mostly at 140 BPM, the snare lands on three, and the feel is half-tim
 ## Key figures
 Chief Keef and Young Chop set the Chicago template, Lil Durk carried it into the mainstream, Fredo Santana and G Herbo kept the Chicago writing going, Headie One and 67 made the London version a local language, Pop Smoke pushed the New York version worldwide with a low voice, and Sheff G and Sleepy Hallow continued the line in Brooklyn.
 
-## Lineage
+## Lines before and after
 Trap, Chicago rap and British road rap feed in; global drill, sample-flipping pop hits, dance remakes and 2020s pop that borrows the glide and half-time drums come out. It pushed trap's bass further into a sliding line.
 
 ## Common misunderstandings

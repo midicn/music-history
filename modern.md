@@ -183,7 +183,7 @@ The orchestra becomes a percussion machine: more drums, woodblocks, bells and pi
 - **Arnold Schoenberg (1874–1951)** moved from free atonality to twelve-tone method, rewriting harmonic logic and teaching Berg and Webern.
 - **Igor Stravinsky (1882–1971)** detonated the rhythmic revolution with The Rite, turned to neoclassicism, then to serial technique.
 - **Béla Bartók (1881–1945)** fused folk modes, irregular metres and percussive piano writing into a personal language.
-- **Sergei Prokofiev (1891–1953)** and **Dmitri Shostakovich (1906–1975)** wrote irony, lyricism and symphonies under Soviet pressure, between official criticism and a private voice.
+- **Sergei Prokofiev (1891–1953)** and Dmitri Shostakovich (1906–1975) wrote irony, lyricism and symphonies under Soviet pressure, between official criticism and a private voice.
 
 ## What to listen for
 

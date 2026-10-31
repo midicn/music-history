@@ -43,7 +43,7 @@ updated: 2026-10-30
 
 曲库没有《幻想交响曲》的录音，这里用同一位作曲家的三首作品建立坐标。先听《安魂曲》的末日经，铜管与合唱把空间一层层撑开。再听《维拉内尔》，旋律轻盈，伴奏却不断离调，像回忆里被扭曲的舞曲。最后听《玫瑰幽灵》，人声几乎被器乐托着走。三首共享同一套配器与和声趣味，听完再读那份节目单，会更容易理解1830年发生了什么。
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:romantic]]，连接柏辽兹、[[glossary:program-music]]与交响诗的发明。
 
@@ -71,7 +71,7 @@ Programme music stopped being music with an explanation attached and became a wa
 
 The library holds no recording of the Symphonie fantastique, so these three works by the same composer set the coordinates. Begin with the Dies irae of the Requiem, where brass and chorus open the space in layers. Then Villanelle, light in melody but restless in harmony, like a dance remembered wrong. Finally Le spectre de la rose, where the voice is carried almost entirely by the instruments. All three share the orchestral and harmonic taste of 1830, and hearing them before rereading the programme makes that year easier to understand.
 
-## Related
+## Related entries
 
 This turn belongs to [[period:romantic]] and connects 柏辽兹, [[glossary:program-music]] and 交响诗的发明.
 

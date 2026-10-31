@@ -27,19 +27,19 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 时间与地点
+## 时间，与当时的地点
 
 1893年10月28日（俄历10月16日），圣彼得堡，俄罗斯音乐协会音乐会。柴可夫斯基亲自指挥《第六交响曲》首演。九天后，11月6日，他在圣彼得堡去世。标题“悲怆”来自俄语 pateticheskaya，原意更接近“充满情感”，法语译名把它变成了“可怜”。
 
-## 发生了什么
+## 当时的经过
 
 四个乐章不走“奋斗—胜利”的老路。第一乐章从低音管与低音弦乐的阴郁引子开始，主题几次冲高又落下；第二乐章是五拍子的舞曲，第三乐章是进行曲，像回忆突然闯入。末乐章是缓慢的哀歌，旋律一次次往下走，最后在低音区消失。全曲没有凯旋的结尾，乐队在安静中停下。
 
-## 改变了什么
+## 影响与后果
 
 交响曲可以不以胜利收束，而把告别、疲惫与未完成留在最后。末乐章的慢速与下坠成为后来作曲家处理悲剧的常用手法。首演本身很成功，但作曲家九天后的死亡让作品立刻被读成自传与预言；这种“绝笔”式的接受，影响了二十世纪对柴可夫斯基的理解。
 
-## 听这个转折
+## 听一段转折
 
 先听第一乐章的引子，低音管像叹气，弦乐在下面压着。再听第二乐章的五拍子舞曲，脚步一瘸一拐；第三乐章的进行曲则突然变硬，像回忆里的军乐。最后听末乐章，旋律一级一级往下落，每次都停在更低的音上。三段连起来，是一条没有回到高处的路。
 
@@ -47,26 +47,26 @@ updated: 2026-10-28
 {"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["A3","G3","F3","E3","D3","C#3","D3"],"label":"末乐章的下降叹息","label_en":"A falling sigh in the finale","hint":"听旋律一次次往下落，每次都停在不同的低音上","hint_en":"Hear the line fall again and again, each time resting on a lower note"}
 ```
 
-## 相关
+## 接着读
 
 这条转折属于 [[period:romantic]]；体裁见 [[glossary:symphony]] 与 [[glossary:patetico]]，乐器见 [[instrument:french-horn]]。
 
 :::
 
 ::: en
-## Time and place
+## When, and where
 
 28 October 1893, new style, which was 16 October in Russia, at a concert of the Russian Musical Society in St Petersburg. Tchaikovsky conducted the first performance of his Sixth Symphony. Nine days later, on 6 November, he died in the city. The title comes from the Russian pateticheskaya, closer to passionate or emotional; the French Pathétique turned it toward the pitiful.
 
-## What happened
+## What took place
 
 The four movements avoid the old road from struggle to triumph. The first begins with a gloomy introduction for bassoon and low strings, and its themes rise and fall. The second is a waltz in five beats, the third a march, as if memory had burst in. The finale is a slow lament whose line keeps sinking until it disappears in the low register. There is no victorious close; the orchestra stops in quiet.
 
-## What changed
+## Effects and aftermath
 
 A symphony could end without victory, leaving farewell, exhaustion and incompletion in the last bar. The slow, falling finale became a common way to shape tragedy. The premiere itself went well, but the composer's death nine days later made the work read at once as autobiography and prophecy. That reading shaped how the twentieth century heard Tchaikovsky.
 
-## Listen to the turn
+## Hear the turn
 
 Begin with the first movement's introduction, the bassoon sighing while strings press beneath. Then hear the five-beat waltz, its step uneven, and the march that suddenly hardens like military music in a memory. Finally the finale, the line falling step by step, each phrase resting lower. Together they trace a road that never returns to the heights.
 
@@ -74,7 +74,7 @@ Begin with the first movement's introduction, the bassoon sighing while strings 
 {"type": "instrument", "gm": "String Ensemble 1", "synth": "bowed", "phrase": ["A3", "G3", "F3", "E3", "D3", "C#3", "D3"], "label": "A falling sigh in the finale", "label_en": "A falling sigh in the finale", "hint": "听旋律一次次往下落，每次都停在不同的低音上", "hint_en": "Hear the line fall again and again, each time resting on a lower note"}
 ```
 
-## Related
+## Read next
 
 This turn belongs to [[period:romantic]]; see [[glossary:symphony]] and [[glossary:patetico]], and [[instrument:french-horn]].
 :::

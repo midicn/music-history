@@ -48,7 +48,7 @@ updated: 2026-10-30
 {"type":"instrument","gm":"Choir Aahs","synth":"vocal","phrase":["C4","D4","E4","F4","G4","A4","G4","F4","E4","D4","C4"],"label":"六声音阶的六个台阶","label_en":"Six steps of the hexachord","hint":"听 mi 与 fa 之间唯一的半音，再想换位为什么必要","hint_en":"Hear the single semitone between mi and fa, then why mutation was needed"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:medieval]]，术语见[[glossary:mode]]与[[glossary:interval]]。
 
@@ -77,7 +77,7 @@ Begin with the organ verset on Ut queant laxis, where each phrase starts one ste
 {"type": "instrument", "gm": "Choir Aahs", "synth": "vocal", "phrase": ["C4", "D4", "E4", "F4", "G4", "A4", "G4", "F4", "E4", "D4", "C4"], "label": "Six steps of the hexachord", "label_en": "Six steps of the hexachord", "hint": "听 mi 与 fa 之间唯一的半音，再想换位为什么必要", "hint_en": "Hear the single semitone between mi and fa, then why mutation was needed"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:medieval]]; see [[glossary:mode]] and [[glossary:interval]].
 

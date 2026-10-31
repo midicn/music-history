@@ -24,15 +24,15 @@ updated: 2026-10-30
 ---
 
 ::: zh
-## 时间与地点
+## 年代与地方
 
 埙是陶土烧成的闭管吹孔乐器，浙江余姚河姆渡出土的一孔埙距今约七千年，西安半坡的陶哨、安阳殷墟的五孔埙接在后面。先秦它用于宫廷与乡野，此后长期退到民间，20世纪又在湖北、陕西、河南的音乐家手里重新成为独奏乐器。
 
-## 发生了什么
+## 它是怎么来的
 
 陶土容易成形，一孔就能吹出两个音，埙因此成为最早的有音高乐器之一。商代五孔埙能吹出五声骨干，周代把埙归入八音的土类，与篪、笙同用于雅乐。汉代以后笛、箫、笙占了上风，埙退到寺院与民间。1980年代仿古乐器兴起，八孔、十孔埙被做出来，作曲家为它写独奏，埙的暗哑音色重新被听见。
 
-## 音乐特征
+## 声音的骨架
 
 埙多为卵形或球形，顶端一个吹孔，侧面按音孔，八孔埙音域约一个八度半，十孔埙更宽。闭管结构让低音要靠俯吹，即压低气息与角度才能得到，音量小，音色暗而带气。技法有气震、滑音、打音、颤音与抹音；相邻音之间常靠滑音连成腔，句尾多为长音。它适合独奏、与琴或箫合奏，在乐队里多作色彩。埙的指法不复杂，难在气息与角度；同一个音孔，吹得急一点音就高，缓一点音就低，俯吹与仰吹之间还有一片可用的音。
 
@@ -40,7 +40,7 @@ updated: 2026-10-30
 
 先听气声与陶土的空，再听低音怎样靠俯吹得到。埙的滑音多，音与音之间不是跳过去，而是抹过去；长音上有缓慢的气震。库中开封《不怕黄河冲上来》、浙江《岭工歌》与陕西《脚夫调》分别是河南号子、浙西劳动歌与关中山歌，代表埙出土地的声音，它们不是埙录音。
 
-## 常见误解
+## 常被误会的地方
 
 常见误解是把埙当成陶笛，或以为它只是仿古摆设。陶笛是哨口乐器，发声靠哨隙；埙是吹孔乐器，靠嘴唇与吹孔的角度控制，俯吹与滑音是它的本事。另一误解是埙只能吹苍凉的古曲，它的音域虽窄，仍能吹完整的五声与七声旋律。
 
@@ -50,15 +50,15 @@ updated: 2026-10-30
 :::
 
 ::: en
-## Time and place
+## When and where
 
 The xun is a closed clay vessel with a blow hole, made of fired earth. A one-hole xun from Hemudu in Yuyao, Zhejiang, is about seven thousand years old; clay whistles from Banpo in Xi'an and five-hole xun from the Yin ruins at Anyang follow. It served in courts and villages in early times, then survived mainly in folk and religious settings until twentieth-century musicians in Hubei, Shaanxi and Henan made it a solo instrument again.
 
-## What happened
+## How it came about
 
 Clay is easy to shape, and a single hole already yields two notes, which makes the xun one of the earliest pitched instruments in China. Five-hole Shang xun produce a pentatonic skeleton, and the Zhou classified the xun under earth in the eight-tone system, using it with the chi and sheng in ritual music. After the Han, dizi, xiao and sheng prevailed and the xun withdrew to temples and villages. In the 1980s replicas and new eight- and ten-hole models appeared, composers wrote solos, and its veiled tone was heard again.
 
-## Musical features
+## The sound's frame
 
 Most xun are egg- or globe-shaped, with a blow hole at the top and finger holes at the side. An eight-hole xun spans about an octave and a half, a ten-hole model more. Because the vessel is closed, low notes require angling the breath downward, a technique called fu chui; volume is small and the tone dark and breathy. Players use abdominal vibrato, slides, strikes, trills and smears, joining notes into speech-like curves, and phrase ends are usually long.
 
@@ -66,7 +66,7 @@ Most xun are egg- or globe-shaped, with a blow hole at the top and finger holes 
 
 Hear the air and the hollow clay, then how the low register is reached by angling the breath. The xun slides rather than leaps, and slow vibrato colours long notes. The library's Kaifeng work song, the Jiande labour song and the Shaanxi Jiaofu Diao are a Henan work song, a Zhejiang work song and a Guanzhong mountain song, not xun recordings, but they stand for the regions where xun were excavated.
 
-## Common misunderstandings
+## What is often mistaken
 
 The xun is often taken for an ocarina or a revival ornament. An ocarina is a duct flute, its sound made by a fixed windway; the xun is a vessel flute controlled by lip angle, and its low register and slides depend on that control. Another mistake is to think its narrow range limits it to archaic laments; it can carry complete pentatonic and heptatonic melodies.
 

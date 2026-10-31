@@ -27,27 +27,27 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 一个人的来历
 
 **理查德·瓦格纳**（1813–1883）出生于莱比锡，是 19 世纪最具争议也最具影响力的歌剧作曲家。他主张**音乐、戏剧、诗歌、舞台与视觉合为一体**的「整体艺术作品」（Gesamtkunstwerk），并亲自写剧本、设计剧院——拜罗伊特节日剧院就是为他的《尼伯龙根的指环》而建。
 
-## 时代与位置
+## 他所在的时代
 
-瓦格纳把**浪漫主义歌剧**推向极端：传统的分曲（咏叹调、宣叙调）被**连续音乐**取代，管弦乐队成为戏剧的叙述者，**主导动机**（Leitmotif）让人物、物件与观念在音乐里反复出现。他的和声（特里斯坦和弦、半音扩张）把调性推到崩溃边缘，直接通向 20 世纪。
+瓦格纳把**浪漫主义歌剧**推向极端：传统的分曲（咏叹调、宣叙调）被**连续音乐**取代，管弦乐队成为戏剧的叙述者，主导动机（Leitmotif）让人物、物件与观念在音乐里反复出现。他的和声（特里斯坦和弦、半音扩张）把调性推到崩溃边缘，直接通向 20 世纪。
 
-## 听什么
+## 先听这三首
 
-先听**主导动机**：一个人物或一件物品有一个短小的音乐标签，听它怎样变形、叠加、转调。再听**连续体**：瓦格纳的歌剧很少「停下来鼓掌」，音乐一直在流。最后听**管弦乐的重量**：铜管、低音与半音和声共同制造一种无法退出的戏剧压力。
+先听主导动机：一个人物或一件物品有一个短小的音乐标签，听它怎样变形、叠加、转调。再听连续体：瓦格纳的歌剧很少「停下来鼓掌」，音乐一直在流。最后听管弦乐的重量：铜管、低音与半音和声共同制造一种无法退出的戏剧压力。
 
-## 代表作
+## 作品与写法
 
 - 歌剧：《特里斯坦与伊索尔德》《纽伦堡的名歌手》《帕西法尔》
 - 乐剧：《尼伯龙根的指环》（四联剧）
 - 早期：《黎恩济》《漂泊的荷兰人》
 
-## 影响
+## 留下的痕迹
 
-瓦格纳之后，**歌剧不再只是「唱段集」，而是完整的戏剧音乐**；他的主导动机影响了电影配乐，他的半音和声直接通向勋伯格与无调性。**爱他和恨他的人，都无法绕过他。**
+瓦格纳之后，歌剧不再只是「唱段集」，而是完整的戏剧音乐；他的主导动机影响了电影配乐，他的半音和声直接通向勋伯格与无调性。爱他和恨他的人，都无法绕过他。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["A3","C4","E4","G#4","B4","G#4","E4"],"label":"瓦格纳的和声：一条不肯落地的线","label_en":"Wagner's harmony: a line that will not land","hint":"借钢琴近似：听半音与远关系和声怎样延迟解决。瓦格纳的张力来自「不回家」，不是音量。","hint_en":"A piano stands in: listen to chromatic and distant harmony delaying resolution. Wagner's tension comes from not going home, not from volume."}
@@ -55,17 +55,17 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Life
 
 **Richard Wagner** (1813–1883) was born in Leipzig and became the most controversial and influential opera composer of the nineteenth century. He argued for a **total work of art** (Gesamtkunstwerk) uniting music, drama, poetry, stage and spectacle, wrote his own librettos and designed a theatre — the Bayreuth Festspielhaus was built for his Ring cycle.
 
 ## His place
 
-Wagner pushed **Romantic opera** to an extreme: conventional numbers (arias, recitatives) give way to **continuous music**, the orchestra becomes the narrator, and **leitmotifs** make characters, objects and ideas recur throughout the score. His harmony (the Tristan chord, chromatic expansion) pushes tonality to the edge and leads straight into the twentieth century.
+Wagner pushed **Romantic opera** to an extreme: conventional numbers (arias, recitatives) give way to **continuous music**, the orchestra becomes the narrator, and leitmotifs make characters, objects and ideas recur throughout the score. His harmony (the Tristan chord, chromatic expansion) pushes tonality to the edge and leads straight into the twentieth century.
 
 ## What to hear
 
-Listen first for **leitmotifs**: a character or object has a short musical tag — hear it transformed, layered and transposed. Then hear **continuity**: Wagner's operas rarely stop for applause; the music keeps flowing. Finally hear **orchestral weight**: brass, bass and chromatic harmony create a dramatic pressure from which there is no exit.
+Listen first for leitmotifs: a character or object has a short musical tag — hear it transformed, layered and transposed. Then hear continuity: Wagner's operas rarely stop for applause; the music keeps flowing. Finally hear orchestral weight: brass, bass and chromatic harmony create a dramatic pressure from which there is no exit.
 
 ## Key works
 
@@ -73,9 +73,9 @@ Listen first for **leitmotifs**: a character or object has a short musical tag �
 - Music drama: Der Ring des Nibelungen (four evenings)
 - Early: Rienzi, Der fliegende Holländer
 
-## Influence
+## Influence and misreadings
 
-After Wagner, **opera is no longer a collection of numbers but a complete dramatic music**; his leitmotifs shaped film scoring, and his chromatic harmony leads to Schoenberg and atonality. **Those who love him and those who hate him cannot go around him.**
+After Wagner, opera is no longer a collection of numbers but a complete dramatic music; his leitmotifs shaped film scoring, and his chromatic harmony leads to Schoenberg and atonality. Those who love him and those who hate him cannot go around him.
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["A3","C4","E4","G#4","B4","G#4","E4"],"label":"Wagner's harmony: a line that will not land","label_en":"Wagner's harmony: a line that will not land","hint":"A piano stands in: listen to chromatic and distant harmony delaying resolution. Wagner's tension comes from not going home, not from volume.","hint_en":"A piano stands in: listen to chromatic and distant harmony delaying resolution. Wagner's tension comes from not going home, not from volume."}

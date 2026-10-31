@@ -29,7 +29,7 @@ updated: 2026-10-30
 ::: zh
 大乐队首先是一种编制，其次才是一种风格。十几个人分成铜管、簧片与节奏三块，靠编曲让声部彼此应答，把舞曲变成一场有组织的对话。
 
-## 起源与年代
+## 年代与地点
 1920 年代，纽约的舞厅乐队把新奥尔良的小乐队扩成三四个小号、两三个长号、四五支萨克斯加节奏组。弗莱彻·亨德森 1923 年前后开始按声部写谱，艾灵顿 1927 年在棉花俱乐部把配器变成作曲。1935 年 8 月古德曼在帕洛玛舞厅的演出引爆摇摆热，1935 至 1946 年是大乐队的黄金期。1942 至 1944 年的录音禁令与战后舞厅衰退让大乐队缩水，但编制一直留到后来。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-30
 ## 代表人物
 弗莱彻·亨德森建立了声部写作的模板，艾灵顿把乐队当成一件会说话的乐器，贝西在堪萨斯城用 riff 与节奏组的松弛立起另一种风格。古德曼让单簧管成为明星，韦布与卢斯福德把鼓与声乐放进同一场表演，米勒在商业上把大乐队推到最广的听众。
 
-## 谱系
+## 前后脉络
 它从新奥尔良与芝加哥的舞曲乐队长出来，上承拉格泰姆的段落感，下接摇摆时代、战后爵士大乐队与节奏布鲁斯巡演乐队。比波普把编制缩回五重奏，但大乐队写作的和声与声部概念仍留在编曲传统里。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-30
 ::: en
 A big band is a line-up before it is a style. A dozen or more players divide into brass, reeds and rhythm, and arrangements make the sections answer each other, turning dance music into organised conversation.
 
-## Origins and era
+## Era and place
 In the 1920s New York ballroom bands expanded the small New Orleans group into three or four trumpets, two or three trombones, four or five saxophones and a rhythm section. Fletcher Henderson began writing by section around 1923, and Duke Ellington turned orchestration into composition at the Cotton Club from 1927. Benny Goodman's August 1935 engagement at the Palomar Ballroom set off the swing craze, and 1935 to 1946 was the golden period. The recording ban of 1942 to 1944 and the postwar decline of ballrooms shrank the bands, though the format survived.
 
 ## What you hear
@@ -61,7 +61,7 @@ Separate the three blocks. Brass uses mutes and unison to make points, reeds lay
 ## Key figures
 Fletcher Henderson established the template for section writing, Ellington treated the band as one speaking instrument, and Count Basie built another style in Kansas City from riffs and a relaxed rhythm section. Goodman made the clarinet a star, Chick Webb and Jimmie Lunceford put drums and vocals in the same show, and Glenn Miller reached the widest popular audience.
 
-## Lineage
+## Lines before and after
 It grew from New Orleans and Chicago dance bands, inherited ragtime's sense of sections, and fed the swing era, postwar jazz orchestras and rhythm-and-blues touring bands. Bebop shrank the group back to a quintet, but big-band harmony and section thinking stayed in the arranging tradition.
 
 ## Common misunderstandings

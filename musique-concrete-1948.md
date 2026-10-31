@@ -27,19 +27,19 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 时间与地点
+## 时间坐标
 
 1948年，巴黎，法国广播电台的实验录音室。10月，舍费尔的《五首噪声练习曲》通过广播播出，素材是火车、转门、锅碗和钢琴。
 
-## 发生了什么
+## 当时的场面
 
 他不用乐谱，先录下真实声音，再在唱片刻纹机与磁带上剪接。闭合沟槽让一小段声音循环，变速改变音高与长度，倒放抹掉因果，滤波只留下某个频段。声音被从来源里拆出来，成为可摆放、叠加、变形的材料。他从声音出发作曲，称之为具体音乐，与从抽象音高出发的电子音乐相对。1949年亨利加入，1958年更名为音乐研究小组。
 
-## 改变了什么
+## 之后不一样了
 
 录音室成了乐器，作曲家不必等演奏者，也不必写音符。作品可以只存在于磁带与扬声器里，音乐会不再是唯一现场。电影音效、广播剧、采样与声音设计都沿这条路走。它也逼着版权与理论重新回答：没有乐谱、没有演奏者的声音，作者是谁。
 
-## 听这个转折
+## 听一段转折
 
 库里没有舍费尔的《噪声练习曲》，也没有同时期的磁带作品，只能听前史。安太尔《飞机奏鸣曲》把机械节奏敲进钢琴，考威尔《Dynamic Motion》把钢琴当成打击乐器，奥恩斯坦《飞机上的自杀》让滑翔音响压过旋律。它们不是具体音乐，却在教耳朵把噪声当材料。
 
@@ -47,25 +47,25 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Woodblock","synth":"perc","phrase":["C4","D4","F4","A4","F4","D4"],"label":"声音对象：把噪声剪成节奏","label_en":"Sound object: cutting noise into rhythm","hint":"听干、短、无来源的敲击，想象它在磁带上被循环和倒放","hint_en":"Hear dry, short hits without a source, then imagine them looped and reversed on tape"}
 ```
 
-## 相关
+## 接着读
 
 这条转折属于 [[period:contemporary]]，乐器见 [[instrument:tape-music]]，方法见 [[glossary:sound-design]]，材料见 [[glossary:timbre]]。
 :::
 
 ::: en
-## Time and place
+## On the timeline
 
 Paris, 1948, in the experimental studio of French radio. In October, Schaeffer's Five Studies of Noises went on air, built from trains, turnstiles, saucepans and a piano.
 
-## What happened
+## The scene at the time
 
 Schaeffer did not begin with a score. He recorded real sounds, then cut and spliced them on disc lathes and tape. A closed groove repeated a fragment; speed changes altered pitch and length; reversal erased cause and effect; filtering kept one band. Sound was detached from its source and became material to place, layer and distort. He called this composing from sound musique concrète, against electronic music that began from abstract pitches. Pierre Henry joined in 1949, and the studio became the Groupe de Recherches Musicales in 1958.
 
-## What changed
+## What was different after
 
 The studio became an instrument. Composers no longer needed performers or notation; a work could exist only on tape, and the concert was no longer its only home. Film sound, radio drama, sampling and sound design all follow this road. It forced copyright and theory to answer a new question: with no score and no player, who is the author?
 
-## Listen to the turn
+## Hear the turn
 
 The library holds no Schaeffer studies, so listen to the prehistory. Antheil's Airplane Sonata drives machine rhythm into the piano, Cowell's Dynamic Motion turns the piano into percussion, and Ornstein's Suicide in an Airplane lets a gliding roar override melody. None is musique concrète, yet each teaches the ear to treat noise as material.
 
@@ -73,7 +73,7 @@ The library holds no Schaeffer studies, so listen to the prehistory. Antheil's A
 {"type": "instrument", "gm": "Woodblock", "synth": "perc", "phrase": ["C4", "D4", "F4", "A4", "F4", "D4"], "label": "Sound object: cutting noise into rhythm", "label_en": "Sound object: cutting noise into rhythm", "hint": "听干、短、无来源的敲击，想象它在磁带上被循环和倒放", "hint_en": "Hear dry, short hits without a source, then imagine them looped and reversed on tape"}
 ```
 
-## Related
+## Read next
 
 This turn belongs to [[period:contemporary]]; see [[instrument:tape-music]], [[glossary:sound-design]] and [[glossary:timbre]].
 :::

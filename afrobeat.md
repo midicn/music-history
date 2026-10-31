@@ -29,19 +29,19 @@ updated: 2026-10-28
 ::: zh
 非洲节拍把 Highlife、爵士与放克放进大乐队，用交错鼓组与长循环推进。
 
-## 起源与年代
+## 从哪儿来
 1960 年代末，Fela Kuti 与 Tony Allen 在尼日利亚把 Highlife、爵士与放克放进大乐队。1970 年代，它成了拉各斯俱乐部与政治批评的语言；1977 年的《Zombie》让它越过非洲。
 
-## 听辨特征
+## 耳朵先抓到什么
 先听鼓组，几条节奏各自循环、咬合，军鼓与铃铛给出时间线。贝斯走短促切分句，吉他用闷音扫弦，铜管以短 riff 应答。曲子常超过十分钟，段落靠乐器进出推进，而不是靠副歌。
 
-## 代表人物
+## 绕不开的人
 Fela Kuti 把乐队、歌词与舞台做成整体，Tony Allen 定义鼓组的交错语法。鼓与贝斯是节奏核心，铜管负责记忆点。Antibalas 与 Seun Kuti 把编制带给新一代。
 
-## 谱系
+## 它影响了谁
 上承西非 Highlife、爵士、放克与灵魂乐，下接非洲节拍复兴、世界音乐与舞蹈音乐。
 
-## 常见误解
+## 常被说错的地方
 非洲节拍不等于所有非洲流行，它是 1970 年代尼日利亚的编制。也不等于即兴，那些循环经过严密排练。把它当背景音乐，会漏掉歌词里的政治批评与乐队内的对话。
 
 ```audiolab
@@ -52,19 +52,19 @@ Fela Kuti 把乐队、歌词与舞台做成整体，Tony Allen 定义鼓组的�
 ::: en
 Afrobeat puts Highlife, jazz and funk inside one large band, driven by interlocking drums and long vamps.
 
-## Origins and era
+## Where it came from
 In the late 1960s Fela Kuti and drummer Tony Allen placed Highlife, jazz and funk inside one large band in Nigeria. In the 1970s Afrobeat became a shared language for Lagos clubs and political criticism, and Zombie (1977) carried it beyond Africa.
 
-## What you hear
+## What the ear catches
 Listen to the drum set, where several patterns loop and interlock while snare and bell mark a steady timeline. Bass plays short syncopated phrases, guitar chops muted chords, and horns answer in brief riffs. Pieces often run past ten minutes, and sections advance as instruments enter and leave rather than through a chorus. Voices may answer between lead and group.
 
-## Key figures
+## Names you cannot avoid
 Fela Kuti made band, lyrics and stage one whole, and Tony Allen defined the interlocking drum grammar. Drums and bass form the rhythmic core, while the horn section carries the hooks. Later Antibalas and Seun Kuti brought the line-up to new listeners.
 
-## Lineage
+## What it influenced
 West African Highlife, jazz, funk and soul feed in; the Afrobeat revival, world-music fusion and dance music come out. Long vamps and political writing passed to later African pop.
 
-## Common misunderstandings
+## What is often misread
 Afrobeat is not all African pop; it is a specific 1970s Nigerian line-up. Nor is it loose improvisation, since those loops were tightly rehearsed. Hearing it as background music misses the political critique and the conversation inside the band.
 
 ```audiolab

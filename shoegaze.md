@@ -28,7 +28,7 @@ updated: 2026-10-30
 ::: zh
 自赏把吉他铺成一片混响墙，人声退到后面，1980 年代末在英国泰晤士河谷与伦敦成形。
 
-## 起源与年代
+## 年代与地点
 1988 年，My Bloody Valentine 的《Isn't Anything》把摇把、失真与混响组合成新语汇，1991 年的《Loveless》把它推到极致。牛津的 Ride、雷丁的 Slowdive 与 Chapterhouse 同期出现。1990 到 1991 年，英国音乐杂志用“自赏”形容乐手盯着效果器踏板的样子，这个词最初带贬义。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## 代表人物
 My Bloody Valentine 的 Kevin Shields 用摇把与录音技术定义音色，Bilinda Butcher 的人声提供模糊的旋律。Ride 的早期单曲更接近吉他流行，Slowdive 更安静、更缓慢，Chapterhouse 把舞曲节奏带进来。这几个乐队的差异，比“自赏”这个标签所能容纳的更大。
 
-## 谱系
+## 前后脉络
 上承噪音流行、后朋克与 1980 年代的独立吉他音乐，下接 1990 年代的后摇滚与后来的器乐摇滚。它把音色与空间放到旋律之前，影响了氛围金属与梦境流行。1990 年代中期，英国媒体转向英伦摇滚，这一场景迅速退潮，乐队解散或转向其他风格。它在美国与欧洲留下的听众，后来通过再版与巡演把它重新带回，2010 年代的新乐队也重新拾起摇把与混响。
 
 ## 常见误解
@@ -50,7 +50,7 @@ My Bloody Valentine 的 Kevin Shields 用摇把与录音技术定义音色，Bil
 ::: en
 Shoegaze spread guitars into a wall of reverb and pushed the voice back, forming in Britain's Thames Valley and London in the late 1980s.
 
-## Origins and era
+## Era and place
 In 1988 My Bloody Valentine's Isn't Anything combined tremolo arm, distortion and reverb into a new vocabulary, and Loveless in 1991 took it to an extreme. Ride in Oxford, Slowdive in Reading and Chapterhouse appeared around the same time. In 1990 and 1991 the British music press used shoegaze for musicians staring at their effects pedals, and the word was initially dismissive.
 
 ## What you hear
@@ -59,7 +59,7 @@ Tempos run from 90 to 130 BPM, drums often feel half-time, and snare and cymbals
 ## Key figures
 Kevin Shields of My Bloody Valentine defined the tone through tremolo arm and studio technique, while Bilinda Butcher's voice supplied a blurred melody. Ride's early singles were closer to guitar pop, Slowdive was quieter and slower, and Chapterhouse brought dance rhythm in. The differences among these bands are larger than the label can hold.
 
-## Lineage
+## Lines before and after
 Noise pop, post-punk and 1980s independent guitar music feed in; 1990s post-rock and later instrumental rock come out. It placed tone and space ahead of melody and influenced ambient metal and dream pop. In the mid-1990s the British press turned to Britpop, the scene receded quickly, and bands broke up or changed direction. Listeners in the United States and Europe kept it alive through reissues and reunions, and a new generation picked up the tremolo arm and reverb in the 2010s.
 
 ## Common misunderstandings

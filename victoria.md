@@ -27,11 +27,11 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 生平一笔
 
 **托马斯·路易斯·德·维多利亚**（约 1548–1611）生于西班牙阿维拉，少年时在教堂唱诗班唱歌。1565 年他前往罗马，进入日耳曼学院学习，后来受神职，在罗马的教堂与祈祷会任职。1587 年他回到西班牙，做了皇太后的私人神父，晚年定居马德里，1605 年出版《亡者日课》。
 
-## 时代与位置
+## 他生活的城市
 
 维多利亚属于文艺复兴晚期的西班牙，也是反宗教改革音乐的代表。他吸收了罗马复调的技法，却把它带回一个更具神秘主义气质的宗教环境。与帕莱斯特里那的澄澈相比，他的音乐更愿意用尖锐的不协和音去刻画受难与忏悔，让文字的重量直接落在和声上。
 
@@ -39,15 +39,15 @@ updated: 2026-10-28
 
 先听**文字的推动**：遇到关键的词，他会突然从复调改为和弦式的齐唱，让整句歌词站到前台。再听**不协和的痛感**：在「过路的人」「黑暗」这样的词上，他会让声部短兵相接，然后才解决。最后听**高音的光**：西班牙式的多声部常把高音写得明亮，像教堂窗子透进来的光。
 
-## 代表作
+## 代表作品
 
 - 《亡者日课》（1605）
 - 圣周《耶利米哀歌》与Tenebrae 答唱咏
 - 《噢，你们一切过路的人》、《弥撒：何等美丽》
 
-## 影响
+## 留下的痕迹
 
-维多利亚是西班牙黄金时代宗教音乐的顶点，他的作品在二十世纪被重新发现，成为合唱团常演的曲目。**他证明复调不只是技术的堆积，也可以是一种跪下来的姿态。**
+维多利亚是西班牙黄金时代宗教音乐的顶点，他的作品在二十世纪被重新发现，成为合唱团常演的曲目。他证明复调不只是技术的堆积，也可以是一种跪下来的姿态。
 
 ```audiolab
 {"type":"instrument","gm":"Choir Aahs","synth":"vocal","phrase":["D4","F4","A4","G4","F4","E4","D4","A3"],"label":"维多利亚的经文歌：让文字落在和弦上","label_en":"Victoria's motet: letting the words land on a chord","hint":"借合唱音色近似：听声部在关键词上突然并成和弦，再散开成复调。真正的演唱还要听不协和音怎样被拖住、再解决。","hint_en":"Choral voices stand in: hear the parts suddenly merge on a key word, then fan out into polyphony. The real singing also holds the dissonance before resolving it."}
@@ -55,11 +55,11 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## A life in brief
 
 **Tomás Luis de Victoria** (c. 1548–1611) was born in Ávila, Spain, and sang in a church choir as a boy. In 1565 he went to Rome to study at the German College, later took holy orders and worked in Roman churches and oratories. He returned to Spain in 1587, served as private chaplain to the Empress Dowager, settled in Madrid, and published the Office of the Dead in 1605.
 
-## His place
+## The city he worked in
 
 Victoria belongs to late Renaissance Spain and represents the music of the Counter-Reformation. He absorbed Roman polyphony but carried it back into a more mystical religious climate. Compared with Palestrina's clarity, his music more readily uses sharp dissonance to depict suffering and penitence, letting the weight of the words land directly on the harmony.
 
@@ -73,7 +73,7 @@ Listen first for **the push of the text**: at a key word he may suddenly turn fr
 - Holy Week Lamentations and Tenebrae responsories
 - O vos omnes, Missa Quam pulchri sunt
 
-## Influence
+## What remains
 
 Victoria is the summit of sacred music in the Spanish Golden Age; his works were rediscovered in the twentieth century and are now standard choral repertoire. **He proved that polyphony need not be a pile of technique, but can be a posture of kneeling.**
 

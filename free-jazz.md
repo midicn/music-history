@@ -29,7 +29,7 @@ updated: 2026-10-28
 ::: zh
 自由爵士在 1950 年代末把爵士的固定和弦、固定节拍和主题与独奏的格式一起松开，让乐手靠集体倾听决定走向。
 
-## 起源与年代
+## 年代与地点
 1958 至 1960 年，奥内特·科尔曼录下《Something Else!!!!》《The Shape of Jazz to Come》与《Free Jazz》，后者在纽约用双四重奏同时即兴。1960 年代，塞西尔·泰勒、阿尔伯特·艾勒、桑·拉、阿奇·谢普与晚年的科尔特兰把自由爵士推向更激烈；芝加哥 AACM 与欧洲自由即兴接棒。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-28
 ## 代表人物
 奥内特·科尔曼用中音萨克斯与「harmolodics」重写旋律与和声；塞西尔·泰勒把钢琴变成打击与音簇的机器；阿尔伯特·艾勒的次中音萨克斯带着圣咏般的颤音；约翰·科尔特兰晚期的《Ascension》用大编制集体即兴；桑·拉把大乐队、键盘与宇宙题材放进一场演出。
 
-## 谱系
+## 前后脉络
 上承比波普、硬波普与模态爵士，下接 loft jazz、AACM、欧洲自由即兴、噪音与实验爵士；它把即兴从和弦变奏变成对声音的组织。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-28
 ::: en
 Free jazz loosened fixed chords, metre and theme-and-solos form in the late 1950s, letting the players decide the direction by listening.
 
-## Origins and era
+## Era and place
 Between 1958 and 1960 Ornette Coleman recorded Something Else!!!!, The Shape of Jazz to Come and Free Jazz in New York; the last set two quartets improvising together. In the 1960s Cecil Taylor, Albert Ayler, Sun Ra, Archie Shepp and the late Coltrane pushed the music further, and Chicago's AACM and European free improvisation followed.
 
 ## What you hear
@@ -61,7 +61,7 @@ The familiar ii–V–I cycle is gone, and often the steady metre too. Drums may
 ## Key figures
 Ornette Coleman rewrote melody and harmony with his alto saxophone and harmolodics; Cecil Taylor turned the piano into percussion and clusters; Albert Ayler's tenor carried a chant-like vibrato; Coltrane's late Ascension used a large ensemble for collective improvisation; Sun Ra put big band, keyboards and cosmic subjects on one stage.
 
-## Lineage
+## Lines before and after
 Bebop, hard bop and modal jazz feed in; loft jazz, the AACM, European free improvisation, noise and experimental jazz come out. It turns improvisation from variation over chords into the organisation of sound itself.
 
 ## Common misunderstandings

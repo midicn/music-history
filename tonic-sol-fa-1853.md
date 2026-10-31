@@ -47,7 +47,7 @@ updated: 2026-10-30
 {"type":"instrument","gm":"Choir Aahs","synth":"vocal","phrase":["C4","D4","E4","F4","G4","A4","B4","C5","B4","A4","G4","F4","E4","D4","C4"],"label":"可动唱名的音阶","label_en":"A scale in movable do","hint":"听第七级到主音的半音，再从别的音起唱，主音就换了位置","hint_en":"Hear the semitone from ti to do, then start elsewhere and the tonic moves"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:romantic]]，术语见[[glossary:scale-degree]]与[[glossary:tonality]]。
 
@@ -76,7 +76,7 @@ Begin with the New Britain tune of Amazing Grace, mostly stepwise, so that singi
 {"type": "instrument", "gm": "Choir Aahs", "synth": "vocal", "phrase": ["C4", "D4", "E4", "F4", "G4", "A4", "B4", "C5", "B4", "A4", "G4", "F4", "E4", "D4", "C4"], "label": "A scale in movable do", "label_en": "A scale in movable do", "hint": "听第七级到主音的半音，再从别的音起唱，主音就换了位置", "hint_en": "Hear the semitone from ti to do, then start elsewhere and the tonic moves"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:romantic]]; see [[glossary:scale-degree]] and [[glossary:tonality]].
 

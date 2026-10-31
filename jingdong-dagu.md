@@ -24,15 +24,15 @@ updated: 2026-10-30
 ---
 
 ::: zh
-## 时间与地点
+## 年代与地方
 
 京东大鼓成形于20世纪初，流行于河北香河、宝坻、三河一带与北京、天津。它以当地的木板大鼓为基础，吸收京东小调与叫卖声，用京东口音演唱，因地处北京以东而得名。
 
-## 发生了什么
+## 它是怎么来的
 
 木板大鼓原是一人击鼓打板、说唱长篇的乡间曲艺。艺人进京津后，为让城里听众听清，改用京东语音，删去生僻词，加入小调旋律，唱腔逐步定型。刘文斌是其中关键人物，他的唱法平实、字字清楚，长于长篇。曲目有《杨家将》《刘公案》《小八义》，也有《老来难》这类短段。
 
-## 音乐特征
+## 声音的骨架
 
 唱腔属板腔体，有起腔、平腔、落腔、高腔、垛板、快板。起腔把听众叫住，平腔叙事，落腔收束，垛板叠字加速。三弦伴奏，演员自击书鼓与板，鼓点与板眼分明。唱词七字、十字为主，押十三辙，用京东方言，字音比京韵大鼓硬，甩腔短。长篇靠回目与扣子推进。京东大鼓的长篇靠回目推进，短段靠包袱与人物。鼓点简单，板眼清楚，唱词比京韵更口语。
 
@@ -44,21 +44,21 @@ updated: 2026-10-30
 {"type":"instrument","gm":"Shamisen","synth":"plucked","phrase":["C4","D4","F4","G4","A4","G4","F4","D4","C4"],"label":"Jingdong dagu sanxian, shamisen approximation","label_en":"Jingdong dagu sanxian, shamisen approximation","hint":"The sanxian tracks the voice on skeletal notes, drum and clapper out front. A shamisen approximates the hard pluck; hear the short link it drops at phrase ends","hint_en":"The sanxian tracks the voice on skeletal notes, drum and clapper out front. A shamisen approximates the hard pluck; hear the short link it drops at phrase ends"}
 ```
 
-## 常见误解
+## 常被误会的地方
 
 常见误解是把京东大鼓当成京韵大鼓的别称，或以为它产自北京城。京东指北京以东的香河、宝坻一带，语音与唱腔都比京韵更土更直；京韵大鼓由木板大鼓改京音而成，两支同源而各走各路。京东大鼓的伴奏只有三弦，没有四胡，音色比京韵更单薄；听时先听字，字不清就失去一半。京东大鼓的书目多从鼓词与评书来，唱的是故事，不是抒情小诗。听的时候跟着人物走，别只等唱段，短段里也常有一个完整的小冲突。
 :::
 
 ::: en
-## Time and place
+## When and where
 
 Jingdong dagu formed in the early twentieth century around Xianghe, Baodi and Sanhe in Hebei, and in Beijing and Tianjin. Built on the local wooden-board drum song, it absorbed Jingdong ditties and street cries and sang in the Jingdong accent, taking its name from the region east of Beijing.
 
-## What happened
+## How it came about
 
 Wooden-board drum song was a village art, one performer beating drum and clapper through long tales. Moving into the cities, performers switched to Jingdong speech so urban listeners could follow, dropped obscure wording, added ditty melodies, and fixed the tunes. Liu Wenbin was the key figure, plain and clear in diction, strong in long books. The repertory includes the Yang family, Lord Liu's Cases and Small Eight Heroes, with short pieces such as Hard to Be Old.
 
-## Musical features
+## The sound's frame
 
 The singing is banqiang, with opening, level, closing and high tunes, plus stacked and fast sections. The opening halts the audience, the level tune narrates, the closing settles, stacked lines accelerate. Sanxian accompanies while the singer strikes book drum and clapper, drum strokes and beats distinct. Lines run seven or ten characters on the thirteen rhymes, in Jingdong dialect, harder in articulation than jingyun dagu, with short flung endings. Long books advance by chapters and hooks.
 
@@ -70,7 +70,7 @@ Begin with Hebei Yang Bajie you chun, a Yang-family drum item, hearing how seven
 {"type":"instrument","gm":"Shamisen","synth":"plucked","phrase":["C4","D4","F4","G4","A4","G4","F4","D4","C4"],"label":"Jingdong dagu sanxian, shamisen approximation","label_en":"Jingdong dagu sanxian, shamisen approximation","hint":"The sanxian tracks the voice on skeletal notes, drum and clapper out front. A shamisen approximates the hard pluck; hear the short link it drops at phrase ends","hint_en":"The sanxian tracks the voice on skeletal notes, drum and clapper out front. A shamisen approximates the hard pluck; hear the short link it drops at phrase ends"}
 ```
 
-## Common misunderstandings
+## What is often mistaken
 
 Jingdong dagu is often taken for another name for jingyun dagu, or assumed to come from Beijing city. Jingdong means the Xianghe and Baodi belt east of Beijing; its speech and tunes are earthier and blunter. Jingyun dagu was wooden-board song refitted to Beijing pronunciation, the same root taking a different road.
 :::

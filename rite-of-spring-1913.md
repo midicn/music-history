@@ -48,7 +48,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Timpani","synth":"perc","phrase":["C3","C3","G3","C3","D3","C3","G3"],"label":"春之祭：重音把拍子撕开","label_en":"The Rite of Spring: accents tear the metre apart","hint":"跟着低音的每一次敲击数拍，听重音如何落在意想不到的位置","hint_en":"Count with each low stroke and hear the accents land where you do not expect"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:modern]]，连接[[glossary:ballet-music]]、[[glossary:polyrhythm]]与[[glossary:cross-rhythm]]。
 :::
@@ -76,7 +76,7 @@ The Rite itself is not in the library. Begin with Stravinsky's Four Etudes, whos
 {"type": "instrument", "gm": "Timpani", "synth": "perc", "phrase": ["C3", "C3", "G3", "C3", "D3", "C3", "G3"], "label": "The Rite of Spring: accents tear the metre apart", "label_en": "The Rite of Spring: accents tear the metre apart", "hint": "跟着低音的每一次敲击数拍，听重音如何落在意想不到的位置", "hint_en": "Count with each low stroke and hear the accents land where you do not expect"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:modern]] and connects [[glossary:ballet-music]], [[glossary:polyrhythm]] and [[glossary:cross-rhythm]].
 :::

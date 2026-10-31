@@ -29,7 +29,7 @@ updated: 2026-10-28
 ::: zh
 音乐剧用流行唱法把戏剧唱段接起来，歌要推动情节，而不是停下来抒情。
 
-## 起源与年代
+## 年代与地点
 19 世纪末的轻歌剧、歌舞杂耍与 Tin Pan Alley 歌曲汇成百老汇音乐剧。1927 年《Show Boat》把严肃题材与歌曲结合，1940 到 1960 年代是黄金期。1960 年代后，摇滚音乐剧与巨型音乐剧分流。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-28
 ## 代表人物
 格什温把爵士和声写进《Porgy and Bess》，罗杰斯与汉默斯坦用《Oklahoma!》把歌曲与剧情缝在一起。伯恩斯坦在《West Side Story》里把拉丁节奏与悲剧并置，桑德海姆让歌词更复杂，韦伯把巨型音乐剧推向全球。
 
-## 谱系
+## 前后脉络
 上承轻歌剧、歌舞杂耍与 Tin Pan Alley 歌曲，下接摇滚音乐剧、点唱机音乐剧与电影歌舞片；它也把流行唱法带进戏剧舞台。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-28
 ::: en
 Musical theatre joins drama to popular singing, so a song must move the plot, not stop for a lyric.
 
-## Origins and era
+## Era and place
 Nineteenth-century operetta, vaudeville and Tin Pan Alley song met on Broadway. Show Boat in 1927 joined serious subject matter to song; the 1940s to 1960s became the golden age. After the 1960s rock musicals and megamusicals split the field.
 
 ## What you hear
@@ -61,7 +61,7 @@ Start with singing, where mix and chest voice alternate, and a microphone lets a
 ## Key figures
 Gershwin wrote jazz harmony into Porgy and Bess; Rodgers and Hammerstein stitched song to plot in Oklahoma!; Bernstein set Latin rhythm beside tragedy in West Side Story; Sondheim made lyrics more complex; Lloyd Webber took the megamusical global.
 
-## Lineage
+## Lines before and after
 Operetta, vaudeville and Tin Pan Alley song feed in; rock musicals, jukebox musicals and film musicals come out. It also brought popular singing to the dramatic stage.
 
 ## Common misunderstandings

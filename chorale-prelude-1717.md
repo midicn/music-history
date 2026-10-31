@@ -50,7 +50,7 @@ updated: 2026-10-30
 {"type":"instrument","gm":"Church Organ","synth":"struck","phrase":["G4","A4","B4","C5","B4","A4","G4","D4","E4","F#4","G4","G4"],"label":"众赞歌旋律与三条对位线","label_en":"Chorale melody above three counterpoints","hint":"把最高音当作会众唱的旋律，其余声部是管风琴加上的解释","hint_en":"Take the top line as the congregation's tune and the rest as the organ's commentary"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:baroque]]，乐器是[[instrument:organ]]，写法见[[glossary:counterpoint]]，句尾见[[glossary:cadence]]。
 :::
@@ -78,7 +78,7 @@ Begin with Bach's Wer nur den lieben Gott lasst walten, the tune in the top voic
 {"type": "instrument", "gm": "Church Organ", "synth": "struck", "phrase": ["G4", "A4", "B4", "C5", "B4", "A4", "G4", "D4", "E4", "F#4", "G4", "G4"], "label": "Chorale melody above three counterpoints", "label_en": "Chorale melody above three counterpoints", "hint": "把最高音当作会众唱的旋律，其余声部是管风琴加上的解释", "hint_en": "Take the top line as the congregation's tune and the rest as the organ's commentary"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:baroque]]; the instrument is the [[instrument:organ]], the craft [[glossary:counterpoint]] and the phrase endings [[glossary:cadence]].
 :::

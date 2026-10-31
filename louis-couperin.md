@@ -27,26 +27,26 @@ updated: 2026-10-30
 ---
 
 ::: zh
-## 他是谁
+## 一个人的来历
 
 **路易·库普兰**（约1626–1661）是法国巴洛克早期的键盘作曲家。他来自香槟地区的小镇，家族几代都是乐师。1650 年代他到巴黎，与当时的古钢琴名家尚博尼埃来往，并取得圣热尔韦教堂的管风琴职位，这个职位此后在库普兰家族内部传了近两百年。他 1661 年去世，年仅三十五岁，留下的作品以手抄本形式流传。
 
-## 时代与位置
+## 他所在的时代
 
 法国古钢琴学派在他这一代成形。此前的键盘音乐多以舞曲改编为主，路易·库普兰把前奏、舞曲与变奏组织成成套的组曲，并写了几首「不计量前奏」，即不标拍号、节奏由演奏者临场决定的前奏。他的侄子弗朗索瓦·库普兰后来把这套体裁发展到极致，法国古钢琴音乐的基本轮廓在他这里已经画好。
 
-## 听什么
+## 先听这三首
 
 先听**两条线的分工**。《三度上的幻想曲》里左手反复同一个音型，右手自由地走，两手像在说两件不同的事。再听**同一主题的两种命运**。《三度上的赋格》把相近的材料交给严格模仿，声部依次进入，与幻想曲形成对照。最后听**圣咏的骨架**。管风琴曲把素歌旋律拆成短句，在声部之间换位置，听它怎样一节一节往前推进。
 
-## 代表作
+## 作品与写法
 
 - 《三度上的幻想曲》OL 58、《三度上的赋格》OL 29
 - 《圣三一邀请咏》OL 52、《Beata nobis gaudia》OL 37
 - 古钢琴组曲多套，含帕萨卡耶与夏空
 - 三首为维奥尔琴写的幻想曲
 
-## 影响
+## 留下的痕迹
 
 他的不计量前奏成为法国古钢琴音乐的标志性体裁，后来的弗朗索瓦·库普兰与当格勒贝尔都从这里出发。由于作品长期以抄本流传，他在音乐史上的位置一度被侄子遮住；二十世纪编订出版之后，人们才把他看作法国键盘乐派真正的开端。
 
@@ -56,7 +56,7 @@ updated: 2026-10-30
 :::
 
 ::: en
-## Who he was
+## Life
 
 **Louis Couperin** (c. 1626–1661) was a French keyboard composer of the early Baroque. He came from a small town in Champagne, from a family of musicians several generations deep. In the 1650s he moved to Paris, associated with the harpsichordist Chambonnières, and obtained the organ post at Saint-Gervais, which stayed in the Couperin family for nearly two hundred years. He died in 1661 at thirty-five, and his music survived in manuscript.
 
@@ -75,7 +75,7 @@ Listen first for **the division of two lines**. In the Fantaisie sur la Tierce t
 - Harpsichord suites, including a passacaille and a chaconne
 - Three fantasies for viols
 
-## Influence
+## Influence and misreadings
 
 His unmeasured preludes became a signature genre of French harpsichord music, and François Couperin and d'Anglebert started from there. Because the music circulated in manuscript, his place in history was long overshadowed by his nephew; only after twentieth-century editions did he come to be seen as the real beginning of the French keyboard school. Players today value the preludes as the earliest French keyboard music in which the notation deliberately leaves the timing open.
 

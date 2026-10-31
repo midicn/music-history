@@ -163,8 +163,8 @@ Synthesizer, sampler, computer, tape machine and mixing desk become instruments;
 
 - **Pierre Boulez (1925–2016)** and **Karlheinz Stockhausen (1928–2007)** pushed total serialism to its limit; the latter built an electronic studio and a music-drama cycle.
 - **John Cage (1912–1992)** used chance, silence and 4′33″ to remove the composer's control and open the door to conceptual art.
-- **Terry Riley (b. 1935)**, **Steve Reich (b. 1936)** and **Philip Glass (b. 1937)** built minimalism from repetition, phase and modal patterns, later moving into film and opera.
-- **Gérard Grisey (1943–1998)** and **Tristan Murail (b. 1947)** made timbre the structure through harmonic analysis and microtonal writing.
+- **Terry Riley (b. 1935)**, Steve Reich (b. 1936) and Philip Glass (b. 1937) built minimalism from repetition, phase and modal patterns, later moving into film and opera.
+- Gérard Grisey (1943–1998) and Tristan Murail (b. 1947) made timbre the structure through harmonic analysis and microtonal writing.
 
 ## What to listen for
 

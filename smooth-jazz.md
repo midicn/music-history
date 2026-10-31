@@ -28,7 +28,7 @@ updated: 2026-10-30
 ::: zh
 平滑爵士是 1970 年代末到 1980 年代从融合爵士里分出的抒情一支。它把音量与音色磨平，把结构写成短歌，把独奏压缩成旋律的一部分，主要靠电台传播。
 
-## 起源与年代
+## 年代与地点
 1970 年代初，CTI 唱片把爵士乐手放进弦乐、电钢琴与电贝斯的编制里，录音更亮更厚。1976 年乔治·本森的《Breezin'》卖出流行成绩，1980 年格罗弗·华盛顿二世的《Winelight》把中音萨克斯放进慢速放克。1980 年代中后期，美国出现以“smooth jazz”为名的电台格式，节目单以器乐旋律为主，曲目多在四到五分钟内。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## 代表人物
 格罗弗·华盛顿二世把萨克斯旋律写进慢放克，乔治·本森用吉他与人声把爵士推向流行电台，鲍勃·詹姆斯与大卫·桑伯恩把电钢琴与萨克斯做成标志音色。斯派罗·吉拉在 1970 年代的布法罗把融合乐队带向更轻的方向，肯尼·G 在 1980 年代把这种声音推到最大听众群。
 
-## 谱系
+## 前后脉络
 它从融合爵士、灵魂乐与节奏布鲁斯的制作里长出来，往上可以追到 1970 年代的 CTI 录音。往下它影响 quiet storm、当代爵士电台与商业配乐，也反过来让部分爵士乐手对“平滑”一词保持距离。
 
 ## 常见误解
@@ -51,7 +51,7 @@ updated: 2026-10-30
 ::: en
 Smooth jazz is the lyrical branch that split from fusion at the end of the 1970s and through the 1980s. It flattens dynamics and tone, writes short songs, folds solos into the melody and reached listeners mainly through radio.
 
-## Origins and era
+## Era and place
 In the early 1970s CTI Records placed jazz players inside strings, electric piano and electric bass, with brighter, thicker recordings. George Benson's Breezin' crossed over in 1976, and Grover Washington Jr.'s Winelight in 1980 put alto saxophone over slow funk. In the mid-to-late 1980s American radio adopted "smooth jazz" as a format, with instrumental melodies and tracks usually four to five minutes long.
 
 ## What you hear
@@ -60,7 +60,7 @@ Tempos sit at medium-slow, drums play straight four or a light shuffle with the 
 ## Key figures
 Grover Washington Jr. put saxophone melody into slow funk, George Benson took guitar and voice onto pop radio, and Bob James and David Sanborn made electric piano and saxophone signature sounds. Spyro Gyra pushed fusion in a lighter direction from Buffalo in the 1970s, and Kenny G reached the largest audience in the 1980s.
 
-## Lineage
+## Lines before and after
 Fusion, soul and rhythm-and-blues production feed in, with 1970s CTI recordings as a direct ancestor. Quiet storm, contemporary jazz radio and commercial scoring come out, and the word "smooth" became something many jazz players kept at a distance.
 
 ## Common misunderstandings

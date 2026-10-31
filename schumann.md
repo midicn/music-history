@@ -26,11 +26,11 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 生平一笔
 
 罗伯特·舒曼（1810–1856）是德国作曲家、钢琴家与评论家。他创办《新音乐杂志》，用“大卫同盟”的笔名评论同行；1840 年与克拉拉·维克结婚，同年写下大量艺术歌曲。他的创作高峰集中在钢琴、歌曲与室内乐，晚年转向大型管弦乐。
 
-## 时代与位置
+## 他生活的城市
 
 他是浪漫主义最文学化的作曲家，作品常与让·保罗、霍夫曼、海涅的名字相连。钢琴小品与艺术歌曲是他的核心，交响曲与室内乐则把这种私密语言放大。他既不是宫廷乐师，也不是歌剧巨匠，而是以文字与音乐同时介入公共生活的自由职业者。
 
@@ -38,11 +38,11 @@ updated: 2026-10-28
 
 先听两个自我，冲动外向的弗洛雷斯坦与沉思内向的尤塞比乌斯，在同一首曲子里交替。再听钢琴的内声部与踏板色彩，旋律常不在最高声部。听艺术歌曲时，注意钢琴前奏与后奏如何替诗人说话，人声停下之后，情绪仍在继续。
 
-## 代表作
+## 代表作品
 
 《狂欢节》Op. 9；《童年情景》Op. 15；《克莱斯勒偶记》Op. 16；《诗人之恋》Op. 48；四部交响曲；a 小调钢琴协奏曲。
 
-## 影响
+## 留下的痕迹
 
 他把“片段”变成正式形式，把文学批评带进作曲。后来的勃拉姆斯、马勒、德彪西与二十世纪的艺术歌曲，都继承了他对心理状态的捕捉。他让一首两分钟的小曲，也能装下一整部小说的人物与反讽。
 
@@ -52,11 +52,11 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## A life in brief
 
 Robert Schumann (1810–1856) was a German composer, pianist and critic. He founded the Neue Zeitschrift für Musik and reviewed his contemporaries under the masks of the Davidsbündler. In 1840 he married Clara Wieck and wrote an extraordinary number of songs in that single year. His peak years centre on piano music, song and chamber music; the later years turn to large orchestral works.
 
-## His place
+## The city he worked in
 
 He is the most literary of the Romantics, his music tied to Jean Paul, E. T. A. Hoffmann and Heine. Piano miniatures and art song are his core; the symphonies and chamber works magnify that intimate language. Neither a court musician nor an opera composer, he was a freelancer who entered public life through words and music at once.
 
@@ -68,7 +68,7 @@ Hear two selves alternating within one piece: the impulsive Florestan and the br
 
 Carnaval, Op. 9; Kinderszenen, Op. 15; Kreisleriana, Op. 16; Dichterliebe, Op. 48; four symphonies; Piano Concerto in A minor.
 
-## Influence
+## What remains
 
 He made the fragment a serious form and brought criticism into composition. Brahms, Mahler, Debussy and later song composers inherit his gift for capturing a psychological state in a few bars. A two-minute piece could hold the characters and irony of an entire novel.
 

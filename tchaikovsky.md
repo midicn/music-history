@@ -27,7 +27,7 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 出身与师承
 
 彼得·伊里奇·柴可夫斯基（1840–1893）是俄罗斯作曲家，毕业于圣彼得堡音乐学院，后在莫斯科音乐学院任教。他与梅克夫人长期通信，得到经济支持，得以专心创作。他的作品横跨芭蕾、歌剧、交响曲与协奏曲，是俄罗斯音乐最广为人知的声音。
 
@@ -35,15 +35,15 @@ updated: 2026-10-28
 
 他处在俄罗斯民族乐派与西欧交响传统之间，旋律有俄罗斯的抒情与舞蹈，结构却遵循西欧交响曲与协奏曲的框架。三部芭蕾与《叶甫盖尼·奥涅金》让他成为最常上演的俄罗斯作曲家之一。他不属于“强力集团”，却把他们的民族色彩带进了国际舞台。
 
-## 听什么
+## 先听什么
 
 先听旋律的弧线，长句往往先上行再缓缓落下，像舞者的手臂。再听配器，圆号、弦乐与木管轮流接管同一主题，音色本身就是叙事。听《第六交响曲》时注意“命运”动机与 5/4 拍圆舞曲的失衡感，那是舞会脚下的裂缝。
 
-## 代表作
+## 作品与写法
 
 《天鹅湖》；《睡美人》；《胡桃夹子》；第四、第五、第六交响曲；D 大调小提琴协奏曲；《罗密欧与朱丽叶》幻想序曲。
 
-## 影响
+## 影响与误读
 
 他把芭蕾音乐从伴奏提升为音乐会曲目，也让俄罗斯旋律进入全球通俗文化。《胡桃夹子》的糖梅仙子、天鹅主题与“悲怆”的慢乐章，至今是古典音乐最易辨认的声音。他证明了抒情可以宏大，舞蹈也可以深刻。
 
@@ -53,7 +53,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Training and teachers
 
 Pyotr Ilyich Tchaikovsky (1840–1893) was a Russian composer, a graduate of the Saint Petersburg Conservatory who later taught at the Moscow Conservatory. A long correspondence with Nadezhda von Meck gave him financial freedom and emotional distance, allowing him to devote himself to composition. His work spans ballet, opera, symphony and concerto, and remains the most widely recognised Russian musical voice.
 
@@ -61,15 +61,15 @@ Pyotr Ilyich Tchaikovsky (1840–1893) was a Russian composer, a graduate of the
 
 He stands between the Russian nationalist school and the Western symphonic tradition: his melodies carry Russian lyricism and dance, while his structures follow the Western symphony and concerto. Three ballets and Eugene Onegin made him one of the most performed of all Russian composers. Not a member of the Mighty Handful, he carried their national colour onto the international stage.
 
-## What to hear
+## Where to start
 
 Follow the arc of a melody: long phrases often rise and then fall slowly, like a dancer's arm. Then listen to the orchestration, as horn, strings and woodwind take turns carrying the same theme; timbre itself tells the story. In the Sixth Symphony, notice the fate motif and the disorienting 5/4 waltz, a crack beneath the ballroom floor.
 
-## Key works
+## Works and craft
 
 Swan Lake; The Sleeping Beauty; The Nutcracker; Symphonies Nos. 4, 5 and 6; Violin Concerto in D; Romeo and Juliet.
 
-## Influence
+## Influence and misreadings
 
 He raised ballet music from accompaniment to concert repertoire and carried Russian melody into global popular culture. The Sugar Plum Fairy, the swan theme and the slow movement of the Pathétique remain among the most recognisable sounds in classical music. He proved that lyricism could be monumental and dance could be profound.
 

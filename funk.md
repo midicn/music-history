@@ -29,7 +29,7 @@ updated: 2026-10-28
 ::: zh
 放克把和声压到背景，让鼓与贝斯的切分成为主角，一拍之内也能翻出新重音。
 
-## 起源与年代
+## 年代与地点
 1960 年代中期，詹姆斯·布朗把福音与灵魂乐里的舞曲部分推到前台，《Papa's Got a Brand New Bag》常被视作起点。1970 年代，斯莱·斯通、议会放克与爵士放克把合成器和更长的律动带进来。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-28
 ## 代表人物
 詹姆斯·布朗定下一拍的密度，斯莱·斯通把贝斯与鼓推成整体，乔治·克林顿用合成器与长段律动扩展放克。赫比·汉考克与“猎头者”乐队把爵士和声带进来，大地风火把管乐编成建筑。
 
-## 谱系
+## 前后脉络
 上承灵魂乐与节奏布鲁斯，下接迪斯科、嘻哈采样与放克摇滚；它也是一种以十六分音符为单位的分句方式。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-28
 ::: en
 Funk pushes harmony back and makes the syncopation of drums and bass the main event.
 
-## Origins and era
+## Era and place
 In the mid-1960s James Brown brought the dance floor of gospel and soul to the front, with Papa's Got a Brand New Bag as a starting point. In the 1970s Sly Stone, Parliament-Funkadelic and jazz-funk added synthesizers and longer grooves.
 
 ## What you hear
@@ -61,7 +61,7 @@ Lock onto kick and bass. The kick lands once, while the bass fills the gaps with
 ## Key figures
 James Brown fixed the density of the one, Sly Stone made bass and drums one engine, and George Clinton stretched funk with synthesizers and long grooves. Herbie Hancock's Headhunters brought jazz harmony in, while Earth, Wind and Fire built horn arrangements like architecture.
 
-## Lineage
+## Lines before and after
 Soul and rhythm and blues feed in; disco, hip-hop sampling and funk rock come out. Its phrasing is built on sixteenth notes.
 
 ## Common misunderstandings

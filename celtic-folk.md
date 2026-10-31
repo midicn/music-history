@@ -29,7 +29,7 @@ updated: 2026-10-28
 ::: zh
 凯尔特民谣把旋律交给装饰而非和声，舞曲与歌共用一套调式。
 
-## 起源与年代
+## 年代与地点
 爱尔兰、苏格兰、威尔士、布列塔尼与马恩岛各有口传传统。18 世纪末的收藏家开始记录竖琴曲与舞曲，19 世纪的民族运动把语言与音乐一起整理。20 世纪 60 年代以后，酋长乐队、博西乐队与 Planxty 把传统乐器带进音乐厅。凯尔特原为语言学术语，后来被唱片工业用来概括这一片区的音乐。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-28
 ## 代表人物
 奥卡罗兰留下大量竖琴曲，科尔曼的录音把小提琴风格带到美国。西莫斯·恩尼斯与威利·克兰西保存了口传细节，酋长乐队与博西乐队让传统编制现代化。
 
-## 谱系
+## 前后脉络
 上承爱尔兰与苏格兰的竖琴、风笛与舞曲传统，下接民谣复兴、新世纪凯尔特、电影配乐与全球 session 文化。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-28
 ::: en
 Celtic folk gives melody to ornament rather than harmony, and dance tunes and songs share one set of modes.
 
-## Origins and era
+## Era and place
 Ireland, Scotland, Wales, Brittany and the Isle of Man had their own oral traditions. Collectors began writing down harp and dance tunes in the late eighteenth century, and national movements organised language with music. After the 1960s the Chieftains, Bothy Band and Planxty brought traditional instruments into concert halls. Celtic began as a linguistic term and was later used by the record industry for this region's music.
 
 ## What you hear
@@ -61,7 +61,7 @@ Melody is usually single-line, with harmony unwritten and supplied by unison pla
 ## Key figures
 O'Carolan left many harp tunes, and Michael Coleman's recordings carried fiddle style to America. Seamus Ennis and Willie Clancy preserved oral detail, while the Chieftains and Bothy Band modernised the line-up.
 
-## Lineage
+## Lines before and after
 Irish and Scottish harp, pipe and dance feed in; the folk revival, New Age Celtic, film and session culture come out.
 
 ## Common misunderstandings

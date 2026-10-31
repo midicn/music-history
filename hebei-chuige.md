@@ -44,7 +44,7 @@ updated: 2026-10-28
 
 ## 常见误解
 
-常有人以为吹歌只是唢呐独奏，或把它当成西方管乐队。吹歌是合奏传统，管子常居核心，笙与打击乐不可或缺；它的曲目与戏曲、庙会仪式紧密相连，并不只是节庆助兴。
+常有人以为吹歌只是唢呐独奏，或把它当成西方管乐队。吹歌是合奏传统，管子常居核心，笙与打击乐不可少；它的曲目与戏曲、庙会仪式紧密相连，并不只是节庆助兴。
 
 ```audiolab
 {"type":"instrument","gm":"Shanai","synth":"reed","phrase":["D4","G4","A4","C5","D5","C5","A4","G4"],"label":"吹歌的领奏线条（唢呐近似）","label_en":"Chuige lead line, shanai approximation","hint":"听连续的加花与突然的收束，再想笙和鼓怎样在句尾接住","hint_en":"Hear the running ornaments and sudden stops, then how sheng and drum catch the phrase"}

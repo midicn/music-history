@@ -46,7 +46,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Tubular Bells","synth":"metal","phrase":["C4","D4","E4","G4","A4","G4","E4","D4"],"label":"图兰朵：五声与铜锣","label_en":"Turandot: pentatonic bells","hint":"听五声音阶没有半音，像宫墙把旋律关在一个固定的圈里","hint_en":"Hear the pentatonic scale avoid semitones, as if a palace wall kept the melody inside a fixed circle"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:modern]]，连接[[glossary:opera]]、[[glossary:aria]]与[[instrument:gong]]。
 :::
@@ -72,7 +72,7 @@ Begin with Liù's aria, where the melody is simple and the voice seems to speak 
 {"type": "instrument", "gm": "Tubular Bells", "synth": "metal", "phrase": ["C4", "D4", "E4", "G4", "A4", "G4", "E4", "D4"], "label": "Turandot: pentatonic bells", "label_en": "Turandot: pentatonic bells", "hint": "听五声音阶没有半音，像宫墙把旋律关在一个固定的圈里", "hint_en": "Hear the pentatonic scale avoid semitones, as if a palace wall kept the melody inside a fixed circle"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:modern]] and connects [[glossary:opera]], [[glossary:aria]] and [[instrument:gong]].
 :::

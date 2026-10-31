@@ -26,7 +26,7 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 出身与师承
 
 **加布里埃尔·福雷**（1845–1924）是法国作曲家、管风琴家与教师。他少年在尼德迈耶音乐学院师从圣-桑，后来任巴黎玛德莱娜教堂管风琴师，1905 年起任巴黎音乐学院院长。拉威尔、娜迪亚·布朗热、埃内斯库都出自他的课堂。
 
@@ -34,19 +34,19 @@ updated: 2026-10-28
 
 福雷不属于任何激烈流派。他承接法国艺术歌曲与室内乐传统，把浪漫主义的抒情收进更克制的和声里。他的《安魂曲》不写末日审判的恐惧，而写一种温柔的告别；《帕凡舞曲》与钢琴夜曲则让沙龙音乐有了室内乐的密度。晚年耳聋，风格反而更简峭、更大胆。
 
-## 听什么
+## 先听什么
 
 先听**旋律的呼吸**：福雷的乐句常从弱拍起，像说话时轻轻提气，落点不在强拍。再听**和声的微光**：他爱用七和弦、九和弦与教会调式，色彩变化很小，却让同一段旋律换了温度。最后听**克制的情感**：《安魂曲》的《在天堂》没有爆发，只有持续上行又回落的线条。
 
-## 代表作
+## 作品与写法
 
 - 声乐：《安魂曲》Op. 48、《美好的歌》《月光》
 - 器乐：《帕凡舞曲》Op. 50、第一小提琴奏鸣曲、第二钢琴四重奏
 - 钢琴：夜曲、船歌
 
-## 影响
+## 影响与误读
 
-福雷把法国音乐从瓦格纳的阴影里拉回一种轻盈而精密的方向，德彪西与拉威尔都承认他的和声启发了自己。**他让「轻」成为一种需要极高技艺的严肃。**
+福雷把法国音乐从瓦格纳的阴影里拉回一种轻盈而精密的方向，德彪西与拉威尔都承认他的和声启发了自己。他让「轻」成为一种需要极高技艺的严肃。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["F#4","A4","C#5","B4","A4","G#4","F#4","E4"],"label":"福雷的呼吸：乐句从弱拍起","label_en":"Fauré's breath: phrases begin off the beat","hint":"借钢琴近似：听第一音轻轻提起，重音落在后面。真正的艺术歌曲里，人声还会把法语的分句带进来。","hint_en":"A piano stands in: hear the first note lift quietly and the weight arrive later. In the real song a voice adds the phrasing of French."}
@@ -54,7 +54,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Training and teachers
 
 **Gabriel Fauré** (1845–1924) was a French composer, organist and teacher. As a boy he studied at the École Niedermeyer with Saint-Saëns; he later became organist at the Madeleine in Paris and, from 1905, director of the Paris Conservatoire. Ravel, Nadia Boulanger and Enescu all passed through his classes.
 
@@ -62,19 +62,19 @@ updated: 2026-10-28
 
 Fauré belongs to no militant school. He carried on the French traditions of song and chamber music, drawing Romantic expression into a more restrained harmony. His Requiem avoids the terror of the Last Judgment and offers a gentle farewell; the Pavane and the piano nocturnes give salon music the density of chamber music. Deaf in later life, he became sparer and bolder rather than softer.
 
-## What to hear
+## Where to start
 
 Listen first for **the breath of the melody**: Fauré's phrases often begin off the beat, like a quiet intake of air, with the weight arriving later. Then hear **the shimmer of harmony**: sevenths, ninths and modal colour change the temperature of a phrase with very little motion. Finally listen for **restrained feeling**: the In Paradisum of the Requiem has no explosion, only a line that rises and settles.
 
-## Key works
+## Works and craft
 
 - Vocal: Requiem, Op. 48; La bonne chanson; Clair de lune
 - Instrumental: Pavane, Op. 50; Violin Sonata No. 1; Piano Quartet No. 2
 - Piano: nocturnes, barcarolles
 
-## Influence
+## Influence and misreadings
 
-Fauré pulled French music out of Wagner's shadow toward a light, precise direction; Debussy and Ravel both acknowledged the stimulus of his harmony. **He made lightness a form of seriousness that demands the highest craft.**
+Fauré pulled French music out of Wagner's shadow toward a light, precise direction; Debussy and Ravel both acknowledged the stimulus of his harmony. He made lightness a form of seriousness that demands the highest craft.
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["F#4","A4","C#5","B4","A4","G#4","F#4","E4"],"label":"Fauré's breath: phrases begin off the beat","label_en":"Fauré's breath: phrases begin off the beat","hint":"A piano stands in: hear the first note lift quietly and the weight arrive later. In the real song a voice adds the phrasing of French.","hint_en":"A piano stands in: hear the first note lift quietly and the weight arrive later. In the real song a voice adds the phrasing of French."}

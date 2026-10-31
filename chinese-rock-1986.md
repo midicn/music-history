@@ -41,7 +41,7 @@ updated: 2026-10-30
 
 先听115 BPM的摇滚鼓型，反拍与底鼓错开，身体会先于旋律动起来。再听128 BPM的鼓型，速度接近当年体育馆演出的推进感。最后听《黄河船夫号子》，一领众和、高腔直上，那是《一无所有》旋律里最像黄土高原的部分。三首都不是崔健的录音，但把节奏骨架与腔调来源分开听，能明白1986年那次演出为什么被记住。
 
-## 相关
+## 相关条目
 
 这条转折连接中国摇滚的路径、中国流行音乐的起点与全球化与音乐。
 
@@ -69,7 +69,7 @@ Popular music acquired a voice that spoke as an individual, no longer a televise
 
 Begin with the 115 BPM rock pattern, where the backbeat and the kick drum pull apart and the body moves before the melody does. Then the 128 BPM pattern, close to the drive of those stadium shows. Finally the Yellow River boatmen's work song, with one voice leading and many answering, its high register the part of Nothing to My Name that sounds most like the loess plateau. None is a Cui Jian recording, but hearing the rhythmic frame and the vocal source separately explains why that 1986 performance was remembered.
 
-## Related
+## Related entries
 
 This turn connects 中国摇滚的路径, 中国流行音乐的起点 and 全球化与音乐.
 

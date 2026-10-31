@@ -28,7 +28,7 @@ updated: 2026-10-28
 ::: zh
 弦乐四重奏用两把小提琴、中提琴与大提琴，让四个声部平等交谈。
 
-## 起源与年代
+## 年代与地点
 18 世纪中叶，弦乐四重奏从嬉游曲与三重奏鸣曲中分离出来。海顿在 1770 年代写下 Op.9、Op.17 与 Op.20，确立四乐章结构。莫扎特把六首四重奏献给海顿，贝多芬从 Op.18 写到晚期 Op.135，把体裁推向内省。舒伯特、勃拉姆斯与德沃夏克继续写作，巴托克与肖斯塔科维奇让它承载现代经验。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-28
 ## 代表人物
 海顿被称为弦乐四重奏之父，莫扎特让四件乐器更均衡，贝多芬把对话变成戏剧。舒伯特让旋律更抒情，勃拉姆斯增加密度，巴托克用民间节奏与弓法扩展语言，肖斯塔科维奇写下十五首四重奏。
 
-## 谱系
+## 前后脉络
 上承三重奏鸣曲、嬉游曲与古典奏鸣曲，下接现代室内乐、弦乐四重奏音乐节、流行与爵士的四重奏改编。
 
 ## 常见误解
@@ -51,7 +51,7 @@ updated: 2026-10-28
 ::: en
 A string quartet uses two violins, viola and cello so that four voices can converse as equals.
 
-## Origins and era
+## Era and place
 In the mid-eighteenth century the quartet separated from the divertimento and the trio sonata. Haydn wrote Op.9, Op.17 and Op.20 in the 1770s and fixed the four-movement design. Mozart dedicated six quartets to Haydn, and Beethoven moved from Op.18 to Op.135, pushing the genre toward introspection and experiment. Schubert, Brahms and Dvorak continued it, and Bartok and Shostakovich gave it modern experience.
 
 ## What you hear
@@ -60,7 +60,7 @@ All four instruments are solo voices and there is no conductor. Themes pass betw
 ## Key figures
 Haydn is called the father of the string quartet, Mozart balanced the four voices, and Beethoven turned conversation into drama. Schubert made the writing lyrical, Brahms added density, Bartok used folk rhythm and bowing, and Shostakovich left fifteen quartets.
 
-## Lineage
+## Lines before and after
 Trio sonatas, divertimenti and the Classical sonata feed in; modern chamber music, quartet festivals and pop or jazz arrangements come out.
 
 ## Common misunderstandings

@@ -29,19 +29,19 @@ updated: 2026-10-28
 ::: zh
 迪克西兰是早期新奥尔良爵士在唱片里叫响的名字。它把三支管放在前台，让短号、单簧管与长号轮流领奏，最后又合成一个收尾。
 
-## 起源与年代
+## 从哪儿来
 1917 年 Original Dixieland Jass Band 在纽约录下第一批爵士唱片，乐队名后来变成这一路的通称。1920 年代芝加哥的乐队把它做成可复制的合奏样式；1940 年代的传统爵士复兴把它带回酒吧与音乐节，英国 trad jazz 也从此而来。
 
-## 听辨特征
+## 耳朵先抓到什么
 短号或小号先报主题，单簧管在其上方加装饰，长号用滑奏与低音区填空。节奏组多为班卓、钢琴、大号或贝斯与鼓，重心在两拍。每段以合奏开始，中间让位给独奏，结尾用全员合奏与停顿收住。曲目多是拉格、布鲁斯与流行歌。
 
-## 代表人物
+## 绕不开的人
 Original Dixieland Jass Band 与 New Orleans Rhythm Kings 留下了最早的样式。路易斯·阿姆斯特朗的热五把独奏推向中心，比克斯·贝德贝克与杰克·蒂加登带来更松弛的芝加哥声音。埃迪·康登在复兴时期把这种合奏重新组织。
 
-## 谱系
+## 它影响了谁
 上承新奥尔良爵士，下接芝加哥爵士与摇摆大乐队；1940 年代的复兴让它成为传统爵士的代称，并与英国 trad jazz 相连。
 
-## 常见误解
+## 常被说错的地方
 迪克西兰不是另一支黑人传统，它只是早期爵士的一个商业标签。它也不等于全部新奥尔良爵士，后者的街区与族群更宽。把它当成永远欢快、越快越好，会忽略慢布鲁斯与葬礼进行曲。
 
 ```audiolab
@@ -52,19 +52,19 @@ Original Dixieland Jass Band 与 New Orleans Rhythm Kings 留下了最早的样�
 ::: en
 Dixieland is the name early New Orleans jazz acquired on records. It places three horns up front, lets cornet, clarinet and trombone take turns leading, then folds them into a closing ensemble.
 
-## Origins and era
+## Where it came from
 In 1917 the Original Dixieland Jass Band made one of the first jazz records in New York, and the band's name became a label for the style. Chicago bands of the 1920s turned it into a repeatable ensemble manner; the traditional jazz revival of the 1940s carried it back to bars and festivals, and British trad jazz followed.
 
-## What you hear
+## What the ear catches
 Cornet or trumpet states the theme, clarinet decorates above it, trombone fills with slides and low notes. The rhythm section of banjo, piano, tuba or bass and drums puts the weight on two beats. A chorus often opens with the ensemble, gives way to solos, then closes with everyone together and a stop. Repertory is rags, blues and popular songs.
 
-## Key figures
+## Names you cannot avoid
 The Original Dixieland Jass Band and the New Orleans Rhythm Kings set the earliest pattern. Louis Armstrong's Hot Five moved the solo to the centre, while Bix Beiderbecke and Jack Teagarden brought a looser Chicago sound. Eddie Condon reorganised the ensemble during the revival.
 
-## Lineage
+## What it influenced
 New Orleans jazz feeds in; Chicago jazz and the swing big bands come out. The 1940s revival made Dixieland a byword for traditional jazz and linked it to British trad jazz.
 
-## Common misunderstandings
+## What is often misread
 Dixieland is not a separate black tradition; it is a commercial label for early jazz. It is not the whole of New Orleans jazz, whose neighbourhoods and communities were broader. Treating it as always cheerful and fast ignores slow blues and funeral marches.
 
 ```audiolab

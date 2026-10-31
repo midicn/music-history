@@ -25,15 +25,15 @@ updated: 2026-10-30
 ---
 
 ::: zh
-## 时间与地点
+## 年代与地方
 
 牌子曲是以曲牌联缀为结构的一类说唱，北京的单弦是最完整的一支，清代中叶已盛。它在票房、堂会与杂耍园子演出，票友与职业艺人并行。同一批曲牌也散在江南滩簧、扬州清曲与各地小调里。
 
-## 发生了什么
+## 它是怎么来的
 
 单弦的骨架来自岔曲。岔曲原是乾隆年间旗人唱的小段，短小、雅致；后来艺人把岔曲拆成曲头与曲尾，中间插入若干曲牌，成了腰截；再扩展为牌子曲，一篇里可以换十几支曲牌。曲目有《风雨归舟》《秋声赋》《鞭打芦花》《杜十娘》《金山寺》，一人多角，说唱相间。
 
-## 音乐特征
+## 声音的骨架
 
 结构是曲牌联缀，不是板腔变化。岔曲、腰截、牌子曲三种规模递进，曲牌之间靠过门与鼓点衔接。常用曲牌有银纽丝、满江红、马头调、鲜花调、剪靛花、叠断桥、罗江怨、太平年。演员自击八角鼓，三弦伴奏，有时加四胡。唱用北京音，字清板稳，八角鼓的摇、弹、打、碰各有名目。曲牌之间不能硬接，要用过门与鼓点搭桥，桥搭得好，听不出换牌。岔曲的曲头曲尾是骨架，中间的曲牌可以按词情挑。
 
@@ -45,21 +45,21 @@ updated: 2026-10-30
 {"type":"rhythm","sig":"4/4","pattern":"T t h t T t h t","bpm":88,"label":"Octagonal drum beat and fill","label_en":"Octagonal drum beat and fill","hint":"The octagonal drum has skin on one face and small cymbals at the rim, rattling when shaken. Hear the beat strokes and finger fills making room for the voice","hint_en":"The octagonal drum has skin on one face and small cymbals at the rim, rattling when shaken. Hear the beat strokes and finger fills making room for the voice"}
 ```
 
-## 常见误解
+## 常被误会的地方
 
 常见误解是把牌子曲当成单一曲种。它是一种结构，单弦、河南大调曲子、兰州鼓子都用；单弦才是北京那个曲种的名称，牌子曲是它最主要的唱腔规模。八角鼓是乐器，不是八个鼓。单弦的段子有说有唱，岔曲只是其中一种规模；听时数一数一段里换了几支曲牌，换得越多功夫越深。单弦讲究包袱与人物，唱腔只是骨架，说白才是血肉。听的时候别把注意力全放在曲牌上。
 :::
 
 ::: en
-## Time and place
+## When and where
 
 Paiziqu is a family of storytelling built by linking qupai, and Beijing danxian is its fullest branch, flourishing by the mid-Qing. It was heard in amateur clubs, household gatherings and variety halls, with both amateur and professional performers. The same tunes also live in Jiangnan tanhuang, Yangzhou qingqu and local ditties.
 
-## What happened
+## How it came about
 
 Danxian's frame comes from chaqu, a short elegant item sung by banner people under Qianlong. Performers later split chaqu into a head and tail and slipped other qupai between them, making yaozhai; expanded further, it became paiziqu, a single piece changing a dozen tunes. Items include Storm and Returning Boat, Ode to Autumn, Beating the Reed Flowers, Du Shiniang and Jinshan Temple, one singer taking many roles in speech and song.
 
-## Musical features
+## The sound's frame
 
 The structure is linked qupai, not ban variation. Chaqu, yaozhai and paiziqu form three increasing scales, tunes joined by links and drum strokes. Common qupai include Yinniu si, Manjiang hong, Matou diao, Xianhua diao, Jian Dian Hua, Die Duan Qiao, Luo Jiang Yuan and Taiping nian. The singer strikes an octagonal drum, a sanxian accompanies, sometimes with sihu. Singing uses Beijing pronunciation, words clear and beat steady, and the drum has named strokes, shaken, flicked, struck and touched.
 
@@ -71,7 +71,7 @@ Begin with Shanghai Matou diao, a tune sung north and south, noting the drawn-ou
 {"type":"rhythm","sig":"4/4","pattern":"T t h t T t h t","bpm":88,"label":"Octagonal drum beat and fill","label_en":"Octagonal drum beat and fill","hint":"The octagonal drum has skin on one face and small cymbals at the rim, rattling when shaken. Hear the beat strokes and finger fills making room for the voice","hint_en":"The octagonal drum has skin on one face and small cymbals at the rim, rattling when shaken. Hear the beat strokes and finger fills making room for the voice"}
 ```
 
-## Common misunderstandings
+## What is often mistaken
 
 Paiziqu is often taken for a single genre. It is a structure used by danxian, Henan da diao quzi and Lanzhou guzi; danxian is the Beijing genre, and paiziqu its main scale. The octagonal drum is an instrument, not eight drums.
 :::

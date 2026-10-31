@@ -49,7 +49,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["C4","C#4","D4","D#4","E4","F4","F#4","G4","G#4","A4","A#4","B4","C5"],"label":"平均律：十二个等距的半音","label_en":"Equal temperament: twelve equidistant semitones","hint":"听每个半音的宽度是否一样，再想所有调为什么都能成立","hint_en":"Hear whether every semitone has the same width, then why every key can work"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:baroque]]，连接[[glossary:tonality]]、[[glossary:key-signature]]与[[instrument:harpsichord]]。
 :::
@@ -77,7 +77,7 @@ Begin with the C major prelude, then hear the fugues in C sharp major, F sharp m
 {"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["C4", "C#4", "D4", "D#4", "E4", "F4", "F#4", "G4", "G#4", "A4", "A#4", "B4", "C5"], "label": "Equal temperament: twelve equidistant semitones", "label_en": "Equal temperament: twelve equidistant semitones", "hint": "听每个半音的宽度是否一样，再想所有调为什么都能成立", "hint_en": "Hear whether every semitone has the same width, then why every key can work"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:baroque]] and connects [[glossary:tonality]], [[glossary:key-signature]] and [[instrument:harpsichord]].
 :::

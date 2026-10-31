@@ -29,7 +29,7 @@ updated: 2026-10-30
 ::: zh
 辛弗尼亚是 sinfonia 的音译，同一个词在三个世纪里指过三种不同的东西，读曲名时最容易混淆。
 
-## 起源与年代
+## 年代与地点
 十六世纪末，辛弗尼亚只是“一起发声”的器乐段落，威尼斯与佛罗伦萨的幕间剧用它分隔场景。十七世纪末，它固定为歌剧前的三段器乐，快慢快的布局在那不勒斯成型。十八世纪，辛弗尼亚脱离歌剧成为独立的交响曲。另一条线是巴赫的用法，他把三声部创意曲称作辛弗尼亚，指三条线同时行进。意大利直到十九世纪仍用这个词称呼单乐章乐队曲。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-30
 ## 代表人物
 蒙特威尔第与威尼斯乐派最早把这一名称用于器乐段，斯卡拉蒂与萨马丁尼把那不勒斯辛弗尼亚定型，巴赫用同名写三声部创意曲，多尼采蒂与罗西尼的早期辛弗尼亚保留歌剧序曲的写法。
 
-## 谱系
+## 前后脉络
 上承文艺复兴的器乐合奏与歌剧开场，分出交响曲与序曲两条线，巴赫的用法又单独通向创意曲与赋格。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-30
 ::: en
 Sinfonia is one word that meant three different things across three centuries, which is why it causes so much confusion in catalogue titles.
 
-## Origins and era
+## Era and place
 At the end of the sixteenth century a sinfonia was merely an instrumental passage, something sounding together, used to separate scenes in Venetian and Florentine intermedi. By the late seventeenth century it had settled into three instrumental sections before an opera, its fast-slow-fast layout fixed in Naples. In the eighteenth century the sinfonia left the opera house and became the independent symphony. A separate line is Bach's, who called his three-part inventions sinfonias, meaning three lines moving at once. Italian composers kept the word for a single-movement orchestral piece well into the nineteenth century.
 
 ## What you hear
@@ -61,7 +61,7 @@ An operatic sinfonia has three sections, the first an allegro on a repeated figu
 ## Key figures
 Monteverdi and the Venetian school first used the name for instrumental sections, Scarlatti and Sammartini fixed the Neapolitan sinfonia, Bach used it for three-part inventions, and the early sinfonias of Donizetti and Rossini keep the shape of an opera overture.
 
-## Lineage
+## Lines before and after
 It comes from Renaissance instrumental ensembles and opera openings, forks into symphony and overture, and Bach's usage leads separately to the invention and the fugue.
 
 ## Common misunderstandings

@@ -27,28 +27,28 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 一个人的来历
 
 **塞萨尔·弗兰克**（1822–1890）生于比利时的列日，少年时在列日与巴黎求学，后来定居巴黎。他长期在圣克洛蒂尔德教堂弹管风琴，那台卡瓦耶-科尔琴成了他的实验室；1872 年起他在巴黎音乐学院教管风琴，丹第、肖松、迪帕克都出自他的班。
 
-## 时代与位置
+## 他所在的时代
 
 弗兰克是法国浪漫主义后期的核心，却像一位教堂乐师那样工作：不写歌剧，不追逐掌声，只在管风琴、室内乐与钢琴曲里慢慢打磨。他把**循环形式**变成自己的签名：一个主题在不同段落里变形回来，把整首曲子缝成一件东西。1880 年代他接连写出钢琴五重奏、小提琴奏鸣曲与交响曲，晚年才被广泛承认。
 
-## 听什么
+## 先听这三首
 
-先听**主题的回归**：《前奏曲、众赞歌与赋格》开头的那句，会在赋格与结尾以不同面目回来。再听**管风琴式的音响**：厚实的和弦、连成一片的低音，即使写在钢琴上也有教堂的空间。然后听**半音的和声**：他让和弦彼此牵着手滑行，瓦格纳式的暧昧被放进法国的句法。最后听**慢速的诚意**：弗兰克的慢乐章不作效果，只把一句话说得很长。
+先听**主题的回归**：《前奏曲、众赞歌与赋格》开头的那句，会在赋格与结尾以不同面目回来。再听**管风琴式的音响**：厚实的和弦、连成一片的低音，即使写在钢琴上也有教堂的空间。然后听半音的和声：他让和弦彼此牵着手滑行，瓦格纳式的暧昧被放进法国的句法。最后听慢速的诚意：弗兰克的慢乐章不作效果，只把一句话说得很长。
 
-## 代表作
+## 作品与写法
 
 - 钢琴：《前奏曲、众赞歌与赋格》《前奏曲、咏叹与终曲》
 - 管弦乐：d 小调交响曲、《交响变奏曲》
 - 室内乐：A 大调小提琴奏鸣曲、钢琴五重奏
 - 管风琴：《三首众赞歌》
 
-## 影响
+## 留下的痕迹
 
-弗兰克的班级成了法国音乐的组织核心，丹第与肖松把它扩展成「法国民族音乐协会」，他的循环形式被广泛模仿。**他让管风琴师的美学进入了音乐厅。**
+弗兰克的班级成了法国音乐的组织核心，丹第与肖松把它扩展成「法国民族音乐协会」，他的循环形式被广泛模仿。他让管风琴师的美学进入了音乐厅。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["F3","A3","C4","F4","E4","C4","A3","F3"],"label":"弗兰克：一句主题的回归","label_en":"Franck: one theme coming back","hint":"借钢琴近似：听同一句旋律先轻后重地回来，和声在第二次变得更暖。真正的作品里，它还要经过赋格与变奏的考验。","hint_en":"A piano stands in: hear the same phrase return, first quietly then with weight, its harmony warmer the second time. In the real work it must also pass through fugue and variation."}
@@ -56,7 +56,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Life
 
 **César Franck** (1822–1890) was born in Liège, studied there and in Paris, and settled in Paris for good. For decades he played the organ at Sainte-Clotilde, where the Cavaillé-Coll instrument became his laboratory; from 1872 he taught organ at the Paris Conservatoire, and d'Indy, Chausson and Duparc came out of his class.
 
@@ -66,7 +66,7 @@ Franck is a central figure of late French Romanticism, yet he worked like a chur
 
 ## What to hear
 
-Listen first for **the return of the theme**: the opening phrase of Prélude, Choral et Fugue comes back in different dress in the fugue and at the end. Then **organ-like sonority**: thick chords and continuous bass give even the piano the space of a church. Next, **chromatic harmony**: chords slide hand in hand, Wagnerian ambiguity inside French syntax. Finally, **slow sincerity**: Franck's slow movements make no effect; they simply say one thing at great length.
+Listen first for **the return of the theme**: the opening phrase of Prélude, Choral et Fugue comes back in different dress in the fugue and at the end. Then **organ-like sonority**: thick chords and continuous bass give even the piano the space of a church. Next, chromatic harmony: chords slide hand in hand, Wagnerian ambiguity inside French syntax. Finally, slow sincerity: Franck's slow movements make no effect; they simply say one thing at great length.
 
 ## Key works
 
@@ -75,9 +75,9 @@ Listen first for **the return of the theme**: the opening phrase of Prélude, Ch
 - Chamber: Violin Sonata in A, Piano Quintet
 - Organ: Three Chorals
 
-## Influence
+## Influence and misreadings
 
-Franck's class became the organising core of French music; d'Indy and Chausson turned it into the Société Nationale de Musique, and his cyclic method was widely imitated. **He brought an organist's aesthetic into the concert hall.**
+Franck's class became the organising core of French music; d'Indy and Chausson turned it into the Société Nationale de Musique, and his cyclic method was widely imitated. He brought an organist's aesthetic into the concert hall.
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["F3","A3","C4","F4","E4","C4","A3","F3"],"label":"Franck: one theme coming back","label_en":"Franck: one theme coming back","hint":"A piano stands in: hear the same phrase return, first quietly then with weight, its harmony warmer the second time. In the real work it must also pass through fugue and variation.","hint_en":"A piano stands in: hear the same phrase return, first quietly then with weight, its harmony warmer the second time. In the real work it must also pass through fugue and variation."}

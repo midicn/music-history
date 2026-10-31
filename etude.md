@@ -28,7 +28,7 @@ updated: 2026-10-28
 ::: zh
 练习曲为一项技术难题而写，却常被搬上音乐厅。
 
-## 起源与年代
+## 年代与地点
 19 世纪初，克莱门蒂、克拉默与车尔尼把练习写成短小的固定音型。肖邦在 1833 年出版《十二首练习曲》Op.10，每首集中解决一个问题，又保持完整的音乐形象。李斯特在 1837 年写出更难的版本，1851 年定稿为《超技练习曲》。舒曼的《交响练习曲》把变奏套在练习之上，斯克里亚宾与德彪西继续扩大课题。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-28
 ## 代表人物
 肖邦把技术课题写成音乐会曲目，李斯特把难度推到极限，舒曼让练习曲承载变奏。斯克里亚宾把它写成和声实验，德彪西整理触键与音色，利盖蒂处理复合节奏。
 
-## 谱系
+## 前后脉络
 上承 18 世纪的指法练习与托卡塔，下接音乐会练习曲、爵士练习曲、电影配乐的技术段落与流行钢琴独奏。
 
 ## 常见误解
@@ -51,7 +51,7 @@ updated: 2026-10-28
 ::: en
 An etude is built around one technical problem, yet it often ends up on the concert stage.
 
-## Origins and era
+## Era and place
 Early nineteenth-century Clementi, Cramer and Czerny turned exercises into short pieces built on fixed figures. Chopin's Twelve Etudes Op.10 appeared in 1833, each solving one problem while keeping musical character. Liszt wrote a harder set in 1837 and fixed it as the Transcendental Etudes in 1851. Schumann's Symphonic Etudes added variations, and Scriabin and Debussy widened the harmonic and touch problems.
 
 ## What you hear
@@ -60,7 +60,7 @@ One motive returns in constant transformation, such as octaves, double thirds, r
 ## Key figures
 Chopin made the technical study a concert piece, Liszt pushed difficulty to its limit, and Schumann gave the etude a variation structure. Scriabin turned them into harmonic experiments, Debussy refined touch and colour, and Ligeti explored complex rhythm.
 
-## Lineage
+## Lines before and after
 Finger exercises and toccatas feed in; concert etudes, jazz etudes, film-scoring passages and virtuoso pop piano come out.
 
 ## Common misunderstandings

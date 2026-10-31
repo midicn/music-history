@@ -25,7 +25,7 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 出身与师承
 
 **亚历山大·斯克里亚宾**（1872–1915）是俄国作曲家与钢琴家。他出生于莫斯科，少年进入莫斯科音乐学院，师从萨福诺夫与塔涅耶夫。他以肖邦式的钢琴小品起步，后来沉迷神智学与通灵，想把音乐、色彩与舞蹈合成一场「神秘剧」。
 
@@ -33,18 +33,18 @@ updated: 2026-10-28
 
 斯克里亚宾从晚期浪漫主义的和声出发，一步步把调性推到崩解边缘。他的「神秘和弦」由四度叠置构成，既不是传统三和弦，也不完全是无调性。交响诗《普罗米修斯》配了一台「色彩键盘」，把音高与颜色对应；《狂喜之诗》则把高潮写成一种宗教体验。
 
-## 听什么
+## 先听什么
 
 先听**和声的漂浮**：晚期奏鸣曲里很难找到稳定的主和弦，音乐像一直在上升。再听**颤音与爆发**：斯克里亚宾常用长颤音积累张力，再用八度或和弦砸下来。最后听**晚期作品的短**：Op. 74 的五首前奏曲每首只有一分钟左右，却像浓缩的整个宇宙。
 
-## 代表作
+## 作品与写法
 
 - 钢琴：练习曲 Op. 8 No. 12、第七奏鸣曲《白弥撒》、《向火焰》
 - 管弦乐：《狂喜之诗》Op. 54、《普罗米修斯》Op. 60
 
-## 影响
+## 影响与误读
 
-斯克里亚宾的和声实验影响了俄国先锋派、梅西安与后来的频谱作曲家；他的「综合艺术」构想也不断被重新提起。**他把钢琴当成通向上帝的梯子，哪怕梯子最后通向的是自己。**
+斯克里亚宾的和声实验影响了俄国先锋派、梅西安与后来的频谱作曲家；他的「综合艺术」构想也不断被重新提起。他把钢琴当成通向上帝的梯子，哪怕梯子最后通向的是自己。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["C4","F#4","B4","E5","A#4","D#4","G#4","C#5"],"label":"斯克里亚宾的神秘和弦：四度叠起来","label_en":"Scriabin's mystic chord: stacked fourths","hint":"借钢琴近似：听四度叠置的和弦既不亮也不暗，像悬着。真正的晚期奏鸣曲还会用颤音把它推得更高。","hint_en":"A piano stands in: hear a chord of stacked fourths that is neither bright nor dark, simply suspended. The late sonatas push it higher with trills."}
@@ -52,7 +52,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Training and teachers
 
 **Alexander Scriabin** (1872–1915) was a Russian composer and pianist. Born in Moscow, he entered the Moscow Conservatory as a teenager and studied with Safonov and Taneyev. He began with Chopin-like piano miniatures, then fell under the spell of theosophy and the occult, dreaming of a "Mysterium" that would unite music, colour and dance.
 
@@ -60,16 +60,16 @@ updated: 2026-10-28
 
 Scriabin started from late Romantic harmony and pushed tonality step by step toward collapse. His "mystic chord" is built from stacked fourths; it is neither a traditional triad nor fully atonal. The symphonic poem Prometheus was scored with a colour keyboard mapping pitch to light, while The Poem of Ecstasy turns its climax into a religious experience.
 
-## What to hear
+## Where to start
 
 Listen first for **harmonic suspension**: in the late sonatas a stable tonic is hard to find, and the music seems forever rising. Then hear **trills and explosions**: Scriabin builds tension with long trills, then strikes with octaves or chords. Finally listen for **late brevity**: the five preludes of Op. 74 last about a minute each, yet feel like compressed universes.
 
-## Key works
+## Works and craft
 
 - Piano: Étude Op. 8 No. 12; Sonata No. 7 "White Mass"; Vers la flamme
 - Orchestral: The Poem of Ecstasy, Op. 54; Prometheus, Op. 60
 
-## Influence
+## Influence and misreadings
 
 Scriabin's harmonic experiments influenced the Russian avant-garde, Messiaen and later spectral composers; his idea of a total artwork keeps returning. **He treated the piano as a ladder to God, even when the ladder led only back to himself.**
 

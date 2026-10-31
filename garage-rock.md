@@ -28,7 +28,7 @@ updated: 2026-10-30
 ::: zh
 车库摇滚是 1960 年代中期北美青少年在车库与地下室录下的三和弦摇滚，失真、廉价键盘与地方单曲是它的标记。
 
-## 起源与年代
+## 年代与地点
 1963 到 1967 年，美国与加拿大的地方场景。Kingsmen 1963 年在波特兰录下“Louie Louie”，Sonics 在塔科马把失真推得更响，Count Five 在圣何塞、? and the Mysterians 在密歇根各自写下热门单曲。这些乐队多为业余组合，用独立小厂牌发行 45 转单曲，靠地方电台传播。1972 年 Lenny Kaye 为 Elektra 编的合集《Nuggets》回头整理这批唱片，“车库”才成为固定说法。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## 代表人物
 Kingsmen 的“Louie Louie”成为标准曲，Sonics 的“The Witch”把音量与失真推到极限，Count Five 的“Psychotic Reaction”把迷幻段落塞进车库单曲。? and the Mysterians 的“96 Tears”让风琴成为主角，奥斯汀的 13th Floor Elevators 则把这一声响推向迷幻。
 
-## 谱系
+## 前后脉络
 上承英国入侵、节奏布鲁斯与冲浪器乐的简单和弦，下接朋克、后朋克，以及 1980 年代的佩斯利地下与 2000 年代的车库复兴。它把“先录下来再说完美”的做法留给了独立音乐。1960 年代的这批单曲后来被大量再版，每一代吉他乐队都能从中找到可以照搬的模板。它证明了地方电台与独立发行可以绕过大厂牌。
 
 ## 常见误解
@@ -50,7 +50,7 @@ Kingsmen 的“Louie Louie”成为标准曲，Sonics 的“The Witch”把音�
 ::: en
 Garage rock is the three-chord rock that North American teenagers recorded in garages and basements in the mid-1960s, marked by distortion, cheap keyboards and local singles.
 
-## Origins and era
+## Era and place
 Between 1963 and 1967, local scenes appeared across the United States and Canada. The Kingsmen recorded Louie Louie in Portland in 1963, the Sonics pushed distortion harder in Tacoma, and Count Five in San Jose and ? and the Mysterians in Michigan each produced a local hit. Most bands were amateur, releasing 45s on small independent labels and relying on regional radio. In 1972 Lenny Kaye compiled Nuggets for Elektra, and only then did garage become a fixed term.
 
 ## What you hear
@@ -59,7 +59,7 @@ Two or three chords repeat while distortion, often from a pedal such as the Maes
 ## Key figures
 The Kingsmen's Louie Louie became a standard, the Sonics' The Witch pushed volume and distortion to the limit, and Count Five's Psychotic Reaction slipped a psychedelic passage into a garage single. ? and the Mysterians made the organ the lead voice on 96 Tears, while Austin's 13th Floor Elevators carried the sound toward psychedelia.
 
-## Lineage
+## Lines before and after
 The British Invasion, rhythm and blues and the simple chords of surf instrumentals feed in; punk, post-punk, the 1980s Paisley Underground and the 2000s garage revival come out. It left independent music the habit of recording first and polishing later. These 1960s singles were reissued many times, and each generation of guitar bands found a template to copy. They proved that regional radio and independent releases could bypass the major labels.
 
 ## Common misunderstandings

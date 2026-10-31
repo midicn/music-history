@@ -27,7 +27,7 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 出身与师承
 
 安东尼奥·维瓦尔第（1678–1741）是威尼斯神父、小提琴家与作曲家，因红发被称作“红发神父”。他在皮耶塔慈善院任教多年，为女孩乐团写下大量协奏曲，也写歌剧与宗教音乐。他的作品数量惊人，却始终围绕一个核心：独奏者与乐队如何互相激发。
 
@@ -35,15 +35,15 @@ updated: 2026-10-28
 
 他是巴洛克协奏曲的中心人物，把乐队回归段与独奏插段的交替磨成一套可复制的戏剧结构。《四季》把标题、自然声响与协奏曲形式绑在一起，是十八世纪最成功的程序音乐之一。他的音乐不追求深奥，而是让听众在几分钟内听见画面与动作。
 
-## 听什么
+## 先听什么
 
 先听回归段，乐队每次回来都换调、换配器，像同一句话用不同语气说。再听独奏的快速音阶与琶音，它们不是单纯炫技，而是在描绘风、鸟、雨。慢乐章里注意持续低音上的旋律，那是威尼斯式的歌，装饰音要唱得像呼吸。
 
-## 代表作
+## 作品与写法
 
 《四季》Op. 8；双曼陀林协奏曲 RV 532；e 小调大提琴奏鸣曲 RV 40；《荣耀经》RV 589；歌剧《巴亚捷》RV 703。
 
-## 影响
+## 影响与误读
 
 他确立了独奏协奏曲的三乐章骨架与快慢快对比，后来的巴赫、古典协奏曲与浪漫派炫技协奏曲都在这条线上。二十世纪的复兴运动让他从“四季作者”回到完整的协奏曲宇宙。今天听到的每一首独奏协奏曲，都有他的影子。
 
@@ -53,7 +53,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Training and teachers
 
 Antonio Vivaldi (1678–1741) was a Venetian priest, violinist and composer, nicknamed il Prete Rosso, the red priest. For many years he taught at the Ospedale della Pietà, writing concertos for its girls' orchestra, alongside operas and sacred music. His output is immense, yet it circles one question: how soloist and orchestra provoke each other.
 
@@ -61,15 +61,15 @@ Antonio Vivaldi (1678–1741) was a Venetian priest, violinist and composer, nic
 
 He is the central figure of the Baroque concerto, turning the alternation of orchestral ritornello and solo episode into a flexible dramatic structure. The Four Seasons binds title, natural sound and concerto form, one of the eighteenth century's most successful essays in programme music. His music does not aim at profundity; it lets a listener see a scene and feel its motion within minutes.
 
-## What to hear
+## Where to start
 
 Listen for the ritornello: the orchestra returns each time in a new key or scoring, the same sentence in a different tone of voice. Then hear the soloist's scales and arpeggios, which are not mere display but pictures of wind, birds and rain. In slow movements, follow the melody over a sustained bass, a Venetian song whose ornaments must breathe.
 
-## Key works
+## Works and craft
 
 The Four Seasons, Op. 8; Concerto for Two Mandolins, RV 532; Cello Sonata in E minor, RV 40; Gloria, RV 589; Bajazet, RV 703.
 
-## Influence
+## Influence and misreadings
 
 He fixed the three-movement fast–slow–fast shape of the solo concerto and its contrast of solo and tutti. Bach, the Classical concerto and the Romantic virtuoso concerto all stand on that line. The twentieth-century revival restored him from the man of the Seasons to a whole universe of concertos. Every solo concerto we hear today casts his shadow.
 

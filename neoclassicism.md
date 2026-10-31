@@ -29,7 +29,7 @@ updated: 2026-10-28
 ::: zh
 新古典主义借十八世纪的清晰轮廓、旧体裁与小编制，装进二十世纪的和声与节奏。
 
-## 起源与年代
+## 年代与地点
 一战后，斯特拉文斯基、普罗科菲耶夫、欣德米特与法国六人团转向更冷、更客观的写法。1920 年《普契涅拉》常被视作起点，随后有《古典交响曲》与《库普兰之墓》。主要区间是 1920 到 1950 年代。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-28
 ## 代表人物
 斯特拉文斯基以《普契涅拉》《俄狄浦斯王》定下方向，普罗科菲耶夫把古典轮廓与尖利和声并置。欣德米特强调可演奏的绝对音乐，拉威尔把法式旧舞曲写成现代钢琴语言。
 
-## 谱系
+## 前后脉络
 上承巴洛克与古典时期的体裁意识，下接战后多元折衷、后现代拼贴与电影配乐里的古典化写法。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-28
 ::: en
 Neoclassicism borrowed the clear outlines, old genres and small forces of the eighteenth century, then filled them with twentieth-century harmony and rhythm.
 
-## Origins and era
+## Era and place
 After World War I, Stravinsky, Prokofiev, Hindemith and Les Six turned cooler and more objective. Pulcinella in 1920 is often taken as the start, followed by the Classical Symphony and Le Tombeau de Couperin. It spans the 1920s to the 1950s.
 
 ## What you hear
@@ -61,7 +61,7 @@ Listen for outline. Themes are short, phrasing is clear and sections end firmly.
 ## Key figures
 Stravinsky set the course with Pulcinella and Oedipus Rex, while Prokofiev placed classical outlines beside acrid harmony. Hindemith argued for playable absolute music, and Ravel turned French old dances into modern piano writing.
 
-## Lineage
+## Lines before and after
 It inherits Baroque and Classical genre awareness and the anti-Romantic stance, and leads to postwar eclecticism, postmodern collage and film scoring's classical manner.
 
 ## Common misunderstandings

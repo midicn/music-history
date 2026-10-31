@@ -37,7 +37,7 @@ updated: 2026-10-30
 
 ## 听什么
 
-先听**诗句的节奏**。《不安的睡眠》里钢琴的音型一直在转，人声却按词的重音进出，听它不按小节、而按句子换气。再听**伴奏的图画**。《纺女夜歌》的钢琴模仿纺车，同一个音型从头到尾不停，听重复怎样从安定变成压迫。再听**和声的重量**。《诺瓦利斯夜颂之后》用了近乎圣咏的进行，长句一层层往上，听宗教语气怎样进入一首情歌。最后听**朴素**。《民歌》是分节歌，每段旋律相同，钢琴只给骨架，听它怎样靠歌词推进而不靠音乐变化。
+先听**诗句的节奏**。《不安的睡眠》里钢琴的音型一直在转，人声却按词的重音进出，听它不按小节、而按句子换气。再听**伴奏的图画**。《纺女夜歌》的钢琴模仿纺车，同一个音型从头到尾不停，听重复怎样从安定变成压迫。再听和声的重量。《诺瓦利斯夜颂之后》用了近乎圣咏的进行，长句一层层往上，听宗教语气怎样进入一首情歌。最后听朴素。《民歌》是分节歌，每段旋律相同，钢琴只给骨架，听它怎样靠歌词推进而不靠音乐变化。
 
 ## 代表作
 
@@ -47,7 +47,7 @@ updated: 2026-10-30
 
 ## 影响
 
-她的歌曲在十九世纪被反复收入歌本，与父亲的歌一起构成德国家庭音乐的基本曲目。**她证明了新诗可以在家里被唱出来**，而不必等大型体裁来消化，舒伯特一代的歌曲正是沿着这条路长出来的。作为女性，她的名字长期附在父亲后面，二十世纪后期的研究才把她单独列出。她的价值不在技巧的难度，而在一种判断，诗的声音可以被写成普通人的声音。
+她的歌曲在十九世纪被反复收入歌本，与父亲的歌一起构成德国家庭音乐的基本曲目。她证明了新诗可以在家里被唱出来，而不必等大型体裁来消化，舒伯特一代的歌曲正是沿着这条路长出来的。作为女性，她的名字长期附在父亲后面，二十世纪后期的研究才把她单独列出。她的价值不在技巧的难度，而在一种判断，诗的声音可以被写成普通人的声音。
 
 ```audiolab
 {"type":"instrument","gm":"Voice Oohs","synth":"vocal","phrase":["G4","A4","B4","A4","G4","F#4","G4","D4"],"label":"赖夏特：一句诗换一口气","label_en":"Reichardt: one line of poetry, one breath","hint":"借合成人声唱一句拱形旋律，听它在句尾下落而不是停在小节线上。真正的歌曲里钢琴会用音型把这条线托住。","hint_en":"A synth voice sings one arched phrase and falls at the comma rather than the barline. In the real songs the piano holds that line with a figure."}
@@ -65,7 +65,7 @@ Her work falls between two eras. Her father's generation treated song as edifica
 
 ## What to hear
 
-Listen first for **the rhythm of the verse**. In Unruhiger Schlaf the piano figure keeps turning while the voice enters on the stressed words, breathing at the comma rather than the barline. Then for **the accompanying picture**. Der Spinnerin Nachtlied imitates a spinning wheel, one figure throughout, and repetition turns from steadiness into pressure. Next, **harmonic weight**. Aus Novalis Hymnen an die Nacht moves in near-chorale steps, and devotional tone enters a love poem. Finally, **plainness**. Volkslied is strophic, the piano giving only a frame, and the song advances through its words.
+Listen first for **the rhythm of the verse**. In Unruhiger Schlaf the piano figure keeps turning while the voice enters on the stressed words, breathing at the comma rather than the barline. Then for **the accompanying picture**. Der Spinnerin Nachtlied imitates a spinning wheel, one figure throughout, and repetition turns from steadiness into pressure. Next, harmonic weight. Aus Novalis Hymnen an die Nacht moves in near-chorale steps, and devotional tone enters a love poem. Finally, plainness. Volkslied is strophic, the piano giving only a frame, and the song advances through its words.
 
 ## Key works
 
@@ -75,7 +75,7 @@ Listen first for **the rhythm of the verse**. In Unruhiger Schlaf the piano figu
 
 ## Influence
 
-Her songs were reprinted in nineteenth-century songbooks and, with her father's, filled German households. **She showed that new poetry could be sung at home** without waiting for a large genre to absorb it. As a woman her name long trailed her father's; only later research listed her separately. Her value lies less in difficulty than in a judgement, that the sound of a poem can be written as an ordinary voice.
+Her songs were reprinted in nineteenth-century songbooks and, with her father's, filled German households. She showed that new poetry could be sung at home without waiting for a large genre to absorb it. As a woman her name long trailed her father's; only later research listed her separately. Her value lies less in difficulty than in a judgement, that the sound of a poem can be written as an ordinary voice.
 
 ```audiolab
 {"type":"instrument","gm":"Voice Oohs","synth":"vocal","phrase":["G4","A4","B4","A4","G4","F#4","G4","D4"],"label":"Reichardt: one line of poetry, one breath","label_en":"Reichardt: one line of poetry, one breath","hint":"A synth voice sings one arched phrase and falls at the comma rather than the barline. In the real songs the piano holds that line with a figure.","hint_en":"A synth voice sings one arched phrase and falls at the comma rather than the barline. In the real songs the piano holds that line with a figure."}

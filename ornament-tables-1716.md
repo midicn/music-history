@@ -48,7 +48,7 @@ updated: 2026-10-30
 {"type":"instrument","gm":"Harpsichord","synth":"plucked","phrase":["C4","D4","C4","D4","C4","B3","C4","E4","D4","C4"],"label":"写出来的颤音","label_en":"A trill written out note by note","hint":"听四个音的颤动怎样落回主音，再想符号只写了多少","hint_en":"Hear the four-note shake settle on the main note, then how little the sign says"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:baroque]]，术语见[[glossary:ornaments]]与[[glossary:appoggiatura]]，乐器见[[instrument:harpsichord]]。
 
@@ -77,7 +77,7 @@ Begin with a piece from Couperin's harpsichord books, since the table came from 
 {"type": "instrument", "gm": "Harpsichord", "synth": "plucked", "phrase": ["C4", "D4", "C4", "D4", "C4", "B3", "C4", "E4", "D4", "C4"], "label": "A trill written out note by note", "label_en": "A trill written out note by note", "hint": "听四个音的颤动怎样落回主音，再想符号只写了多少", "hint_en": "Hear the four-note shake settle on the main note, then how little the sign says"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:baroque]]; see [[glossary:ornaments]], [[glossary:appoggiatura]] and [[instrument:harpsichord]].
 

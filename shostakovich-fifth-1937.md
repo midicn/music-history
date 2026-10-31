@@ -27,19 +27,19 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 时间与地点
+## 年份与坐标
 
 1937年11月21日，列宁格勒爱乐大厅。姆拉文斯基指挥列宁格勒爱乐乐团。1936年1月，《真理报》攻击他的歌剧《姆岑斯克县的麦克白夫人》，这部交响曲是公开批判后的第一次大型回应。
 
-## 发生了什么
+## 事情经过
 
 全曲四个乐章，d小调，没有标题。第一乐章从低音区的卡农开始，慢慢堆到高潮；第二乐章是讽刺性的谐谑曲；第三乐章是缓慢的广板；终场用进行曲节奏把音乐推向 D大调。作曲家后来被引述说，这是“一个苏联艺术家对公正批评的创造性回答”。
 
-## 改变了什么
+## 改写了什么
 
 交响曲成为公开场合里的双关语。它既满足官方对乐观终场的要求，又让听者感到终场的空洞与强制。肖斯塔科维奇证明，在审查制度下，形式本身可以承载异议。第五交响曲此后成为苏联交响乐的样板。
 
-## 听这个转折
+## 听一段转折
 
 先听第一乐章的低音卡农，注意它怎样一小步一小步爬到全奏。再听终场，鼓声与铜管把节奏钉死，旋律却不断重复，像在说服自己。最后听《二十四首前奏曲与赋格》，复调的冷静与第五的公共姿态形成另一种对照。
 
@@ -47,21 +47,21 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Timpani","synth":"perc","phrase":["D3","D3","D3","D3","F3","F3","E3","D3"],"label":"肖五：进行曲的低音","label_en":"The Fifth: a march in the bass","hint":"跟着定音鼓的重复音，听它怎样把终场推成一场无法退出的行进","hint_en":"Follow the repeated timpani notes and hear the finale become a march with no way out"}
 ```
 
-## 相关
+## 接着读
 
 这条转折属于[[period:modern]]，连接[[glossary:symphony]]、[[glossary:sonata-form]]与[[instrument:timpani]]。
 :::
 
 ::: en
-## Time and place
+## Year and coordinates
 
 21 November 1937, Leningrad Philharmonic Hall. Mravinsky conducted the Leningrad Philharmonic. In January 1936 Pravda had attacked his opera Lady Macbeth of Mtsensk as Muddle Instead of Music; the symphony was his first large response.
 
-## What happened
+## The sequence of events
 
 The work has four movements in D minor and no programme. The first begins with a low canon and builds to a climax; the second is a mocking scherzo; the third is a broad slow movement; the finale drives toward D major on march rhythm. Shostakovich was later quoted as calling it a Soviet artist's creative response to just criticism.
 
-## What changed
+## What it rewrote
 
 The symphony became a double language for public occasions. It met the official demand for an optimistic ending while letting listeners feel its emptiness. Shostakovich showed that under censorship form itself could carry dissent. It became a model for Soviet symphonies.
 
@@ -73,7 +73,7 @@ Begin with the low canon and hear it climb step by step to the full orchestra. T
 {"type": "instrument", "gm": "Timpani", "synth": "perc", "phrase": ["D3", "D3", "D3", "D3", "F3", "F3", "E3", "D3"], "label": "The Fifth: a march in the bass", "label_en": "The Fifth: a march in the bass", "hint": "跟着定音鼓的重复音，听它怎样把终场推成一场无法退出的行进", "hint_en": "Follow the repeated timpani notes and hear the finale become a march with no way out"}
 ```
 
-## Related
+## Read next
 
 This turn belongs to [[period:modern]] and connects [[glossary:symphony]], [[glossary:sonata-form]] and [[instrument:timpani]].
 :::

@@ -29,7 +29,7 @@ updated: 2026-10-30
 ::: zh
 室内奏鸣曲在巴洛克指在厅堂里演奏的舞曲型奏鸣曲，十九世纪以后指一件独奏乐器加键盘的二人奏鸣曲。
 
-## 起源与年代
+## 年代与地点
 十七世纪的意大利把奏鸣曲按场合分成两类，教堂奏鸣曲用于礼拜，室内奏鸣曲用于宫廷与宅邸，乐章以舞曲命名。科雷利与维瓦尔第确立了这对概念。十八世纪中叶，数字低音退场，键盘声部被写全，巴赫为长笛与大键琴写的奏鸣曲已经让右手独立成一条旋律线。十九世纪，钢琴音量上升，贝多芬与布拉姆斯把大提琴、小提琴奏鸣曲写成两件乐器平分的对话。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-30
 ## 代表人物
 科雷利与维瓦尔第确立巴洛克室内奏鸣曲，巴赫为小提琴与长笛写的带助奏键盘奏鸣曲把键盘写成平等的第二声部，贝多芬的十首小提琴奏鸣曲与大提琴奏鸣曲扩大音量与音域，布拉姆斯让两件乐器共同承担结构。
 
-## 谱系
+## 前后脉络
 上承巴洛克三重奏鸣曲，把两条高音线合并成一件独奏加键盘，下接二十世纪的奏鸣曲与以奏鸣曲式写成的室内乐。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-30
 ::: en
 In the Baroque a chamber sonata was a dance-based sonata played in a hall; after the eighteenth century the term covers a sonata for one solo instrument and keyboard.
 
-## Origins and era
+## Era and place
 Seventeenth-century Italy sorted sonatas by occasion, church sonatas for worship and chamber sonatas for courts and houses, with movements named after dances. Corelli and Vivaldi fixed the pair of concepts. Around the middle of the eighteenth century figured bass receded and the keyboard part was written out in full, so Bach's sonatas for flute and harpsichord already give the right hand an independent melodic line. In the nineteenth century, as pianos grew louder, Beethoven and Brahms wrote cello and violin sonatas as a dialogue shared between two players.
 
 ## What you hear
@@ -61,7 +61,7 @@ There are only two instruments, one sustaining the line and one covering both ha
 ## Key figures
 Corelli and Vivaldi set the Baroque model, Bach's sonatas for violin and flute with obbligato harpsichord made the keyboard an equal second voice, Beethoven's ten violin sonatas and his cello sonatas widened range and volume, and Brahms gave both players structural work.
 
-## Lineage
+## Lines before and after
 It grows out of the trio sonata by folding two treble lines into one soloist plus keyboard, and leads to twentieth-century sonatas and to chamber works built on sonata form.
 
 ## Common misunderstandings

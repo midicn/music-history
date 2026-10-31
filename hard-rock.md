@@ -29,19 +29,19 @@ updated: 2026-10-28
 ::: zh
 硬摇滚把布鲁斯乐队整体放大，吉他更响、鼓更重、器乐段更长。
 
-## 起源与年代
+## 从哪儿来
 1960 年代中后期，英美乐队把电声布鲁斯推到更大音量。1969 年前后，齐柏林飞艇、深紫与黑色安息日定下重音与长独奏，硬摇滚成为体育场的底盘。
 
-## 听辨特征
+## 耳朵先抓到什么
 先听 riff，吉他以五声音阶与强力和弦写出短句，重复成记忆点。鼓比流行摇滚更重，军鼓响、底鼓密，贝斯贴住 riff 的根音。主唱常在高音区嘶喊，独奏更长。速度中快，偶尔半速。
 
-## 代表人物
+## 绕不开的人
 齐柏林飞艇把民谣与布鲁斯并置，深紫加入管风琴与古典动机，黑色安息日把失真压得更低更慢。AC/DC 把 riff 做成极简公式，自由乐队与瘦李奇保留更蓝调的版本。
 
-## 谱系
+## 它影响了谁
 上承电声布鲁斯、英国节拍音乐与迷幻摇滚，下接重金属、垃圾摇滚与体育场摇滚；它也把专辑摇滚的现场形态固定下来。
 
-## 常见误解
+## 常被说错的地方
 硬摇滚不等于重金属，前者仍以布鲁斯为骨架，后者更重更暗。也不等于只有响度，riff 的设计与鼓的留白同样关键。把它当音量竞赛，会漏掉它借自布鲁斯的句法。
 
 ```audiolab
@@ -52,19 +52,19 @@ updated: 2026-10-28
 ::: en
 Hard rock enlarges the blues band, with louder guitars, heavier drums and longer instrumental passages.
 
-## Origins and era
+## Where it came from
 In the mid-1960s British and American groups pushed electric blues to greater volume. Around 1969 Led Zeppelin, Deep Purple and Black Sabbath fixed the heavy accents, distortion and long solos, and hard rock became the base of stadium rock.
 
-## What you hear
+## What the ear catches
 Listen for the riff. Guitar writes short phrases from the minor pentatonic and power chords, repeating them until they stick. Drums hit harder than in pop rock, snare bright and kick busy, while bass locks to the root. The singer often shouts in a high register, and solos run longer than in punk. Tempos are medium-fast, with occasional half-time, and sections are separated by volume and colour.
 
-## Key figures
+## Names you cannot avoid
 Led Zeppelin set folk beside blues, Deep Purple added organ and classical motives, and Black Sabbath made distortion slower and lower. AC/DC reduced the riff to a formula, while Free and Thin Lizzy kept a bluesier version.
 
-## Lineage
+## What it influenced
 Electric blues, British beat and psychedelic rock feed in; heavy metal, grunge and stadium rock come out. It also fixed the live shape of album rock.
 
-## Common misunderstandings
+## What is often misread
 Hard rock is not heavy metal, since it keeps a blues skeleton while metal turns darker. Nor is it only volume; riff design and drum space matter as much. Hearing it as a loudness contest misses the blues syntax it borrows.
 
 ```audiolab

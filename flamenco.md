@@ -29,7 +29,7 @@ updated: 2026-10-28
 ::: zh
 弗拉门戈是安达卢西亚的歌唱、吉他、舞蹈与拍手，靠十二拍循环与深沉情感把表演者与听众绑在一起。
 
-## 起源与年代
+## 年代与地点
 18 世纪末到 19 世纪，安达卢西亚的吉普赛人、摩尔人与犹太人把歌、舞与吉他合成弗拉门戈。1860 年代起歌唱咖啡馆让它成形，20 世纪唱片扩大受众。1950 年代后帕科·德·卢西亚与卡马龙把新弗拉门戈带向世界。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-28
 ## 代表人物
 帕科·德·卢西亚把吉他变成独奏乐器，卡马龙把歌唱推向极致，托马蒂托与桑卢卡尔延续吉他传统。卡门·阿玛亚与加德斯把舞蹈带进电影，莫伦特把弗拉门戈与摇滚并置。
 
-## 谱系
+## 前后脉络
 上承安达卢西亚民歌、吉普赛音乐与拉丁美洲节奏，下接新弗拉门戈、弗拉门戈爵士与融合流行；它把即兴、舞蹈与歌曲放在同一舞台。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-28
 ::: en
 Flamenco is the song, guitar, dance and handclaps of Andalusia, binding performers and listeners through twelve-beat cycles and deep feeling.
 
-## Origins and era
+## Era and place
 From the late eighteenth century into the nineteenth, Roma, Moorish and Jewish communities in Andalusia combined song, dance and guitar into flamenco. From the 1860s cafes cantantes gave it a paid stage. Records and opera flamenca widened its audience. Paco de Lucia and Camaron de la Isla took nuevo flamenco worldwide, and UNESCO listed it in 2010.
 
 ## What you hear
@@ -61,7 +61,7 @@ Start with compas. Solea and bulerias run in twelve-beat cycles with accents in 
 ## Key figures
 Paco de Lucia made the guitar a solo voice, Camaron de la Isla pushed song to its limit, and Tomatito continued the guitar line. Carmen Amaya and Antonio Gades took dance into film and theatre, while Enrique Morente set it beside rock and jazz.
 
-## Lineage
+## Lines before and after
 Andalusian folk song, Roma music, Moorish and Latin American rhythm feed in; nuevo flamenco, flamenco jazz and fusion pop come out. Dance and song share one stage.
 
 ## Common misunderstandings

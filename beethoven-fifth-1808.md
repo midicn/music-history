@@ -46,7 +46,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["G3","G3","G3","Eb3","F3","F3","F3","D3"],"label":"命运的敲门：三短一长","label_en":"Fate knocking: three shorts and a long","hint":"跟着弓弦数拍，听短音如何被最后一个长音压住","hint_en":"Count with the strings and hear the long note take hold after the three shorts"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:classical]]，连接[[glossary:symphony]]、[[glossary:motive]]与[[instrument:timpani]]。
 :::
@@ -72,7 +72,7 @@ Begin with the Fifth's opening and count the three shorts and the long note. The
 {"type": "instrument", "gm": "String Ensemble 1", "synth": "bowed", "phrase": ["G3", "G3", "G3", "Eb3", "F3", "F3", "F3", "D3"], "label": "Fate knocking: three shorts and a long", "label_en": "Fate knocking: three shorts and a long", "hint": "跟着弓弦数拍，听短音如何被最后一个长音压住", "hint_en": "Count with the strings and hear the long note take hold after the three shorts"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:classical]] and connects [[glossary:symphony]], [[glossary:motive]] and [[instrument:timpani]].
 :::

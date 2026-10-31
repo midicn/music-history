@@ -48,7 +48,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Cello","synth":"bowed","phrase":["G3","D4","G4","B4","G5"],"label":"磁带：长音被存下、剪开、再接回","label_en":"Tape: a sustained line is stored, cut and rejoined","hint":"听延音如何保持，想象磁带剪接把一次演奏变成可编辑的片段","hint_en":"Hear the sustained tone, then imagine splicing turning a performance into editable pieces"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折横跨[[period:modern]]与[[period:contemporary]]，连接[[instrument:tape-music]]与[[glossary:sampler]]。
 :::
@@ -76,7 +76,7 @@ The library holds no 1935 tape recording or tape-music original. Begin with the 
 {"type": "instrument", "gm": "Cello", "synth": "bowed", "phrase": ["G3", "D4", "G4", "B4", "G5"], "label": "Tape: a sustained line is stored, cut and rejoined", "label_en": "Tape: a sustained line is stored, cut and rejoined", "hint": "听延音如何保持，想象磁带剪接把一次演奏变成可编辑的片段", "hint_en": "Hear the sustained tone, then imagine splicing turning a performance into editable pieces"}
 ```
 
-## Related
+## Related entries
 
 This turn spans [[period:modern]] and [[period:contemporary]] and connects [[instrument:tape-music]] and [[glossary:sampler]].
 :::

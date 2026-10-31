@@ -28,7 +28,7 @@ updated: 2026-10-30
 ::: zh
 硬核朋克把朋克的速度、音量与自制网络推到极端，1979 到 1983 年在洛杉矶与华盛顿成形。
 
-## 起源与年代
+## 年代与地点
 1979 年，洛杉矶的 Black Flag 发行首张 EP，把演出搬进全年龄场地。1980 年，华盛顿的 Minor Threat 与 Dischord 唱片成立，Bad Brains 把雷鬼段落与极速硬核放进同一场演出。旧金山的 Dead Kennedys 与明尼阿波利斯的 Hüsker Dü 各自建立地方场景。爱好者杂志、磁带交换与全年龄演出，是这一网络真正的基础设施。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## 代表人物
 Black Flag 的 Greg Ginn 用不协和的独奏与独立发行建立模板，Minor Threat 的 Ian MacKaye 把自制伦理写进歌词与厂牌操作。Bad Brains 的 H.R. 把雷鬼与硬核放在同一副嗓子，Dead Kennedys 的 Jello Biafra 用讽刺处理政治，Hüsker Dü 则把旋律塞进噪声。
 
-## 谱系
+## 前后脉络
 上承 1970 年代朋克与速度金属的雏形，下接后硬核、鞭击金属、油渍摇滚与 1990 年代的地下场景。它建立了独立厂牌、全年龄演出与磁带网络的模板，后来被独立音乐广泛借用。1980 年代的欧洲与日本也出现了对应场景，磁带网络让不同城市几乎同时听到彼此的录音。它的时间感与短结构后来进入金属核与噪音摇滚。
 
 ## 常见误解
@@ -50,7 +50,7 @@ Black Flag 的 Greg Ginn 用不协和的独奏与独立发行建立模板，Mino
 ::: en
 Hardcore punk pushed punk's speed, volume and self-built network to an extreme, forming in Los Angeles and Washington between 1979 and 1983.
 
-## Origins and era
+## Era and place
 In 1979 Black Flag in Los Angeles released their first EP and moved shows into all-ages spaces. In 1980 Minor Threat formed in Washington and Dischord Records began, while Bad Brains put reggae passages and very fast hardcore in the same set. Dead Kennedys in San Francisco and Hüsker Dü in Minneapolis built local scenes of their own. Fanzines, tape trading and all-ages shows were the real infrastructure of this network.
 
 ## What you hear
@@ -59,7 +59,7 @@ Songs last from thirty seconds to ninety, at 180 BPM and above. Drums push with 
 ## Key figures
 Greg Ginn of Black Flag built the template with dissonant solos and self-released records, and Ian MacKaye of Minor Threat wrote the DIY ethic into lyrics and label practice. H.R. of Bad Brains carried reggae and hardcore in one voice, Jello Biafra of Dead Kennedys handled politics through satire, and Hüsker Dü pushed melody into the noise.
 
-## Lineage
+## Lines before and after
 1970s punk and the first stirrings of speed metal feed in; post-hardcore, thrash metal, grunge and the 1990s underground come out. It set the template of independent labels, all-ages shows and tape networks that later independent music borrowed widely. Corresponding scenes appeared in Europe and Japan in the 1980s, and tape networks let different cities hear each other almost at once. Its sense of time and short structures later entered metalcore and noise rock.
 
 ## Common misunderstandings

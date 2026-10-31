@@ -26,11 +26,11 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 生平一笔
 
 卡米尔·圣-桑（1835–1921）是法国作曲家、钢琴家与管风琴家，十岁开独奏会，长期任巴黎玛德莱娜教堂管风琴师。他写作范围极广，从交响曲、协奏曲到歌剧与室内乐。他既是神童，也是法国音乐界最博学、最善辩的公众人物之一。
 
-## 时代与位置
+## 他生活的城市
 
 他属于法国浪漫主义的古典一翼，崇拜巴赫、莫扎特与贝多芬，也支持李斯特、瓦格纳的新音乐。他参与创建法国民族音乐协会，提携年轻作曲家，是巴黎音乐生活的中心人物。他的趣味横跨古今，因此常被误读成“保守”，其实他最擅长把新色彩装进旧形式。
 
@@ -38,11 +38,11 @@ updated: 2026-10-28
 
 先听清晰的织体，旋律、伴奏与低音各有分工，从不浑浊。再听谐谑，他常把死亡、动物与异域写成玩笑，但配器一丝不苟。听《管风琴交响曲》时注意管风琴如何从背景走进终曲，那一刻整座建筑都在发声。
 
-## 代表作
+## 代表作品
 
 《骷髅之舞》；《动物狂欢节》；第三交响曲“管风琴”；第一大提琴协奏曲；《参孙与达利拉》；五部钢琴协奏曲。
 
-## 影响
+## 留下的痕迹
 
 他证明法国作曲家也能掌握德奥式的大型形式，同时保持法国的明朗与机智。后来的福雷、拉威尔与法国“六人团”都从他的教学、组织工作与音乐趣味中受益。他让“优雅”不再等于浅薄，而可以是一种精确的技术。
 
@@ -52,11 +52,11 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## A life in brief
 
 Camille Saint-Saëns (1835–1921) was a French composer, pianist and organist who gave his first public recital at ten and served for years as organist of the Madeleine in Paris. He wrote across nearly every genre, from symphony and concerto to opera and chamber music. A prodigy and a formidable scholar, he was also one of the most articulate public figures in French music.
 
-## His place
+## The city he worked in
 
 He represents the classical wing of French Romanticism: devoted to Bach, Mozart and Beethoven, yet sympathetic to Liszt and Wagner. He helped found the Société Nationale de Musique and supported younger composers, making him a central figure in Parisian musical life. His taste spanned centuries, so he is often misread as conservative; in fact he excelled at packing new colour into old forms.
 
@@ -68,7 +68,7 @@ Hear the clarity of the texture, with melody, accompaniment and bass each doing 
 
 Danse macabre; The Carnival of the Animals; Symphony No. 3, Organ; Cello Concerto No. 1; Samson and Delilah; five piano concertos.
 
-## Influence
+## What remains
 
 He proved that a French composer could master the large Austro-German forms while keeping French clarity and wit. Fauré, Ravel and Les Six all benefited from his teaching, organising and taste. He made elegance something more than superficial: a precise technique.
 

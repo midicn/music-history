@@ -28,7 +28,7 @@ updated: 2026-10-30
 ::: zh
 摩城把福音唱法、四拍舞曲与精心设计的低音线条装进三分钟的流行单曲，1960 年代在底特律成形。
 
-## 起源与年代
+## 年代与地点
 1959 年 1 月，贝里·戈迪在底特律创立 Tamla 厂牌，随后买下西格兰德大道 2648 号的房子，称为 Hitsville U.S.A.。1963 到 1967 年是高峰，Holland-Dozier-Holland 写作团队为 Supremes 与 Four Tops 写歌，Funk Brothers 在楼下的录音室伴奏。公司设有质量检查与艺人培训，把一间地方厂牌做成跨市场的产业。1972 年总部迁往洛杉矶。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## 代表人物
 Supremes、Four Tops、Temptations、Miracles 定义了演唱与编舞的组合，Stevie Wonder 与 Marvin Gaye 在 1970 年代把创作权拿回自己手里。James Jamerson 的低音、Benny Benjamin 的鼓、Holland-Dozier-Holland 的写作，是这套声响的三根柱子。
 
-## 谱系
+## 前后脉络
 上承福音、节奏布鲁斯与嘟喔普，下接灵魂乐、迪斯科与 1980 年代的流行舞曲。它把黑人流行音乐推进主流电台，也影响了英国入侵之后的乐队，让“制作人主导的单曲”成为行业标准。1970 年代之后，这套方法被迪斯科与成人抒情吸收，底特律的录音室则成为流行音乐史的常被引用的案例。它还让编舞与电视表演成为流行歌手的标配。
 
 ## 常见误解
@@ -50,7 +50,7 @@ Supremes、Four Tops、Temptations、Miracles 定义了演唱与编舞的组合�
 ::: en
 Motown packed gospel singing, a four-beat dance pulse and carefully shaped bass lines into three-minute pop singles, taking shape in Detroit in the 1960s.
 
-## Origins and era
+## Era and place
 In January 1959 Berry Gordy founded the Tamla label in Detroit and soon bought the house at 2648 West Grand Boulevard, known as Hitsville U.S.A. The peak came between 1963 and 1967, when the Holland-Dozier-Holland team wrote for the Supremes and the Four Tops and the Funk Brothers played in the downstairs studio. The company ran quality control and artist training, turning a local label into an operation aimed at crossover markets. Headquarters moved to Los Angeles in 1972.
 
 ## What you hear
@@ -59,7 +59,7 @@ Tempos usually fall between 100 and 150 BPM. The kick often marks all four beats
 ## Key figures
 The Supremes, Four Tops, Temptations and Miracles defined the pairing of singing and choreography, while Stevie Wonder and Marvin Gaye took writing back into their own hands in the 1970s. Jamerson's bass, Benny Benjamin's drums and the Holland-Dozier-Holland songs are the three pillars of the sound.
 
-## Lineage
+## Lines before and after
 Gospel, rhythm and blues and doo-wop feed in; soul, disco and 1980s pop dance music come out. It pushed Black pop onto mainstream radio, influenced bands after the British Invasion, and made the producer-led single an industry standard. After the 1970s, disco and adult pop absorbed the production method, and the Detroit studio became a much-cited case in pop history. It also made choreography and television performance standard equipment for pop singers.
 
 ## Common misunderstandings

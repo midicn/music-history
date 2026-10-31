@@ -29,19 +29,19 @@ updated: 2026-10-28
 ::: zh
 克莱兹梅尔是东欧犹太婚礼乐队的音乐，单簧管里装着哭腔与欢庆。
 
-## 起源与年代
+## 从哪儿来
 19 世纪的东欧，阿什肯纳兹犹太社区在婚礼与节庆上请乐队演奏。乐队通常有小提琴、单簧管、大提琴或低音、钦巴龙与鼓，曲目来自宗教歌调与巴尔干舞曲。1880 年代移民把音乐带到纽约，1910 至 1920 年代的唱片工业让布兰德温与塔拉斯成名。二战摧毁了东欧中心，1970 年代的复兴又把它带回舞台。
 
-## 听辨特征
+## 耳朵先抓到什么
 旋律常用弗里吉亚式音阶，第二级降低，形成鲜明的增二度。单簧管在高音区加滑音、颤音与装饰，模仿人声哭腔。节奏型包括慢速杜伊纳、三拍或二拍的霍拉与婚礼舞曲。乐队会在同一首曲子里从哀伤转到急速欢庆。
 
-## 代表人物
+## 绕不开的人
 布兰德温的录音把即兴装饰固定成风格，塔拉斯让单簧管成为主角。费德曼在战后把它带进音乐会，克莱兹梅蒂克斯与克莱兹梅尔音乐学院乐队推动复兴。
 
-## 谱系
+## 它影响了谁
 上承东欧犹太宗教歌调、意第绪歌曲与巴尔干舞曲，下接美国克莱兹梅尔复兴、爵士克莱兹梅尔与世界音乐融合。
 
-## 常见误解
+## 常被说错的地方
 克莱兹梅尔不全是悲伤音乐，婚礼上的欢庆曲同样重要。它也不只靠单簧管，小提琴在早期乐队里更核心。它并非宗教音乐，多数场合是世俗婚礼与庆典。
 
 ```audiolab
@@ -52,19 +52,19 @@ updated: 2026-10-28
 ::: en
 Klezmer is the wedding-band music of Eastern European Jews, its clarinet holding lament and celebration.
 
-## Origins and era
+## Where it came from
 In nineteenth-century Eastern Europe, Ashkenazi communities hired bands for weddings. A band usually had violin, clarinet, cello or bass, cimbalom and drum, drawing on religious chant and Balkan dance tunes. Migrants brought it to New York in the 1880s, and the record industry of the 1910s and 1920s made Brandwein and Tarras stars. The Second World War destroyed the Eastern European centre, and a revival from the 1970s brought it back to the stage.
 
-## What you hear
+## What the ear catches
 Melodies often use a Phrygian-like scale with a lowered second degree, producing a striking augmented second. The clarinet adds slides, trills and ornaments in the high register, imitating a human wail. Rhythms include the slow doina, the hora, and wedding processional tunes. A band may move from mourning to celebration within one piece.
 
-## Key figures
+## Names you cannot avoid
 Brandwein's recordings fixed improvised ornament as a style, and Tarras made the clarinet the lead voice. Feidman carried klezmer into the concert hall, while the Klezmatics and the Klezmer Conservatory Band drove the revival.
 
-## Lineage
+## What it influenced
 Eastern European Jewish chant, Yiddish song and Balkan dance feed in; the American revival, jazz klezmer and world-music fusion come out.
 
-## Common misunderstandings
+## What is often misread
 Klezmer is not all mournful, since wedding tunes matter just as much. It does not rely on the clarinet alone, as the violin was more central in early bands. It is not ritual music, since most occasions were secular weddings.
 
 ```audiolab

@@ -29,7 +29,7 @@ updated: 2026-10-28
 ::: zh
 重金属把硬摇滚的失真与重拍推到更极端，用 riff、音量与高音把舞台变成压力场。
 
-## 起源与年代
+## 年代与地点
 1960 年代末，伯明翰的黑色安息日把布鲁斯放慢、降调并加重，伦敦的深紫与齐柏林飞艇把管风琴、民谣与长独奏带进来。犹大圣徒在 1970 年代中期去掉布鲁斯，定下双吉他尖啸。1979 到 1981 年的英国重金属新浪潮把速度与旋律推向地下，随后 thrash、death 与 black metal 分出支流。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-28
 ## 代表人物
 黑色安息日定下黑暗与缓慢，犹大圣徒定下双吉他与高音，铁娘子把旋律与历史叙事带进新浪潮，Metallica 与 Slayer 把 thrash 推向全球。摩托头连接朋克与金属，Death 与 Mayhem 把 death 与 black metal 的边界推开。
 
-## 谱系
+## 前后脉络
 上承硬摇滚、布鲁斯摇滚与古典动机，下接 thrash、death、black、doom、nu-metal 与 metalcore；它把吉他音色与鼓的耐力变成风格标志。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-28
 ::: en
 Heavy metal pushed hard rock's distortion and weight further, using riffs, volume and high registers to turn the stage into a pressure field.
 
-## Origins and era
+## Era and place
 In the late 1960s Black Sabbath slowed, detuned and thickened the blues, while Deep Purple and Led Zeppelin brought organ and long solos. Judas Priest stripped out the blues in the mid-1970s and fixed the twin-guitar scream. The New Wave of British Heavy Metal around 1979 pushed speed and melody underground, and thrash, death and black metal branched off.
 
 ## What you hear
@@ -61,7 +61,7 @@ Start with power chords and palm muting. Guitars are often tuned down, and riffs
 ## Key figures
 Black Sabbath fixed the dark and slow, Judas Priest fixed twin guitars and high vocals, Iron Maiden brought melody and history into the new wave, and Metallica and Slayer took thrash worldwide. Motörhead linked punk and metal, while Death and Mayhem opened extreme metal.
 
-## Lineage
+## Lines before and after
 Hard rock, blues rock and classical motives feed in; thrash, death, black, doom, nu-metal and metalcore come out. Guitar colour and drum stamina became markers.
 
 ## Common misunderstandings

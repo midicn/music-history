@@ -27,7 +27,7 @@ updated: 2026-10-30
 ---
 
 ::: zh
-## 他是谁
+## 出身与师承
 
 **弗洛朗·施米特**（1870–1958）生于洛林地区的布拉蒙，在巴黎音乐学院随马斯内与福雷学习，1900 年以康塔塔《塞米拉米斯》获罗马大奖。他长期住在巴黎，以作曲、评论与教学为生，1958 年在巴黎去世。他活得很长，跨越了从弗朗克一派到战后先锋的整个阶段。
 
@@ -35,19 +35,19 @@ updated: 2026-10-30
 
 在德彪西与拉威尔被当成法国音乐代表的时代，施米特是**另一条支流**：他和声更厚、织体更挤、节奏更有推动力，接近俄罗斯与德国的重量。他写过芭蕾《莎乐美的悲剧》、诗篇第四十七号这样的大编制作品，也写了大量钢琴曲，从《集市音乐》到《黄昏》《阴影》，几乎每隔几年就有一集。他的和声语汇其实很传统，主要是增和弦、九和弦与半音中音关系，靠密度而不是新奇取胜。
 
-## 听什么
+## 先听什么
 
-先听**和弦的重量**。他的钢琴写法常把三四个声部堆在中低音区，旋律被夹在中间，听上去像铜管而不是竖琴。再听**色彩的变化**。《黄昏》里同一个和声会反复出现，只改一两个音，光线就暗一格。再听**舞曲的骨架**。《三首狂想曲》与《集市音乐》都有明显的舞步，但速度与和声让它显得沉，不像沙龙舞曲那样轻。最后听**结构的耐心**，他的小品往往写到三四页才肯给一个终止。
+先听**和弦的重量**。他的钢琴写法常把三四个声部堆在中低音区，旋律被夹在中间，听上去像铜管而不是竖琴。再听**色彩的变化**。《黄昏》里同一个和声会反复出现，只改一两个音，光线就暗一格。再听舞曲的骨架。《三首狂想曲》与《集市音乐》都有明显的舞步，但速度与和声让它显得沉，不像沙龙舞曲那样轻。最后听结构的耐心，他的小品往往写到三四页才肯给一个终止。
 
-## 代表作
+## 作品与写法
 
 - 钢琴 《黄昏》Op.56、《阴影》Op.64、《三首狂想曲》Op.53、《集市音乐》Op.22
 - 乐队 《莎乐美的悲剧》、《诗篇第四十七号》
 - 其他 《德国映像》Op.28、《罗马之夜》Op.23
 
-## 影响
+## 影响与误读
 
-施米特没有形成一个学派，但他的音响观影响了不少后来的法国作曲家，尤其是那些嫌德彪西太轻的人。**他把法国音乐里被忽略的一面留了下来——不是精致，而是体量。** 今天他的钢琴曲仍然弹得少，原因多半是难，而不是不好听。他的管弦乐作品近年有复苏迹象，钢琴曲仍待人来弹。
+施米特没有形成一个学派，但他的音响观影响了不少后来的法国作曲家，尤其是那些嫌德彪西太轻的人。他把法国音乐里被忽略的一面留了下来——不是精致，而是体量。 今天他的钢琴曲仍然弹得少，原因多半是难，而不是不好听。他的管弦乐作品近年有复苏迹象，钢琴曲仍待人来弹。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["D3","A3","C#4","F4","E4","C#4","A3","D3"],"label":"施米特：把和弦堆成重量","label_en":"Schmitt: stacking chords into weight","hint":"借钢琴近似他的织体，听低音与中声部同时压住，旋律只剩一条窄缝。真正的《阴影》层数更多，音量也更满。","hint_en":"A piano stands in for his texture: hear bass and middle voices pressing together while the melody keeps only a narrow gap. The real Ombres has more layers and a fuller dynamic."}
@@ -55,7 +55,7 @@ updated: 2026-10-30
 :::
 
 ::: en
-## Who he was
+## Training and teachers
 
 **Florent Schmitt** (1870–1958) was born at Blâmont in Lorraine and studied at the Paris Conservatoire with Massenet and Fauré, winning the Prix de Rome in 1900 with the cantata Sémiramis. He lived in Paris, working as composer, critic and teacher, and died there in 1958. His long life stretched from the Franck circle to the postwar avant-garde.
 
@@ -63,17 +63,17 @@ updated: 2026-10-30
 
 While Debussy and Ravel were taken as the voice of French music, Schmitt ran **a different channel**: thicker harmony, denser texture, more driving rhythm, closer to Russian and German weight. He wrote large works such as the ballet La Tragédie de Salomé and Psalm 47, and also a great deal of piano music, from Musiques foraines to Crépuscules and Ombres, issuing a new set every few years. His harmonic vocabulary is in fact traditional, built on augmented and ninth chords and chromatic medians, winning by density rather than novelty.
 
-## What to hear
+## Where to start
 
-Listen first for **the weight of the chords**. His piano writing often stacks three or four parts in the middle and low register with the melody caught inside, so the instrument sounds like brass rather than a harp. Then **changes of colour**: in Crépuscules one harmony returns again and again with only a note or two altered, and the light drops a step each time. Then **the dance skeleton**: the Rhapsodies and Musiques foraines have clear steps, but tempo and harmony make them heavy rather than light. Finally **structural patience** — his short pieces often run three or four pages before granting a cadence.
+Listen first for **the weight of the chords**. His piano writing often stacks three or four parts in the middle and low register with the melody caught inside, so the instrument sounds like brass rather than a harp. Then **changes of colour**: in Crépuscules one harmony returns again and again with only a note or two altered, and the light drops a step each time. Then the dance skeleton: the Rhapsodies and Musiques foraines have clear steps, but tempo and harmony make them heavy rather than light. Finally structural patience — his short pieces often run three or four pages before granting a cadence.
 
-## Key works
+## Works and craft
 
 - Piano: Crépuscules Op.56, Ombres Op.64, 3 Rhapsodies Op.53, Musiques foraines Op.22
 - Orchestra: La Tragédie de Salomé, Psalm 47
 - Other: Reflets d'Allemagne Op.28, Nuits romaines Op.23
 
-## Influence
+## Influence and misreadings
 
 Schmitt founded no school, but his sense of sonority reached later French composers, especially those who found Debussy too light. **He preserved a side of French music that is usually overlooked — not refinement but bulk.** His piano music is still rarely played, more because it is hard than because it is dull. His orchestral music has been reviving lately, while the piano works still wait for players.
 

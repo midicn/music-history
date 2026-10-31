@@ -28,7 +28,7 @@ updated: 2026-10-28
 ::: zh
 陷阱音乐用 808 低音、半速军鼓与密集踩镲，把说唱做成低频建筑。
 
-## 起源与年代
+## 年代与地点
 2000 年代初，亚特兰大制作人把 808 低音、快速踩镲与半速军鼓组合成新伴奏。T.I. 与 Gucci Mane 先把它做成街头唱片，2010 年代 Future 与 Migos 把它推成全球主流。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-28
 ## 代表人物
 T.I. 把 trap 做成专辑概念，Gucci Mane 以高产量定义地下，Future 把人声当作音色，Migos 用三连音 flow 改写节奏。
 
-## 谱系
+## 前后脉络
 上承南方说唱、808 鼓机与电子舞曲的低频审美，下接 emo 说唱、drill 与流行说唱；低音从伴奏元素变成歌曲结构。
 
 ## 常见误解
@@ -51,7 +51,7 @@ T.I. 把 trap 做成专辑概念，Gucci Mane 以高产量定义地下，Future 
 ::: en
 Trap turns rap into low-end architecture from 808 bass, half-time snares and dense hi-hats.
 
-## Origins and era
+## Era and place
 In early-2000s Atlanta, producers combined the 808 drum machine's bass, fast hi-hats and half-time snares into a new backing. T.I. and Gucci Mane first made it street records, and in the 2010s Future and Migos pushed it into global rap.
 
 ## What you hear
@@ -60,7 +60,7 @@ Start with the low end, where the 808 bass note is stretched into something felt
 ## Key figures
 T.I. made trap an album concept, Gucci Mane defined the underground through volume, Future treated the voice as timbre, and Migos rewrote rhythm with triplet flows.
 
-## Lineage
+## Lines before and after
 Southern rap, the 808 machine and dance music's low-end aesthetic feed in; emo rap, drill and pop-rap hooks come out. Bass became structure rather than decoration.
 
 ## Common misunderstandings

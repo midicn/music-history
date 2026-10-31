@@ -46,7 +46,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Flute","synth":"blown","phrase":["C4","D4","E4","F#4","G#4","A#4","C5"],"label":"梅丽桑德：全音阶的水面","label_en":"Mélisande: a whole-tone surface","hint":"听长笛的音阶没有半音倾向，像水面反射而不落到岸上","hint_en":"Hear the flute scale avoid semitone pulls, reflecting like water without landing on a shore"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:impressionist]]，连接[[glossary:opera]]、[[glossary:timbre]]与[[instrument:flute]]。
 :::
@@ -72,7 +72,7 @@ Begin with Pelléas's declamation and notice how it avoids high notes and full c
 {"type": "instrument", "gm": "Flute", "synth": "blown", "phrase": ["C4", "D4", "E4", "F#4", "G#4", "A#4", "C5"], "label": "Mélisande: a whole-tone surface", "label_en": "Mélisande: a whole-tone surface", "hint": "听长笛的音阶没有半音倾向，像水面反射而不落到岸上", "hint_en": "Hear the flute scale avoid semitone pulls, reflecting like water without landing on a shore"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:impressionist]] and connects [[glossary:opera]], [[glossary:timbre]] and [[instrument:flute]].
 :::

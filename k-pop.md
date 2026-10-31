@@ -28,7 +28,7 @@ updated: 2026-10-30
 ::: zh
 韩流流行指韩国在 1990 年代形成的偶像流行工业，以团体编制、编舞与高强度制作为核心，1992 年在首尔起步。
 
-## 起源与年代
+## 年代与地点
 1992 年，徐太志和孩子们在电视选秀节目上演唱“I Know”，把说唱、摇滚吉他与舞曲节拍放进韩国流行歌曲，被视为起点。1995 年李秀满创立 SM 娱乐，1996 年 H.O.T. 出道，1997 年 Sechs Kies 加入，随后 BoA 与东方神起把市场扩展到日本与亚洲其他地区。练习生制度、编舞老师与视觉总监构成一套工业流程。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## 代表人物
 徐太志把摇滚与说唱带入主流，李秀满建立练习生与团体制作的模式。H.O.T. 与 Sechs Kies 定义第一代偶像，BoA 把市场推向日本，东方神起与后来的团体把巡演与粉丝文化规模化。制作人、编舞与造型团队的作用，和歌手本人一样大。
 
-## 谱系
+## 前后脉络
 上承韩国歌谣、美国说唱与舞曲流行、日本偶像工业，下接 2010 年代的全球偶像市场与短视频传播。它把“团体加编舞加影像”做成可输出的产品，也改变了亚洲流行音乐的培训方式。
 
 ## 常见误解
@@ -50,7 +50,7 @@ updated: 2026-10-30
 ::: en
 K-pop names the idol pop industry that took shape in South Korea in the 1990s, built on group line-ups, choreography and intensive production, starting in Seoul in 1992.
 
-## Origins and era
+## Era and place
 In 1992 Seo Taiji and Boys performed I Know on a television talent show, putting rap, rock guitar and dance beats into Korean pop and marking the start. Lee Soo-man founded SM Entertainment in 1995, H.O.T. debuted in 1996, Sechs Kies followed in 1997, and BoA and TVXQ later expanded the market into Japan and the rest of Asia. Trainee systems, choreographers and visual directors formed an industrial process.
 
 ## What you hear
@@ -59,7 +59,7 @@ Tempos usually run from 100 to 130 BPM, drums play a four-beat dance pulse, and 
 ## Key figures
 Seo Taiji brought rock and rap into the mainstream, and Lee Soo-man built the trainee and group-production model. H.O.T. and Sechs Kies defined the first idol generation, BoA carried the market into Japan, and TVXQ with later groups scaled touring and fandom. Producers, choreographers and stylists matter as much as the singers.
 
-## Lineage
+## Lines before and after
 Korean popular song, American rap and dance pop, and the Japanese idol industry feed in; the global idol market and short-video circulation of the 2010s come out. It turned group, choreography and video into an exportable product and changed how pop musicians are trained across Asia.
 
 ## Common misunderstandings

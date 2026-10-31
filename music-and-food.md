@@ -25,19 +25,19 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 问题
+## 争议在哪
 
 吃饭需要音乐吗？宴会上的曲子既要让人听见，又不能盖过谈话；酒馆里的歌却要大家一起唱。音乐在餐桌上到底做什么？
 
-## 历史脉络
+## 历史的走向
 
 中世纪宴席有吟游诗人，文艺复兴宫廷用间奏曲分隔菜肴；巴洛克咖啡馆成为公共音乐场所，巴赫的《咖啡康塔塔》就写咖啡瘾；19世纪餐厅乐队与沙龙钢琴把用餐变成身份展示，20世纪广播与背景音乐又把餐桌声音标准化。餐桌上的音乐从不中立，它替主人安排客人说话的顺序。
 
-## 关键案例
+## 几个例子
 
 《咖啡康塔塔》BWV 211 以父女争吵写咖啡禁令；爱尔兰饮酒歌《Preab san ól》靠副歌与举杯动作把独唱变成合唱；《香槟拉格》用切分与断奏写气泡。三首分别写饮品、酒精与奢侈。
 
-## 听什么
+## 听这几处
 
 听音乐有没有留出说话的空隙，听副歌是否容易跟唱，听节奏是否在模仿倒酒、碰杯或气泡。
 
@@ -45,7 +45,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Harpsichord","synth":"plucked","phrase":["C4","E4","G4","C5","G4","E4","C4","G4"],"label":"咖啡桌上的咏叹","label_en":"An aria at the coffee table","hint":"听伴奏怎样给歌声让路，又在句尾轻轻插话","hint_en":"Hear the accompaniment make room for the voice, then answer at the phrase end"}
 ```
 
-## 相关
+## 接着读
 
 餐桌音乐常落在 [[glossary:cantata]] 与歌曲之间，[[period:baroque]] 的咖啡馆给它公共空间，[[instrument:harpsichord]] 则是沙龙餐桌的常客。
 :::
@@ -59,11 +59,11 @@ Does a meal need music? At a banquet the music must be heard without drowning ou
 
 Medieval feasts had minstrels, and Renaissance courts used interludes to separate courses. Baroque coffee houses became public music rooms, and Bach's Coffee Cantata took coffee addiction as its subject. Nineteenth-century restaurant bands and salon piano turned dining into a display of status, while radio and background music standardized the sound of the table in the twentieth century.
 
-## Key cases
+## A few examples
 
 BWV 211 stages a father-daughter quarrel over coffee. The Irish drinking song Preab san ol turns a solo into a chorus through its refrain and the act of raising a glass. Lamb's Champagne Rag writes bubbles in syncopation and staccato. The three concern drink, alcohol, and luxury.
 
-## What to listen for
+## Listen to these
 
 Hear whether the music leaves gaps for talk, whether the refrain invites singing, and whether the rhythm imitates pouring, clinking, or bubbles.
 
@@ -71,7 +71,7 @@ Hear whether the music leaves gaps for talk, whether the refrain invites singing
 {"type":"instrument","gm":"Harpsichord","synth":"plucked","phrase":["C4","E4","G4","C5","G4","E4","C4","G4"],"label":"An aria at the coffee table","label_en":"An aria at the coffee table","hint":"Hear the accompaniment make room for the voice, then answer at the phrase end","hint_en":"Hear the accompaniment make room for the voice, then answer at the phrase end"}
 ```
 
-## Related
+## Read next
 
 Table music sits between the [[glossary:cantata]] and the song; the coffee houses of [[period:baroque]] gave it a public room, and the [[instrument:harpsichord]] was a regular at the salon table.
 :::

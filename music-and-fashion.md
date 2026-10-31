@@ -25,19 +25,19 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 问题
+## 要回答的问题
 
 衣服不会发声，但舞会需要音乐。裙子多宽、鞋跟多高，往往由舞曲的速度决定。时尚与音乐怎样互相塑形？
 
-## 历史脉络
+## 历史的走向
 
 宫廷舞会以队列与礼服展示等级，19世纪华尔兹让舞伴近距离旋转，裙撑与手套成为必要装备；20世纪爵士与摇摆让短裙、丝袜与舞鞋进入日常，摇滚与朋克又把破洞与铆钉变成声音的一部分。舞曲速度还决定布料与动作，快舞需要更短的裙摆和更轻的鞋。
 
-## 关键案例
+## 几个例子
 
 《舞会之后》1891年成为舞会与客厅的畅销华尔兹；乔普林《拉格泰姆舞》1902年把切分舞步带上舞台；《香槟圆舞曲》以沙龙华尔兹写晚礼服的闪光。三首分别写告别、新舞步与奢华。
 
-## 听什么
+## 听这几处
 
 听三拍子的第一拍是否让身体转向，听切分是否让脚步变碎，听乐句是否留出裙摆转身的时间。
 
@@ -45,7 +45,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["C4","E4","G4","E4","C4","G4","E4","C4"],"label":"裙摆的旋转","label_en":"A skirt in a turn","hint":"听三拍子怎样把身体推出去又收回来，像裙摆画了一个圆","hint_en":"Hear the three beats push the body out and draw it back like a skirt tracing a circle"}
 ```
 
-## 相关
+## 接着读
 
 时尚与舞曲共享 [[glossary:waltz]] 的三拍，[[period:romantic]] 的舞会把礼服变成身份，[[instrument:piano]] 则让舞曲进入家庭。
 :::
@@ -59,11 +59,11 @@ Clothes make no sound, but a ball needs music. How wide a skirt can be and how h
 
 Court balls displayed rank through processions and dress. The nineteenth-century waltz brought partners into a close turn, making crinolines and gloves necessary equipment. Jazz and swing brought short skirts, stockings, and dance shoes into daily life in the twentieth century, while rock and punk made tears and studs part of the sound.
 
-## Key cases
+## A few examples
 
 After the Ball became a best-selling waltz for ballroom and parlor in 1891. Joplin's The Ragtime Dance put a new step on stage in 1902, and Albeniz's Champagne Waltz wrote the sheen of evening dress in a salon waltz. The three concern farewell, a new step, and luxury.
 
-## What to listen for
+## Listen to these
 
 Hear whether the first beat of the three turns the body, whether syncopation breaks the step into pieces, and whether a phrase leaves time for a skirt to turn.
 
@@ -71,7 +71,7 @@ Hear whether the first beat of the three turns the body, whether syncopation bre
 {"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["C4","E4","G4","E4","C4","G4","E4","C4"],"label":"A skirt in a turn","label_en":"A skirt in a turn","hint":"Hear the three beats push the body out and draw it back like a skirt tracing a circle","hint_en":"Hear the three beats push the body out and draw it back like a skirt tracing a circle"}
 ```
 
-## Related
+## Read next
 
 Fashion and dance share the three beats of the [[glossary:waltz]]; the balls of [[period:romantic]] turned dress into status, and the [[instrument:piano]] carried the dance into the home.
 :::

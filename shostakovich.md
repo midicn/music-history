@@ -27,7 +27,7 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 出身与师承
 
 德米特里·肖斯塔科维奇（1906–1975）是苏联作曲家，生于圣彼得堡，十三岁入彼得格勒音乐学院。他一生经历革命、战争、斯大林时期与解冻，作品常在不同压力下改写与重写。他既是官方认可的交响曲作者，也是在地下与半地下状态写作室内乐的私人见证者。
 
@@ -35,15 +35,15 @@ updated: 2026-10-28
 
 他是苏联音乐的中心人物，也是最难被简单归类的作曲家。第五交响曲被视为“回应批评”，第七交响曲写列宁格勒围城，第十交响曲又被读作对斯大林时代的回望。室内乐则更私密。他的音乐从不直接说教，而是让公共姿态与私人语气同时存在。
 
-## 听什么
+## 先听什么
 
 先听双重语气，进行曲可以庄严，也可以滑稽；抒情可以真诚，也可以反讽。再听大结构，他的交响曲常把长时间的低速积累与突然爆发并置。听四重奏时注意 DSCH 动机（D–降E–C–B）在不同乐器间的传递，那是他名字的音乐签名。
 
-## 代表作
+## 作品与写法
 
 第五、第七、第十交响曲；第八弦乐四重奏；二十四首前奏曲与赋格；第一大提琴协奏曲；《姆岑斯克县的麦克白夫人》。
 
-## 影响
+## 影响与误读
 
 他把交响曲重新变成公共事件的记录，也让室内乐承担私人证词。他的“双关”语言影响了后来的苏联与东欧作曲家，也让全世界的听众学会在漂亮旋律背后听出不安。他证明了在压力之下，音乐仍可以同时说两件事。
 
@@ -53,7 +53,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Training and teachers
 
 Dmitri Shostakovich (1906–1975) was a Soviet composer born in Saint Petersburg, who entered the Petrograd Conservatory at thirteen. He lived through revolution, war, the Stalin years and the Thaw, and his works were often revised under pressure. He was both an officially recognised symphonist and a private witness writing chamber music in a half-hidden register.
 
@@ -61,15 +61,15 @@ Dmitri Shostakovich (1906–1975) was a Soviet composer born in Saint Petersburg
 
 He was the central figure of Soviet music and its least classifiable composer: the Fifth Symphony was heard as a reply to official criticism, the Seventh as a document of the siege of Leningrad, the Tenth as a portrait of the Stalin era. The quartets are more private. His music never preaches outright; public gesture and private tone coexist in the same breath.
 
-## What to hear
+## Where to start
 
 Hear the double tone: a march can be solemn or ridiculous, a lyric can be sincere or ironic. Then hear the large architecture, where long slow accumulation sits beside sudden explosion. In the quartets, follow the DSCH motive, D–E flat–C–B, as it passes between instruments; it is the composer's musical signature.
 
-## Key works
+## Works and craft
 
 Symphonies Nos. 5, 7 and 10; String Quartet No. 8; Twenty-Four Preludes and Fugues; Cello Concerto No. 1; Lady Macbeth of Mtsensk.
 
-## Influence
+## Influence and misreadings
 
 He made the symphony a record of public events again and gave chamber music the weight of private testimony. His double language shaped later Soviet and Eastern European composers and taught listeners everywhere to hear unease beneath a beautiful tune. He proved that under pressure music can say two things at once.
 

@@ -28,7 +28,7 @@ updated: 2026-10-28
 ::: zh
 特性小品用一首短曲抓住一种性格，标题提示情绪，而不讲完整故事。
 
-## 起源与年代
+## 年代与地点
 18 世纪末的 bagatelle 与舞曲为它铺路。舒伯特写《音乐的瞬间》，门德尔松在 1829 年后陆续写《无词歌》，把钢琴写成会唱歌的独奏者。舒曼的《童年情景》与《狂欢节》用短小标题串成组曲，肖邦的夜曲、前奏曲与玛祖卡把单一性格写得极为精细。格里格、勃拉姆斯与德彪西延续这一传统。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-28
 ## 代表人物
 舒伯特把瞬间写成曲，门德尔松证明钢琴可以无词而歌，舒曼用标题与组曲组织性格。肖邦把夜曲与玛祖卡写成独立体裁，格里格用民歌音调写《抒情小品》，德彪西把标题变成音色与光影。
 
-## 谱系
+## 前后脉络
 上承 bagatelle、舞曲与前奏曲，下接印象派小品、爵士抒情曲、电影钢琴配乐与当代钢琴迷你专辑。
 
 ## 常见误解
@@ -51,7 +51,7 @@ updated: 2026-10-28
 ::: en
 A character piece catches one mood in a short span; its title suggests a temperament, not a story.
 
-## Origins and era
+## Era and place
 The bagatelle and the dance piece prepared the way in the late eighteenth century. Schubert wrote Moments musicaux, and Mendelssohn began his Songs without Words after 1829, making the piano sing alone. Schumann's Scenes from Childhood and Carnaval linked titled pieces into suites, while Chopin's nocturnes, preludes and mazurkas refined a single mood. Grieg, Brahms and Debussy continued the tradition.
 
 ## What you hear
@@ -60,7 +60,7 @@ Most last one to five minutes and use ternary form or free sections. The title i
 ## Key figures
 Schubert made the moment a piece, Mendelssohn proved the piano could sing without words, and Schumann organised character through titles and suites. Chopin made the nocturne and mazurka independent genres. Grieg used folk inflections in his Lyric Pieces, and Debussy turned titles into colour and light.
 
-## Lineage
+## Lines before and after
 Bagatelles, dances and preludes feed in; Impressionist miniatures, jazz ballads, film cues and contemporary piano EPs come out.
 
 ## Common misunderstandings

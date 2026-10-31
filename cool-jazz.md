@@ -28,19 +28,19 @@ updated: 2026-10-28
 ::: zh
 冷爵士在 1940 年代末从比波普的高压退一步。它把音量收小，把音色磨平，用编曲与留白让独奏像室内乐一样呼吸。
 
-## 起源与年代
+## 从哪儿来
 1949 至 1950 年，迈尔斯·戴维斯九重奏在纽约录下一批后来题为《Birth of the Cool》的录音，吉尔·埃文斯与格里·穆里根参与编曲。同一时期，洛杉矶的西岸乐手把小型爵士写成更轻的合奏。它对大乐队音色与古典配器有兴趣，也对波普的速度保持距离。
 
-## 听辨特征
+## 耳朵先抓到什么
 速度多在中速或慢速，鼓用轻骑镲与刷子，低音走得不急。小号常加弱音器，萨克斯少用颤音，音量压在中低。编曲让法国号、大号或颤音琴进入前台，声部像室内乐一样对位。独奏留空，不靠炫技堆满。
 
-## 代表人物
+## 绕不开的人
 迈尔斯·戴维斯的九重奏给这一路定下音色，吉尔·埃文斯把配器写成冷静的色块。格里·穆里根的低音萨克斯与切特·贝克的轻软小号代表西岸的轻。布鲁贝克四重奏的《Take Five》用 5/4 拍把冷爵士带进流行。
 
-## 谱系
+## 它影响了谁
 上承比波普与大乐队配器，下接模态爵士、波萨诺瓦与西岸爵士；它与同时期更热的硬波普形成对照。
 
-## 常见误解
+## 常被说错的地方
 冷爵士不等于西岸爵士，纽约的九重奏与崔斯坦诺学派同样属于它。它也不是没有情绪，只是把情绪压在音色与留白里。把它等同于平滑爵士，会忽略它对编曲与对位的讲究。
 
 ```audiolab
@@ -51,19 +51,19 @@ updated: 2026-10-28
 ::: en
 Cool jazz stepped back from the pressure of bebop in the late 1940s. It lowered the volume, smoothed the tone and used arrangement and space to let solos breathe like chamber music.
 
-## Origins and era
+## Where it came from
 Between 1949 and 1950 Miles Davis's nonet recorded in New York the sessions later issued as Birth of the Cool, with arrangements by Gil Evans and Gerry Mulligan. In the same years Los Angeles players shaped a lighter small-group jazz. Cool jazz was drawn to big-band colour and classical scoring, and kept its distance from bebop speed.
 
-## What you hear
+## What the ear catches
 Tempos are usually medium or slow, drums use a light ride and brushes, and the bass walks without hurry. Trumpets are often muted, saxophones use little vibrato, and volume stays low. Arrangements bring French horn, tuba or vibraphone forward and set voices in chamber-like counterpoint. Solos leave gaps instead of filling every bar.
 
-## Key figures
+## Names you cannot avoid
 Miles Davis's nonet fixed the sound, and Gil Evans wrote its cool blocks of colour. Gerry Mulligan's baritone and Chet Baker's soft trumpet define the lighter West Coast tone. The Dave Brubeck Quartet's Take Five carried cool jazz into the charts with a 5/4 pulse.
 
-## Lineage
+## What it influenced
 Bebop and big-band arranging feed in; modal jazz, bossa nova and West Coast jazz come out. It stands against the hotter hard bop of the same years.
 
-## Common misunderstandings
+## What is often misread
 Cool jazz is not the same as West Coast jazz, since New York's nonet and the Tristano school belong to it too. It is not emotionless, only restrained in tone and space. Equating it with later smooth jazz misses its care for arrangement and counterpoint.
 
 ```audiolab

@@ -25,15 +25,15 @@ updated: 2026-10-30
 ---
 
 ::: zh
-## 时间与地点
+## 年代与地方
 
 瑶族分布在广西金秀、恭城、巴马、都安，湖南江华，广东连南、乳源，云南河口、富宁，贵州荔波与江西。南岭与十万大山是主要分布区。瑶语属苗瑶语族瑶语支，部分支系使用侗台语，没有通行的传统文字，部分地方借用汉字记音。盘王节在农历十月十六前后，还盘王愿是较大的仪式，歌堂在婚礼与节庆时开。
 
-## 发生了什么
+## 它是怎么来的
 
 盘王歌是瑶族的口传史诗，唱盘瓠与盘王的来历、迁徙路线与十二姓的谱系，在盘王节与还愿仪式中由歌师领唱，众人接腔。长鼓舞在广东连南、广西金秀等地的盘王节与庆丰收时跳，鼓分长鼓与短鼓，舞步与鼓点相合。歌堂是男女对唱的歌会，唱情歌、叙事歌与风俗歌。二十世纪后期，盘王歌与长鼓舞被整理成文字与舞台节目，村里的仪式仍在按旧例进行。
 
-## 音乐特征
+## 声音的骨架
 
 盘王歌的旋律起伏不大，句幅长，重复多，常以优嗨一类衬词收句。歌堂对唱用真声，句尾下滑，问答句相接。歌堂对唱常通宵进行，主客轮唱，歌词随场合即兴。长鼓舞的鼓点重，舞步沉，鼓手边击边转。瑶族各支系的乐器不同，有的用铜鼓、唢呐、芦笙，有的只用锣鼓。歌词的押韵与句读比旋律更重要，唱错字比唱错音更显眼。
 
@@ -41,7 +41,7 @@ updated: 2026-10-30
 
 先听盘王歌的句尾衬词怎样把长句收住，再听领唱与接腔的交替。chinafolk-001464 是创世段，chinafolk-001512 唱迁徙与自称，chinafolk-001463 是另一唱法，三首可对照句读与重复。chinafolk-001524 是瑶歌一调，能听到短句的呼应。这些是学习区的民歌录音，不是仪式现场。
 
-## 常见误解
+## 常被误会的地方
 
 常见误解是把瑶族当成一个统一的音乐共同体。盘瑶、布努瑶、白裤瑶各有语言、服饰与歌腔，长鼓不是所有支系都有。盘王歌也不是单纯的神话故事，它是族群谱系与仪式权利的唱本。瑶族音乐仍在盘王节、婚礼与歌堂中唱，不是博物馆里的遗存。
 
@@ -51,15 +51,15 @@ updated: 2026-10-30
 :::
 
 ::: en
-## Time and place
+## When and where
 
 The Yao live in Jinxiu, Gongcheng, Bama and Du'an in Guangxi; Jianghua in Hunan; Liannan and Ruyuan in Guangdong; Hekou and Funing in Yunnan; Libo in Guizhou and parts of Jiangxi. The Nanling and Shiwandashan ranges form the main area. Yao belongs to the Hmong-Mien family, with some branches speaking Kam-Tai languages; there is no widely used traditional script, and Chinese characters are sometimes used phonetically. The Pan Wang festival falls around the sixteenth day of the tenth lunar month, the vow to Pan Wang is a major rite, and singing halls open at weddings and festivals.
 
-## What happened
+## How it came about
 
 The Pan Wang epic is oral history, telling the origin of Pan Hu and King Pan, migration routes and the genealogies of twelve surnames. It is led by song masters and answered by the community at the Pan Wang festival and vow rites. Long-drum dance is performed at Pan Wang festivals and harvest celebrations in Liannan and Jinxiu, with long and short drums and steps locked to the beat. Singing halls are antiphonal gatherings for love songs, narrative songs and custom songs. From the late twentieth century the epic and dance were edited into texts and stage programmes, while village rites continue.
 
-## Musical features
+## The sound's frame
 
 The Pan Wang epic moves in a narrow range with long phrases and much repetition, often closing on a refrain syllable such as you-hai. Singing-hall antiphony uses chest voice, falling ends and linked question-and-answer phrases. Long-drum dance has heavy beats and deep steps, the drummer turning while striking. Instruments differ by branch: some use bronze drum, suona and lusheng, others only gongs and drums. Rhyme and phrasing matter more than melody; a wrong word is more conspicuous than a wrong note.
 
@@ -67,7 +67,7 @@ The Pan Wang epic moves in a narrow range with long phrases and much repetition,
 
 Hear how the refrain syllable closes a long epic phrase, then how lead and answer alternate. Chinafolk-001464 is a creation section, chinafolk-001512 sings migration and self-naming, and chinafolk-001463 is another way of singing the epic. Chinafolk-001524 is a Yao tune where short answering phrases are audible. These are study-zone folk recordings, not ritual field recordings.
 
-## Common misunderstandings
+## What is often mistaken
 
 The Yao are often treated as one musical community. Pan Yao, Bunu Yao and Baiku Yao have different languages, dress and song styles, and the long drum is not found in every branch. The Pan Wang epic is not simply myth; it is a charter of genealogy and ritual rights. Yao music is still sung at Pan Wang festivals, weddings and singing halls, not a museum survival.
 

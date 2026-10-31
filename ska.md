@@ -28,7 +28,7 @@ updated: 2026-10-30
 ::: zh
 斯卡把牙买加舞曲的切分吉他、行走贝斯与铜管合奏结合起来，1960 年代初在金斯敦成形。
 
-## 起源与年代
+## 年代与地点
 1962 年牙买加独立前后，金斯敦的音响系统与录音室把美国节奏布鲁斯加速，加上本地民谣与铜管，形成斯卡。Coxsone Dodd 的 Studio One 与 Duke Reid 的 Treasure Isle 是主要录音室，Skatalites 是核心伴奏乐队，Prince Buster 与 Desmond Dekker 留下早期经典。1960 年代末速度放慢，先演化为 rocksteady，再演化为雷鬼。1979 年，考文垂的 Jerry Dammers 成立 2 Tone 厂牌，把斯卡与朋克能量结合。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## 代表人物
 Skatalites 的 Don Drummond 与 Tommy McCook 定义了器乐编制，Prince Buster 把叙事与幽默带进录音。Desmond Dekker 让斯卡进入英国市场，Jerry Dammers 与 the Specials 把 2 Tone 变成跨种族的场景，Madness 用滑稽形象打开电视，the Beat 与 the Selecter 各带来不同的城市口音。
 
-## 谱系
+## 前后脉络
 上承牙买加 mento、美国节奏布鲁斯与爵士铜管，下接 rocksteady、雷鬼、2 Tone 与 1990 年代的第三波斯卡。它也是加勒比移民音乐进入英国的第一波，舞步与服装和音乐一起传播。1990 年代美国的第三波斯卡把铜管与朋克吉他结合，ska-punk 成为新的现场形态。它的反拍语汇也进入流行与拉丁音乐。
 
 ## 常见误解
@@ -50,7 +50,7 @@ Skatalites 的 Don Drummond 与 Tommy McCook 定义了器乐编制，Prince Bust
 ::: en
 Ska joined the syncopated guitar, walking bass and horn sections of Jamaican dance music, taking shape in Kingston in the early 1960s.
 
-## Origins and era
+## Era and place
 Around Jamaican independence in 1962, Kingston sound systems and studios sped up American rhythm and blues and added local folk material and horns, producing ska. Coxsone Dodd's Studio One and Duke Reid's Treasure Isle were the main rooms, the Skatalites the core backing band, and Prince Buster and Desmond Dekker left early classics. In the late 1960s the tempo slowed into rocksteady and reggae. In 1979 Jerry Dammers in Coventry founded the 2 Tone label, joining ska to punk energy.
 
 ## What you hear
@@ -59,7 +59,7 @@ Guitar chops upward on the offbeats, a short stroke after every beat, the patter
 ## Key figures
 Don Drummond and Tommy McCook of the Skatalites defined the instrumental line-up, and Prince Buster brought storytelling and humour into the studio. Desmond Dekker carried ska into the British market, Jerry Dammers and the Specials made 2 Tone a mixed-race scene, Madness reached television with a comic image, and the Beat and the Selecter each brought a different city accent.
 
-## Lineage
+## Lines before and after
 Jamaican mento, American rhythm and blues and jazz horns feed in; rocksteady, reggae, 2 Tone and the 1990s third wave come out. It was also the first wave of Caribbean immigrant music in Britain, and dance steps and clothing travelled with the records. The American third wave of the 1990s joined horns to punk guitar and made ska-punk a live format. Its offbeat vocabulary also entered pop and Latin music.
 
 ## Common misunderstandings

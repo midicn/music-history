@@ -48,7 +48,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["D4","F4","A4","D5","A4","F4","D4"],"label":"协奏曲：全奏与独奏的对话","label_en":"Concerto: tutti and solo in dialogue","hint":"先听齐奏的主题，再听独奏如何把它接过去并加花","hint_en":"Hear the tutti theme first, then how the solo takes it over and decorates it"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:baroque]]，连接[[glossary:concerto]]、[[glossary:concerto-grosso]]与[[instrument:violin]]。
 :::
@@ -76,7 +76,7 @@ Begin with Corelli's concerto grosso and the dynamic contrast between the solo g
 {"type": "instrument", "gm": "String Ensemble 1", "synth": "bowed", "phrase": ["D4", "F4", "A4", "D5", "A4", "F4", "D4"], "label": "Concerto: tutti and solo in dialogue", "label_en": "Concerto: tutti and solo in dialogue", "hint": "先听齐奏的主题，再听独奏如何把它接过去并加花", "hint_en": "Hear the tutti theme first, then how the solo takes it over and decorates it"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:baroque]] and connects [[glossary:concerto]], [[glossary:concerto-grosso]] and [[instrument:violin]].
 :::

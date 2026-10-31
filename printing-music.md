@@ -48,7 +48,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Acoustic Guitar (nylon)","synth":"plucked","phrase":["G3","C4","E4","G4","E4","C4","G3"],"label":"印刷乐谱：一首尚松走进家庭","label_en":"Printed music: a chanson enters the household","hint":"借尼龙弦吉他近似：听琉特琴如何把多声部缩成一条可弹的线","hint_en":"A nylon-string guitar stands in: hear how the lute reduces polyphony to a line one player can pluck"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:renaissance]]，与[[glossary:mass]]、[[glossary:motet]]和[[instrument:lute]]相连。
 :::
@@ -76,7 +76,7 @@ Begin with Josquin's Mille regretz, a chanson reprinted again and again; then he
 {"type": "instrument", "gm": "Acoustic Guitar (nylon)", "synth": "plucked", "phrase": ["G3", "C4", "E4", "G4", "E4", "C4", "G3"], "label": "Printed music: a chanson enters the household", "label_en": "Printed music: a chanson enters the household", "hint": "借尼龙弦吉他近似：听琉特琴如何把多声部缩成一条可弹的线", "hint_en": "A nylon-string guitar stands in: hear how the lute reduces polyphony to a line one player can pluck"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:renaissance]] and connects [[glossary:mass]], [[glossary:motet]] and [[instrument:lute]].
 :::

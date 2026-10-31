@@ -25,23 +25,23 @@ updated: 2026-10-30
 ::: zh
 一所学校的课程表，可以把一种音乐从手艺变成专业，也可以把另一种音乐变成素材。
 
-## 时间与地点
+## 年份与坐标
 
 1927年11月，上海。萧友梅在蔡元培支持下创办国立音乐院，1929年改称国立音乐专科学校，校址几经迁移，教师中有中国人与俄籍、意籍音乐家。
 
-## 发生了什么
+## 当时的经过
 
 1927年11月，国立音乐院在上海成立，萧友梅任教务主任并实际主持。学校设理论作曲、声乐、钢琴、管弦等组，用固定学制、视唱练耳与和声课培养学生。1929年黄自回国任教，把欧洲的作曲教学带进课堂；1934年，学生贺绿汀在齐尔品发起的比赛中以《牧童短笛》获奖。
 
-## 改变了什么
+## 之后不一样了
 
 音乐教育从琴行里的师徒课，变成有学制、有文凭、有课程表的现代学院。作曲成为可以教的专业，学生要学和声、对位、曲式与配器，再用这些工具处理中国旋律。艺术歌曲、钢琴小品与民族管弦乐的作品目录由此开始积累。学院也带来一套评判标准，音准、音色、读谱速度，与民间乐社的口传标准并行。学生要学的不只是演奏，还包括把一首民歌改成有钢琴伴奏的独唱曲，这类作业后来变成中国艺术歌曲的基本做法。这两套标准此后长期共存，也长期互相看不上。
 
-## 听这个转折
+## 听一段转折
 
 先听舒伯特的《菩提树》，钢琴的三连音与歌唱线条是学院要教的第一种艺术歌曲关系。再听《康定情歌》，五声旋律短小，句尾下滑，是学生改写时的原材料。最后听西北花儿，音域高、延长自由，美声训练会把它磨平。三首并置，能听出1927年之后的中国音乐教育在两种声音之间建立标准，一种要练，一种要采。这两种声音的关系，正是这所学院此后几十年要处理的核心问题。
 
-## 相关
+## 接着读
 
 这条转折连接巴黎音乐学院建立、中国音乐史分期与音乐教育史。
 
@@ -53,15 +53,15 @@ updated: 2026-10-30
 ::: en
 A timetable can turn one kind of music into a profession and another into raw material.
 
-## Time and place
+## Year and coordinates
 
 Shanghai, November 1927. Xiao Youmei founded the National Conservatory with Cai Yuanpei's support; in 1929 it was renamed the National College of Music, moved several times, and employed Chinese, Russian and Italian musicians.
 
-## What happened
+## What took place
 
 The National Conservatory opened in Shanghai in November 1927 with Xiao Youmei running it. It had departments for theory and composition, voice, piano and orchestral instruments, and taught through fixed programmes, sight-singing and harmony classes. Huang Zi returned to teach in 1929 and brought European composition teaching into the classroom. In 1934 the student He Luting won a competition organised by Alexander Tcherepnin with his piano piece Buffalo Boy's Flute.
 
-## What changed
+## What was different after
 
 Music teaching moved from apprenticeship in piano shops to a modern institution with programmes, diplomas and timetables. Composition became a subject that could be taught, requiring harmony, counterpoint, form and orchestration, and then applying those tools to Chinese melody. A catalogue of art songs, piano pieces and music for Chinese orchestras began to accumulate. The school also imported a set of standards, intonation, tone and reading speed, running alongside the oral standards of amateur music societies. The two systems coexisted for decades and never quite respected each other. Students learned not only to play but to fit a folk tune to piano accompaniment, an exercise that became the basic method of the Chinese art song.
 
@@ -69,7 +69,7 @@ Music teaching moved from apprenticeship in piano shops to a modern institution 
 
 Begin with Schubert's Der Lindenbaum, where piano triplets and a vocal line establish the first art-song relationship the school taught. Then Kangding Love Song, a short pentatonic tune with a falling phrase ending, the material students rewrote. Finally the north-western huaer, high in range and free in its lengthening, which bel canto training tends to smooth away. Together they show Chinese music education after 1927 setting standards between two kinds of voice, one to be trained and one to be collected.
 
-## Related
+## Read next
 
 This turn connects 巴黎音乐学院建立, 中国音乐史分期 and 音乐教育史.
 

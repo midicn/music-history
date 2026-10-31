@@ -29,7 +29,7 @@ updated: 2026-10-28
 ::: zh
 朋克把摇滚削到三件乐器、三个和弦与两分钟，速度、失真和喊唱代替技巧。
 
-## 起源与年代
+## 年代与地点
 1970 年代中期，纽约的雷蒙斯与电视，伦敦的性手枪与冲撞，几乎同时把短促、失真的摇滚推回小场地。1976 年成为朋克年，独立厂牌与爱好者杂志让地方场景迅速扩散。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-28
 ## 代表人物
 雷蒙斯把流行旋律塞进快节奏，性手枪用挑衅与反讽定义形象，冲撞把雷鬼与政治写进朋克。伊基·波普与傀儡乐队提供早期能量，帕蒂·史密斯把诗歌带进纽约场景。
 
-## 谱系
+## 前后脉络
 上承车库摇滚、原型朋克与酒吧摇滚，下接后朋克、硬核与独立摇滚；它也把“自己做”的制作伦理传给后来的地下音乐。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-28
 ::: en
 Punk cuts rock to three instruments, three chords and two minutes, replacing technique with speed, distortion and shouting.
 
-## Origins and era
+## Era and place
 In the mid-1970s the Ramones and Television in New York and the Sex Pistols and the Clash in London pushed short, distorted rock back into small rooms. 1976 became the punk year, as independent labels and fanzines spread scenes quickly.
 
 ## What you hear
@@ -61,7 +61,7 @@ Start with speed, often 150 to 200 BPM, drums open from the first beat and the s
 ## Key figures
 The Ramones packed pop melody into fast tempos, the Sex Pistols defined the image through provocation, and the Clash wrote reggae and politics into punk. Iggy Pop and the Stooges supplied energy, while Patti Smith brought poetry into the New York scene.
 
-## Lineage
+## Lines before and after
 Garage rock, proto-punk and pub rock feed in; post-punk, hardcore and indie rock come out. Its DIY ethic passed to later underground music.
 
 ## Common misunderstandings

@@ -28,7 +28,7 @@ updated: 2026-10-30
 ::: zh
 硬波普是 1950 年代中期纽约的爵士主流。它没有退回冷爵士的安静，而是把比波普的和声留下来，加上福音、布鲁斯与节奏布鲁斯的重量，让五重奏听起来更结实。
 
-## 起源与年代
+## 年代与地点
 1954 年前后，马克斯·罗奇与克利福德·布朗的五重奏、阿特·布莱基的爵士信使、霍勒斯·西尔弗的乐队在纽约成形。Blue Note、Prestige 与 Riverside 三家小厂牌大量录音，把这一批乐队送进听众耳朵。它流行到 1960 年代中期，之后被后波普与自由爵士分走注意力，但 1980 年代的新传统主义又把它请回舞台。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## 代表人物
 霍勒斯·西尔弗把福音和声写成曲子，阿特·布莱基的爵士信使成为乐队学校，克利福德·布朗的小号与桑尼·罗林斯的次中音萨克斯代表了两条独奏路线。李·摩根、汉克·莫布利与坎农鲍尔·阿德利把这种语汇带进 1960 年代，查尔斯·明格斯则从作曲一侧把它拉宽。
 
-## 谱系
+## 前后脉络
 它上承比波普，旁接福音音乐、布鲁斯与节奏布鲁斯，下接灵魂爵士、后波普与爵士放克。它也与冷爵士几乎同时，却选择了相反的方向，一个收小音量，一个加大重量。1980 年代的新传统主义乐手重新演奏这些曲子，使它的曲目至今仍是爵士俱乐部的常见选择。
 
 ## 常见误解
@@ -51,7 +51,7 @@ updated: 2026-10-30
 ::: en
 Hard bop was the jazz mainstream in New York in the mid-1950s. Instead of retreating into cool jazz quiet, it kept bebop's harmony and added the weight of gospel, blues and rhythm and blues, making the quintet sound solid.
 
-## Origins and era
+## Era and place
 Around 1954 the Max Roach and Clifford Brown quintet, Art Blakey's Jazz Messengers and Horace Silver's groups took shape in New York. Blue Note, Prestige and Riverside recorded this circle heavily and put it in front of listeners. It stayed current into the mid-1960s, then lost attention to post-bop and free jazz, before the neo-traditionalism of the 1980s brought it back.
 
 ## What you hear
@@ -60,7 +60,7 @@ The line-up is usually a trumpet and tenor saxophone front line with piano, bass
 ## Key figures
 Horace Silver wrote gospel harmony into tunes, Art Blakey's Jazz Messengers became a school for bands, and Clifford Brown's trumpet and Sonny Rollins's tenor mark two solo approaches. Lee Morgan, Hank Mobley and Cannonball Adderley carried the language into the 1960s, while Charles Mingus widened it from the composing side.
 
-## Lineage
+## Lines before and after
 Bebop feeds in, gospel, blues and rhythm and blues run alongside, and soul jazz, post-bop and jazz-funk come out. It was nearly contemporary with cool jazz but chose the opposite direction, one turning down the volume and the other adding weight.
 
 ## Common misunderstandings

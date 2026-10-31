@@ -29,19 +29,19 @@ updated: 2026-10-28
 ::: zh
 灵魂乐把福音的唱腔与应和带进流行歌曲，四拍稳、低音厚，主唱先交出身体再讲道理。
 
-## 起源与年代
+## 从哪儿来
 1950 年代中期，雷·查尔斯把福音钢琴与节奏布鲁斯合在一起。1960 年代，大西洋唱片与斯塔克斯唱片分出南方灵魂与孟菲斯灵魂，摩城则用更亮的制作把灵魂乐送进排行榜。
 
-## 听辨特征
+## 耳朵先抓到什么
 先听主唱，句尾常加装饰音、假声与呼喊，领唱与和声像教堂里的应和。军鼓在二四拍，贝斯走短促音型，Hammond 风琴铺长音。和声多用七和弦与转位，铜管在副歌加厚。速度中慢，拍点稳，情绪靠音色与力度堆起来。
 
-## 代表人物
+## 绕不开的人
 雷·查尔斯把福音带进世俗歌曲，阿蕾莎·富兰克林把呼喊与控制的张力推到极致，奥蒂斯·雷丁与威尔逊·皮克特代表南方灵魂。斯莫基·罗宾逊与诱惑乐队把摩城的旋律写得更圆。
 
-## 谱系
+## 它影响了谁
 上承福音、节奏布鲁斯与嘟喔普，下接放克、迪斯科与当代 R&B；它也是灵魂爵士与白人灵魂乐取用的源头。
 
-## 常见误解
+## 常被说错的地方
 灵魂乐不只是唱得用力，它先要有应和的结构；也不等于慢歌，快板灵魂乐同样常见。把它当成一种嗓音，会漏掉鼓、贝斯与风琴的分工。
 
 ```audiolab
@@ -52,19 +52,19 @@ updated: 2026-10-28
 ::: en
 Soul brings gospel singing and call-and-response into the pop song, with a steady four-beat pulse, thick low end and a lead voice that offers the body first.
 
-## Origins and era
+## Where it came from
 In the late 1950s Ray Charles joined gospel piano to rhythm and blues. In the 1960s Atlantic and Stax defined southern and Memphis soul, while Motown used brighter production to put soul on the charts.
 
-## What you hear
+## What the ear catches
 Start with the lead. Phrase endings carry melisma, falsetto and shouts, and the lead answers a backing group like church. Snare hits two and four, bass runs short figures, and Hammond organ holds long chords. Harmony favours seventh chords and inversions, with brass thickening the chorus. Tempos are medium or slow, and emotion builds through timbre and force.
 
-## Key figures
+## Names you cannot avoid
 Ray Charles brought gospel into secular song, Aretha Franklin pushed the tension between shout and control, and Otis Redding and Wilson Pickett defined southern soul. Smokey Robinson and the Miracles rounded Motown melody.
 
-## Lineage
+## What it influenced
 Gospel, rhythm and blues and doo-wop feed in; funk, disco and contemporary R&B come out. Soul jazz and blue-eyed soul draw on it.
 
-## Common misunderstandings
+## What is often misread
 Soul is not just loud singing; it needs an answering structure. Nor is it only slow, since uptempo soul is common. Treating it as a vocal sound misses how drums, bass and organ divide.
 
 ```audiolab

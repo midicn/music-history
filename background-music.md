@@ -48,7 +48,7 @@ updated: 2026-10-30
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["D4","F4","A4","E4","D4","F4","A4","E4"],"label":"不要求注意的循环","label_en":"A loop that asks no attention","hint":"听同一和声来回走，没有高潮也没有结尾","hint_en":"Hear one harmony walk back and forth, without climax or ending"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于 [[period:modern]]，音色与空间感见 [[glossary:timbre]]，广播把音乐送进日常，萨蒂的早期风格见 [[period:impressionist]]。
 :::
@@ -76,7 +76,7 @@ Begin with Gymnopédie No. 1, slow, its harmony almost unchanging, with no thema
 {"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["D4", "F4", "A4", "E4", "D4", "F4", "A4", "E4"], "label": "A loop that asks no attention", "label_en": "A loop that asks no attention", "hint": "听同一和声来回走，没有高潮也没有结尾", "hint_en": "Hear one harmony walk back and forth, without climax or ending"}
 ```
 
-## Related
+## Related entries
 
 The turn belongs to [[period:modern]], with colour and space at [[glossary:timbre]], radio carrying music into daily life, and Satie's early manner at [[period:impressionist]].
 :::

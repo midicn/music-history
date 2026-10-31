@@ -48,7 +48,7 @@ updated: 2026-10-30
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["F4","A4","C5","F5","E5","C5","A4","F4"],"label":"一首咏叹调缩成两只手","label_en":"An aria reduced to two hands","hint":"听旋律还在，乐队与装饰被压掉了","hint_en":"Hear the tune survive while orchestra and ornament are cut away"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于 [[period:romantic]]，产业面见 [[glossary:music-publisher]] 与 [[glossary:music-copyright]]，更早的技术起点是彼特鲁奇的活字印刷。
 :::
@@ -76,7 +76,7 @@ Begin with the piano transcription of Casta Diva, the aria pressed into two hand
 {"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["F4", "A4", "C5", "F5", "E5", "C5", "A4", "F4"], "label": "An aria reduced to two hands", "label_en": "An aria reduced to two hands", "hint": "听旋律还在，乐队与装饰被压掉了", "hint_en": "Hear the tune survive while orchestra and ornament are cut away"}
 ```
 
-## Related
+## Related entries
 
 The turn belongs to [[period:romantic]], with the industry at [[glossary:music-publisher]] and [[glossary:music-copyright]], and the earlier technical start in Petrucci's movable type.
 :::

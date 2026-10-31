@@ -37,7 +37,7 @@ updated: 2026-10-30
 
 ## 听什么
 
-先听**和声的推力**。她的不协和不是装饰，总是把句子推向一个更亮的和弦，听《在无边的悲伤里》低音怎样一步步移动。再听**人声与钢琴的平等**，《克莱里耶尔在天空》里的钢琴不是伴奏，它常在人声停下时继续说话。再听**调式的颜色**，她爱用古代调式与平行和弦，让音乐听起来既古老又现代。最后听**短句的密度**，她的曲子很少超过十分钟，每一小节都有信息。
+先听**和声的推力**。她的不协和不是装饰，总是把句子推向一个更亮的和弦，听《在无边的悲伤里》低音怎样一步步移动。再听**人声与钢琴的平等**，《克莱里耶尔在天空》里的钢琴不是伴奏，它常在人声停下时继续说话。再听调式的颜色，她爱用古代调式与平行和弦，让音乐听起来既古老又现代。最后听短句的密度，她的曲子很少超过十分钟，每一小节都有信息。
 
 ## 代表作
 
@@ -47,7 +47,7 @@ updated: 2026-10-30
 
 ## 影响
 
-她的早逝让法国音乐少了一种可能，但**她的作品影响了姐姐娜迪亚的教学**，而娜迪亚的学生又塑造了二十世纪的美国与法国音乐。今天听她的歌曲，最直接的感受是准确——诗、和声与呼吸三者对得极准，这种准确本身就是一种现代性。她计划中的歌剧只留下草稿，管弦乐作品也多由别人整理。
+她的早逝让法国音乐少了一种可能，但她的作品影响了姐姐娜迪亚的教学，而娜迪亚的学生又塑造了二十世纪的美国与法国音乐。今天听她的歌曲，最直接的感受是准确——诗、和声与呼吸三者对得极准，这种准确本身就是一种现代性。她计划中的歌剧只留下草稿，管弦乐作品也多由别人整理。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["E4","A4","C5","B4","G#4","F#4","E4","B3"],"label":"布隆热：和声把诗句往上推","label_en":"Boulanger: harmony pushing the poem upward","hint":"借钢琴近似她的歌曲伴奏，听同一条旋律被下方和弦不断抬高。真正的歌曲里人声停在长音上，钢琴继续走。","hint_en":"A piano stands in for her song accompaniments: hear one melody lifted again and again by the chords beneath. In the real songs the voice holds a long note while the piano keeps moving."}
@@ -65,7 +65,7 @@ She stands where **French impressionism meets religious music**: her harmony inh
 
 ## What to hear
 
-Listen first for **harmonic propulsion**. Her dissonance is never decoration; it pushes the phrase toward a brighter chord, as the slow bass motion of Dans l'immense tristesse shows. Then **equality of voice and piano**: in Clairières dans le ciel the piano is no accompanist and often keeps speaking when the voice stops. Then **modal colour** — she liked old modes and parallel chords, which make the music sound ancient and modern at once. Finally **density in short spans**, since her pieces rarely exceed ten minutes and every bar carries information.
+Listen first for **harmonic propulsion**. Her dissonance is never decoration; it pushes the phrase toward a brighter chord, as the slow bass motion of Dans l'immense tristesse shows. Then **equality of voice and piano**: in Clairières dans le ciel the piano is no accompanist and often keeps speaking when the voice stops. Then modal colour — she liked old modes and parallel chords, which make the music sound ancient and modern at once. Finally density in short spans, since her pieces rarely exceed ten minutes and every bar carries information.
 
 ## Key works
 
@@ -75,7 +75,7 @@ Listen first for **harmonic propulsion**. Her dissonance is never decoration; it
 
 ## Influence
 
-Her early death removed one possible direction for French music, yet **her work shaped Nadia's teaching**, and Nadia's students in turn shaped twentieth-century music in France and America. Hearing her songs now, what strikes first is accuracy — poem, harmony and breath aligned exactly, and that accuracy is itself a kind of modernity. The opera she planned survives only as sketches, and her orchestral works were largely edited by others.
+Her early death removed one possible direction for French music, yet her work shaped Nadia's teaching, and Nadia's students in turn shaped twentieth-century music in France and America. Hearing her songs now, what strikes first is accuracy — poem, harmony and breath aligned exactly, and that accuracy is itself a kind of modernity. The opera she planned survives only as sketches, and her orchestral works were largely edited by others.
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["E4","A4","C5","B4","G#4","F#4","E4","B3"],"label":"Boulanger: harmony pushing the poem upward","label_en":"Boulanger: harmony pushing the poem upward","hint":"A piano stands in for her song accompaniments: hear one melody lifted again and again by the chords beneath. In the real songs the voice holds a long note while the piano keeps moving.","hint_en":"A piano stands in for her song accompaniments: hear one melody lifted again and again by the chords beneath. In the real songs the voice holds a long note while the piano keeps moving."}

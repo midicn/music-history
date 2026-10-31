@@ -27,11 +27,11 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 生平一笔
 
 **格奥尔格·菲利普·泰勒曼**（1681–1767）生于马格德堡，几乎没有受过正式的作曲训练，靠抄谱与自学掌握多种体裁。他先在家乡与莱比锡做教堂乐师，又辗转艾森纳赫、法兰克福，1721 年起在汉堡掌管教堂音乐，随后主持歌剧院，直到去世。他还是 C. P. E. 巴赫的教父。
 
-## 时代与位置
+## 他生活的城市
 
 泰勒曼是德国晚期巴洛克最忙碌的作曲家，也是那个时代最出名的一位。他不追求巴赫式的密集对位，而把法国舞曲、意大利协奏曲与波兰民间节奏调成一种好懂又讲究的混合风格。他较早用预定方式出版自己的作品，《忠实的音乐大师》让业余演奏者也能买到新曲。
 
@@ -39,15 +39,15 @@ updated: 2026-10-28
 
 先听**风格的切换**：一首组曲里，法国式的舞曲、意大利式的快板与波兰式的节奏可以并排出现，听作曲家怎样让它们和平共处。再听**管乐的性格**：他为竖笛、长笛与巴松写了大量奏鸣曲，旋律像人声一样换气。最后听**低音的支撑**：数字低音不只是伴奏，常常主动引导和声转向。
 
-## 代表作
+## 代表作品
 
 - 《餐桌音乐》《巴黎四重奏》
 - 竖笛与长笛奏鸣曲、三支小号协奏曲
 - 康塔塔《你的居所何等可爱》、《忠实的音乐大师》
 
-## 影响
+## 留下的痕迹
 
-泰勒曼在当时的名声超过巴赫，他的「混合风格」预示了后来古典时期的优雅趣味。他为管乐写下的曲目至今是竖笛与长笛学生的核心教材，他按册出版的做法也成为音乐市场的一次早期实验。**他证明多产不等于粗糙，风格可以是一种外交。**
+泰勒曼在当时的名声超过巴赫，他的「混合风格」预示了后来古典时期的优雅趣味。他为管乐写下的曲目至今是竖笛与长笛学生的核心教材，他按册出版的做法也成为音乐市场的一次早期实验。他证明多产不等于粗糙，风格可以是一种外交。
 
 ```audiolab
 {"type":"instrument","gm":"Recorder","synth":"blown","phrase":["D5","E5","F#5","G5","F#5","E5","D5","A4"],"label":"泰勒曼的竖笛：像人声一样换气","label_en":"Telemann's recorder: breathing like a voice","hint":"借竖笛近似：听乐句在哪里吸气，装饰音怎样落在拍点上。真正的奏鸣曲还要听数字低音怎样推着旋律往前走。","hint_en":"A recorder stands in: hear where the phrase breathes and how ornaments land on the beat. The real sonatas also let the continuo push the melody forward."}
@@ -55,11 +55,11 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## A life in brief
 
 **Georg Philipp Telemann** (1681–1767) was born in Magdeburg and had almost no formal training in composition, teaching himself from scores. He worked as a church musician in his home town and in Leipzig, then in Eisenach and Frankfurt, and from 1721 ran church music and the opera house in Hamburg until his death. He was also godfather to C. P. E. Bach.
 
-## His place
+## The city he worked in
 
 Telemann was the busiest composer of the German late Baroque and the most famous one of his day. He did not pursue Bach's dense counterpoint; instead he blended French dance, Italian concerto and Polish folk rhythm into a style both accessible and refined. He was an early composer to publish his own music by subscription, and Der getreue Music-Meister let amateurs buy new pieces.
 
@@ -73,7 +73,7 @@ Listen first for **switching styles**: within one suite, French dances, Italian 
 - Recorder and flute sonatas, concerto for three trumpets
 - Cantata Wie lieblich sind deine Wohnungen, Der getreue Music-Meister
 
-## Influence
+## What remains
 
 Telemann was more famous than Bach in his lifetime, and his mixed style anticipates the elegance of the later Classical period. His wind music remains core teaching repertoire for recorder and flute players, and his subscription volumes were an early experiment in the music market. **He proved that prolific need not mean careless, and that style can be a kind of diplomacy.**
 

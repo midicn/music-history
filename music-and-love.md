@@ -27,19 +27,19 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 问题
+## 为什么会问这个
 
 爱情是最常被写进音乐的主题，也最难写得不俗。音乐如何把“喜欢”变成可听的形状，靠旋律、靠和声延迟，还是靠一个不断回来的节奏？
 
-## 历史脉络
+## 从哪来，到哪去
 
 中世纪吟游诗人用宫廷爱情歌曲把欲望变成礼仪；巴洛克歌剧用咏叹调让角色在行动前停下来表白；19世纪浪漫主义把爱情与死亡绑在一起，瓦格纳的《特里斯坦与伊索尔德》用未解决和声延长渴望。20世纪流行歌曲把三分钟变成告白单位，电影配乐又用主题回忆替观众保存感情。
 
-## 关键案例
+## 几个例子
 
 李斯特《爱之梦》用宽广旋律与反复琶音写温柔的占有；《特里斯坦》的“爱之死”让和声迟迟不落地；普罗科菲耶夫《罗密欧与朱丽叶》的告别场景用节奏停顿写不舍；普契尼《艺术家的生涯》则把贫穷与爱情放在同一间阁楼。
 
-## 听什么
+## 听这几处
 
 听旋律是否在句尾升高；听和声是否故意不解决；听伴奏的重复音型是否像心跳。
 
@@ -47,25 +47,25 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Violin","synth":"bowed","phrase":["A4","C5","E5","A5","G5","E5","C5","A4"],"label":"一句告白的形状","label_en":"The shape of a confession","hint":"听句尾如何被拉长，像话说到一半又停住","hint_en":"Hear the phrase lengthen at its end, as if the sentence stops halfway"}
 ```
 
-## 相关
+## 接着读
 
 爱情主题横跨[[period:romantic]]与[[period:modern]]，咏叹调见[[glossary:aria]]，钢琴独白落到[[instrument:piano]]。
 :::
 
 ::: en
-## The question
+## Why the question arises
 
 Love is the most common subject in music and the hardest to write without cliché. How does music turn affection into audible shape: through melody, through delayed harmony, or through a rhythm that keeps returning?
 
-## Historical arc
+## From where, to where
 
 Medieval troubadours turned desire into courtly etiquette. Baroque opera used the aria to stop the action while a character confessed. Romanticism bound love to death, and Wagner's Tristan und Isolde stretched longing with harmony that refuses to settle. Twentieth-century pop songs made three minutes the unit of a declaration, while film scores used recurring themes to store feeling for the audience.
 
-## Key cases
+## A few examples
 
 Liszt's Liebesträume writes tender possession in a broad melody over repeating arpeggios. The Liebestod from Tristan keeps harmony suspended. Prokofiev's farewell in Romeo and Juliet uses rhythmic pauses for reluctance. Puccini's La bohème puts poverty and love in the same attic room.
 
-## What to listen for
+## Listen to these
 
 Hear whether the melody rises at the end of a phrase. Hear whether the harmony avoids resolution on purpose. Hear whether the repeating accompaniment figure sounds like a heartbeat.
 
@@ -73,7 +73,7 @@ Hear whether the melody rises at the end of a phrase. Hear whether the harmony a
 {"type":"instrument","gm":"Violin","synth":"bowed","phrase":["A4","C5","E5","A5","G5","E5","C5","A4"],"label":"The shape of a confession","label_en":"The shape of a confession","hint":"Hear the phrase lengthen at its end, as if the sentence stops halfway","hint_en":"Hear the phrase lengthen at its end, as if the sentence stops halfway"}
 ```
 
-## Related
+## Read next
 
 Love crosses [[period:romantic]] and [[period:modern]]. The aria is explained under [[glossary:aria]], and the piano soliloquy under [[instrument:piano]].
 :::

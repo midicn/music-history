@@ -41,7 +41,7 @@ updated: 2026-10-30
 
 先听《东方有一颗亮明星》，它与《东方红》同属一个曲调家族，听旋律骨架怎样容纳不同的词。再听《信天游》，两句一换气，高腔在沟壑间传远，这是采风者最先记下的东西。最后听《滚滚的黄河向东方》，个人的高腔被放进集体歌唱，音量与整齐度取代了自由延长。三首连起来，能听出为工农兵怎样改变了声音的组织方式。这三种处理方式，后来成了中国近代音乐里最常见的一组手法。
 
-## 相关
+## 相关条目
 
 这条转折连接音乐与政治、民歌采集运动与中国音乐史分期。
 
@@ -69,7 +69,7 @@ The test of music widened from whether a work was good to whom it was written fo
 
 Begin with the northern Shaanxi song A Bright Star in the East, which belongs to the same tune family as The East Is Red; hear how one melodic frame holds different words. Then Xintianyou, two phrases to a breath, its high register carrying across the valleys, the first thing a collector wrote down. Finally The Yellow River Rolls Eastward, where a personal high line is folded into group singing and volume and unison replace free lengthening. Together they show how serving the workers, peasants and soldiers changed the organisation of sound.
 
-## Related
+## Related entries
 
 This turn connects 音乐与政治, 民歌采集运动 and 中国音乐史分期.
 

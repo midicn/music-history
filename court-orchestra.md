@@ -49,7 +49,7 @@ updated: 2026-10-30
 {"type":"instrument","gm":"Clarinet","synth":"reed","phrase":["Bb3","D4","F4","Bb4","A4","F4","D4","Bb3"],"label":"餐桌旁的管乐","label_en":"Winds beside the table","hint":"听两句一答，音量克制，像在房间里说话","hint_en":"Hear call and answer, kept quiet, like talk in a room"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于 [[period:classical]]，体裁见 [[glossary:divertimento]] 与 [[glossary:symphony]]，宫廷乐队的代表音色见 [[instrument:french-horn]]。
 :::
@@ -77,7 +77,7 @@ Begin with Mozart's E-flat serenade, wind music for dinner, dance rhythms and li
 {"type": "instrument", "gm": "Clarinet", "synth": "reed", "phrase": ["Bb3", "D4", "F4", "Bb4", "A4", "F4", "D4", "Bb3"], "label": "Winds beside the table", "label_en": "Winds beside the table", "hint": "听两句一答，音量克制，像在房间里说话", "hint_en": "Hear call and answer, kept quiet, like talk in a room"}
 ```
 
-## Related
+## Related entries
 
 The turn belongs to [[period:classical]], with genres at [[glossary:divertimento]] and [[glossary:symphony]], and the court band's characteristic colour at [[instrument:french-horn]].
 :::

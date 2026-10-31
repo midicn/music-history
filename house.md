@@ -27,7 +27,7 @@ updated: 2026-10-30
 ::: zh
 浩室是 1980 年代芝加哥俱乐部里的舞曲，把迪斯科的循环、合成器低音与鼓机放进四拍骨架。
 
-## 起源与年代
+## 年代与地点
 1977 年开业的 Warehouse 俱乐部让 Frankie Knuckles 在芝加哥重新剪辑迪斯科，流派的名字也来自这家店。Ron Hardy 在 Music Box 用更硬的鼓、更长的段落与磁带编辑接棒。1983 年 Jesse Saunders 的《On and On》常被当作最早发行的 house 唱片，1984 至 1986 年 Larry Heard 与 Marshall Jefferson 把钢琴、合成器低音与女声采样固定成配方，Trax 等本地小厂牌把十二英寸单曲卖到欧洲。1986 年后纽约与新泽西的车库风格分叉，Tony Humphries 在纽瓦克把歌声推回前台，1988 年英国的 acid house 又把芝加哥的声音带回大型仓库。
 
 ## 听辨特征
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## 代表人物
 Frankie Knuckles 与 Ron Hardy 是俱乐部里的两位塑造者；Larry Heard 用柔软和弦与低音定下 deep house 的方向；Marshall Jefferson 的钢琴与 Jesse Saunders 的鼓机单曲把 house 变成可发行的唱片；DJ Pierre 与 Phuture 在 1987 年用 TB-303 的滑音做出 acid house。纽约的 Todd Terry 把采样拼贴带进来，Masters at Work 延续了拉丁与灵魂的脉络。
 
-## 谱系
+## 前后脉络
 上承迪斯科、费城灵魂、放克与意大利迪斯科，下接 acid house、deep house、纽约车库、底特律 techno 与后来的电子舞曲。它的核心不是某台机器，而是把舞池的循环做成可以反复回去的结构。
 
 ## 常见误解
@@ -50,7 +50,7 @@ Frankie Knuckles 与 Ron Hardy 是俱乐部里的两位塑造者；Larry Heard �
 ::: en
 House is Chicago club music from the 1980s that put disco loops, synth bass and drum machines on a four-on-the-floor pulse.
 
-## Origins and era
+## Era and place
 The Warehouse, opened in 1977, gave Frankie Knuckles a room to re-edit disco, and the club gave the style its name. Ron Hardy took over at the Music Box with harder drums, longer stretches and tape edits. Jesse Saunders' On and On from 1983 is often called the first released house record; between 1984 and 1986 Larry Heard and Marshall Jefferson fixed the recipe of piano, synth bass and sampled female voices, and small labels such as Trax sold twelve-inch singles into Europe. After 1986 New York and New Jersey garage split off, Tony Humphries pushed the voice forward in Newark, and in 1988 British acid house carried the Chicago sound back into warehouses.
 
 ## What you hear
@@ -59,7 +59,7 @@ Tempos sit mostly between 118 and 125 BPM. The kick lands on every beat, open hi
 ## Key figures
 Frankie Knuckles and Ron Hardy shaped the club night itself, Larry Heard set the direction of deep house with soft chords and bass, and Marshall Jefferson's piano plus Jesse Saunders' drum-machine singles turned house into records that could be sold. DJ Pierre and Phuture made acid house in 1987 with the sliding TB-303. In New York Todd Terry brought sample collages, and Masters at Work kept the Latin and soul thread.
 
-## Lineage
+## Lines before and after
 Disco, Philadelphia soul, funk and Italo disco feed in; acid house, deep house, New York garage, Detroit techno and later dance music come out. Its core is not one machine but the shaping of a club loop into a structure you can return to.
 
 ## Common misunderstandings

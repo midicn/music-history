@@ -28,7 +28,7 @@ updated: 2026-10-30
 ::: zh
 酸爵士是 1987 年前后从伦敦俱乐部里长出的一个名称。它先指 DJ 播放的旧唱片，再指按那种声音新录的乐队音乐，把七〇年代放克爵士重新放回舞池。
 
-## 起源与年代
+## 年代与地点
 1987 年，DJ 吉尔斯·彼得森与克里斯·班斯在伦敦卡姆登的 Dingwalls 俱乐部放老放克与爵士放克唱片，把这种夜晚戏称为“acid jazz”，借的是当时正流行的 acid house 的说法。1988 年 Acid Jazz 唱片公司成立，1990 年 Talkin' Loud 厂牌跟进。Incognito 在 1990 年重组，Brand New Heavies 与 Jamiroquai 在 1990 年代初把乐队形式带进榜单，Galliano、Corduroy 与 Mother Earth 则守住俱乐部现场。美国方面，Groove Collective 与布兰福德·马萨利斯的 Buckshot LeFonque 在 1994 年接上这条线。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## 代表人物
 吉尔斯·彼得森与埃迪·皮勒是名称与厂牌的推手，Incognito 的 Bluey Maunick 把乐队编制与和声写回唱片，Brand New Heavies 用鼓与铜管做出俱乐部国歌，Jamiroquai 把这种声音带向更广的流行市场。Galliano 与 Corduroy 代表了更偏迷幻与器乐的一面。
 
-## 谱系
+## 前后脉络
 它上承爵士放克、rare groove 与 1970 年代灵魂乐，旁接嘻哈与 house 的俱乐部文化，下接 nu-jazz、broken beat 与新灵魂乐。它更像一个场景与厂牌运动，边界由俱乐部与唱片公司划定，而不是由某套即兴规则划定。它也让伦敦成为 1990 年代爵士与舞曲交汇的中心之一。
 
 ## 常见误解
@@ -51,19 +51,19 @@ updated: 2026-10-30
 ::: en
 Acid jazz is a name that grew out of London clubs around 1987. It first described the old records DJs played, then the new band music made in that image, bringing 1970s jazz-funk back to the dance floor.
 
-## Origins and era
+## Where it came from
 In 1987 the DJs Gilles Peterson and Chris Bangs played old funk and jazz-funk records at Dingwalls in Camden, London, nicknaming the night "acid jazz" after the acid house then in fashion. Acid Jazz Records followed in 1988 and the Talkin' Loud label in 1990. Incognito reformed in 1990, the Brand New Heavies and Jamiroquai took the band format into the charts in the early 1990s, and Galliano, Corduroy and Mother Earth held the club floor. In the United States, Groove Collective and Branford Marsalis's Buckshot LeFonque joined the line in 1994.
 
-## What you hear
+## What the ear catches
 The band is live, with straight-four funk drums, short repeating electric bass figures, and Hammond organ, clavinet and brass handling harmony and riffs. Vocals often carry soul phrasing, sometimes with rap. Recordings deliberately keep a warm 1970s grain, and vinyl singles run alongside DJ versions. Tempos mostly fall between 90 and 120 BPM, made for dancing rather than seated solo listening.
 
-## Key figures
+## Names you cannot avoid
 Gilles Peterson and Eddie Piller drove the name and the labels, Incognito's Bluey Maunick wrote band arrangements and harmony back into the records, the Brand New Heavies made club anthems from drums and brass, and Jamiroquai took the sound to a wider pop audience. Galliano and Corduroy represent a more psychedelic, instrumental side.
 
-## Lineage
+## What it influenced
 Jazz-funk, rare groove and 1970s soul feed in, hip-hop and house club culture run alongside, and nu-jazz, broken beat and neo-soul come out. It is a scene and a label movement more than a grammar of improvisation.
 
-## Common misunderstandings
+## What is often misread
 Acid jazz is not acid house with a saxophone, since its rhythm comes from funk rather than electronic dance music. Nor is it an improvisational jazz style, as many bands worked through arrangement and groove with solos at the edge. The name began as a DJ's joke and a label tag, and plenty of musicians disliked the category.
 
 ```audiolab

@@ -27,7 +27,7 @@ updated: 2026-10-30
 ::: zh
 鼓与贝斯是 1990 年代伦敦与布里斯托的快拍舞曲，把碎拍、低音与牙买加音响系统的低音文化压进 170 BPM。
 
-## 起源与年代
+## 年代与地点
 1991 至 1992 年，伦敦的硬核锐舞把 breakbeat 加速到 160 BPM 以上，制作人开始把嘻哈与放克的碎拍切碎重组。Fabio 与 Grooverider 在 Rage 俱乐部的夜晚让这类曲子有了固定听众，1993 年前后雷鬼与音响系统文化进入鼓组，MC 开始在碎拍上说唱。1995 年 Goldie 的专辑把它带进主流评论；同一时期布里斯托的 Roni Size 与 Full Cycle 团队把爵士和声与现场贝斯放进鼓组。1997 年之后 drum and bass 成为更通用的名称，速度与鼓型也随之稳定下来。
 
 ## 听辨特征
@@ -36,7 +36,7 @@ updated: 2026-10-30
 ## 代表人物
 Goldie 的《Timeless》把双碟长度与管弦采样带进 drum and bass，Roni Size 与 Reprazent 用现场贝斯与爵士和声把编制扩大，LTJ Bukem 的 liquid 方向把和弦与氛围铺开，Shy FX 与 Andy C 把舞池反馈写进制作。布里斯托的 Krust、Die 与 Suv 让 Full Cycle 成为另一个中心。
 
-## 谱系
+## 前后脉络
 上承硬核锐舞、嘻哈采样、牙买加 dub 与底特律 techno 的低音观，下接 dubstep、grime、liquid funk 与流行歌里的快拍段落。它把舞曲的速度推到极限，同时把低音放在最前面。
 
 ## 常见误解
@@ -50,7 +50,7 @@ drum and bass 与 jungle 常被当成同义词，1990 年代两者有场景与�
 ::: en
 Drum and bass is the fast dance music of 1990s London and Bristol, pressing chopped breaks, deep bass and Jamaican sound-system weight into 170 BPM.
 
-## Origins and era
+## Era and place
 In 1991 and 1992 London hardcore raves pushed breakbeats past 160 BPM, and producers began cutting hip-hop and funk breaks into new shapes. Fabio and Grooverider's nights at Rage gave the music a fixed audience, reggae and sound-system culture entered the drums around 1993, and MCs began rapping over the breaks. Goldie's album took it into mainstream reviews in 1995, while Bristol's Roni Size and the Full Cycle crew put jazz harmony and live bass into the drum tracks. After 1997 drum and bass became the more general name, and tempo and drum patterns settled.
 
 ## What you hear
@@ -59,7 +59,7 @@ Tempos run from 165 to 180 BPM, yet the music feels like 85 because the snare la
 ## Key figures
 Goldie's Timeless brought double-album length and orchestral samples into drum and bass, Roni Size and Reprazent widened the line-up with live bass and jazz harmony, LTJ Bukem's liquid direction spread chords and atmosphere, and Shy FX and Andy C wrote dance-floor response into their production. In Bristol, Krust, Die and Suv made Full Cycle a second centre.
 
-## Lineage
+## Lines before and after
 Hardcore rave, hip-hop sampling, Jamaican dub and Detroit techno's sense of bass feed in; dubstep, grime, liquid funk and the fast sections of pop songs come out. It pushes dance tempo to its limit while putting the bass first.
 
 ## Common misunderstandings

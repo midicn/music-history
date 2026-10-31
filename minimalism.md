@@ -25,19 +25,19 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 时间与地点
+## 在哪一年，在哪里
 
 1964 年，旧金山磁带音乐中心。特里·赖利的《In C》首演，五十三段短音型由任意数量的演奏者循环；1970 年代，纽约市中心成为极简主义的主场。
 
-## 发生了什么
+## 先看经过
 
 战后先锋派把音乐写得越来越复杂，演奏者要面对密集的谱面与不确定的指令。赖利、赖希、格拉斯和拉蒙特·扬反其道而行：用调式音阶、短小的重复音型、稳定的脉冲和缓慢的变化。赖希让两段相同的录音或两个演奏者逐渐错开，相位差本身成为结构；格拉斯把音型叠加成绵长的织体，让观众在重复里听见细微的移动。
 
-## 改变了什么
+## 之后不一样了
 
 极简主义把听放回音乐的中心，观众不需要读谱也能感到过程。它让作曲家走出音乐厅，进入摇滚俱乐部、美术馆、电影与歌剧；格拉斯为电影配乐，赖希的打击乐作品进入现代乐团，亚当斯把极简语汇写进交响曲。重复不再是懒惰，而是一种可以承载时间与情绪的形式。
 
-## 听这个转折
+## 听一段转折
 
 《In C》用五十三段音型让任何编制都能进入，重复之间不靠指挥也能形成整体。赖希《六架马林巴》把同一音型错位叠加，相位差让简单的材料长出复杂的影子。格拉斯为电影写的《Dead Things》把极简语汇带进叙事，重复开始承担情绪与画面。
 
@@ -45,25 +45,25 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Marimba","synth":"struck","phrase":["C4","C4","G4","C4","E4","C4","G4","C4"],"label":"一个音型的循环","label_en":"One pattern, looping","hint":"听这四个音不断回来，重音在移动；极简主义把变化藏在重复里面","hint_en":"Hear four notes return while the accent shifts; minimalism hides change inside repetition"}
 ```
 
-## 相关
+## 接着读
 
 这条转折属于 [[period:contemporary]]，关键词见 [[glossary:ostinato]] 与 [[glossary:polyrhythm]]。
 :::
 
 ::: en
-## Time and place
+## The year, the place
 
 San Francisco, 1964, at the Tape Music Center. Terry Riley's In C was premiered, its fifty-three short patterns looped by any number of players; in the 1970s downtown New York became the home of minimalism.
 
-## What happened
+## First, the event
 
 The postwar avant-garde wrote music of growing complexity, asking players to face dense scores and uncertain instructions. Riley, Reich, Glass and La Monte Young went the other way: modal scales, short repeating patterns, a steady pulse and slow change. Reich let two identical tapes or two players drift apart until the phase difference itself became the structure; Glass layered patterns into long textures, letting listeners hear tiny shifts inside repetition.
 
-## What changed
+## What was different after
 
 Minimalism put listening back at the centre, so an audience could feel a process without a score. It took composers out of the concert hall into rock clubs, galleries, film and opera; Glass scored films, Reich's percussion works entered new-music ensembles, and Adams wrote minimalist language into symphonies. Repetition stopped being laziness and became a form that could carry time and feeling.
 
-## Listen to the turn
+## Hear the turn
 
 In C lets any ensemble enter through its fifty-three patterns, the whole forming without a conductor. Reich's Six Marimbas layers the same pattern out of alignment, the phase difference giving simple material a complex shadow. Glass's Dead Things, written for film, carries minimalist language into narrative, where repetition holds emotion and image.
 
@@ -71,7 +71,7 @@ In C lets any ensemble enter through its fifty-three patterns, the whole forming
 {"type": "instrument", "gm": "Marimba", "synth": "struck", "phrase": ["C4", "C4", "G4", "C4", "E4", "C4", "G4", "C4"], "label": "One pattern, looping", "label_en": "One pattern, looping", "hint": "听这四个音不断回来，重音在移动；极简主义把变化藏在重复里面", "hint_en": "Hear four notes return while the accent shifts; minimalism hides change inside repetition"}
 ```
 
-## Related
+## Read next
 
 This turn belongs to [[period:contemporary]]; see [[glossary:ostinato]] and [[glossary:polyrhythm]].
 :::

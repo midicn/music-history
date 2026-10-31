@@ -43,9 +43,9 @@ updated: 2026-10-30
 
 在卡契尼的单声歌曲里听旋律怎样贴着词的重音走，伴奏只做支撑。再听蒙特威尔第的早期牧歌，复调还在，但戏剧性已经进来了。转折不在于抛弃复调，而在于给"一条清晰的旋律"让出位置。
 
-## 相关
+## 相关条目
 
-相关时期见文艺复兴与巴洛克，相关概念见单声歌曲与牧歌，歌剧的诞生见本站歌剧诞生条目。
+相关时期见文艺复兴与巴洛克，相关概念见单声歌曲与牧歌，歌剧的诞生见歌剧诞生这一条。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Guitar (nylon)","synth":"plucked","phrase":["E4","F4","G4","A4","G4","F4","E4","D4"],"label":"一条旋律加伴奏","label_en":"One line over accompaniment","hint":"词句在前，伴奏在后，这是卡梅拉塔要的效果","hint_en":"Words in front, accompaniment behind, which is what the camerata wanted"}
@@ -71,7 +71,7 @@ Polyphony stopped being the only way to carry drama. Composers began writing for
 
 In Caccini's solo songs, hear the melody follow the stress of the words while the accompaniment only supports. Then hear an early Monteverdi madrigal, where polyphony remains but drama has entered. The turn is not the abandonment of counterpoint but the clearing of space for one intelligible line.
 
-## Related
+## Related entries
 
 See the Renaissance and Baroque period pages, the monody and madrigal entries, and the birth of opera on this site.
 

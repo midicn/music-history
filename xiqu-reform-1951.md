@@ -41,7 +41,7 @@ updated: 2026-10-30
 
 先听《姑苏风光·大九连环》，曲牌一支接一支，唱的是风景与风俗，这是需要整理的旧套曲。再听《无锡景》，同一类时调被用来叙事，词一换，内容就变。最后听《一盏明灯照北京》，旧曲调装进新词与新语气，整齐、明亮、面向集体。三首都不是戏曲唱段，但能听出戏改改的不只是唱腔，还有唱腔所服务的那个人。
 
-## 相关
+## 相关条目
 
 这条转折连接戏曲导论、京剧的形成与审查与禁曲。
 
@@ -69,7 +69,7 @@ Opera moved from a market institution into part of the state cultural system. Pl
 
 Begin with Beautiful Scenes of Suzhou, a suite of linked qupai describing scenery and customs, exactly the old form that needed editing. Then Wuxi Scene, where a similar tune carries narrative, and the content changes as soon as the words do. Finally A Bright Lamp Shines on Beijing, an old tune fitted with new words and a new tone, orderly, bright and addressed to a collective. None is an opera excerpt, yet together they show that the reform changed not only the tunes but the person the tunes served.
 
-## Related
+## Related entries
 
 This turn connects 戏曲导论, 京剧的形成 and 审查与禁曲.
 

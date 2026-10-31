@@ -29,19 +29,19 @@ updated: 2026-10-30
 ::: zh
 三角洲布鲁斯是 1920 至 1930 年代密西西比三角洲的独唱布鲁斯。一个人、一把吉他，句子可长可短，录音里能听见房间与唱片的噪声。
 
-## 起源与年代
+## 从哪儿来
 这一带包括克拉克斯代尔、印第安诺拉与格林维尔，棉花种植园密集，Dockery 农场是常被提到的一个中心。查利·帕顿 1929 年为派拉蒙唱片录下第一批曲子，斯基普·詹姆斯 1931 年留下《Hard Time Killing Floor Blues》，罗伯特·约翰逊 1936 年在圣安东尼奥、1937 年在达拉斯录完全部作品。大迁徙把许多乐手带往孟菲斯与芝加哥，这一风格也随之改变。
 
-## 听辨特征
+## 耳朵先抓到什么
 吉他多用开放定弦，滑棒在弦上拖出介于两个音高之间的音，句子常以一声长啸或一句短促的应答结束。歌唱与吉他交替，不总是同时，节奏因此显得自由。十二小节常被拉长或压缩，有时多出一两拍。录音是 78 转唱片，频带窄，人声与吉他挤在一起，噪声本身成了音色的一部分。吉他定弦常按歌手的声音调整，同一首曲子在不同人手里调性不同。
 
-## 代表人物
+## 绕不开的人
 查利·帕顿的声音粗粝，句子像在喊话；索尼·豪斯把布道式的力度带进布鲁斯；罗伯特·约翰逊把吉他伴奏与歌唱拆成两条独立的线；汤米·约翰逊的高音假声与斯基普·詹姆斯的假声吟唱各占一路。布卡·怀特与后来的弗雷德·麦克道尔把这一传统延续到电声时代。
 
-## 谱系
+## 它影响了谁
 它从田野号子、劳动歌曲、灵歌与英国叙事歌里长出来，往下进入芝加哥电声布鲁斯、乡村布鲁斯与 1960 年代的布鲁斯复兴。它常被当作布鲁斯的“源头”，但城市布鲁斯与杂耍布鲁斯在它之前已经存在。
 
-## 常见误解
+## 常被说错的地方
 三角洲布鲁斯不是布鲁斯的唯一起点，1920 年以前已有舞台化的布鲁斯出版与录音。它也不全是滑棒吉他，帕顿的许多段落就用指弹。罗伯特·约翰逊的“十字路口”故事是后来的传说，不能当作音乐史事实。
 
 ```audiolab
@@ -52,19 +52,19 @@ updated: 2026-10-30
 ::: en
 Delta blues is the solo blues of the Mississippi Delta in the 1920s and 1930s. One person and one guitar, phrases that stretch or shrink at will, and recordings where the room and the shellac are audible.
 
-## Origins and era
+## Where it came from
 The region includes Clarksdale, Indianola and Greenville, with dense cotton plantations; Dockery Farms is often named as a centre. Charley Patton recorded his first sides for Paramount in 1929, Skip James left Hard Time Killing Floor Blues in 1931, and Robert Johnson recorded his whole output in San Antonio in 1936 and Dallas in 1937. The Great Migration carried many players to Memphis and Chicago, and the style changed with them.
 
-## What you hear
+## What the ear catches
 Guitars often use open tunings, with a slide dragging out notes between fixed pitches, and phrases end in a long holler or a short answer. Singing and guitar alternate rather than always sound together, which makes the rhythm feel free. The twelve bars may be stretched or squeezed, sometimes by a beat or two. The recordings are 78s with narrow bandwidth, voice and guitar packed together, so noise becomes part of the timbre.
 
-## Key figures
+## Names you cannot avoid
 Charley Patton's voice is rough and his phrases shout; Son House brought preaching force to the blues; Robert Johnson split guitar accompaniment and singing into independent lines; Tommy Johnson's high falsetto and Skip James's moaning falsetto mark separate paths. Bukka White and, later, Fred McDowell carried the tradition into the electric era.
 
-## Lineage
+## What it influenced
 Field hollers, work songs, spirituals and British ballads feed in, and Chicago electric blues, country blues and the 1960s blues revival come out. It is often called the source of the blues, yet urban and vaudeville blues already existed before it was recorded.
 
-## Common misunderstandings
+## What is often misread
 The Delta is not the single origin of the blues, since staged blues was published and recorded before 1920.Nor is it all slide guitar, as Patton and House often fingerpicked. Robert Johnson's crossroads story is later folklore, not music history.
 
 ```audiolab

@@ -48,7 +48,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Clarinet","synth":"reed","phrase":["C5","D5","E5","F5","G5","A5","G5","F5"],"label":"喜歌剧的绕口令","label_en":"Patter in comic opera","hint":"跟着木管的快速音阶数拍，听每个音怎样咬住下一个音","hint_en":"Count with the quick woodwind run and hear each note bite into the next"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:romantic]]，连接[[glossary:opera-buffa]]、[[glossary:coloratura]]与[[glossary:aria]]。
 :::
@@ -76,7 +76,7 @@ Begin with the overture and notice how its light theme keeps returning. Then hea
 {"type": "instrument", "gm": "Clarinet", "synth": "reed", "phrase": ["C5", "D5", "E5", "F5", "G5", "A5", "G5", "F5"], "label": "Patter in comic opera", "label_en": "Patter in comic opera", "hint": "跟着木管的快速音阶数拍，听每个音怎样咬住下一个音", "hint_en": "Count with the quick woodwind run and hear each note bite into the next"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:romantic]] and connects [[glossary:opera-buffa]], [[glossary:coloratura]] and [[glossary:aria]].
 :::

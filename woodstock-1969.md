@@ -49,7 +49,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Electric Guitar (clean)","synth":"plucked","phrase":["E3","G3","A3","C4","A3","G3","E3"],"label":"伍德斯托克：电吉他的长音与反馈","label_en":"Woodstock: electric guitar, long notes and feedback","hint":"听开放弦与长音，想象露天扩声里的啸叫","hint_en":"Hear the open strings and long notes, then imagine feedback in an open-air system"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:contemporary]]，连接[[glossary:electric-guitar]]、[[instrument:electric-guitar]]与[[instrument:popular-voice]]。
 :::
@@ -77,7 +77,7 @@ The library holds no Woodstock recordings and no rock-band versions; these four 
 {"type": "instrument", "gm": "Electric Guitar (clean)", "synth": "plucked", "phrase": ["E3", "G3", "A3", "C4", "A3", "G3", "E3"], "label": "Woodstock: electric guitar, long notes and feedback", "label_en": "Woodstock: electric guitar, long notes and feedback", "hint": "听开放弦与长音，想象露天扩声里的啸叫", "hint_en": "Hear the open strings and long notes, then imagine feedback in an open-air system"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:contemporary]] and connects [[glossary:electric-guitar]], [[instrument:electric-guitar]] and [[instrument:popular-voice]].
 :::

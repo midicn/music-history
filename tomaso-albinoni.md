@@ -26,11 +26,11 @@ updated: 2026-10-30
 ---
 
 ::: zh
-## 他是谁
+## 生平一笔
 
 **托马索·阿尔比诺尼**（1671–1751）是威尼斯的作曲家。他家经营纸业，家境富裕，因此一生不必依附宫廷或教堂，自称「威尼斯的业余爱好者」。他从 1694 年起写作歌剧，在威尼斯与外地剧院上演；更重要的是一批器乐曲集，作品第 2、5、7、9、10 号先后在威尼斯与阿姆斯特丹出版，其中作品第 9 号（1722）包含双簧管协奏曲。
 
-## 时代与位置
+## 他生活的城市
 
 他代表巴洛克晚期意大利协奏曲的另一种路线。科莱利与维瓦尔第是职业音乐家，作品围绕自己演奏或训练的乐团；阿尔比诺尼是出版市场的作曲家，作品集面向欧洲各地的业余乐团。他的协奏曲篇幅不大，独奏与乐队关系温和，双簧管在那时刚刚成为独奏乐器，他的作品第 9 号是最早一批出版的双簧管协奏曲。
 
@@ -38,14 +38,14 @@ updated: 2026-10-30
 
 先听**独奏与乐队的距离**。双簧管不是与乐队竞争，而是嵌在弦乐的织体里唱长句，乐句之间由乐队接住。再听**慢乐章的气息**。他的慢速乐章几乎全靠旋律的呼吸与和声的低音支撑，没有什么装饰。最后听**「慢板」的问题**。那首著名的《g 小调慢板》是二十世纪音乐学家贾佐托根据一点残缺材料写成的，1958 年出版，听它时要明白这是现代作品，不是巴洛克原作。
 
-## 代表作
+## 代表作品
 
 - 《d 小调双簧管协奏曲》Op.9 No.2
 - 协奏曲集 Op.7（1715）、Op.9（1722）、Op.10（1735）
 - 歌剧《Zenobia》（1694）等数十部
 - 《g 小调慢板》，贾佐托 1958 年整理，非原作
 
-## 影响
+## 留下的痕迹
 
 他的协奏曲把双簧管推上独奏席，此后这类作品在欧洲各地出版、被业余乐团演奏，器乐市场由此扩大。至于那首《慢板》，它在二十世纪成为最流行的「巴洛克」曲目之一，却也让阿尔比诺尼的名字与一件并非他写的东西绑在一起，这是研究他的一个特殊麻烦。
 
@@ -55,11 +55,11 @@ updated: 2026-10-30
 :::
 
 ::: en
-## Who he was
+## A life in brief
 
 **Tomaso Albinoni** (1671–1751) was a Venetian composer. His family ran a paper business and was wealthy enough that he never needed a court or church post; he called himself a Venetian dilettante. He wrote operas from 1694 onwards, staged in Venice and elsewhere, and, more importantly, sets of instrumental music: Opp. 2, 5, 7, 9 and 10 were published in Venice and Amsterdam, and Op. 9 (1722) contains the oboe concertos.
 
-## His place
+## The city he worked in
 
 He represents another route through the late Baroque Italian concerto. Corelli and Vivaldi were professionals writing for ensembles they played in or trained; Albinoni wrote for the publishing market, and his collections were bought by amateur ensembles across Europe. His concertos are modest in length and polite in the relationship between soloist and band. The oboe had only just become a solo instrument, and Op. 9 belongs to the first published sets of oboe concertos.
 
@@ -74,7 +74,7 @@ Listen first for **the distance between solo and band**. The oboe does not compe
 - Operas, including Zenobia (1694) and dozens more
 - Adagio in G minor, arranged by Giazotto in 1958, not an original work
 
-## Influence
+## What remains
 
 His concertos put the oboe on the solo platform; such works were then published and played by amateur ensembles across Europe, and the market for instrumental music grew with them. The Adagio became one of the most popular "Baroque" pieces of the twentieth century, which ties Albinoni's name to something he did not write and makes studying him unusually awkward.
 

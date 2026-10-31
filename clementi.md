@@ -27,27 +27,27 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 一个人的来历
 
 **穆齐奥·克莱门蒂**（1752–1832）生于罗马，父亲是银匠。他少年时被带到英国，在乡间寄宿学校练琴，成年后在伦敦以钢琴家、教师、乐谱出版商与钢琴制造商的身份立足，也到欧洲大陆演出。他的一生几乎与钢琴这件乐器的兴起同步。
 
-## 时代与位置
+## 他所在的时代
 
 克莱门蒂属于古典主义，却站在钢琴取代羽管键琴的转折点上。1781 年他在维也纳与莫扎特同台竞技，两人风格迥异；他更厚、更重、更依赖乐器的力度变化。他的奏鸣曲与练习曲把钢琴的技巧系统化，也把伦敦变成欧洲钢琴音乐的一个中心。
 
-## 听什么
+## 先听这三首
 
 先听**织体的清楚**：小奏鸣曲的伴奏音型简单，却要求每个声部都站得住。再听**跑动的方向**：音阶与琶音不是越快越好，而是要有起伏与落点。最后听**力度的层次**：从弱到强不是开关，而是一段路，这是他区别于羽管键琴音乐的地方。
 
-## 代表作
+## 作品与写法
 
 - 《六首小奏鸣曲》Op.36
 - 《通往帕纳索斯之路》Op.44
 - 钢琴奏鸣曲 Op.2、Op.10、Op.40，钢琴二重奏
 
-## 影响
+## 留下的痕迹
 
-克莱门蒂的练习曲与奏鸣曲塑造了十九世纪的钢琴教学，菲尔德、克拉默都出自他的门下，贝多芬也看重他的作品。**他把「练习」从机械重复变成了有音乐内容的写作，让技术本身可以登台。**
+克莱门蒂的练习曲与奏鸣曲塑造了十九世纪的钢琴教学，菲尔德、克拉默都出自他的门下，贝多芬也看重他的作品。他把「练习」从机械重复变成了有音乐内容的写作，让技术本身可以登台。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["C4","E4","G4","C5","G4","E4","C4","G3"],"label":"克莱门蒂的小奏鸣曲：清楚的织体","label_en":"Clementi's sonatina: clear textures","hint":"借钢琴近似：听右手音阶与左手伴奏各走各的路，强弱变化要像坡道而不是台阶。真正的奏鸣曲还要听乐句怎样收尾。","hint_en":"A piano stands in: hear the right-hand scale and left-hand accompaniment keep their own paths, with dynamics as a slope rather than stairs. The real sonatas also show how phrases close."}
@@ -55,7 +55,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Life
 
 **Muzio Clementi** (1752–1832) was born in Rome, the son of a silversmith. He was taken to England as a boy, practised at a country boarding school, and as an adult made his living in London as pianist, teacher, music publisher and piano manufacturer, later touring the Continent. His life ran almost parallel with the rise of the piano itself.
 
@@ -73,7 +73,7 @@ Listen first for **clear texture**: the accompaniment patterns of the sonatinas 
 - Gradus ad Parnassum, Op. 44
 - Piano sonatas Op. 2, Op. 10, Op. 40; piano duets
 
-## Influence
+## Influence and misreadings
 
 Clementi's studies and sonatas shaped nineteenth-century piano teaching; Field and Cramer came from his circle, and Beethoven valued his music. **He turned exercise from mechanical repetition into writing with musical content, so that technique itself could take the stage.**
 

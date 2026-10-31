@@ -27,7 +27,7 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 出身与师承
 
 **约翰·内波穆克·胡梅尔**（1778–1837）生于普雷斯堡，也就是今天的布拉迪斯拉发。他幼年被视为神童，被莫扎特收为学生后住进莫扎特家，随后随父亲在欧洲巡演。成年后他在艾斯特哈齐宫廷接海顿的班，又在斯图加特与魏玛任乐长，晚年是欧洲最受尊敬的钢琴家之一。
 
@@ -35,20 +35,20 @@ updated: 2026-10-28
 
 他站在古典与浪漫之间，与贝多芬同城竞争。贝多芬写的是断然的、结构性的音乐，胡梅尔写的是圆润、精致、以装饰与音色取胜的音乐。他为贝多芬送葬，也教过后来的一整代钢琴家；他的钢琴教程把技术训练写成体系，影响了十九世纪的演奏风格。
 
-## 听什么
+## 先听什么
 
-先听**装饰**：胡梅尔的旋律上常有一层细密的花音，像给线条镶边。再听**琶音式的伴奏**：左手铺开和弦，右手在上面唱。然后听**半音的色彩**：他喜欢在古典句法里加进暧昧的和声，让明亮的段落忽然发暗。最后听**他给莫扎特写的华彩段**：那是学生对老师最直接的一次对话。
+先听**装饰**：胡梅尔的旋律上常有一层细密的花音，像给线条镶边。再听**琶音式的伴奏**：左手铺开和弦，右手在上面唱。然后听**半音的色彩**：他喜欢在古典句法里加进暧昧的和声，让明亮的段落忽然发暗。最后听他给莫扎特写的华彩段：那是学生对老师最直接的一次对话。
 
-## 代表作
+## 作品与写法
 
 - 钢琴：第五奏鸣曲 Op.81、第二奏鸣曲 Op.13、《华丽回旋曲》Op.109
 - 协奏曲：a 小调钢琴协奏曲 Op.85、降 E 大调小号协奏曲
 - 室内乐：七重奏 Op.74
 - 教学：钢琴演奏教程
 
-## 影响
+## 影响与误读
 
-胡梅尔的演奏与教学把维也纳的钢琴风格带到魏玛与整个中欧，李斯特、肖邦一代都从他的技术里受益。**他提醒我们，古典与浪漫之间不是一道悬崖，而是一段有扶手的长廊。**
+胡梅尔的演奏与教学把维也纳的钢琴风格带到魏玛与整个中欧，李斯特、肖邦一代都从他的技术里受益。他提醒我们，古典与浪漫之间不是一道悬崖，而是一段有扶手的长廊。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["F4","A4","C5","E5","D5","C5","A4","F4"],"label":"胡梅尔：给旋律镶边的装饰","label_en":"Hummel: ornament wrapped around a melody","hint":"借钢琴近似：听主音被花音包围，装饰不是多余，而是表情的一部分。真正的奏鸣曲里，这些花音还要与左手的琶音对齐。","hint_en":"A piano stands in: hear the main notes surrounded by figuration that is expression, not decoration. In the real sonatas those figures must also lock with the left-hand arpeggios."}
@@ -56,7 +56,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Training and teachers
 
 **Johann Nepomuk Hummel** (1778–1837) was born in Pressburg, today's Bratislava. A child prodigy, he was taken on by Mozart as a pupil and lived in Mozart's household before touring Europe with his father. As an adult he succeeded Haydn at the Esterházy court, then directed music in Stuttgart and Weimar, and in later life was among the most respected pianists in Europe.
 
@@ -64,18 +64,18 @@ updated: 2026-10-28
 
 He stands between Classicism and Romanticism, competing with Beethoven in the same city. Beethoven wrote blunt, structural music; Hummel wrote round, polished music that wins through ornament and tone colour. He walked in Beethoven's funeral procession and taught a whole generation of pianists; his piano method turned technical training into a system and shaped nineteenth-century playing.
 
-## What to hear
+## Where to start
 
-Listen first for **ornament**: Hummel's melodies usually carry a fine layer of figuration, like braid on a hem. Then for **arpeggiated accompaniment**: the left hand spreads chords while the right hand sings. Next, **chromatic colour**: he likes to slip ambiguous harmony into Classical syntax, so that a bright passage suddenly darkens. Finally, **his cadenza for Mozart**: a pupil speaking alone inside his teacher's concerto, the most direct conversation between them.
+Listen first for **ornament**: Hummel's melodies usually carry a fine layer of figuration, like braid on a hem. Then for **arpeggiated accompaniment**: the left hand spreads chords while the right hand sings. Next, **chromatic colour**: he likes to slip ambiguous harmony into Classical syntax, so that a bright passage suddenly darkens. Finally, his cadenza for Mozart: a pupil speaking alone inside his teacher's concerto, the most direct conversation between them.
 
-## Key works
+## Works and craft
 
 - Piano: Sonata No. 5 Op. 81, Sonata No. 2 Op. 13, Rondo brillant Op. 109
 - Concertos: Piano Concerto in A minor Op. 85, Trumpet Concerto in E-flat
 - Chamber: Septet Op. 74
 - Teaching: A Complete Theoretical and Practical Course on the Art of Piano Playing
 
-## Influence
+## Influence and misreadings
 
 Hummel's playing and teaching carried Viennese piano style to Weimar and across central Europe; a whole generation of pianists, Liszt among them, drew on his technique. **He reminds us that Classicism and Romanticism are not a cliff but a corridor with a handrail.**
 

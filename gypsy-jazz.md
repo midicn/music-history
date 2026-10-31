@@ -28,7 +28,7 @@ updated: 2026-10-30
 ::: zh
 吉普赛爵士是 1930 年代巴黎的弦乐爵士。它不用鼓，靠几把吉他与一把小提琴撑起节奏与独奏，把美国爵士的语汇放进法国舞厅与东欧移民的音乐习惯里。
 
-## 起源与年代
+## 年代与地点
 1934 年，吉他手姜戈·莱因哈特与小提琴手斯特凡·格拉佩利在巴黎组成法国热俱乐部五重奏。莱因哈特是罗姆人，童年在营地与街头演出，1928 年房车起火伤及左手，此后用两根手指按弦。乐队在 1934 至 1939 年间录下大量唱片，把 musette 华尔兹、法国香颂与美国摇摆曲目混在一起。二战中断了合作，1970 年代以后罗森伯格家族与拉格伦等吉他手让这一风格在欧洲复兴。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## 代表人物
 姜戈·莱因哈特把吉普赛旋律、美国爵士和声与吉他技巧合在一起，格拉佩利把小提琴的即兴写得优雅而松弛。后来的比雷利·拉格伦、斯托切洛·罗森伯格与乔斯科·斯特凡延续了这套语汇，也把它带向世界各地的音乐节。
 
-## 谱系
+## 前后脉络
 它上承法国 musette 舞曲、罗姆人音乐与美国摇摆爵士，下接欧洲爵士、现代吉他演奏与各地的“jazz manouche”场景。它与美国的摇摆小乐队几乎同时兴起，却因为编制与音色走出另一条路。
 
 ## 常见误解
@@ -51,7 +51,7 @@ updated: 2026-10-30
 ::: en
 Gypsy jazz is the string-band jazz of 1930s Paris. Without drums, several guitars and a violin carry both rhythm and solos, putting American jazz vocabulary into French dance halls and the musical habits of Eastern European immigrants.
 
-## Origins and era
+## Era and place
 In 1934 the guitarist Django Reinhardt and the violinist Stéphane Grappelli formed the Quintette du Hot Club de France in Paris. Reinhardt was Roma, had played in camps and on the street as a child, and after a caravan fire in 1928 injured his left hand he fretted with two fingers. The group recorded heavily between 1934 and 1939, mixing musette waltzes, French chanson and American swing numbers. The war ended the partnership, and from the 1970s the Rosenberg family and guitarists such as Biréli Lagrène revived the style in Europe.
 
 ## What you hear
@@ -60,7 +60,7 @@ The line-up is usually a lead guitar, two rhythm guitars, double bass and violin
 ## Key figures
 Django Reinhardt fused Roma melody, American jazz harmony and guitar technique, while Grappelli improvised on violin with elegance and ease. Later players such as Biréli Lagrène, Stochelo Rosenberg and Joscho Stephan carried the language on and took it to festivals worldwide.
 
-## Lineage
+## Lines before and after
 French musette dance music, Roma music and American swing feed in; European jazz, modern guitar playing and local "jazz manouche" scenes come out. It was nearly contemporary with American hot-club jazz but took a different road through its line-up and timbre.
 
 ## Common misunderstandings

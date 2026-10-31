@@ -26,11 +26,11 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 生平一笔
 
 乔治·弗里德里希·亨德尔（1685–1759）生于德国哈雷，先在汉堡写歌剧，后长期定居伦敦，1727 年入籍英国。他一生以歌剧起家，却在清唱剧里留下最广为人知的声音。《弥赛亚》把圣经词句写成合唱与咏叹调的连续体，至今仍是英语世界最常演出的巴洛克作品。
 
-## 时代与位置
+## 他生活的城市
 
 他是巴洛克盛期的公众作曲家，剧院、宫廷、教堂与慈善音乐会都写。意大利歌剧的声乐修辞、法国序曲的节奏、德国对位与英国合唱传统，在他手里汇成一种国际风格。他与巴赫同岁，但一个面向城市观众，一个面向教堂与宫廷。
 
@@ -38,11 +38,11 @@ updated: 2026-10-28
 
 先听合唱的层次，主题常在低声部先出现，再一层层向上堆叠。再听咏叹调的返始结构，歌手在第一段反复时加装饰，旋律因此每次回来都不同。器乐里注意法国序曲的附点节奏、舞曲乐章的性格，以及协奏曲里独奏与乐队的应答。
 
-## 代表作
+## 代表作品
 
 《弥赛亚》HWV 56；《塞尔斯》HWV 40；键盘组曲 HWV 428；《水上音乐》；《皇家焰火音乐》；大协奏曲 Op. 6。
 
-## 影响
+## 留下的痕迹
 
 他把清唱剧变成英语世界的公共仪式，也让意大利歌剧的技艺在英国土壤里继续生长。此后的合唱节、亨德尔音乐节与电影配乐，都从他的宏大音响里取法。他的旋律不追求私密，而是让一整座剧院同时呼吸。
 
@@ -52,11 +52,11 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## A life in brief
 
 George Frideric Handel (1685–1759) was born in Halle, Germany, began his career writing opera in Hamburg, and settled in London, becoming a British subject in 1727. He made his name in Italian opera, yet his most durable voice is the English oratorio, above all Messiah, which turns scripture into an unbroken sequence of choruses and arias.
 
-## His place
+## The city he worked in
 
 He was a public composer of the high Baroque, writing for theatres, courts, churches and charity concerts. Italian vocal rhetoric, French overture rhythm, German counterpoint and the English choral tradition meet in his international style. Born in the same year as Bach, he faced the city and its audiences while Bach faced church and court.
 
@@ -68,7 +68,7 @@ Listen first to the layering of the chorus: the subject often begins in the bass
 
 Messiah, HWV 56; Serse, HWV 40; Keyboard Suite HWV 428; Water Music; Music for the Royal Fireworks; Concerti grossi, Op. 6.
 
-## Influence
+## What remains
 
 He turned oratorio into a public ritual of the English-speaking world and kept Italian operatic craft alive on British soil. Choral festivals, Handel celebrations and later film scores all draw on his grand sound. His melody is not private; it asks a whole theatre to breathe together.
 

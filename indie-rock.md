@@ -28,7 +28,7 @@ updated: 2026-10-28
 ::: zh
 独立摇滚先是制作与发行的方式，后来才成为音色与姿态：低预算、克制、个人化。
 
-## 起源与年代
+## 年代与地点
 1980 年代，英美地下厂牌与大学电台把另类摇滚从大公司分离出来。1990 年代，涅槃把独立推上主流，独立摇滚反而成为更宽泛的标签。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-28
 ## 代表人物
 音速青年把噪音与旋律并置，帕夫门特与恐龙 Jr. 定义 1980 年代美国独立摇滚。电台司令把电子与另类摇滚合并，拱廊之火把独立摇滚做成大型编曲，Stereolab 与 Yo La Tengo 展示另一种克制。
 
-## 谱系
+## 前后脉络
 上承另类摇滚、后朋克与噪音流行，下接独立流行、氛围民谣与卧室流行；它也把“自己录、自己发”变成一种美学。
 
 ## 常见误解
@@ -51,7 +51,7 @@ updated: 2026-10-28
 ::: en
 Indie rock is first a way of making and releasing records, then a sound: low budget, restraint and personal scale.
 
-## Origins and era
+## Era and place
 In the 1980s British and American independent labels and college radio separated alternative rock from the majors. In the 1990s Nirvana took independence to the mainstream, and indie rock became a broader label.
 
 ## What you hear
@@ -60,7 +60,7 @@ Start with timbre. Guitars are clean or lightly overdriven, reverb does not fill
 ## Key figures
 Sonic Youth set noise beside melody, and Pavement and Dinosaur Jr. defined 1980s American indie. Radiohead merged electronics with alternative rock, Arcade Fire made indie a large-scale arrangement, and Stereolab and Yo La Tengo showed another restraint.
 
-## Lineage
+## Lines before and after
 Alternative rock, post-punk and noise pop feed in; indie pop, ambient folk and bedroom pop come out. Doing both yourself became an aesthetic.
 
 ## Common misunderstandings

@@ -27,27 +27,27 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 生平一笔
 
 **古斯塔夫·马勒**（1860–1911）出生于波希米亚，主要作为**指挥家**活跃于维也纳、汉堡与纽约，同时写作交响曲与歌曲。他的交响曲规模庞大，常加入人声、合唱与歌谣材料；《亡儿之歌》《大地之歌》把歌曲与交响曲的边界打通。
 
-## 时代与位置
+## 他生活的城市
 
 马勒站在**浪漫主义交响曲的终点**：他继承贝多芬、布鲁克纳与瓦格纳的传统，却把「交响曲」变成一种**世界观的容器**——自然、民间、讽刺、宗教、死亡都能放进去。他常说「交响曲必须像世界一样，包含一切」。
 
 ## 听什么
 
-先听**材料的拼贴**：进行曲、舞曲、民歌、葬礼音乐可以在同一乐章里并置。再听**反讽**：马勒的「美」常带阴影，甜美的旋律后面可能是扭曲。最后听**时间的尺度**：他的音乐不怕长，因为他在搭建一个世界。
+先听材料的拼贴：进行曲、舞曲、民歌、葬礼音乐可以在同一乐章里并置。再听反讽：马勒的「美」常带阴影，甜美的旋律后面可能是扭曲。最后听时间的尺度：他的音乐不怕长，因为他在搭建一个世界。
 
-## 代表作
+## 代表作品
 
 - 交响曲：第一至第九、《大地之歌》
 - 歌曲：《亡儿之歌》《青年魔角》
 - 声乐交响：《第八交响曲》
 
-## 影响
+## 留下的痕迹
 
-马勒之后，**交响曲可以容纳一切**；肖斯塔科维奇、布里顿、贝尔格都受他影响。他的音乐在 20 世纪后半叶成为音乐会与录音的核心，**「马勒式」也成了「庞大而私人」的代名词。**
+马勒之后，交响曲可以容纳一切；肖斯塔科维奇、布里顿、贝尔格都受他影响。他的音乐在 20 世纪后半叶成为音乐会与录音的核心，「马勒式」也成了「庞大而私人」的代名词。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["G3","B3","D4","F#4","A4","F#4","D4"],"label":"马勒的世界：一段旋律里有两个世界","label_en":"Mahler's world: two worlds inside one melody","hint":"借钢琴近似：听甜美旋律里的阴影与突然的转折。马勒的「美」很少是单纯的，注意它怎样被反讽打断。","hint_en":"A piano stands in: listen for shadow and sudden turns inside a sweet melody. Mahler's beauty is rarely pure — hear how irony interrupts it."}
@@ -55,17 +55,17 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## A life in brief
 
 **Gustav Mahler** (1860–1911) was born in Bohemia and worked mainly as a **conductor** in Vienna, Hamburg and New York, while writing symphonies and songs. His symphonies are large, often adding voices, chorus and song material; Kindertotenlieder and Das Lied von der Erde dissolve the border between song and symphony.
 
-## His place
+## The city he worked in
 
 Mahler stands at the **end of the Romantic symphony**: he inherits Beethoven, Bruckner and Wagner, but turns the symphony into **a container for a worldview** — nature, folk, irony, religion and death all fit inside. He famously said a symphony must be like the world, containing everything.
 
 ## What to hear
 
-Listen first for **collage**: marches, dances, folk songs and funeral music can sit side by side in one movement. Then hear **irony**: Mahler's beauty often carries shadow; a sweet melody may be distorted underneath. Finally hear **scale of time**: his music is not afraid of length because he is building a world.
+Listen first for collage: marches, dances, folk songs and funeral music can sit side by side in one movement. Then hear irony: Mahler's beauty often carries shadow; a sweet melody may be distorted underneath. Finally hear scale of time: his music is not afraid of length because he is building a world.
 
 ## Key works
 
@@ -73,9 +73,9 @@ Listen first for **collage**: marches, dances, folk songs and funeral music can 
 - Songs: Kindertotenlieder, Des Knaben Wunderhorn
 - Vocal symphony: Symphony No. 8
 
-## Influence
+## What remains
 
-After Mahler, **the symphony could contain everything**; Shostakovich, Britten and Berg all respond to him. His music became central to concerts and recordings in the later twentieth century, and "Mahlerian" became a word for **vast and private** at once.
+After Mahler, the symphony could contain everything; Shostakovich, Britten and Berg all respond to him. His music became central to concerts and recordings in the later twentieth century, and "Mahlerian" became a word for vast and private at once.
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["G3","B3","D4","F#4","A4","F#4","D4"],"label":"Mahler's world: two worlds inside one melody","label_en":"Mahler's world: two worlds inside one melody","hint":"A piano stands in: listen for shadow and sudden turns inside a sweet melody. Mahler's beauty is rarely pure — hear how irony interrupts it.","hint_en":"A piano stands in: listen for shadow and sudden turns inside a sweet melody. Mahler's beauty is rarely pure — hear how irony interrupts it."}

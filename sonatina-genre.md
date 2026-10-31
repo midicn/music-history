@@ -28,19 +28,19 @@ updated: 2026-10-30
 ::: zh
 小奏鸣曲是缩短的奏鸣曲，两到三个短乐章，织体清楚，音域有限，长期作为键盘教材使用。
 
-## 起源与年代
+## 从哪儿来
 十八世纪，作曲家把结构简化、篇幅缩短的奏鸣曲称作小奏鸣曲，克莱门蒂的 Op.36 与库劳的 Op.20、Op.55 成为教材。迪亚贝利与杜塞克写下大量同类作品，出版商把成套的小奏鸣曲印成一本，供一个学期的课程使用。十九世纪，这一名称多见于儿童教材与女子学校的曲目单。二十世纪，拉威尔与布索尼把精致的小奏鸣曲写回音乐厅，名称不再只属于初学者。
 
-## 听辨特征
+## 耳朵先抓到什么
 两到三个乐章，首乐章常省略展开部，或把展开压成几个过渡小节。织体只留旋律与分解和弦，音域通常只有两个八度，节奏型反复出现。末乐章用回旋或小步舞曲，速度快而短。听辨时先判断第一乐章有没有真正的展开，主题是否原样回来，以及左手是否只做和声支架。规模变小带来结构上的后果，转调次数减少，材料更依赖重复而不是发展。教材作者还会把难点拆开，一首只练音阶跑动，另一首只练三度双音，学生按顺序弹完就等于过了一遍基本技术。克莱门蒂的六首按难度由浅入深排列，每一首换一种左手音型，顺序本身就是课程表。
 
-## 代表人物
+## 绕不开的人
 克莱门蒂的六首 Op.36 是范本，库劳与迪亚贝利为教学写了几十首，拉威尔与布索尼把这一体裁带回音乐会，贝多芬的 Op.79 说明奏鸣曲与小奏鸣曲的界线并不严。
 
-## 谱系
+## 它影响了谁
 上承古典奏鸣曲与教学用的二部曲式小曲，下接儿童教材、二十世纪的新古典小奏鸣曲与键盘教学体系。
 
-## 常见误解
+## 常被说错的地方
 小奏鸣曲不是“小孩的奏鸣曲”，拉威尔与布索尼的作品技术难度不低。它也不等于奏鸣曲的单个乐章，多数仍保持完整的乐章布局。
 
 ```audiolab
@@ -51,19 +51,19 @@ updated: 2026-10-30
 ::: en
 A sonatina is a shortened sonata, two or three brief movements, clear in texture and limited in range, long used as keyboard teaching material.
 
-## Origins and era
+## Where it came from
 In the eighteenth century composers called simplified, shortened sonatas sonatinas, and Clementi's Op. 36 with Kuhlau's Op. 20 and Op. 55 became the teaching canon. Diabelli and Dussek produced quantities of the same. In the nineteenth century the title belonged mostly to children's tutors and school recital lists. In the twentieth century Ravel and Busoni wrote refined sonatinas back into the concert hall, and the name stopped belonging only to beginners.
 
-## What you hear
+## What the ear catches
 Two or three movements, the first often omitting the development or compressing it into a few transitional bars. The texture leaves only melody and broken chords, the range rarely exceeds two octaves, and rhythmic figures repeat. The finale is a rondo or minuet, fast and short. Decide first whether the opening movement has a real development, whether the theme returns unchanged, and whether the left hand does nothing but hold harmony. The smaller scale has structural consequences, fewer modulations and more reliance on repetition than on development. Authors also isolate difficulties, one piece drilling scales and another double thirds, so a student who plays through the set has covered the basic technique in order. Clementi's six are ordered from easier to harder, each changing the left-hand figure, so the sequence itself is the syllabus.
 
-## Key figures
+## Names you cannot avoid
 Clementi's six sonatinas Op. 36 are the models, Kuhlau and Diabelli wrote dozens for teaching, Ravel and Busoni brought the genre back to the concert hall, and Beethoven's Op. 79 shows how loose the border with the sonata can be.
 
-## Lineage
+## What it influenced
 It comes from the classical sonata and from short teaching pieces in binary form and leads to children's tutors, the twentieth-century neoclassical sonatina and the keyboard teaching repertory.
 
-## Common misunderstandings
+## What is often misread
 A sonatina is not a child's sonata, since Ravel's and Busoni's are technically demanding. Nor is it a single movement of a sonata, because most keep a complete movement layout.
 
 ```audiolab

@@ -48,7 +48,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Voice Oohs","synth":"bowed","phrase":["A4","B4","C5","B4","A4","G4","F4","E4"],"label":"单声歌曲：一个声音在前面","label_en":"Monody: one voice at the front","hint":"听人声如何自由拐弯，伴奏只在下面托住和声","hint_en":"Hear the voice turn freely while the accompaniment only holds the harmony below"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:baroque]]，与[[glossary:aria]]、[[glossary:madrigal]]和[[instrument:voice]]相连。
 :::
@@ -76,7 +76,7 @@ Begin with Caccini's Al fonte al prato, where the voice moves freely over simple
 {"type": "instrument", "gm": "Voice Oohs", "synth": "bowed", "phrase": ["A4", "B4", "C5", "B4", "A4", "G4", "F4", "E4"], "label": "Monody: one voice at the front", "label_en": "Monody: one voice at the front", "hint": "听人声如何自由拐弯，伴奏只在下面托住和声", "hint_en": "Hear the voice turn freely while the accompaniment only holds the harmony below"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:baroque]] and connects [[glossary:aria]], [[glossary:madrigal]] and [[instrument:voice]].
 :::

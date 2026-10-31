@@ -27,23 +27,23 @@ updated: 2026-10-30
 ::: zh
 圣咏原本是教堂里代代相传的唱法，1903年之后它有了版本、方法和考试，也就有了对错。
 
-## 时间与地点
+## 时间，与当时的地点
 
 1903年11月22日，罗马。教皇庇护十世发布通谕《在关怀之中》，同年索莱姆修道院已经用半个多世纪整理手稿，1889年起出版《音乐古谱》影印与论文。
 
-## 发生了什么
+## 事情经过
 
 1830年代起，法国索莱姆修道院重整本笃会礼仪与圣咏。莫克罗修士用中世纪手稿的影印与比较，重建旋律的读法，并提出以文字重音与grouping为基础的分句方式。1903年的通谕规定教会音乐以圣咏与复调为典范，索莱姆的版本由此获得准官方地位，随后编成《罗马升阶经》一类的礼仪用书。这套方法把等时值的音符、ictus与分句写成可教的规则。
 
-## 改变了什么
+## 改写了什么
 
 圣咏从各地堂区的习惯，变成有权威版本、有教学法、可以考试的曲目。它同时进入两个轨道，礼仪的轨道与学术音乐的轨道。音乐学院开设圣咏课，作曲家把圣咏当作素材，唱片目录开始区分索莱姆式与其他的唱法。教会与学术之间的这条通道，后来成为古乐运动处理其他曲目的模板。1960年代礼仪改革后，拉丁圣咏在堂区退场，却在唱片与古乐运动里留下来。围绕节奏的争论也没有停，20世纪后期的符号学重新质疑等时值读法。这类争论让圣咏始终处在学术与信仰之间。
 
-## 听这个转折
+## 听一段转折
 
 先听赞美诗《Come Ye Souls by Sin Afflicted》，圣咏式的旋律被四部和声包住，那是圣咏进入日常歌唱的样子。再听维多利亚的《圣体颂》，圣咏旋律在次中音声部慢慢走动，其他声部围绕它。最后听雷斯皮基的前奏曲，圣咏变成钢琴上的和声实验。三首都不是礼仪现场，却能听出圣咏离开教堂之后去了哪里。
 
-## 相关
+## 接着读
 
 这条转折属于[[period:medieval]]，连接格里高利圣咏、[[glossary:mode]]与弥撒曲。
 
@@ -55,15 +55,15 @@ updated: 2026-10-30
 ::: en
 Chant was once a way of singing handed down in churches. After 1903 it had editions, a method and examinations, and therefore a right and a wrong.
 
-## Time and place
+## When, and where
 
 Rome, 22 November 1903. Pius X issued the motu proprio Tra le sollecitudini, while the abbey of Solesmes had already spent half a century on manuscripts and had been publishing facsimiles and studies in the Paleographie musicale since 1889.
 
-## What happened
+## The sequence of events
 
 From the 1830s the French abbey of Solesmes worked to restore Benedictine liturgy and chant. Dom Mocquereau used facsimiles and comparison of medieval manuscripts to reconstruct how the melodies should be read, and proposed phrasing based on word accent and grouping. The 1903 document made chant and polyphony the models for church music, gave the Solesmes books quasi-official standing, and led to liturgical editions such as the Roman Gradual. The method turned equal note values, the ictus and phrasing into rules that could be taught.
 
-## What changed
+## What it rewrote
 
 Chant moved from local parish habit to an authorised repertoire with a pedagogy and examinations. It entered two tracks at once, liturgical and scholarly-musical. Conservatories opened chant classes, composers treated chant as material, and record catalogues began to distinguish the Solesmes manner from other ways of singing. After the liturgical reforms of the 1960s Latin chant withdrew from parishes but survived on record and in the early music movement. The argument over rhythm did not end either; later semiology questioned the equal-value reading.
 
@@ -71,7 +71,7 @@ Chant moved from local parish habit to an authorised repertoire with a pedagogy 
 
 Begin with the hymn Come Ye Souls by Sin Afflicted, where a chant-like melody is wrapped in four-part harmony, the sound of chant entering ordinary singing. Then Victoria's Pange lingua, where the chant moves slowly in a middle voice while the others gather around it. Finally Respighi's preludes, where chant becomes a harmonic experiment at the piano. None is a liturgical recording, yet each shows where chant went after leaving the church.
 
-## Related
+## Read next
 
 This turn belongs to [[period:medieval]] and connects 格里高利圣咏, [[glossary:mode]] and 弥撒曲.
 

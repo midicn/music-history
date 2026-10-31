@@ -27,23 +27,23 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 一个人的来历
 
 谢尔盖·普罗科菲耶夫（1891–1953）是俄罗斯与苏联作曲家、钢琴家，圣彼得堡音乐学院出身。他早年以“未来主义”姿态闯荡，革命后旅居欧美，1936 年回国，晚年与苏联体制关系复杂。他既是国际现代主义者，也是苏联官方认可的交响曲与歌剧作者。
 
-## 时代与位置
+## 他所在的时代
 
 他是二十世纪现代主义中最具舞台感的一位。《古典交响曲》回望海顿，《罗密欧与朱丽叶》写芭蕾，《亚历山大·涅夫斯基》写电影与康塔塔。他既能写讽刺的进行曲，也能写极长的抒情旋律。他的风格是讽刺、抒情与史诗三种面孔的轮换。
 
-## 听什么
+## 先听这三首
 
 先听节奏，机械般的重复、突然的重音与调性跳转让音乐像机器在跳舞。再听旋律，他的抒情主题往往跨度很大，从一个音区跃到另一个音区。听钢琴奏鸣曲时注意敲击性的和弦与托卡塔式跑动。最后听配器，木管与铜管常被当作漫画角色，一开口就带表情。
 
-## 代表作
+## 作品与写法
 
 《古典交响曲》；《罗密欧与朱丽叶》；《彼得与狼》；《亚历山大·涅夫斯基》；第六、第七、第八钢琴奏鸣曲；《战争与和平》。
 
-## 影响
+## 留下的痕迹
 
 他让芭蕾、电影与儿童音乐都拥有现代主义的硬度，也让“讽刺”成为严肃音乐合法的一部分。后来的肖斯塔科维奇、电影配乐与音乐剧都受益于他的节奏与配器。他证明了现代音乐不必拒人千里，也可以像舞台动作一样直接。
 
@@ -53,7 +53,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Life
 
 Sergei Prokofiev (1891–1953) was a Russian and Soviet composer and pianist trained at the Saint Petersburg Conservatory. He burst out as a musical futurist, lived in the West after the Revolution, returned to the USSR in 1936, and spent his last years in a complicated relationship with the Soviet state. He was both an international modernist and an officially recognised Soviet writer of symphonies and operas.
 
@@ -69,7 +69,7 @@ Start with rhythm: mechanical repetition, sudden accents and key shifts make the
 
 Classical Symphony; Romeo and Juliet; Peter and the Wolf; Alexander Nevsky; Piano Sonatas Nos. 6, 7 and 8; War and Peace.
 
-## Influence
+## Influence and misreadings
 
 He gave ballet, film and children's music a modernist edge and made irony a legitimate part of serious music. Shostakovich, film composers and musical theatre all learned from his rhythm and orchestration. He proved that modern music need not keep listeners at a distance; it can hit like a stage gesture.
 

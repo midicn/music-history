@@ -27,19 +27,19 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 时间与地点
+## 时间，与当时的地点
 
 1820年，伦敦，施波尔在爱乐协会的音乐会上举起一根细木棒。1835年，门德尔松在莱比锡布商大厦用同样的方式排练，指挥的位置从此固定在乐队前方。
 
-## 发生了什么
+## 先看经过
 
 在此之前，乐队由羽管键琴手或首席小提琴带领，速度靠手势、琴弓或跺脚传递，人多、声部复杂时很难整齐。指挥棒把拍子变成看得见的线条，也让一个人在排练中要求力度、句法与平衡。柏辽兹在1840年代的著作里讨论指挥，瓦格纳1876年在拜罗伊特把乐队藏进乐池，让观众只看舞台。
 
-## 改变了什么
+## 留下的变化
 
 指挥从打拍子的人变成诠释者。一个晚上由一个耳朵负责，速度、层次与音色被统一意志塑造；总谱成为需要研读的对象，排练制度、客席指挥与指挥明星随之出现。乐队规模继续扩大，没有指挥的大型乐团越来越难维持。
 
-## 听这个转折
+## 听一段转折
 
 门德尔松《赫布里底群岛》序曲把海浪写成主题的起伏，靠的是指挥对速度与配器的微调；柏辽兹《安魂曲》用庞大的合唱与铜管占据空间，需要一个人把几组乐手扣在一起；瓦格纳《特里斯坦与伊索尔德》的长时间悬置，更依赖指挥守住和声的呼吸。
 
@@ -47,25 +47,25 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Timpani","synth":"struck","phrase":["C3","G3","C3","G3"],"label":"指挥给出的第一拍","label_en":"The conductor's first beat","hint":"听定音鼓把拍点钉住，想象整支乐队等这一下才进入","hint_en":"Hear the timpani pin the beat, and imagine the whole orchestra waiting for it"}
 ```
 
-## 相关
+## 接着读
 
 这条转折属于 [[period:romantic]]，总谱见 [[glossary:score]]，速度见 [[glossary:tempo]]，排练见 [[glossary:rehearsal-mark]]。
 :::
 
 ::: en
-## Time and place
+## When, and where
 
 London, 1820: Louis Spohr raised a thin wooden stick at a Philharmonic Society concert. In 1835 Mendelssohn rehearsed the same way at the Leipzig Gewandhaus, and the conductor's podium settled in front of the orchestra.
 
-## What happened
+## First, the event
 
 Before this, ensembles were led by a harpsichordist or a concertmaster, with tempo passed by gesture, bow or foot. With many players and busy parts, coordination was difficult. The baton made the beat a visible line and let one person demand dynamics, phrasing and balance in rehearsal. Berlioz discussed conducting in his writings of the 1840s, and Wagner hid the orchestra in the pit at Bayreuth in 1876, leaving the audience to watch the stage.
 
-## What changed
+## What it left behind
 
 The conductor changed from a time-beater into an interpreter. One ear took charge of the evening, shaping tempo, layers and colour into a single will. The full score became a text to study, and rehearsal systems, guest conductors and conducting stars followed. Orchestras kept growing, and a large orchestra without a conductor became increasingly hard to sustain.
 
-## Listen to the turn
+## Hear the turn
 
 Mendelssohn's Hebrides Overture turns the sea into the rise and fall of a theme, held together by small adjustments of tempo and scoring. Berlioz's Requiem fills space with huge choirs and brass, and needs one person to lock several groups together. The long suspensions of Wagner's Tristan und Isolde depend even more on a conductor who can sustain the harmony's breath.
 
@@ -73,7 +73,7 @@ Mendelssohn's Hebrides Overture turns the sea into the rise and fall of a theme,
 {"type": "instrument", "gm": "Timpani", "synth": "struck", "phrase": ["C3", "G3", "C3", "G3"], "label": "The conductor's first beat", "label_en": "The conductor's first beat", "hint": "听定音鼓把拍点钉住，想象整支乐队等这一下才进入", "hint_en": "Hear the timpani pin the beat, and imagine the whole orchestra waiting for it"}
 ```
 
-## Related
+## Read next
 
 This turn belongs to [[period:romantic]]; see [[glossary:score]], [[glossary:tempo]] and [[glossary:rehearsal-mark]].
 :::

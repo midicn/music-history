@@ -27,7 +27,7 @@ updated: 2026-10-30
 ---
 
 ::: zh
-## 他是谁
+## 出身与师承
 
 **约翰·帕赫贝尔**（1653–1706）是巴洛克中期的德国管风琴师与作曲家。他生于纽伦堡，青年时期在维也纳的圣斯蒂芬教堂任副管风琴师，之后在爱森纳赫、埃尔福特、斯图加特、哥达等地任职，1695 年回到纽伦堡，任圣塞巴尔德教堂管风琴师直到去世。他写管风琴曲、键盘变奏曲、众赞歌前奏曲与室内乐，也教过巴赫家族的人。
 
@@ -35,18 +35,18 @@ updated: 2026-10-30
 
 他属于南德管风琴传统，与北德的布克斯特胡德形成对照。北德的风格偏爱自由即兴与大型踏板技巧，南德更重视众赞歌旋律的清晰与变奏的秩序。帕赫贝尔把众赞歌前奏曲写成一种可以教学、可以模仿的定型，后来的巴赫在这条线上继续工作。他的键盘变奏集《阿波罗的六弦琴》在 1699 年出版，是当时少见的印刷品。
 
-## 听什么
+## 先听什么
 
 先听**固定低音**。《D 大调卡农》的低音只有八个音，反复了二十多次，高音每次换一层，低音始终不动，这就是卡农与固定低音的结合。再听**变奏的顺序**。夏空的和声框架不变，右手从简单音型逐段加厚，听密度如何累积。最后听**圣咏的位置**。众赞歌前奏曲里，熟悉的旋律通常放在高声部并被拉长，其余声部围着它做短句，歌词的意思由这些短句解释。
 
-## 代表作
+## 作品与写法
 
 - 《D 大调卡农与吉格》P.37
 - 《f 小调夏空》P.43
 - 键盘变奏集《Hexachordum Apollinis》（1699）
 - 《圣母颂歌赋格》约九十五首、众赞歌前奏曲《Werde munter, mein Gemüte》P.498
 
-## 影响
+## 影响与误读
 
 他的众赞歌前奏曲是巴赫之前最完整的一套样板。巴赫的哥哥约翰·克里斯托夫曾随他学习，巴赫本人也抄过他的作品。二十世纪以后，《D 大调卡农》成为流行文化里最常被引用的古典片段之一，但那只占他作品的一小部分，其余大量管风琴音乐才是他的主业。
 
@@ -56,7 +56,7 @@ updated: 2026-10-30
 :::
 
 ::: en
-## Who he was
+## Training and teachers
 
 **Johann Pachelbel** (1653–1706) was a German organist and composer of the middle Baroque. He was born in Nuremberg, worked as deputy organist at St Stephen's in Vienna in his twenties, then held posts in Eisenach, Erfurt, Stuttgart and Gotha, and returned to Nuremberg in 1695 as organist of St Sebaldus, where he stayed until his death. He wrote organ music, keyboard variations, chorale preludes and chamber works, and taught members of the Bach family.
 
@@ -64,18 +64,18 @@ updated: 2026-10-30
 
 He belongs to the south German organ tradition and works as a counterweight to Buxtehude in the north. The northern style favours free improvisation and heavy pedal technique, while the south cares more for a clear chorale melody and an orderly set of variations. Pachelbel turned the chorale prelude into a repeatable, teachable type, and Bach later continued on that line. His variation set Hexachordum Apollinis appeared in print in 1699, unusual for keyboard music at the time.
 
-## What to hear
+## Where to start
 
 Listen first for **the ground bass**. The bass of the Canon in D uses eight notes and repeats more than twenty times while the upper parts change layer by layer, which is canon over a ground. Then listen for **the order of the variations**. The harmonic frame of the chaconne never moves, and the right hand thickens from simple figures to fuller ones, so you can hear density accumulate. Finally listen for **where the chorale sits**. In a chorale prelude the familiar tune is usually in the top voice and stretched out, while the other parts answer it in short phrases that comment on the words.
 
-## Key works
+## Works and craft
 
 - Canon and Gigue in D, P. 37
 - Chaconne in F minor, P. 43
 - Hexachordum Apollinis (1699), keyboard variations
 - Magnificat fugues, about ninety-five, and the chorale prelude Werde munter, mein Gemüte, P. 498
 
-## Influence
+## Influence and misreadings
 
 His chorale preludes are the most complete set of models before Bach. Bach's elder brother Johann Christoph studied with him, and Bach himself copied his music. Since the twentieth century the Canon in D has become one of the most quoted classical pieces in popular culture, but it is a small part of his output; the large body of organ music is the main work.
 

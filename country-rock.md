@@ -28,7 +28,7 @@ updated: 2026-10-28
 ::: zh
 乡村摇滚把乡村的拨弦、和声与叙事，装进摇滚鼓组与电吉他。
 
-## 起源与年代
+## 年代与地点
 1960 年代中后期，洛杉矶的飞鸟乐队把乡村歌曲放进摇滚编制，飞行卷饼兄弟与 Gram Parsons 随后做得更彻底。1970 年代老鹰乐队把它送进排行榜。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-28
 ## 代表人物
 Gram Parsons 把乡村的真诚带进摇滚，飞鸟乐队用十二弦吉他与和声定下模板，老鹰乐队把旋律与制作做得更亮。Emmylou Harris 与 Linda Ronstadt 从乡村一侧进入这个交叉。
 
-## 谱系
+## 前后脉络
 上承乡村音乐、民谣摇滚与 1960 年代洛杉矶录音工艺，下接美式传统音乐、另类乡村与 1990 年代乡村流行；它让两种听众共享同一张唱片。
 
 ## 常见误解
@@ -51,7 +51,7 @@ Gram Parsons 把乡村的真诚带进摇滚，飞鸟乐队用十二弦吉他与�
 ::: en
 Country rock fits country picking, harmony and storytelling into a rock drum kit and electric guitar.
 
-## Origins and era
+## Era and place
 In the mid-to-late 1960s the Byrds put country songs into a rock line-up in Los Angeles, and the Flying Burrito Brothers and Gram Parsons pushed the blend further. In the 1970s the Eagles took it to the charts and brought Nashville and Los Angeles studios closer.
 
 ## What you hear
@@ -60,7 +60,7 @@ Listen to the drums: snare on two and four, kick and bass on one and three, like
 ## Key figures
 Gram Parsons brought country sincerity into rock, the Byrds set the template with twelve-string guitar and harmony, and the Eagles made melody and production brighter. Emmylou Harris and Linda Ronstadt entered the crossing from the country side.
 
-## Lineage
+## Lines before and after
 Country music, folk rock and 1960s Los Angeles studio craft feed in; Americana, alt-country and 1990s country pop come out. Two audiences began to share one record.
 
 ## Common misunderstandings

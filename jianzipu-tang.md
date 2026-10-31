@@ -48,7 +48,7 @@ updated: 2026-10-30
 {"type":"instrument","gm":"Koto","synth":"plucked","phrase":["C4","D4","E4","G4","A4","G4","E4","D4","C4"],"label":"五声骨架与按音","label_en":"A pentatonic frame with stopped notes","hint":"古琴无 GM 音色，用筝代替；听五声旋律落在哪几个音上","hint_en":"No GM guqin exists, so a koto stands in; hear where the pentatonic line lands"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折的乐器见[[instrument:guqin]]，术语见[[glossary:jianzipu]]与[[glossary:dapu]]，可对照[[glossary:gongchepu]]。
 
@@ -77,7 +77,7 @@ The catalogue holds no guqin recording, so these three folk melodies stand in fo
 {"type": "instrument", "gm": "Koto", "synth": "plucked", "phrase": ["C4", "D4", "E4", "G4", "A4", "G4", "E4", "D4", "C4"], "label": "A pentatonic frame with stopped notes", "label_en": "A pentatonic frame with stopped notes", "hint": "古琴无 GM 音色，用筝代替；听五声旋律落在哪几个音上", "hint_en": "No GM guqin exists, so a koto stands in; hear where the pentatonic line lands"}
 ```
 
-## Related
+## Related entries
 
 The instrument is [[instrument:guqin]]; see [[glossary:jianzipu]] and [[glossary:dapu]], and compare [[glossary:gongchepu]].
 

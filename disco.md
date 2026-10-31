@@ -29,7 +29,7 @@ updated: 2026-10-28
 ::: zh
 迪斯科用每拍落地的底鼓、反拍开镲与弦乐，把舞池变成一台持续上升的编曲机器。
 
-## 起源与年代
+## 年代与地点
 1970 年代初，纽约与费城的俱乐部把灵魂乐、放克与拉丁节奏拼成连续的舞曲。1977 年《Saturday Night Fever》把迪斯科推向全球。1979 年的反迪斯科浪潮之后，它的四拍与合成器低音进入浩室与流行舞曲。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-28
 ## 代表人物
 唐娜·萨默把长段舞曲与人声结合，比吉斯用假声与弦乐写出电影配乐式的迪斯科。乔治·莫罗德是制作与合成器的关键，奇克与尼尔·罗杰斯把吉他放克带进舞池。
 
-## 谱系
+## 前后脉络
 上承灵魂乐、放克与费城灵魂，下接浩室、合成器流行与舞曲流行；它的四拍低音也进入后来的电子舞曲。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-28
 ::: en
 Disco uses a kick on every beat, open hi-hat on the offbeats and strings to turn the dance floor into a machine that keeps lifting.
 
-## Origins and era
+## Era and place
 In the early 1970s New York and Philadelphia clubs stitched soul, funk and Latin rhythm into continuous dance music. In 1977 Saturday Night Fever took disco global. After the 1979 backlash, its four-beat pulse and synth bass entered house.
 
 ## What you hear
@@ -61,7 +61,7 @@ Start with the kick, landing on all four beats, with open hi-hat on the offbeats
 ## Key figures
 Donna Summer joined long dance tracks to a powerful voice, and the Bee Gees wrote film-style disco with falsetto and strings. Giorgio Moroder was key to production and synthesizers, while Chic's Nile Rodgers brought funk guitar to the floor.
 
-## Lineage
+## Lines before and after
 Soul, funk and Philadelphia soul feed in; house, synth-pop and dance-pop come out. Its four-beat bass also enters later electronic dance music.
 
 ## Common misunderstandings

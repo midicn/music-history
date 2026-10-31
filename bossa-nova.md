@@ -29,7 +29,7 @@ updated: 2026-10-28
 ::: zh
 波萨诺瓦在 1950 年代末的里约把桑巴的切分收小，换成轻声的人声、尼龙弦吉他和室内的音量。
 
-## 起源与年代
+## 年代与地点
 1958 年 João Gilberto 录下《Chega de Saudade》，1959 年的同名专辑把这种新唱法定型；歌由 Antônio Carlos Jobim 与 Vinicius de Moraes 写，Gilberto 用极轻的嗓音和吉他 batida 把它唱成一种风格。Nara Leão、Carlos Lyra、Roberto Menescal 等人在里约的公寓与俱乐部里推广它。1960 年代，Stan Getz 与 Gilberto、Jobim 的合作让波萨诺瓦进入美国。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-28
 ## 代表人物
 Jobim 写下大量核心曲目并把和声写得像印象派，João Gilberto 定义了吉他 batida 与轻声唱法，Vinicius de Moraes 提供歌词与剧场感。Stan Getz 把波萨诺瓦带进美国爵士榜，Astrud Gilberto 的《The Girl from Ipanema》让这种轻声唱法传遍世界；Sérgio Mendes 后来把它推向流行。
 
-## 谱系
+## 前后脉络
 上承桑巴、 cool jazz 与巴西歌曲传统，下接 MPB、爵士波萨诺瓦、lounge 与当代巴西流行；它和拉丁爵士共享和声，但重心在歌与吉他。
 
 ## 常见误解
@@ -52,7 +52,7 @@ Jobim 写下大量核心曲目并把和声写得像印象派，João Gilberto �
 ::: en
 Bossa nova scaled samba down in late-1950s Rio, replacing the drum battery with a soft voice, nylon-string guitar and intimate volume.
 
-## Origins and era
+## Era and place
 In 1958 João Gilberto recorded Chega de Saudade, and the 1959 album of that name fixed the style. Jobim and Vinicius de Moraes wrote it; Gilberto sang with a light voice and a guitar batida. Nara Leão, Carlos Lyra and Roberto Menescal promoted it in Rio, and in the 1960s Stan Getz's work with Gilberto and Jobim carried it to the United States.
 
 ## What you hear
@@ -61,7 +61,7 @@ The guitar does not strum: thumb and fingers split the batida into bass, chord a
 ## Key figures
 Jobim wrote the core repertoire with impressionist harmony; João Gilberto defined the guitar batida and the soft delivery; Vinicius de Moraes supplied lyrics and theatrical flair. Stan Getz brought bossa nova to the US jazz charts, and Astrud Gilberto's The Girl from Ipanema made the quiet voice global.
 
-## Lineage
+## Lines before and after
 Samba, cool jazz and the Brazilian song tradition feed in; MPB, jazz bossa, lounge and Brazilian pop come out. It shares harmony with Latin jazz but centres on song and guitar.
 
 ## Common misunderstandings

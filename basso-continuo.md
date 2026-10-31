@@ -48,7 +48,7 @@ updated: 2026-10-28
 {"type":"instrument","gm":"Harpsichord","synth":"plucked","phrase":["C3","G3","C4","E4","G4","E4","C4"],"label":"通奏低音：低音线决定和声","label_en":"Continuo: the bass line decides the harmony","hint":"先跟最低的音，再听上方和弦如何由它推出来","hint_en":"Follow the lowest line first, then hear how the chords above are derived from it"}
 ```
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:baroque]]，连接[[glossary:concerto-grosso]]、[[instrument:harpsichord]]与[[instrument:cello]]。
 :::
@@ -76,7 +76,7 @@ Begin with Corelli's trio sonata, where an independent bass runs under two upper
 {"type": "instrument", "gm": "Harpsichord", "synth": "plucked", "phrase": ["C3", "G3", "C4", "E4", "G4", "E4", "C4"], "label": "Continuo: the bass line decides the harmony", "label_en": "Continuo: the bass line decides the harmony", "hint": "先跟最低的音，再听上方和弦如何由它推出来", "hint_en": "Follow the lowest line first, then hear how the chords above are derived from it"}
 ```
 
-## Related
+## Related entries
 
 This turn belongs to [[period:baroque]] and connects [[glossary:concerto-grosso]], [[instrument:harpsichord]] and [[instrument:cello]].
 :::

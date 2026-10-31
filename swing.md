@@ -29,7 +29,7 @@ updated: 2026-10-28
 ::: zh
 摇摆既是 1930 年代大乐队的风格，也是一种节奏感觉。四拍被骑镲与低音连成一条线，八分音符不平均，音乐像在向前荡。
 
-## 起源与年代
+## 年代与地点
 1920 年代，纽约的弗莱彻·亨德森与艾灵顿公爵把舞曲乐队分成铜管、簧管与节奏。1935 年本尼·古德曼在帕洛玛舞厅的演出常被当作摇摆时代开始的标志，广播与舞厅把它推向全美。1940 年代中期，大乐队难以为继，小型比波普乐队接手。
 
 ## 听辨特征
@@ -38,7 +38,7 @@ updated: 2026-10-28
 ## 代表人物
 艾灵顿公爵把和声与音色写成乐队的声音，贝西伯爵依靠 riff 与布鲁斯摇摆。弗莱彻·亨德森提供早期编曲模板，本尼·古德曼把单簧管与乐队推上流行榜。莱斯特·扬与霍金斯的萨克斯独奏重写了旋律的呼吸。
 
-## 谱系
+## 前后脉络
 上承新奥尔良与芝加哥爵士，下接比波普、节奏布鲁斯与后来的大乐队复兴；摇摆也从风格名变成一种节奏形容词。
 
 ## 常见误解
@@ -52,7 +52,7 @@ updated: 2026-10-28
 ::: en
 Swing is both a big-band style of the 1930s and a feeling in the rhythm. Four beats are joined by the ride cymbal and bass, eighth notes are uneven, and the music seems to rock forward.
 
-## Origins and era
+## Era and place
 In the 1920s Fletcher Henderson and Duke Ellington divided dance bands into brass, reeds and rhythm. Benny Goodman's 1935 appearance at the Palomar Ballroom is often taken as the start of the swing era, and radio, records and ballrooms carried it across America. By the mid-1940s big bands were too costly to keep, and small bebop groups took over.
 
 ## What you hear
@@ -61,7 +61,7 @@ Follow the ride cymbal first, its ding-ding-da pattern cutting four beats into a
 ## Key figures
 Duke Ellington wrote harmony and colour into the band's sound, Count Basie swung on riffs and blues. Fletcher Henderson supplied early arranging models, Benny Goodman took clarinet and band to the pop charts. Lester Young and Coleman Hawkins rewrote the breathing of saxophone melody.
 
-## Lineage
+## Lines before and after
 New Orleans and Chicago jazz feed in; bebop, rhythm and blues and later big-band revivals come out. Swing also became a word for a rhythmic feel, not only an era.
 
 ## Common misunderstandings

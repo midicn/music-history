@@ -28,7 +28,7 @@ updated: 2026-10-30
 ::: zh
 桶馆钢琴是 19 世纪末到 20 世纪初美国南方酒馆里的钢琴风格。它比拉格泰姆粗，比布吉伍吉松，演奏者要和醉客、噪声与走音的琴一起工作。
 
-## 起源与年代
+## 年代与地点
 “barrelhouse”原本指卖桶装烈酒的场所，多出现在伐木场、堤坝工地与松脂营地附近，时间从 1880 年代延续到 1910 年代。那里摆一台钢琴，谁都能弹，音乐以舞曲和布鲁斯为主。新奥尔良、孟菲斯与圣路易斯是几个重要节点，1920 年代唱片工业把其中一部分录成“钢琴布鲁斯”，桶馆才从场所变成风格名。
 
 ## 听辨特征
@@ -37,7 +37,7 @@ updated: 2026-10-30
 ## 代表人物
 杰利·罗尔·莫顿把新奥尔良的钢琴语汇带进谱面与唱片，考考·达文波特 1928 年的《Cow Cow Blues》留下桶馆式的左手与说唱。斯佩克尔德·雷德的《The Dirty Dozens》把粗话与布鲁斯放进同一首曲，小兄弟蒙哥马利与罗斯福·赛克斯把这种钢琴带进 1930 年代之后的芝加哥。
 
-## 谱系
+## 前后脉络
 它从种植园后的舞曲、拉格泰姆与布鲁斯歌曲里长出来，往下直接催生布吉伍吉，也进入芝加哥布鲁斯的钢琴声部。它与跨步钢琴都让左手大跳，但跨步服务于城市流行歌曲，桶馆服务于酒馆里的舞蹈与喊唱。
 
 ## 常见误解
@@ -51,7 +51,7 @@ updated: 2026-10-30
 ::: en
 Barrelhouse piano is the piano style of Southern American drinking places in the late nineteenth and early twentieth centuries. Rougher than ragtime and looser than boogie-woogie, it was played against drunk customers, noise and pianos that had not been tuned in years.
 
-## Origins and era
+## Era and place
 "Barrelhouse" first meant a place selling liquor from barrels, usually near logging camps, levee works and turpentine camps, from the 1880s into the 1910s. A piano stood there for anyone to play, and the music was mostly dance tunes and blues. New Orleans, Memphis and St. Louis were key points, and in the 1920s the record industry turned part of this into "piano blues", after which the place name became a style label.
 
 ## What you hear
@@ -60,7 +60,7 @@ The left hand often hammers octaves or fifths on the strong beats while the righ
 ## Key figures
 Jelly Roll Morton brought New Orleans piano language onto paper and records, Cow Cow Davenport's 1928 Cow Cow Blues left a barrelhouse left hand and spoken patter, and Speckled Red's The Dirty Dozens put rough talk and blues in one song. Little Brother Montgomery and Roosevelt Sykes carried the piano into Chicago after the 1930s.
 
-## Lineage
+## Lines before and after
 It grew from post-plantation dance music, ragtime and blues songs, and led directly to boogie-woogie and to the piano chair in Chicago blues. It shares leaping left hands with stride, but stride serves urban popular song while barrelhouse serves dance and shouting in a bar.
 
 ## Common misunderstandings

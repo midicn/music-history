@@ -26,23 +26,23 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 一个人的来历
 
 贝拉·巴托克（1881–1945）是匈牙利作曲家、钢琴家与民族音乐学家。他与柯达伊一起深入乡村录音，收集匈牙利、罗马尼亚、斯洛伐克与保加利亚民歌，并把这套材料变成自己的作曲语言。他晚年流亡美国，在贫困与病痛中写下《乐队协奏曲》。
 
-## 时代与位置
+## 他所在的时代
 
 他属于二十世纪现代主义，却不是“国际风格”的追随者。民间音乐的节奏、音阶与装饰音，是他对抗德奥半音体系的方法。他的六首弦乐四重奏横跨三十年，从晚期浪漫主义走向高度集中的个人语言。他既是学者，也是把田野材料推回音乐厅的作曲家。
 
-## 听什么
+## 先听这三首
 
 先听节拍，不对称的拍号、切分与重音移位，让音乐像舞蹈又像说话。再听音阶，五声、全音与民间调式混用，旋律常围绕一个中心音旋转。听“夜间音乐”时注意虫鸣般的音型与突然的静默。最后听弦乐四重奏，拨奏、滑音与打击式的弓法把四件乐器变成一组打击乐。
 
-## 代表作
+## 作品与写法
 
 《罗马尼亚民间舞曲》；《小宇宙》；《为弦乐、打击乐与钢片琴而作》；《乐队协奏曲》；六首弦乐四重奏；《蓝胡子公爵的城堡》。
 
-## 影响
+## 留下的痕迹
 
 他证明民间音乐不是装饰，而是结构原则。后来的利盖蒂、库塔格与无数东欧作曲家，都从他那里学会如何把田野录音变成现代形式。他让“民族性”不再是地方色彩，而是一种可以普遍使用的作曲方法。
 
@@ -52,7 +52,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Life
 
 Béla Bartók (1881–1945) was a Hungarian composer, pianist and ethnomusicologist. With Zoltán Kodály he recorded songs in villages across Hungary, Romania, Slovakia and Bulgaria, and turned that material into the substance of his own music. He spent his last years in American exile, writing the Concerto for Orchestra in poverty and illness.
 
@@ -68,7 +68,7 @@ Begin with metre: asymmetrical bars, syncopation and shifted accents make the mu
 
 Romanian Folk Dances; Mikrokosmos; Music for Strings, Percussion and Celesta; Concerto for Orchestra; six string quartets; Bluebeard's Castle.
 
-## Influence
+## Influence and misreadings
 
 He showed that folk music could be a structural principle rather than decoration. Ligeti, Kurtág and generations of Eastern European composers learned from him how field recordings become modern form. He made nationality something more than local colour: a compositional method available to everyone.
 

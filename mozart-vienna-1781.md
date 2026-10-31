@@ -42,7 +42,7 @@ updated: 2026-10-30
 
 先听《后宫诱逃》的序曲与咏叹调，土耳其鼓点与德语对白把歌剧从宫廷包厢推向市民剧场。再听K.465的慢引子，半音的不协和在1785年仍然让人不安，随后被清楚的快板化解。最后听第二十一钢琴协奏曲的第二乐章，钢琴与乐队像在低声交谈。三首都是维也纳头五年里为具体场合写的，场合本身就是新的。
 
-## 相关
+## 相关条目
 
 这条转折属于[[period:classical]]，连接莫扎特、从教堂乐师到自由艺术家与公共音乐会兴起。
 
@@ -70,7 +70,7 @@ For the first time a musician made a living in a city as a freelance, paid by pu
 
 Begin with the overture and arias of Die Entführung, where Turkish percussion and German dialogue push opera out of the court box and into the city theatre. Then the slow introduction of the Quartet K. 465, where chromatic dissonance still unsettles in 1785 before a clear allegro resolves it. Finally the slow movement of the Piano Concerto No. 21, where piano and orchestra converse in an undertone. All three were written for particular occasions in the first five Vienna years, and the occasions themselves were new.
 
-## Related
+## Related entries
 
 This turn belongs to [[period:classical]] and connects 莫扎特, 从教堂乐师到自由艺术家 and 公共音乐会兴起.
 

@@ -27,28 +27,28 @@ updated: 2026-10-28
 ---
 
 ::: zh
-## 他是谁
+## 出身与师承
 
 **费利克斯·门德尔松**（1809–1847）出生于汉堡，活跃于莱比锡，是作曲家、指挥家与钢琴家。他 1829 年指挥《马太受难曲》的复兴演出，让巴赫重新进入公众视野；他创办莱比锡音乐学院，也写作交响曲、协奏曲、室内乐与钢琴曲。
 
 ## 时代与位置
 
-门德尔松身处**浪漫主义**，却带着强烈的**古典倾向**：结构清晰、比例均衡、情感克制。他不像柏辽兹或李斯特那样追求标题与极端，而是在古典形式里寻找**精致与透明**。**他是「浪漫主义里的古典主义者」。**
+门德尔松身处**浪漫主义**，却带着强烈的**古典倾向**：结构清晰、比例均衡、情感克制。他不像柏辽兹或李斯特那样追求标题与极端，而是在古典形式里寻找**精致与透明**。他是「浪漫主义里的古典主义者」。
 
-## 听什么
+## 先听什么
 
-先听**轻盈与精确**：门德尔松的谐谑曲像精灵，速度极快但节奏清楚。再听**歌唱性**：《无词歌》没有歌词，却像艺术歌曲一样呼吸。最后听**结构感**：他的音乐听起来自然，背后是严格的比例与过渡。
+先听轻盈与精确：门德尔松的谐谑曲像精灵，速度极快但节奏清楚。再听歌唱性：《无词歌》没有歌词，却像艺术歌曲一样呼吸。最后听结构感：他的音乐听起来自然，背后是严格的比例与过渡。
 
-## 代表作
+## 作品与写法
 
 - 管弦乐：《仲夏夜之梦》序曲与配乐、第四《意大利》、第三《苏格兰》
 - 协奏曲：e 小调小提琴协奏曲
 - 钢琴：《无词歌》
 - 宗教音乐：《以利亚》
 
-## 影响
+## 影响与误读
 
-门德尔松之后，**巴赫成为公共曲目**，指挥与音乐学院制度也更成熟；他的小提琴协奏曲至今是最常演出的作品之一。**他证明了浪漫与古典可以不是敌人。**
+门德尔松之后，巴赫成为公共曲目，指挥与音乐学院制度也更成熟；他的小提琴协奏曲至今是最常演出的作品之一。他证明了浪漫与古典可以不是敌人。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["G4","A4","B4","D5","C5","B4","A4"],"label":"门德尔松：精灵的速度，古典的清晰","label_en":"Mendelssohn: elfin speed, Classical clarity","hint":"借钢琴近似：听快速音型里的清晰轮廓。门德尔松的轻盈不是模糊，而是每一颗音都被安排好。","hint_en":"A piano stands in: listen for a clear outline inside fast figuration. Mendelssohn's lightness is not blur — every note is placed."}
@@ -56,28 +56,28 @@ updated: 2026-10-28
 :::
 
 ::: en
-## Who he was
+## Training and teachers
 
 **Felix Mendelssohn** (1809–1847) was born in Hamburg and worked in Leipzig as composer, conductor and pianist. His 1829 performance of the St Matthew Passion revived Bach for the public; he founded the Leipzig Conservatory and wrote symphonies, concertos, chamber music and piano works.
 
 ## His place
 
-Mendelssohn lived in **Romanticism** but with a strong **Classical bent**: clear structure, balanced proportion, restrained feeling. Unlike Berlioz or Liszt he did not pursue programmes and extremes; he sought **refinement and transparency** inside Classical forms. **He is a Classical mind inside Romanticism.**
+Mendelssohn lived in **Romanticism** but with a strong **Classical bent**: clear structure, balanced proportion, restrained feeling. Unlike Berlioz or Liszt he did not pursue programmes and extremes; he sought **refinement and transparency** inside Classical forms. He is a Classical mind inside Romanticism.
 
-## What to hear
+## Where to start
 
-Listen first for **lightness and precision**: Mendelssohn's scherzos are elfin, very fast yet rhythmically clear. Then hear **song**: the Songs Without Words have no text but breathe like lieder. Finally hear **structure**: his music sounds natural, but behind it are strict proportions and transitions.
+Listen first for lightness and precision: Mendelssohn's scherzos are elfin, very fast yet rhythmically clear. Then hear song: the Songs Without Words have no text but breathe like lieder. Finally hear structure: his music sounds natural, but behind it are strict proportions and transitions.
 
-## Key works
+## Works and craft
 
 - Orchestral: A Midsummer Night's Dream overture and incidental music; Symphonies Nos. 4 Italian and 3 Scottish
 - Concerto: Violin Concerto in E minor
 - Piano: Songs Without Words
 - Sacred: Elijah
 
-## Influence
+## Influence and misreadings
 
-After Mendelssohn, **Bach became public repertoire**, and conducting and conservatoire institutions matured; his Violin Concerto remains one of the most performed works. **He proved that Romantic and Classical need not be enemies.**
+After Mendelssohn, Bach became public repertoire, and conducting and conservatoire institutions matured; his Violin Concerto remains one of the most performed works. He proved that Romantic and Classical need not be enemies.
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["G4","A4","B4","D5","C5","B4","A4"],"label":"Mendelssohn: elfin speed, Classical clarity","label_en":"Mendelssohn: elfin speed, Classical clarity","hint":"A piano stands in: listen for a clear outline inside fast figuration. Mendelssohn's lightness is not blur — every note is placed.","hint_en":"A piano stands in: listen for a clear outline inside fast figuration. Mendelssohn's lightness is not blur — every note is placed."}
