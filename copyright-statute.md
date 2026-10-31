@@ -20,8 +20,8 @@ instances:
   - pdmx-002017 | 沃尔什在伦敦出版的《水上音乐》，乐谱市场的畅销品
   - pdmx-000625 | 科雷利作品6号1714年在阿姆斯特丹出版，跨境出版网络的一例
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Copyright" — statute dates checked, not quoted
-  - Ronan Deazley, On the Origin of the Right to Copy (Hart, 2004) — Statute of Anne checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Copyright".
+  - Ronan Deazley, On the Origin of the Right to Copy (Hart, 2004).
 updated: 2026-10-28
 ---
 

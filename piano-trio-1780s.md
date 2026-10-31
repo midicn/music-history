@@ -22,8 +22,8 @@ instances:
   - musicnet-000070 | 贝多芬降E大调三重奏，三件乐器同时承担主题，没有谁是伴奏
   - musicnet-000307 | 舒伯特降B大调三重奏的末乐章，篇幅与抒情性逼近交响曲
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Piano trio" — genre development checked, not quoted
-  - Charles Rosen, The Classical Style (W. W. Norton, rev. ed. 1997) — accompanied sonata background checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Piano trio".
+  - Charles Rosen, The Classical Style (W. W. Norton, rev. ed. 1997).
 updated: 2026-10-30
 ---
 

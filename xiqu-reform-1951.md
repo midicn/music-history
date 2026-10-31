@@ -17,8 +17,7 @@ instances:
   - essen-000461 | 无锡《无锡景》，时调填词的叙事小曲，听旧调怎样被填上新内容
   - essen-000050 | 《一盏明灯照北京》，旧调新词的歌唱，接近戏改推陈出新的做法
 sources:
-  - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 戏曲改革条目核对，未引用
-  - Grove Music Online, entry "China, People's Republic of" — theatre reform and troupes checked, not quoted
+  - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）.
 updated: 2026-10-30
 ---
 

@@ -20,8 +20,8 @@ instances:
   - pdmx-000927 | 《图画展览会》中的一段，同一年写成的钢琴套曲，听穆索尔斯基的画面感
   - pdmx-002793 | 《童年回忆》选段，同一作曲家的钢琴语言，和声粗粝、句子短
 sources:
-  - Grove Music Online, entry "Boris Godunov" — versions and premiere checked, not quoted
-  - Richard Taruskin, Mussorgsky, Eight Essays and an Epilogue (Princeton University Press) — text setting checked, not quoted
+  - Grove Music Online, entry "Boris Godunov".
+  - Richard Taruskin, Mussorgsky, Eight Essays and an Epilogue (Princeton University Press).
 updated: 2026-10-28
 ---
 

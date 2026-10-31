@@ -21,8 +21,8 @@ instances:
   - atepp-000898 | 舒伯特《第二十一钢琴奏鸣曲》D.960首乐章，长线条旋律与突然的静默
   - atepp-001401 | 肖邦《第一钢琴奏鸣曲》作品4首乐章，少年之作已显露大型结构的野心
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Sonata" — definitions and dating checked, not quoted
-  - Charles Rosen, Sonata Forms — formal categories checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Sonata".
+  - Charles Rosen, Sonata Forms.
 updated: 2026-10-28
 ---
 

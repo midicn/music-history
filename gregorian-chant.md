@@ -19,8 +19,8 @@ instances:
   - pdmx-002271 | 圣母对经，旋律平稳、终止式回落，是圣咏常用的收束方式
   - pdmx-002777 | 《又圣母经》旋律，音域不宽，重复短句让会众容易跟唱
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Gregorian chant" — background and dating checked, not quoted
-  - Richard Hoppin, Medieval Music (Norton, 1978) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Gregorian chant".
+  - Richard Hoppin, Medieval Music (Norton, 1978).
 updated: 2026-10-28
 ---
 

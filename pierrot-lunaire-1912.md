@@ -20,8 +20,8 @@ instances:
   - giantmidi-001027 | 《五首钢琴小品》Op.23，听无调性怎样靠音色与停顿成形
   - openscore-000052 | 勋伯格早期艺术歌曲，听调性边缘的声乐写作
 sources:
-  - Grove Music Online, entry "Pierrot lunaire" — premiere, performers and notation checked, not quoted
-  - Ethan Haimo, Schoenberg's Transformation of Musical Language (Cambridge University Press) — pitch language checked, not quoted
+  - Grove Music Online, entry "Pierrot lunaire".
+  - Ethan Haimo, Schoenberg's Transformation of Musical Language (Cambridge University Press).
 updated: 2026-10-28
 ---
 

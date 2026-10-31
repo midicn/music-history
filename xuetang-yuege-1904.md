@@ -18,8 +18,7 @@ instances:
   - essen-009701 | 江苏《茉莉花》，本土五声时调，与乐歌借用的西洋大调形成对照
   - essen-000336 | 陕北《远看黄河是一条线》，宽音域与自由节奏，说明乐歌为何另选曲调
 sources:
-  - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 乐歌条目与年代核对，未引用
-  - Grove Music Online, entry "China, People's Republic of, music education" — school song movement checked, not quoted
+  - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）.
 updated: 2026-10-30
 ---
 

@@ -21,7 +21,7 @@ instances:
   - chinafolk-002620 | 《河北梆子号》，北方梆子系统的曲调，只示高亢的北方唱风；C3 民歌，C1 无该乐种录音
 sources:
   - 臧懋循《元曲选》— 杂剧体制与剧目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — drama framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

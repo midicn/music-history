@@ -21,8 +21,8 @@ instances:
   - atepp-004800 | 贝多芬《槌子键琴奏鸣曲》末乐章，赋格被写进奏鸣曲的终曲
   - atepp-000239 | 肖斯塔科维奇《前奏曲与赋格》第十首赋格，二十世纪的调式色彩
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Fugue" — definitions and dating checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 2 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Fugue".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 2.
 updated: 2026-10-28
 ---
 

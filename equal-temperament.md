@@ -21,8 +21,8 @@ instances:
   - atepp-001974 | 升F大调赋格，五个升号的调不再需要特殊调律
   - atepp-001935 | 降A大调赋格，降号远调也能自由转回主调
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Temperaments" — mathematics and dates checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Temperaments".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

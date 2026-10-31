@@ -21,8 +21,8 @@ instances:
   - mutopia-001160 | 马伦齐奥《孤独而沉思》，彼特拉克十四行诗，牧歌的经典语汇
   - pdmx-000511 | 莫利《五月到来》，英国牧歌的轻快舞曲节奏
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Madrigal" — definitions checked, not quoted
-  - Tim Carter, Music in Late Renaissance and Early Baroque Italy (Amadeus, 1992) — repertory checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Madrigal".
+  - Tim Carter, Music in Late Renaissance and Early Baroque Italy (Amadeus, 1992).
 updated: 2026-10-28
 ---
 

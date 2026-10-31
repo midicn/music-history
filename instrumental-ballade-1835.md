@@ -22,8 +22,8 @@ instances:
   - atepp-001162 | 第三号，舞曲般的段落里藏着主题的变形
   - atepp-001174 | 第四号，几段材料在最后几分钟被重新排列
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Ballade" — Chopin's four ballades and their dates checked, not quoted
-  - Jim Samson, Chopin (Oxford University Press, 1996) — the literary programme question checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Ballade".
+  - Jim Samson, Chopin (Oxford University Press, 1996).
 updated: 2026-10-30
 ---
 

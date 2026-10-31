@@ -20,8 +20,8 @@ instances:
   - musicnet-000244 | 勃拉姆斯圆号三重奏，为自然圆号而写，堵音与泛音决定音色
   - pdmx-001842 | 理查·施特劳斯第一圆号协奏曲，活塞圆号可以自由走半音
 sources:
-  - Grove Music Online, entry Valve — patents and dates checked, not quoted
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Horn — hand-stopping and valve adoption checked, not quoted
+  - Grove Music Online, entry Valve.
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Horn.
 updated: 2026-10-30
 ---
 

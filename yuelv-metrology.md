@@ -21,7 +21,7 @@ instances:
   - atepp-002766 | 巴赫《平均律》赋格走遍十二个调，与朱载堉新法密率指向同一件事
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 律名与年代核对，未引用
-  - Joseph Needham, Science and Civilisation in China, vol. 4 part 1 (Cambridge University Press) — metrology chapter checked, not quoted
+  - Joseph Needham, Science and Civilisation in China, vol. 4 part 1 (Cambridge University Press).
 updated: 2026-10-28
 ---
 

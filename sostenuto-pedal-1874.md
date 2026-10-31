@@ -19,8 +19,8 @@ instances:
   - atepp-005385 | 拉威尔《绞刑架》，一个钟声般的音贯穿全曲，不能被和声糊住
   - atepp-000492 | 李斯特《叹息》，踏板把琶音连成一片，听低音如何托住旋律
 sources:
-  - Grove Music Online, entry Sostenuto pedal — patent and mechanism checked, not quoted
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Pianoforte — pedal history checked, not quoted
+  - Grove Music Online, entry Sostenuto pedal.
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Pianoforte.
 updated: 2026-10-30
 ---
 

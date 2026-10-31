@@ -21,8 +21,8 @@ instances:
   - atepp-001235 | 肖邦《f 小调幻想曲》Op.49，进行曲段落与抒情段落交替，结构像自由拼接而不是奏鸣曲
   - aria-010102 | 巴赫《半音阶幻想曲与赋格》，前半即兴半音和声，后半进入严格赋格
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Fantasia — definitions and chronology checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, Vol. 2 (Oxford University Press, 2005) — baroque keyboard context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Fantasia.
+  - Richard Taruskin, The Oxford History of Western Music, Vol. 2 (Oxford University Press, 2005).
 updated: 2026-10-28
 ---
 

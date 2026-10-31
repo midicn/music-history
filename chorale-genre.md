@@ -21,8 +21,8 @@ instances:
   - pdmx-002743 | 巴赫《醒来吧》BWV 645 众赞歌前奏曲改编，人声拉长旋律，钢琴用流动音型围绕它
   - cyberhymnal-001176 | 路德《深处呼求》众赞歌，音节式旋律、方正乐句，适合会众齐唱
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Chorale — definitions and chronology checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, Vol. 2 (Oxford University Press, 2005) — Lutheran context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Chorale.
+  - Richard Taruskin, The Oxford History of Western Music, Vol. 2 (Oxford University Press, 2005).
 updated: 2026-10-28
 ---
 

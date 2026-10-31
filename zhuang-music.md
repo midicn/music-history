@@ -19,7 +19,7 @@ instances:
   - essen-000721 | 广西《春季采茶茶叶新》，桂南采茶调，听歌舞性的节奏
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 民歌与乐器条目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

@@ -21,8 +21,8 @@ instances:
   - atepp-002446 | 1981年版《哥德堡变奏曲》的咏叹调，录音让同一作品拥有可比较的多个权威版本
   - atepp-000016 | 斯克里亚宾练习曲的1962年录音，与1968年版本并置，录音成为演奏史的证据
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Recorded sound" — dates checked, not quoted
-  - Michael Chanan, Repeated Takes (Verso) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Recorded sound".
+  - Michael Chanan, Repeated Takes (Verso).
 updated: 2026-10-28
 ---
 

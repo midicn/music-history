@@ -22,8 +22,8 @@ instances:
   - giantmidi-001028 | 勋伯格的四手联弹小品，同一编制写不协和和声
   - giantmidi-003894 | 普朗克四手联弹奏鸣曲，法国式的清晰与俏皮
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Piano duet" — the genre and its publishing checked, not quoted
-  - Charles Rosen, The Classical Style (W. W. Norton, rev. ed. 1997) — domestic keyboard culture checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Piano duet".
+  - Charles Rosen, The Classical Style (W. W. Norton, rev. ed. 1997).
 updated: 2026-10-30
 ---
 

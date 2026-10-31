@@ -19,7 +19,7 @@ instances:
   - chinafolk-000217 | 北京《小看戏（一）》，京畿时调，京剧文场月琴的同城；C3 民歌，C1 无月琴录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 条目与年代核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

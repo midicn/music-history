@@ -20,8 +20,8 @@ instances:
   - atepp-000118 | 韦伯恩《钢琴变奏曲》第三乐章，听同代人在极短篇幅里放进的静止感
   - giantmidi-001392 | 巴托克《在户外》的夜音乐，听同代人对夜色与异样音色的想象
 sources:
-  - Grove Music Online, entry "Quatuor pour la fin du temps" — premiere, instruments and movement titles checked, not quoted
-  - Nigel Simeone, Olivier Messiaen, A Musical Biography (Yale University Press) — camp context checked, not quoted
+  - Grove Music Online, entry "Quatuor pour la fin du temps".
+  - Nigel Simeone, Olivier Messiaen, A Musical Biography (Yale University Press).
 updated: 2026-10-28
 ---
 

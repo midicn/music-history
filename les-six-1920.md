@@ -19,8 +19,8 @@ instances:
   - giantmidi-002515 | 米约《巴西的乡愁》，听流行舞曲节奏怎样进入音乐会作品（C1）
   - giantmidi-001079 | 奥涅格《三首小品》，六人团里较严肃的一极，听结构与力量的差别（C1）
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Les Six" — dates and membership checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Les Six".
+  - Richard Taruskin, The Oxford History of Western Music.
 updated: 2026-10-30
 ---
 

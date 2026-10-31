@@ -20,8 +20,8 @@ instances:
   - pdmx-000247 | 受难众赞歌的旋律素材，听会众熟悉的曲调怎样被嵌进叙事
   - pdmx-001408 | 《咖啡康塔塔》的钢琴改编，同一座城市的世俗康塔塔，对比教堂与咖啡馆两种听法
 sources:
-  - Grove Music Online, entry "Matthäuspassion" — premiere date, liturgy and forces checked, not quoted
-  - Christoph Wolff, Johann Sebastian Bach, The Learned Musician (W. W. Norton) — Leipzig years checked, not quoted
+  - Grove Music Online, entry "Matthäuspassion".
+  - Christoph Wolff, Johann Sebastian Bach, The Learned Musician (W. W. Norton).
 updated: 2026-10-28
 ---
 

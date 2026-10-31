@@ -20,7 +20,7 @@ instances:
   - essen-008814 | C1 毛主席来过五指山，五指山黎族地区歌曲，以黎歌风格写成；C1 为创作歌曲
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 黎族民歌与乐器条目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

@@ -20,7 +20,7 @@ instances:
   - pdmx-002093 | 同一作品另一版 C1 录音，可对比速度与重音如何处理三短一长
   - pdmx-000717 | 《第六交响曲》Op.68，1808 年同一场音乐会首演，田园与命运形成反差
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Beethoven" — concert date and programme checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Beethoven".
   - Grove Music Online 的 Symphony 条目，用于核对第五与第六交响曲的创作与首演
 updated: 2026-10-28
 ---

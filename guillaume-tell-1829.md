@@ -20,8 +20,8 @@ instances:
   - pdmx-002737 | 同一部歌剧的另一段选曲，篇幅短，适合对照序曲之外的戏剧写法
   - pdmx-002511 | 另一份《威廉·退尔》选段，听法语大歌剧的宣叙与分曲如何衔接
 sources:
-  - Grove Music Online, entry "Guillaume Tell" — premiere, cuts and cast checked, not quoted
-  - Philip Gossett, Divas and Scholars (University of Chicago Press) — Paris Opéra practice checked, not quoted
+  - Grove Music Online, entry "Guillaume Tell".
+  - Philip Gossett, Divas and Scholars (University of Chicago Press).
 updated: 2026-10-28
 ---
 

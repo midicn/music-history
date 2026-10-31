@@ -20,8 +20,8 @@ instances:
   - pdmx-000158 | 朱利奥·卡契尼《Al fonte al prato》，人声自由装饰，伴奏只给和声骨架
   - pdmx-001762 | 弗朗切斯卡·卡契尼《Non sò se quel sorriso》，单声歌曲在女性作曲家手里继续生长
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Monody" — dates and terms checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Monody".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

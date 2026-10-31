@@ -20,8 +20,8 @@ instances:
   - pdmx-002789 | 普赛尔三重奏鸣曲，弦乐与数字低音互相对音，标准就在屋里
   - mutopia-000493 | 贝多芬小提琴协奏曲，弦乐按五度自己调，标准仍靠耳朵传递
 sources:
-  - Grove Music Online, entry Pitch — tuning fork and conferences checked, not quoted
-  - Bruce Haynes, A History of Performing Pitch (Scarecrow Press) — fork history checked, not quoted
+  - Grove Music Online, entry Pitch.
+  - Bruce Haynes, A History of Performing Pitch (Scarecrow Press).
 updated: 2026-10-30
 ---
 

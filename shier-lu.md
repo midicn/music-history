@@ -21,7 +21,7 @@ instances:
   - giantmidi-003591 | C1 现代钢琴曲，题名用了“雅乐 E 角”的律名，听律名如何变成当代调名
 sources:
   - 《吕氏春秋·音律》与《管子·地员》— 三分损益生律记载核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — tuning framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

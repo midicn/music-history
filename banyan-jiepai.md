@@ -21,7 +21,7 @@ instances:
   - essen-000004 | C1 湖南《采茶调》，三拍子可作一板二眼，板眼不限于二拍与四拍
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 板式术语核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

@@ -20,8 +20,8 @@ instances:
   - pdmx-000912 | 塔利斯四十声部的《寄希望于你》，密集和弦靠纯音程站住
   - pdmx-002131 | 若斯坎的经文歌，终止式的大三度最能听出纯律的甜
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Just intonation" — definitions checked, not quoted
-  - J. Murray Barbour, Tuning and Temperament, A Historical Survey (Michigan State College Press) — historical outline checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Just intonation".
+  - J. Murray Barbour, Tuning and Temperament, A Historical Survey (Michigan State College Press).
 updated: 2026-10-28
 ---
 

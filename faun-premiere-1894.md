@@ -20,8 +20,8 @@ instances:
   - atepp-000195 | 《月光》，听同一时期钢琴作品里模糊的调性与音色
   - giantmidi-008742 | 杜卡《远方牧神的哀叹》，同代同行对这支前奏曲的回应
 sources:
-  - Grove Music Online, entry "Prélude à l'après-midi d'un faune" — premiere and orchestration checked, not quoted
-  - François Lesure, Claude Debussy (Harvard University Press) — Mallarmé and Paris context checked, not quoted
+  - Grove Music Online, entry "Prélude à l'après-midi d'un faune".
+  - François Lesure, Claude Debussy (Harvard University Press).
 updated: 2026-10-28
 ---
 

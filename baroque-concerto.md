@@ -21,8 +21,8 @@ instances:
   - pdmx-000531 | 巴赫《第五勃兰登堡协奏曲》，羽管键琴从通奏低音升为独奏
   - pdmx-001042 | 维瓦尔第《夏》，独奏小提琴模仿虫鸣与雷雨
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Concerto" — terms and dating checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 2 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Concerto".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 2.
 updated: 2026-10-28
 ---
 

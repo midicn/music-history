@@ -20,7 +20,7 @@ instances:
   - essen-008677 | C1 喇嘛题材的单声部民歌，听藏传佛教文化圈的语调；曲目未标藏区，只作旁证
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 条目与曲目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

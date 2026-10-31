@@ -19,7 +19,7 @@ instances:
   - chinafolk-008496 | 上海《弦子弹断换一根》，唱弦子的民歌，民乐团的都市；C3 民歌，C1 无中胡录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 条目与年代核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

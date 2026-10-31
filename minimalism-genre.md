@@ -20,8 +20,8 @@ instances:
   - pdmx-002767 | 赖希《六台马林巴》，同一音型在六个声部间错开，形成逐渐偏移的卡农
   - pdmx-000605 | 格拉斯《死寂》，短动机反复加层，和声缓慢换页，情绪靠重复的微小变化推进
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Minimalism — definitions and chronology checked, not quoted
-  - The Grove Dictionary of American Music, 2nd ed. (Oxford University Press, 2013), entry Minimalism — American scene checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Minimalism.
+  - The Grove Dictionary of American Music, 2nd ed. (Oxford University Press, 2013), entry Minimalism.
 updated: 2026-10-28
 ---
 

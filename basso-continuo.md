@@ -20,8 +20,8 @@ instances:
   - pdmx-002789 | 珀塞尔的三重奏鸣曲，低音线加数字，键盘手据此补和弦
   - pdmx-002369 | 巴赫的《三重奏鸣曲》，长笛与小提琴之上，通奏低音把和声托住
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Continuo" — dates and terms checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Continuo".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

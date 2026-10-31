@@ -20,8 +20,8 @@ instances:
   - giantmidi-006696 | 奥克海姆《Fors seulement》，三声部靠 tactus 对齐，慢速时音都沉下去
   - pdmx-002041 | 若斯坎《武装的人弥撒》，拍值在二与三之间切换，段落忽宽忽窄
 sources:
-  - Grove Music Online, entry Mensuration — signs and proportions checked, not quoted
-  - Anna Maria Busse Berger, Medieval Music and the Art of Memory (University of California Press) — transmission context checked, not quoted
+  - Grove Music Online, entry Mensuration.
+  - Anna Maria Busse Berger, Medieval Music and the Art of Memory (University of California Press).
 updated: 2026-10-30
 ---
 

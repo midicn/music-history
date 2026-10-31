@@ -20,8 +20,8 @@ instances:
   - pdmx-000354 | 《女武神》，听主导动机如何在人声与乐队之间穿梭
   - pdmx-001254 | 《众神的黄昏》，四联剧的终点，拜罗伊特乐池的音响理想
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Bayreuth" — dates and production details checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Bayreuth".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

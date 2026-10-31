@@ -21,7 +21,7 @@ instances:
   - chinafolk-000947 | 广东《山歌好唱难吊腔》，唱唱法本身，听吊腔的位置；C3 民歌，C1 无客家山歌录音
 sources:
   - 中国民间歌曲集成全国编辑委员会编，中国民间歌曲集成（中国 ISBN 中心）— 曲目与方言核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

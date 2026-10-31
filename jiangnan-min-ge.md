@@ -22,7 +22,7 @@ instances:
   - essen-000459 | C1 江都《拔根芦柴花》，田歌与号子气息更重，句幅较宽
 sources:
   - 中国民间歌曲集成全国编辑委员会编，中国民间歌曲集成（中国 ISBN 中心）— 曲目与地域核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

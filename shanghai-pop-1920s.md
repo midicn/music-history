@@ -21,7 +21,7 @@ instances:
   - chinafolk-008925 | 民歌《美国强盗到上海》，上海题材的群众歌曲，不是时代曲；C3 民歌，C1 无时代曲录音
 sources:
   - 黎锦晖《毛毛雨》— 1927年首版与演唱方式核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — popular music checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

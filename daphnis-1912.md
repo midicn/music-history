@@ -20,8 +20,8 @@ instances:
   - pdmx-000139 | 《鹅妈妈》芭蕾版选段，同一作曲家把童话写成小型管弦乐
   - pdmx-002665 | 《圆舞曲》，听拉威尔如何用配器把舞曲推成一场失控的旋涡
 sources:
-  - Grove Music Online, entry "Daphnis et Chloé" — premiere and performing forces checked, not quoted
-  - Deborah Mawer, Ravel Studies (Cambridge University Press) — Ballets Russes context checked, not quoted
+  - Grove Music Online, entry "Daphnis et Chloé".
+  - Deborah Mawer, Ravel Studies (Cambridge University Press).
 updated: 2026-10-28
 ---
 

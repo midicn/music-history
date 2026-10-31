@@ -20,8 +20,8 @@ instances:
   - pdmx-000444 | 同一部作品的另一份选段，对比不同编配下的声部密度
   - pdmx-001661 | 《弥赛亚》较长的一份选段，听《哈利路亚》前后的段落安排
 sources:
-  - Grove Music Online, entry "Messiah" — Dublin premiere, charity and forces checked, not quoted
-  - Donald Burrows, Handel, Messiah (Cambridge University Press) — sources and performance history checked, not quoted
+  - Grove Music Online, entry "Messiah".
+  - Donald Burrows, Handel, Messiah (Cambridge University Press).
 updated: 2026-10-28
 ---
 

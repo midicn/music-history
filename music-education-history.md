@@ -21,8 +21,8 @@ instances:
   - giantmidi-001391 | 巴托克《小宇宙》把二十世纪语汇拆成渐进课程
   - pdmx-002651 | 安娜笔记本里的短曲，说明家庭也是课堂
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Education in music" — background checked, not quoted
-  - Harold F. Abeles et al., Foundations of Music Education (Schirmer) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Education in music".
+  - Harold F. Abeles et al., Foundations of Music Education (Schirmer).
 updated: 2026-10-28
 ---
 

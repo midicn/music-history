@@ -20,8 +20,8 @@ instances:
   - pdmx-000156 | 苏萨《自由钟》展示工业化铜管乐队的声音与市场
   - giantmidi-006221 | 萨克斯奏鸣曲回望一件为专利与量产而生的乐器
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Instrument making" — dates checked, not quoted
-  - Cyril Ehrlich, The Piano, A History (Clarendon Press) — background checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Instrument making".
+  - Cyril Ehrlich, The Piano, A History (Clarendon Press).
 updated: 2026-10-28
 ---
 

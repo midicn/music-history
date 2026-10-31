@@ -17,8 +17,7 @@ instances:
   - essen-000496 | 四川《康定情歌》，五声旋律，中国艺术歌曲最常改写的素材
   - essen-000231 | 西北花儿《枝枝花儿顺墙栽》，高腔与自由延长，听本土唱法与美声训练的差距
 sources:
-  - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 院系与年代核对，未引用
-  - Grove Music Online, entry "China, People's Republic of" — conservatory history checked, not quoted
+  - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）.
 updated: 2026-10-30
 ---
 

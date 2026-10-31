@@ -19,8 +19,8 @@ instances:
   - pdmx-001768 | 《第三交响曲》钢琴缩编，听同一骨架被拉成庞大展开部，主题被切碎再推回
   - atepp-004404 | 《热情奏鸣曲》首乐章，1804年前后的不间断推进与突然停顿，是键盘上的同一种语气
 sources:
-  - Grove Music Online, entry "Symphony no. 3 (Eroica)" — title page, dedication and revisions checked, not quoted
-  - Lewis Lockwood, Beethoven, The Music and the Life (W. W. Norton) — sketches and political context checked, not quoted
+  - Grove Music Online, entry "Symphony no. 3 (Eroica)".
+  - Lewis Lockwood, Beethoven, The Music and the Life (W. W. Norton).
 updated: 2026-10-30
 ---
 

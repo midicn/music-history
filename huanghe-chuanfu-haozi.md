@@ -21,7 +21,7 @@ instances:
   - chinafolk-007628 | 陕西《黄河背船老号》，浅滩背船，句幅更短，听气口；C3 民歌，C1 无此曲目录音
 sources:
   - 中国民间歌曲集成全国编辑委员会编，中国民间歌曲集成（中国 ISBN 中心）— 曲目与渡口核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

@@ -18,7 +18,7 @@ instances:
   - essen-000516 | C1 河曲《走西口》，晋北小调，北方说唱的语音底子；非三弦录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 条目与年代核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

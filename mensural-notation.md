@@ -20,8 +20,8 @@ instances:
   - m21-003007 | 十四世纪佛罗伦萨的《荣耀经》，音符形状把各声部的长短比例写得清楚
   - giantmidi-005183 | 马肖的尚松，音符同时记录音高与时值，世俗曲也能精确传抄
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Notation, III: Mensural notation" — dates and terms checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Notation, III: Mensural notation".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

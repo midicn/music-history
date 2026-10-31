@@ -19,8 +19,8 @@ instances:
   - mutopia-001066 | 《Cwm Rhondda》威尔士赞美诗，重复音型适合集体分声部
   - pdmx-002555 | 《Hyfrydol》，另一首常用赞美诗，旋律跳进少，便于视唱
 sources:
-  - Grove Music Online, entry Tonic Sol-fa — Curwen and Glover checked, not quoted
-  - Bernarr Rainbow, The Land Without Music (Boydell Press) — English school music checked, not quoted
+  - Grove Music Online, entry Tonic Sol-fa.
+  - Bernarr Rainbow, The Land Without Music (Boydell Press).
 updated: 2026-10-30
 ---
 

@@ -20,8 +20,8 @@ instances:
   - pdmx-000053 | 拉摩《大键琴曲集》第一册，装饰写进旋律，听它与库普兰的差别
   - atepp-001868 | 亨德尔《和谐的铁匠》变奏，主题每次回来都换一套装饰
 sources:
-  - Grove Music Online, entry Ornaments — tables and dates checked, not quoted
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Couperin — L'Art de toucher le clavecin checked, not quoted
+  - Grove Music Online, entry Ornaments.
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Couperin.
 updated: 2026-10-30
 ---
 

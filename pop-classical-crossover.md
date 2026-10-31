@@ -21,8 +21,8 @@ instances:
   - pdmx-000551 | 魏尔把歌舞厅歌曲写进剧场，让流行语气进入严肃舞台
   - pdmx-002297 | 伯恩斯坦把拉丁节奏、爵士和声与歌剧结构并置
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Jazz" — dates checked, not quoted
-  - Bernard Gendron, Between Montmartre and the Mudd Club (University of Chicago Press) — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Jazz".
+  - Bernard Gendron, Between Montmartre and the Mudd Club (University of Chicago Press).
 updated: 2026-10-28
 ---
 

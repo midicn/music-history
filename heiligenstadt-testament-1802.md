@@ -19,8 +19,8 @@ instances:
   - atepp-003984 | 《暴风雨奏鸣曲》首乐章，1802年，听宣叙调式的慢引子怎样冲进快板
   - musicnet-000110 | 《克鲁采奏鸣曲》首乐章，1803年，听慢引子之后两件乐器互相打断
 sources:
-  - Grove Music Online, entry "Beethoven, Ludwig van" — Heiligenstadt letter, dating and works checked, not quoted
-  - Maynard Solomon, Beethoven (Schirmer Books) — biography and deafness chronology checked, not quoted
+  - Grove Music Online, entry "Beethoven, Ludwig van".
+  - Maynard Solomon, Beethoven (Schirmer Books).
 updated: 2026-10-30
 ---
 

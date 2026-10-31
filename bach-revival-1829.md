@@ -20,7 +20,7 @@ instances:
   - pdmx-002487 | 同一咏叹调的另一版 C1 改编，听低音线条怎样托住独唱
   - aria-008464 | 《马太受难曲》的钢琴改编，C2 版本，可听受难叙事在键盘上的压缩
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Mendelssohn, Felix" — 1829 revival checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Mendelssohn, Felix".
   - Grove Music Online 的 Bach Revival 条目，用于核对柏林首演与后续巴赫协会的建立
 updated: 2026-10-28
 ---

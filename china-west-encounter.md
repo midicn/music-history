@@ -21,7 +21,7 @@ instances:
   - pdmx-000302 | 普契尼《图兰朵》把中国民歌放进异国故事，听西方怎样想象中国
 sources:
   - 汪毓和《中国近现代音乐史》（人民音乐出版社）— 年代与史实核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — institutional history checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

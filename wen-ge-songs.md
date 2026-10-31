@@ -21,7 +21,7 @@ instances:
   - norbeck-001109 | C1 《国际歌》旋律，文革集会常唱，不是文革歌曲；C1 旋律版，非文革录音
 sources:
   - 《战地新歌》— 1972年起编印的歌曲集，曲目与年代核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — modern music checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

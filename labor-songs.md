@@ -22,7 +22,7 @@ instances:
   - chinafolk-009512 | 四川《川江号子（联唱）》，长篇船工套曲，听领合与速度变化；C3 民歌，C1 无川江号子长篇版本，仅学习研究
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 分类与曲目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

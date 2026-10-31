@@ -21,8 +21,8 @@ instances:
   - pdmx-001013 | 亨德尔《水上音乐》，序曲、舞曲与号角曲连成大型宫廷组曲
   - pdmx-000746 | 霍尔斯特《行星》组曲选段，二十世纪把组曲写成性格乐章
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Suite" — definitions and dating checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 2 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Suite".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 2.
 updated: 2026-10-28
 ---
 

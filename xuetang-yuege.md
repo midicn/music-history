@@ -20,7 +20,7 @@ instances:
   - chinafolk-008987 | 民歌《义勇军歌》，群众传唱的版本，可对照乐歌的传播方式；C3 民歌，C1 无学堂乐歌录音
 sources:
   - 沈心工《学校唱歌集》— 1904年初版与选曲填词方式核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — modern music checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

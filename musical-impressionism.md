@@ -21,8 +21,8 @@ instances:
   - atepp-000147 | 德彪西《水中倒影》，全音阶与五声音阶交替，和弦色彩比功能更醒目
   - atepp-000127 | 德彪西《版画集》中的《塔》，五声音阶与持续低音模仿东方钟声
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Impressionism — style definition checked, not quoted
-  - Paul Griffiths, Modern Music and After, 3rd ed. (Oxford University Press, 2010) — French repertoire and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Impressionism.
+  - Paul Griffiths, Modern Music and After, 3rd ed. (Oxford University Press, 2010).
 updated: 2026-10-28
 ---
 

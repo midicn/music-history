@@ -19,8 +19,8 @@ instances:
   - pdmx-000540 | 马肖《圣母弥撒》，四个声部各有终止音，调式要靠终止式辨认
   - m21-000599 | 帕莱斯特里纳弥撒的《Agnus》，声部收束在同一终止音，接近后来的调
 sources:
-  - Grove Music Online, entry Dodecachordon — publication and modal theory checked, not quoted
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Mode — medieval eight-mode system checked, not quoted
+  - Grove Music Online, entry Dodecachordon.
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Mode.
 updated: 2026-10-30
 ---
 

@@ -20,8 +20,8 @@ instances:
   - pdmx-000875 | 希尔德加德《O Virtus Sapientiae》，音域超过六度，歌手必须来回换位
   - pdmx-001598 | 佩罗坦《Viderunt Omnes》，奥尔加农把两个声部叠在同一套音阶框架里
 sources:
-  - Grove Music Online, entry Hexachord — dates and terminology checked, not quoted
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Guido of Arezzo — biography checked, not quoted
+  - Grove Music Online, entry Hexachord.
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Guido of Arezzo.
 updated: 2026-10-30
 ---
 

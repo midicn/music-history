@@ -22,7 +22,7 @@ instances:
   - chinafolk-008987 | 《义勇军歌》，聂耳曲调的民间传唱版，可听进行曲怎样变成群众歌；C3 民歌，C1 无该时期原唱
 sources:
   - 聂耳《义勇军进行曲》— 1935年电影《风云儿女》主题歌核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — modern music checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

@@ -20,8 +20,8 @@ instances:
   - atepp-002441 | 古尔德1981年《哥德堡变奏曲》让录音室版本成为可反复细听的文本
   - pdmx-000031 | 拉威尔《波莱罗》用单一节奏的累积测试听众能忍受多长的重复
 sources:
-  - James H. Johnson, Listening in Paris (University of California Press) — argument checked, not quoted
-  - Grove Music Online, entry "Audiences" — chronology checked, not quoted
+  - James H. Johnson, Listening in Paris (University of California Press).
+  - Grove Music Online, entry "Audiences".
 updated: 2026-10-28
 ---
 

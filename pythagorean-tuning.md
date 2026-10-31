@@ -21,8 +21,8 @@ instances:
   - atepp-002766 | 巴赫《平均律》赋格，二十四调在同一架键盘上成立，平均律后来成为标准
   - mutopia-001669 | 蒂特卢兹的管风琴圣咏 verset，管风琴正是中音律与平均律争论的中心
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Tuning" — historical outline checked, not quoted
-  - J. Murray Barbour, Tuning and Temperament (Michigan State College Press) — data checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Tuning".
+  - J. Murray Barbour, Tuning and Temperament (Michigan State College Press).
 updated: 2026-10-28
 ---
 

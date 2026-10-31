@@ -20,7 +20,7 @@ instances:
   - essen-008776 | C1 跳月歌，苗族与彝族共有的跳月习俗，仅作参照；非苗族录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 苗族民歌与芦笙条目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

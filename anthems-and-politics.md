@@ -21,8 +21,8 @@ instances:
   - pdmx-001144 | 1814年战争中的诗与曲，直到1931年才被正式定为美国国歌
   - pdmx-001594 | 从工人运动歌曲变成苏联国歌，歌词与立场几度更换
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "National anthem" — dates checked, not quoted
-  - David B. Dennis, Beethoven in German Politics 1870–1989 (Yale University Press) — background checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "National anthem".
+  - David B. Dennis, Beethoven in German Politics 1870.
 updated: 2026-10-28
 ---
 

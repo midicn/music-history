@@ -20,7 +20,7 @@ instances:
   - essen-008789 | C1 档案例题 Kezi le bi dai，族属待考，仅作帕米尔周边参照；C1 无塔吉克录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 塔吉克音乐与鹰笛条目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

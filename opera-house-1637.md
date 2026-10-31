@@ -20,8 +20,8 @@ instances:
   - pdmx-001890 | 《Pur ti miro》，威尼斯歌剧最著名的二重唱终曲
   - pdmx-001285 | 《阿里安娜的哀歌》，威尼斯歌剧之前宫廷歌剧的独唱遗产
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Venice, §I: Opera" — dates checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Venice, §I: Opera".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

@@ -21,7 +21,7 @@ instances:
   - chinafolk-010043 | 天津《卖饺子》，市井叫卖题材，听口语化的垛句；C3 民歌，C1 无天津小调录音
 sources:
   - 中国民间歌曲集成全国编辑委员会编，中国民间歌曲集成（中国 ISBN 中心）— 曲目与城区核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

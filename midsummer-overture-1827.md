@@ -20,8 +20,8 @@ instances:
   - pdmx-000092 | 1843 年戏剧配乐选段，序曲后来被放回整部戏，听同一支旋律怎样服务舞台
   - pdmx-001201 | 《赫布里底群岛》序曲，同一作曲家把海景写成独立的音乐会序曲
 sources:
-  - Grove Music Online, entry "Mendelssohn, Felix" — overture dates and first performance checked, not quoted
-  - R. Larry Todd, Mendelssohn, A Life in Music (Oxford University Press) — family premiere and Stettin performance checked, not quoted
+  - Grove Music Online, entry "Mendelssohn, Felix".
+  - R. Larry Todd, Mendelssohn, A Life in Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

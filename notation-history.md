@@ -21,8 +21,8 @@ instances:
   - pdmx-000540 | 马肖《圣母弥撒》，有量记谱把整套复调套曲的时值固定下来
   - atepp-002766 | 巴赫《平均律》赋格，主题与答题靠谱面精确规定，是现代记谱的成熟形态
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Notation" — historical outline checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 1 (Oxford University Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Notation".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 1 (Oxford University Press).
 updated: 2026-10-28
 ---
 

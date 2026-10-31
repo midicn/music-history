@@ -20,8 +20,8 @@ instances:
   - giantmidi-005794 | 《钢琴拉格音乐》，首演后六年，他把流行节奏折进现代主义
   - giantmidi-005793 | 《五根手指》，首演后的简易钢琴曲，和声仍带着刺
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Le Sacre du printemps" — dates and reception checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Le Sacre du printemps".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

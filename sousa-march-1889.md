@@ -22,8 +22,8 @@ instances:
   - mutopia-001614 | 《跨越海洋》，三声中部旋律更宽，配器更厚
   - mutopia-001615 | 《棉花之王》，听低音与鼓点如何把步伐钉住
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Sousa" — band career and march dates checked, not quoted
-  - Paul E. Bierley, The Works of John Philip Sousa (Integrity Press, 1984) — march list and structure checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Sousa".
+  - Paul E. Bierley, The Works of John Philip Sousa (Integrity Press, 1984).
 updated: 2026-10-30
 ---
 

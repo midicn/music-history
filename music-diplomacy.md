@@ -19,8 +19,8 @@ instances:
   - pdmx-000726 | 1989年柏林墙倒塌后，伯恩斯坦率东西两方乐手演奏《欢乐颂》，把庆典变成外交事件
   - pdmx-001697 | 苏萨乐队1900年巴黎世博会巡演，铜管进行曲成为最早的音乐名片
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Cultural diplomacy" — background checked, not quoted
-  - Danielle Fosler-Lussier, Music in America's Cold War Diplomacy (University of California Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Cultural diplomacy".
+  - Danielle Fosler-Lussier, Music in America's Cold War Diplomacy (University of California Press).
 updated: 2026-10-28
 ---
 

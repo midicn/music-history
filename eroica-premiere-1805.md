@@ -20,8 +20,8 @@ instances:
   - mutopia-000514 | 《第七交响曲》第一乐章，听贝多芬后期交响曲的节奏驱动力
   - pdmx-000435 | 《第九交响曲》，从《英雄》开始的扩张最终走到人声与合唱
 sources:
-  - Grove Music Online, entry "Symphony no. 3 (Eroica)" — premiere, dedication and revisions checked, not quoted
-  - Lewis Lockwood, Beethoven, The Music and the Life (W. W. Norton) — sketches and political context checked, not quoted
+  - Grove Music Online, entry "Symphony no. 3 (Eroica)".
+  - Lewis Lockwood, Beethoven, The Music and the Life (W. W. Norton).
 updated: 2026-10-28
 ---
 

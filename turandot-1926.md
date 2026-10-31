@@ -20,7 +20,7 @@ instances:
   - pdmx-000302 | 《图兰朵》C1 选段，五声音阶与铜锣写出异域宫廷
   - pdmx-002484 | 同一歌剧另一段 C1 选段，听普契尼的旋律怎样把舞台推向奇观
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Turandot" — premiere and completion checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Turandot".
   - Grove Music Online 的 Puccini 条目，用于核对 1926 年斯卡拉首演与阿尔法诺续写
 updated: 2026-10-28
 ---

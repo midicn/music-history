@@ -20,7 +20,7 @@ instances:
   - essen-000436 | 青海《上去高山望平川》，花儿，河湟一带多民族共唱；非古代胡乐
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 乐部与乐律条目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

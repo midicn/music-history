@@ -20,8 +20,8 @@ instances:
   - pdmx-000655 | 《El grillo》这样的谐谑尚松，靠印本传遍欧洲的宫廷与城市
   - pdmx-002041 | 若斯坎的《武装的人弥撒》，印刷让大型套曲脱离教堂手抄本
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Printing and publishing of music" — dates checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Printing and publishing of music".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

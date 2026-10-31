@@ -23,9 +23,9 @@ instances:
   - lakh-003996 | 莫扎特弦乐四重奏，四个声部没有伴奏，任何一条线都独立
   - atepp-000430 | 海顿晚期钢琴奏鸣曲，句法与转调都清楚，适合对照奏鸣曲式
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Classical" — dates and repertory checked, not quoted
-  - Philip G. Downs, Classical Music — The Era of Haydn, Mozart, and Beethoven (Norton, 1992) — general narrative checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 2 — historical context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Classical".
+  - Philip G. Downs, Classical Music.
+  - Richard Taruskin, The Oxford History of Western Music, vol. 2.
 updated: 2026-10-28
 ---
 

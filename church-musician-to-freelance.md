@@ -21,8 +21,8 @@ instances:
   - pdmx-000523 | 莫扎特离开萨尔茨堡后为自己的义演音乐会写的协奏曲
   - pdmx-001129 | 贝多芬在公开音乐会首演的交响曲，靠票房与出版立足
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Patronage" — background checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 2 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Patronage".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 2.
 updated: 2026-10-28
 ---
 

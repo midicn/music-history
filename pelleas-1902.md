@@ -20,7 +20,7 @@ instances:
   - atepp-000127 | 《版画集》中的《塔》，C1，同期的五声音阶与层叠织体
   - atepp-000147 | 《意象集》中的《水中倒影》，C1，听和声怎样变成光影
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Pelléas et Mélisande" — premiere and cast checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Pelléas et Mélisande".
   - Grove Music Online 的 Debussy 条目，用于核对 1902 年喜歌剧院首演与象征主义背景
 updated: 2026-10-28
 ---

@@ -20,8 +20,8 @@ instances:
   - pdmx-000789 | 威尔第《安魂曲》，末日经用铜管与鼓把教堂语言写成歌剧场面
   - pdmx-000450 | 勃拉姆斯《德意志安魂曲》作品45，改用德语经文，重点从恐惧转向安慰
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Requiem mass" — definitions and dating checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 3 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Requiem mass".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 3.
 updated: 2026-10-28
 ---
 

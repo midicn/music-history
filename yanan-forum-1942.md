@@ -17,8 +17,7 @@ instances:
   - essen-000285 | 陕北《信天游》，两句一换气，高腔在沟壑间传远，采风最常记录的体裁
   - essen-000829 | 《滚滚的黄河向东方》，听黄土高原的宽音域怎样被放进集体歌唱
 sources:
-  - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 延安时期条目核对，未引用
-  - Grove Music Online, entry "China, People's Republic of" — Yan'an period and folk-song collection checked, not quoted
+  - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）.
 updated: 2026-10-30
 ---
 

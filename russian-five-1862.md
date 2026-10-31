@@ -20,8 +20,8 @@ instances:
   - giantmidi-008581 | 里姆斯基-科萨科夫《小品四首》，配器色彩与民歌语调的来源（C1）
   - giantmidi-000312 | 鲍罗丁《海伦波尔卡》，听俄罗斯舞曲节奏与和声的用法（C1）
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entries "Balakirev" and "The Five" — dates and membership checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entries "Balakirev" and "The Five".
+  - Richard Taruskin, The Oxford History of Western Music.
 updated: 2026-10-30
 ---
 

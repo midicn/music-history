@@ -19,8 +19,8 @@ instances:
   - giantmidi-006696 | 奥克海姆《Fors seulement》，同一旋律换声部，每次终止都要重定升降
   - giantmidi-005077 | 帕莱斯特里纳《Aestimatus sum》，半音克制，止于细微的升高
 sources:
-  - Grove Music Online, entry Musica ficta — rules and chronology checked, not quoted
-  - Margaret Bent, Counterpoint, Composition, and Musica Ficta (Routledge) — editorial debate checked, not quoted
+  - Grove Music Online, entry Musica ficta.
+  - Margaret Bent, Counterpoint, Composition, and Musica Ficta (Routledge).
 updated: 2026-10-30
 ---
 

@@ -21,7 +21,7 @@ instances:
   - essen-009701 | 《茉莉花》，五声旋律加装饰，接近减字谱留给演奏者的润腔空间
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 减字谱条目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry China — qin notation checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry China.
 updated: 2026-10-30
 ---
 

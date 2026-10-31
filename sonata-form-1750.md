@@ -20,8 +20,8 @@ instances:
   - pdmx-002196 | 莫扎特K.157，四重奏里的奏鸣曲式，主题在对话中展开
   - atepp-004296 | 贝多芬《华尔斯坦》第一乐章，发展部把动机拆开，再现前推到很远
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Sonata form" — dates and terms checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Sonata form".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

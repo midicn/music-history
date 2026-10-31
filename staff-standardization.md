@@ -20,8 +20,8 @@ instances:
   - pdmx-001862 | Morales 的圣诞经文歌，圣咏固定旋律在谱表里托住复调
   - giantmidi-005077 | Palestrina 经文歌，印刷谱表让各声部能并排阅读
 sources:
-  - Grove Music Online, entry "Staff" — notation history checked, not quoted
-  - Kate van Orden, Music, Authorship, and the Book in the First Century of Print (University of California Press) — printing context checked, not quoted
+  - Grove Music Online, entry "Staff".
+  - Kate van Orden, Music, Authorship, and the Book in the First Century of Print (University of California Press).
 updated: 2026-10-28
 ---
 

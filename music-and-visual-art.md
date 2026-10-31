@@ -20,8 +20,8 @@ instances:
   - atepp-005697 | 舒曼《狂欢节》用音符拼出人物与面具，像一组声音肖像
   - atepp-000127 | 德彪西《版画集》的“塔”用五声音阶与钟声写东方图像
 sources:
-  - Simon Shaw-Miller, Visible Deeds of Music (Yale University Press) — argument checked, not quoted
-  - Grove Music Online, entry "Painting and music" — examples checked, not quoted
+  - Simon Shaw-Miller, Visible Deeds of Music (Yale University Press).
+  - Grove Music Online, entry "Painting and music".
 updated: 2026-10-28
 ---
 

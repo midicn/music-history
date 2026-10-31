@@ -19,8 +19,8 @@ instances:
   - mutopia-001150 | 《阿米德》1686年抒情悲剧，听序曲从庄严慢段转入赋格式快段
   - pdmx-002314 | 《斯卡拉穆什的恰空》，同一时期的舞蹈段落，听吕利式的舞曲节拍
 sources:
-  - Grove Music Online, entry "Lully, Jean-Baptiste" — biography and works checked, not quoted
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Overture" — form and diffusion checked, not quoted
+  - Grove Music Online, entry "Lully, Jean-Baptiste".
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Overture".
 updated: 2026-10-30
 ---
 

@@ -20,8 +20,8 @@ instances:
   - atepp-000299 | 斯卡拉蒂 K.27 奏鸣曲，模进与终止式密集，是 partimento 练习的成品
   - giantmidi-005064 | 佩尔戈莱西大键琴奏鸣曲，短小段落里全是可套用的和声图式
 sources:
-  - Grove Music Online, entry Partimento — Neapolitan teaching checked, not quoted
-  - Robert O. Gjerdingen, Music in the Galant Style (Oxford University Press) — schemata checked, not quoted
+  - Grove Music Online, entry Partimento.
+  - Robert O. Gjerdingen, Music in the Galant Style (Oxford University Press).
 updated: 2026-10-30
 ---
 

@@ -20,7 +20,7 @@ instances:
   - chinafolk-002516 | 海南《苗村生活好》，长段落叙事，听句子怎样一段段铺开；C3 海南苗族民歌，C1 无苗族录音
 sources:
   - 中国民间歌曲集成全国编辑委员会编，中国民间歌曲集成（中国 ISBN 中心）— 曲目与苗语方言核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

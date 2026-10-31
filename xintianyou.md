@@ -20,7 +20,7 @@ instances:
   - chinafolk-007451 | 陕西《三十里铺》，信天游叙事一路，听长句铺陈；C3 民歌，C1 无此曲版本，仅学习研究
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 条目与曲目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

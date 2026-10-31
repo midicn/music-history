@@ -21,8 +21,8 @@ instances:
   - aria-193914 | 《查拉图斯特拉如是说》开头，低音持续音上堆起三和弦，用音响堆叠而不是主题讲哲学
   - aria-066976 | 李斯特《哈姆雷特》，同一动机反复变形，把人物性格写成和声与音区的转折
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Symphonic poem — definitions and chronology checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, Vol. 3 (Oxford University Press, 2005) — Liszt and programme music checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Symphonic poem.
+  - Richard Taruskin, The Oxford History of Western Music, Vol. 3 (Oxford University Press, 2005).
 updated: 2026-10-28
 ---
 

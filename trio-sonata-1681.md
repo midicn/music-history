@@ -22,8 +22,8 @@ instances:
   - pdmx-000422 | 塔尔蒂尼三重奏鸣曲的慢乐章，两把琴的平行三度压在低音上
   - giantmidi-006396 | 加恩斯巴赫的三重奏鸣曲，晚一辈作曲家照同一套语法写作
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Trio sonata" — definitions and Corelli opus dates checked, not quoted
-  - Peter Allsop, Arcangelo Corelli, New Orpheus of Our Times (Oxford University Press, 1999) — Roman publication context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Trio sonata".
+  - Peter Allsop, Arcangelo Corelli, New Orpheus of Our Times (Oxford University Press, 1999).
 updated: 2026-10-30
 ---
 

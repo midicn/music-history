@@ -21,8 +21,8 @@ instances:
   - pdmx-001382 | 莫扎特《唐璜》选段，人声与钢琴交替推进情节，二重唱里两个人物各唱各的心思
   - pdmx-000595 | 《费加罗的婚礼》选段，几个人物各有一条声部，句尾重音打断对白
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Opera buffa — definitions and chronology checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, Vol. 2 (Oxford University Press, 2005) — comic opera context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Opera buffa.
+  - Richard Taruskin, The Oxford History of Western Music, Vol. 2 (Oxford University Press, 2005).
 updated: 2026-10-28
 ---
 

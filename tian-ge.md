@@ -21,7 +21,7 @@ instances:
   - chinafolk-005489 | 江苏《耘稻山歌（一）》，稻田除草时唱，句尾长，听吴语的连读；C3 民歌，C1 无苏州田歌录音
 sources:
   - 中国民间歌曲集成全国编辑委员会编，中国民间歌曲集成（中国 ISBN 中心）— 曲目与稻作区核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

@@ -20,8 +20,8 @@ instances:
   - pdmx-000922 | 维瓦尔第《春》，独奏小提琴与乐队互相应答，标题与音型一起描绘自然
   - pdmx-000531 | 巴赫《第五勃兰登堡协奏曲》，羽管键琴从伴奏升为独奏主角
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Concerto" — dates and terms checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Concerto".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

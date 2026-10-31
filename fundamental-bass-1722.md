@@ -20,8 +20,8 @@ instances:
   - mutopia-001371 | 《Les Sauvages》，异域题材的舞曲，低音反复同一进行
   - pdmx-000250 | 《La poule》，模仿母鸡的动机架在简单的和声上
 sources:
-  - Grove Music Online, entry Rameau — Traite de l'harmonie checked, not quoted
-  - Thomas Christensen, Rameau and Musical Thought in the Enlightenment (Cambridge University Press) — theory checked, not quoted
+  - Grove Music Online, entry Rameau.
+  - Thomas Christensen, Rameau and Musical Thought in the Enlightenment (Cambridge University Press).
 updated: 2026-10-30
 ---
 

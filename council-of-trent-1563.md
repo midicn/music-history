@@ -21,8 +21,8 @@ instances:
   - m21-000601 | 同一套弥撒的另一段垂怜经，听复调怎样让位给歌词的清晰（C1）
   - m21-000604 | 后续段落里声部逐渐加厚，但始终不遮蔽词句（C1）
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Palestrina" and "Council of Trent" — dates and legislation checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Palestrina" and "Council of Trent".
+  - Richard Taruskin, The Oxford History of Western Music.
 updated: 2026-10-30
 ---
 

@@ -21,8 +21,8 @@ instances:
   - pdmx-000256 | 沃恩·威廉斯用英国民歌主题写成管乐组曲
   - giantmidi-008873 | 格兰杰把英国民谣改编成色彩浓烈的钢琴曲
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Folk music" — dates checked, not quoted
-  - Philip V. Bohlman, The Study of Folk Music in the Modern World (Temple University Press) — background checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Folk music".
+  - Philip V. Bohlman, The Study of Folk Music in the Modern World (Temple University Press).
 updated: 2026-10-28
 ---
 

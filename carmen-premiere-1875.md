@@ -20,8 +20,8 @@ instances:
   - pdmx-000780 | 《卡门》的钢琴改编，听旋律与节奏在键盘上的骨架
   - openscore-000378 | 比才的艺术歌曲《Absence》，听同一作曲家更私密的抒情语气
 sources:
-  - Grove Music Online, entry "Carmen" — premiere, reception and version history checked, not quoted
-  - Susan McClary, Georges Bizet, Carmen (Cambridge University Press) — gender and reception checked, not quoted
+  - Grove Music Online, entry "Carmen".
+  - Susan McClary, Georges Bizet, Carmen (Cambridge University Press).
 updated: 2026-10-28
 ---
 

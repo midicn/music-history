@@ -19,8 +19,8 @@ instances:
   - oga-000014 | 8位元“Boss Battle 2”用快速琶音与噪声音色制造紧迫
   - oga-000327 | 《Theme Song 8 bit》以方波旋律示范家用机音源的窄音域写法
 sources:
-  - Karen Collins, Game Sound (MIT Press) — history checked, not quoted
-  - Grove Music Online, entry "Video game music" — terminology checked, not quoted
+  - Karen Collins, Game Sound (MIT Press).
+  - Grove Music Online, entry "Video game music".
 updated: 2026-10-28
 ---
 

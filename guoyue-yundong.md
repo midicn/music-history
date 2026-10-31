@@ -21,7 +21,7 @@ instances:
   - giantmidi-003591 | C1 现代钢琴曲，题名用中国律名，可对照中西合写的另一条路，非国乐改进
 sources:
   - 刘天华《病中吟》与《光明行》— 创作年代与二胡技法核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — modern music checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

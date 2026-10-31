@@ -21,8 +21,8 @@ instances:
   - pdmx-002869 | 另一份《第九交响曲》选段，末乐章的铜管与合唱式和声更突出
   - pdmx-001888 | 《斯拉沃尼亚舞曲》，同一作曲家把民间舞曲写进管弦乐的另一种做法
 sources:
-  - Grove Music Online, entry "Symphony No. 9, From the New World" — premiere and sources checked, not quoted
-  - Michael B. Beckerman, New Worlds of Dvořák (W. W. Norton) — American context checked, not quoted
+  - Grove Music Online, entry "Symphony No. 9, From the New World".
+  - Michael B. Beckerman, New Worlds of Dvořák (W. W. Norton).
 updated: 2026-10-28
 ---
 

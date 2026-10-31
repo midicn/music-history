@@ -21,8 +21,8 @@ instances:
   - giantmidi-005763 | 弗里德曼《帕萨卡利亚》Op.44，低音主题在钢琴上反复，重音与音区变化撑起长结构
   - giantmidi-000014 | 科普兰《帕萨卡利亚》，主题在低音重复，和声从协和逐渐变尖锐，是二十世纪对巴洛克形式的再读
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Passacaglia — definitions and chronology checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, Vol. 2 (Oxford University Press, 2005) — baroque variation context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Passacaglia.
+  - Richard Taruskin, The Oxford History of Western Music, Vol. 2 (Oxford University Press, 2005).
 updated: 2026-10-28
 ---
 

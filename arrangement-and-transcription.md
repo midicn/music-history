@@ -20,8 +20,8 @@ instances:
   - pdmx-001821 | 李斯特把贝多芬第五改成钢琴独奏，检验一台琴能否承担交响
   - giantmidi-007549 | 布拉斯把巴赫《d小调托卡塔与赋格》改成钢琴曲，让管风琴语言进入客厅
 sources:
-  - Grove Music Online, entry "Arrangement" — terminology and examples checked, not quoted
-  - Lydia Goehr, The Imaginary Museum of Musical Works (Oxford University Press) — argument checked, not quoted
+  - Grove Music Online, entry "Arrangement".
+  - Lydia Goehr, The Imaginary Museum of Musical Works (Oxford University Press).
 updated: 2026-10-28
 ---
 

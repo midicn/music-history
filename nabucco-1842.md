@@ -20,8 +20,8 @@ instances:
   - pdmx-000997 | 《游吟诗人》选段，听威尔第怎样把合唱与独唱放在同一个戏剧场面里
   - pdmx-001327 | 《弄臣》选段，听人声在前景、乐队在背后推的意大利歌剧写法
 sources:
-  - Grove Music Online, entry "Nabucco" — premiere and encore checked, not quoted
-  - Roger Parker, Leonora's Last Act (Princeton University Press) — Risorgimento reception checked, not quoted
+  - Grove Music Online, entry "Nabucco".
+  - Roger Parker, Leonora's Last Act (Princeton University Press).
 updated: 2026-10-28
 ---
 

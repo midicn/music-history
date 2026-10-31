@@ -20,8 +20,8 @@ instances:
   - atepp-006652 | 莫扎特 K.332 慢乐章，旋律像人声一样起伏，力度随手指变化
   - atepp-000431 | 海顿 Hob. XVI:52 快板，宽音域与辉煌跑句只有新式钢琴接得住
 sources:
-  - Grove Music Online, entry "Pianoforte" — Cristofori and early mechanism checked, not quoted
-  - Stewart Pollens, The Early Pianoforte (Cambridge University Press) — organology checked, not quoted
+  - Grove Music Online, entry "Pianoforte".
+  - Stewart Pollens, The Early Pianoforte (Cambridge University Press).
 updated: 2026-10-28
 ---
 

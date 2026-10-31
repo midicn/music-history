@@ -20,8 +20,8 @@ instances:
   - giantmidi-009402 | 《演艺人》在钢琴卷与后来的电影配乐中反复变现
   - thesession-001602 | 《铃儿响叮当》从感恩节歌曲变成零售季节的声音标志
 sources:
-  - Timothy D. Taylor, The Sounds of Capitalism (University of Chicago Press) — argument checked, not quoted
-  - Grove Music Online, entry "Advertising and music" — examples checked, not quoted
+  - Timothy D. Taylor, The Sounds of Capitalism (University of Chicago Press).
+  - Grove Music Online, entry "Advertising and music".
 updated: 2026-10-28
 ---
 

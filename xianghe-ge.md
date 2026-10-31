@@ -21,7 +21,7 @@ instances:
   - chinafolk-000000 | 《运河起锚号子》，一领众和的号子，只作唱法参照；C3 民歌，C1 无相和歌录音
 sources:
   - 《宋书·乐志》— 相和歌与三调记载核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — genre framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

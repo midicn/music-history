@@ -20,8 +20,8 @@ instances:
   - pdmx-002350 | 《Switched-On Bach》用多轨磁带逐层叠加，磁带成为组装工具
   - pdmx-000816 | 1969年福音热曲的合唱与乐队分层录制，多轨磁带塑造了它的厚度
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Recording" — tape technology checked, not quoted
-  - Peter Copeland, Manual of Analogue Sound Restoration Techniques (British Library, 2008) — tape history checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Recording".
+  - Peter Copeland, Manual of Analogue Sound Restoration Techniques (British Library, 2008).
 updated: 2026-10-28
 ---
 

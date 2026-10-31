@@ -19,7 +19,7 @@ instances:
   - essen-008753 | C1 阿拉木汗，维吾尔民歌，作新疆歌舞参照；非柯尔克孜
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 柯尔克孜音乐与玛纳斯条目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

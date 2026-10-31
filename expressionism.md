@@ -20,8 +20,8 @@ instances:
   - aria-000058 | 贝尔格《钢琴奏鸣曲》作品1，半音阶堆积出不安，却仍保留传统的段落感
   - aria-000772 | 韦伯恩《钢琴变奏曲》作品27，音程被精算，表情压到最少
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Expressionism" — definitions and dating checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 4 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Expressionism".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 4.
 updated: 2026-10-28
 ---
 

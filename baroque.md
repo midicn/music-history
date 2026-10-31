@@ -23,9 +23,9 @@ instances:
   - pdmx-000625 | 科雷利大协奏曲，独奏组与全奏组的强弱对比清楚
   - pdmx-000319 | 珀塞尔歌剧中的哀歌，低音下行与固定音型托住人声
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Baroque" — dates and repertory checked, not quoted
-  - Claude Palisca, Baroque Music (Prentice Hall, 3rd ed.) — general narrative checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 2 — historical context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Baroque".
+  - Claude Palisca, Baroque Music (Prentice Hall, 3rd ed.).
+  - Richard Taruskin, The Oxford History of Western Music, vol. 2.
 updated: 2026-10-28
 ---
 

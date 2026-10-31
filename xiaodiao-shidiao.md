@@ -20,7 +20,7 @@ instances:
   - chinafolk-005553 | C3 江苏《紫竹调（一）》，江南时调，听加花与轻快的板眼；C1 无同曲版本
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 条目与年代核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

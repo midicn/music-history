@@ -21,8 +21,8 @@ instances:
   - pdmx-001144 | 亨德里克斯在闭幕演出中用反馈与失真拆解美国国歌，库中为管乐版本
   - pdmx-000442 | 英美民歌与蓝调的传统曲目，电吉他改编的源头之一
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Woodstock" — programme and dates checked, not quoted
-  - Michael Lang, The Road to Woodstock (Ecco, 2009) — organisation and attendance checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Woodstock".
+  - Michael Lang, The Road to Woodstock (Ecco, 2009).
 updated: 2026-10-28
 ---
 

@@ -20,7 +20,7 @@ instances:
   - chinafolk-008721 | 《九连环调（一）》，一支时调在不同调门上流传，听宫音搬动；C3 民歌，C1 无该乐种录音
 sources:
   - 《礼记·礼运》— 旋相为宫一段核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — modal system checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

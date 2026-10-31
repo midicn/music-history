@@ -20,7 +20,7 @@ instances:
   - chinafolk-000604 | 广东《木鱼》，木鱼歌唱腔，与木鱼乐器同名不同物；C3 说唱，C1 无木鱼录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 条目与年代核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

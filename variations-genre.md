@@ -20,8 +20,8 @@ instances:
   - atepp-003121 | 贝多芬《迪亚贝利变奏曲》作品120，一支圆舞曲被拆到只剩和声骨架
   - atepp-003113 | 勃拉姆斯《帕格尼尼主题变奏曲》作品35，技巧与结构同时加码
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Variations" — definitions and dating checked, not quoted
-  - Charles Rosen, The Classical Style — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Variations".
+  - Charles Rosen, The Classical Style.
 updated: 2026-10-28
 ---
 

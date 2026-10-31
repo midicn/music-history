@@ -21,7 +21,7 @@ instances:
   - chinafolk-001282 | 广东《渔工苦》，渔工叙事歌，听长短句与诉苦语气；C3 民歌，C1 无广东渔歌录音
 sources:
   - 中国民间歌曲集成全国编辑委员会编，中国民间歌曲集成（中国 ISBN 中心）— 曲目与渔场核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

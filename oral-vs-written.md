@@ -21,8 +21,8 @@ instances:
   - mutopia-000453 | 巴托克把采集到的罗马尼亚农民舞曲记谱并配和声，口传旋律进入音乐厅
   - pdmx-001303 | 《Amazing Grace》的 New Britain 曲调，靠唱本与口传并行流传，版本众多
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Oral tradition" — terms checked, not quoted
-  - Albert Lord, The Singer of Tales (Harvard University Press) — oral-formulaic theory checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Oral tradition".
+  - Albert Lord, The Singer of Tales (Harvard University Press).
 updated: 2026-10-28
 ---
 

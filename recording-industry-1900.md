@@ -21,8 +21,8 @@ instances:
   - m21-000481 | 《枫叶拉格》1899年成为乐谱畅销曲，随后被大量灌成唱片
   - pdmx-001697 | 苏萨乐队的进行曲，早期唱片与留声机广告最常引用的声音
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Recording" — industry dates checked, not quoted
-  - Frederick Gaisberg, The Music Goes Round (Macmillan, 1942) — early recording practice checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Recording".
+  - Frederick Gaisberg, The Music Goes Round (Macmillan, 1942).
 updated: 2026-10-28
 ---
 

@@ -19,8 +19,8 @@ instances:
   - pdmx-000158 | 卡契尼《Al fonte al prato》，听单声歌曲怎样把语气交给歌手（C1）
   - m21-000487 | 蒙特威尔第早期牧歌，复调织体与新的戏剧性并存（C1）
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Camerata" and "Caccini" — dates and membership checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Camerata" and "Caccini".
+  - Richard Taruskin, The Oxford History of Western Music.
 updated: 2026-10-30
 ---
 

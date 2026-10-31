@@ -21,8 +21,8 @@ instances:
   - pdmx-000770 | 贝多芬《小提琴协奏曲》作品61，定音鼓的轻敲开场，独奏长时间停在歌唱音区
   - pdmx-000720 | 巴赫《E大调小提琴协奏曲》BWV 1042，巴洛克独奏与全奏的交替仍清楚可辨
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Concerto" — definitions and dating checked, not quoted
-  - Boris Schwarz, Great Masters of the Violin — repertoire checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Concerto".
+  - Boris Schwarz, Great Masters of the Violin.
 updated: 2026-10-28
 ---
 

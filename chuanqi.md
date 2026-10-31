@@ -21,7 +21,7 @@ instances:
   - chinafolk-005560 | 《九连环》，时调套曲，可对照传奇的曲牌联套，非传奇；C3 民歌，C1 无该乐种录音
 sources:
   - 汤显祖《牡丹亭》— 万历二十六年刻本年代核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — drama history checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

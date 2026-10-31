@@ -21,8 +21,8 @@ instances:
   - giantmidi-004068 | 李斯特据帕格尼尼改写的大练习曲，把提琴技巧搬到钢琴
   - giantmidi-004085 | 李斯特《匈牙利狂想曲第二号》，速度与华彩的舞台效果
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Virtuosity" — outline checked, not quoted
-  - Dana Gooley, The Virtuoso Liszt (Cambridge University Press) — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Virtuosity".
+  - Dana Gooley, The Virtuoso Liszt (Cambridge University Press).
 updated: 2026-10-28
 ---
 

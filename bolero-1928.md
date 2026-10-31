@@ -20,7 +20,7 @@ instances:
   - atepp-005462 | 拉威尔《圆舞曲》，C1，听另一部芭蕾管弦乐如何用持续加速制造失控
   - pdmx-000139 | 拉威尔《鹅妈妈》芭蕾版，C1，配器把童话写成小型管弦乐
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Boléro" — premiere and commission checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Boléro".
   - Grove Music Online 的 Ravel 条目，用于核对 1928 年巴黎歌剧院首演与伊达·鲁宾斯坦的委约
 updated: 2026-10-28
 ---

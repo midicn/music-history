@@ -20,7 +20,7 @@ instances:
   - pdmx-001879 | 同一部歌剧的另一段 C1 选段，听重唱怎样把玩笑推成威胁
   - pdmx-002229 | 另一段 C1 选段，低音与和弦收紧，戏剧张力向前推进
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Don Giovanni" — dates and reception checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Don Giovanni".
   - Grove Music Online 的 Mozart 与 Da Ponte 条目，用于核对布拉格首演与委约经过
 updated: 2026-10-28
 ---

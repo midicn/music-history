@@ -20,8 +20,8 @@ instances:
   - giantmidi-005138 | 马尔图齐《塔兰泰拉》用加速的六八拍模拟舞蹈治疗
   - pdmx-000875 | 希尔德加德《O Virtus Sapientiae》以单声旋律把注意力收进词句
 sources:
-  - Peregrine Horden, Music as Medicine (Ashgate) — historical claims checked, not quoted
-  - Grove Music Online, entry "Music therapy" — definitions checked, not quoted
+  - Peregrine Horden, Music as Medicine (Ashgate).
+  - Grove Music Online, entry "Music therapy".
 updated: 2026-10-28
 ---
 

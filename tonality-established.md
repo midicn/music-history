@@ -20,8 +20,8 @@ instances:
   - pdmx-000582 | 科雷利协奏曲，属到主的序列把段落推向明确的终止
   - atepp-001935 | 巴赫《平均律》降A大调赋格，主题在调内展开，转调有清楚落点
 sources:
-  - Grove Music Online, entry "Tonality" — history and terminology checked, not quoted
-  - Thomas Christensen, Rameau and Musical Thought in the Enlightenment (Cambridge University Press) — theory context checked, not quoted
+  - Grove Music Online, entry "Tonality".
+  - Thomas Christensen, Rameau and Musical Thought in the Enlightenment (Cambridge University Press).
 updated: 2026-10-28
 ---
 

@@ -21,8 +21,8 @@ instances:
   - pdmx-001269 | 柴可夫斯基《第一钢琴协奏曲》作品23，开头的巨型和弦与民歌主题形成招牌
   - pdmx-000976 | 格里格《钢琴协奏曲》作品16，挪威民间音调进入首乐章，钢琴琶音铺满音域
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Concerto" — definitions and dating checked, not quoted
-  - Charles Rosen, The Classical Style — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Concerto".
+  - Charles Rosen, The Classical Style.
 updated: 2026-10-28
 ---
 

@@ -21,8 +21,8 @@ instances:
   - pdmx-001563 | 马勒第九写于二十世纪初，各地乐团音高尚未被 440 统一
   - pdmx-002214 | 肖斯塔科维奇第十写于战后，此时 440 已随广播与唱片铺开
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Pitch" — history and dates checked, not quoted
-  - Bruce Haynes, A History of Performing Pitch, The Story of "A" (Scarecrow Press) — background checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Pitch".
+  - Bruce Haynes, A History of Performing Pitch, The Story of "A" (Scarecrow Press).
 updated: 2026-10-28
 ---
 

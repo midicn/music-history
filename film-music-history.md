@@ -21,8 +21,8 @@ instances:
   - pdmx-000354 | 《女武神》的进行在电影里被挪作直升机音响，说明主导动机可被征用
   - aria-193914 | 《查拉图斯特拉如是说》开头几个音就够做开场，电影让音乐会曲目获得新语境
 sources:
-  - Mervyn Cooke, A History of Film Music (Cambridge University Press) — chronology checked, not quoted
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Film music" — outline checked, not quoted
+  - Mervyn Cooke, A History of Film Music (Cambridge University Press).
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Film music".
 updated: 2026-10-28
 ---
 

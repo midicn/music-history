@@ -20,8 +20,8 @@ instances:
   - pdmx-001505 | 伯德《三声部弥撒》，英国复调弥撒，声部少但模仿紧密
   - pdmx-001312 | 贝多芬《庄严弥撒》，把弥撒写成音乐会规模的宏大作品
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Mass" — terms and dating checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 1 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Mass".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 1.
 updated: 2026-10-28
 ---
 

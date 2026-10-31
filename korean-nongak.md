@@ -20,7 +20,7 @@ instances:
   - essen-008761 | C1 道拉基，朝鲜族民谣，仅作三拍参照；非农乐
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 农乐与长短条目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Korea" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Korea".
 updated: 2026-10-30
 ---
 

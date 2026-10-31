@@ -20,8 +20,8 @@ instances:
   - pdmx-000435 | 第九交响曲，谱面节拍数字把急板与柔板拉开
   - pdmx-000585 | 第七交响曲，Allegretto 常被奏得比标记慢，数字与呼吸拉扯
 sources:
-  - Grove Music Online, entry "Metronome" — invention and patent history checked, not quoted
-  - Alexander Wheelock Thayer, The Life of Beethoven (rev. ed.) — Beethoven and Maelzel checked, not quoted
+  - Grove Music Online, entry "Metronome".
+  - Alexander Wheelock Thayer, The Life of Beethoven (rev. ed.).
 updated: 2026-10-28
 ---
 

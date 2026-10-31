@@ -20,8 +20,8 @@ instances:
   - pdmx-001975 | 同一部歌剧的另一份选段，重点听第二幕二重唱的和声走向
   - giantmidi-006271 | 拉夫改编的瓦格纳歌剧钢琴曲，听半音和声离开乐队后仍然发紧
 sources:
-  - Grove Music Online, entry "Tristan und Isolde" — premiere, cast and revisions checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — harmonic analysis checked, not quoted
+  - Grove Music Online, entry "Tristan und Isolde".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

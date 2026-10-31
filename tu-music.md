@@ -20,7 +20,7 @@ instances:
   - chinafolk-002404 | C3 正月饮酒歌，宴席歌体裁，听敬酒与祝福；C3 民歌，C1 无土族宴席曲录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 土族音乐与安昭条目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

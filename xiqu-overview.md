@@ -21,7 +21,7 @@ instances:
   - chinafolk-008762 | 上海采录的《凤阳花鼓（一）》，花鼓歌舞的曲调，保留戏曲萌芽期的二人格局，非戏曲唱段；C3 民歌，C1 无戏曲录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 条目与年代核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

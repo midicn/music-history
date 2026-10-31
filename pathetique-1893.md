@@ -21,8 +21,8 @@ instances:
   - pdmx-000020 | 《第五交响曲》选段，听柴可夫斯基此前怎样用圆号主题贯穿全曲
   - pdmx-002457 | 《罗密欧与朱丽叶》幻想序曲，同一作曲家的戏剧式管弦乐写法
 sources:
-  - Grove Music Online, entry "Symphony No. 6" — premiere and title checked, not quoted
-  - David Brown, Tchaikovsky, The Final Years (W. W. Norton) — death and reception checked, not quoted
+  - Grove Music Online, entry "Symphony No. 6".
+  - David Brown, Tchaikovsky, The Final Years (W. W. Norton).
 updated: 2026-10-28
 ---
 

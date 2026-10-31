@@ -20,7 +20,7 @@ instances:
   - pdmx-002563 | 同一歌剧的另一段 C1 选段，听重唱如何越转越快
   - pdmx-001603 | 罗西娜的咏叹调《我心中有个声音》，C1 许可的独立选段
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Il barbiere di Siviglia" — premiere and reception checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Il barbiere di Siviglia".
   - Grove Music Online 的 Rossini 条目，用于核对 1816 年罗马首演与后续演出
 updated: 2026-10-28
 ---

@@ -21,8 +21,8 @@ instances:
   - atepp-003869 | 贝多芬《月光奏鸣曲》首乐章，慢速琶音与歌唱旋律取代炫技
   - atepp-006312 | 普罗科菲耶夫《第八钢琴奏鸣曲》首乐章，二十世纪奏鸣曲的尖锐和声
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Sonata" — definitions and dating checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 2 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Sonata".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 2.
 updated: 2026-10-28
 ---
 

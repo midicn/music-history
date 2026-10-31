@@ -20,7 +20,7 @@ instances:
   - pdmx-001965 | 《茶花女》C1 选段，听薇奥莱塔的声线怎样从窄音域起步
   - pdmx-002270 | 同一歌剧另一段 C1 选段，可对比抒情旋律与戏剧重音
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "La traviata" — premiere and revisions checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "La traviata".
   - Grove Music Online 的 Verdi 条目，用于核对 1853 年威尼斯首演与 1854 年修订
 updated: 2026-10-28
 ---

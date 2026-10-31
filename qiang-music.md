@@ -19,7 +19,7 @@ instances:
   - chinafolk-008875 | C3 杨柳青青，与羌笛曲牌《折柳词》同题，仅作联想；C3 民歌，C1 无羌笛录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 羌族音乐与羌笛条目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

@@ -21,7 +21,7 @@ instances:
   - chinafolk-003711 | 《担经调》，担经走会所唱的调子，与宣卷的仪式空间相近；C3 民歌，C1 无该乐种录音
 sources:
   - 罗清《五部六册》— 明代宝卷与教派文本核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — ritual narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

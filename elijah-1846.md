@@ -20,8 +20,8 @@ instances:
   - pdmx-001324 | 同一部清唱剧的另一段，合唱的规模与戏剧张力更清楚
   - pdmx-001766 | 另一段《以利亚》，适合对照独唱宣叙与合唱回应
 sources:
-  - Grove Music Online, entry "Elijah" — premiere and revisions checked, not quoted
-  - R. Larry Todd, Mendelssohn, A Life in Music (Oxford University Press) — Birmingham commission checked, not quoted
+  - Grove Music Online, entry "Elijah".
+  - R. Larry Todd, Mendelssohn, A Life in Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

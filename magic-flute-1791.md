@@ -20,8 +20,8 @@ instances:
   - pdmx-002387 | 夜后的咏叹调《Der Hölle Rache》，听花腔高音怎样变成角色的武器
   - pdmx-001203 | 《魔笛》的钢琴改编，听旋律离开舞台与乐队后还剩下什么
 sources:
-  - Grove Music Online, entry "Zauberflöte, Die" — premiere, cast and theatre checked, not quoted
-  - Maynard Solomon, Mozart, A Life (HarperCollins) — Vienna context checked, not quoted
+  - Grove Music Online, entry "Zauberflöte, Die".
+  - Maynard Solomon, Mozart, A Life (HarperCollins).
 updated: 2026-10-28
 ---
 

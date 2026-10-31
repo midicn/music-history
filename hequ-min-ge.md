@@ -21,7 +21,7 @@ instances:
   - chinafolk-007086 | 陕西《赶牲灵》，同一片黄土高原的赶牲口歌，听高腔与自由节奏；C3 陕北民歌，C1 无山西河曲录音
 sources:
   - 中国民间歌曲集成全国编辑委员会编，中国民间歌曲集成（中国 ISBN 中心）— 曲目与晋西北民歌核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

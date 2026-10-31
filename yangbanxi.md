@@ -20,7 +20,7 @@ instances:
   - chinafolk-000121 | 北京《花鼓》，地方小戏的歌舞曲调，非样板戏，只示戏曲底色；C3 民歌，C1 无该乐种录音
 sources:
   - 1967年5月《人民日报》关于八个样板戏的报道 — 剧目名单核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — opera history checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

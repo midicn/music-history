@@ -21,8 +21,8 @@ instances:
   - thesession-003947 | 苏格兰五声吉格说明五声并非中国独有
   - giantmidi-009597 | 当代中国风格狂想曲把五声语汇放进管弦与钢琴
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Pentatonic" — dates checked, not quoted
-  - Bruno Nettl, The Study of Ethnomusicology (University of Illinois Press) — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Pentatonic".
+  - Bruno Nettl, The Study of Ethnomusicology (University of Illinois Press).
 updated: 2026-10-28
 ---
 

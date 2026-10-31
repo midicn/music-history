@@ -21,8 +21,8 @@ instances:
   - atepp-006163 | 舒曼《C 大调托卡塔》Op.7，双手交替的连续跑动几乎不留呼吸，考验耐力
   - aria-037173 | 普罗科菲耶夫《托卡塔》Op.11，机械般的重复音型与尖锐和弦，把托卡塔变成打击乐
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Toccata — definitions and chronology checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, Vol. 3 (Oxford University Press, 2005) — nineteenth-century keyboard context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Toccata.
+  - Richard Taruskin, The Oxford History of Western Music, Vol. 3 (Oxford University Press, 2005).
 updated: 2026-10-28
 ---
 

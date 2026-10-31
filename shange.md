@@ -21,7 +21,7 @@ instances:
   - chinafolk-000850 | 广东客家山歌《山歌唔唱心唔开》，听客家话与对唱语气；C3 民歌，C1 无客家山歌版本，仅学习研究
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 分类与曲目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

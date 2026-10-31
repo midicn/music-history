@@ -18,8 +18,8 @@ instances:
   - musicnet-000272 | 弦乐四重奏K.465首乐章，1785年题献给海顿，听慢引子里的半音不协和
   - pdmx-001091 | 第二十一钢琴协奏曲K.467，1785年订票音乐会曲目，听钢琴与乐队的对话
 sources:
-  - Grove Music Online, entry "Mozart, Wolfgang Amadeus" — Vienna years, works and dates checked, not quoted
-  - Maynard Solomon, Mozart, A Life (HarperCollins) — freelance career and concert life checked, not quoted
+  - Grove Music Online, entry "Mozart, Wolfgang Amadeus".
+  - Maynard Solomon, Mozart, A Life (HarperCollins).
 updated: 2026-10-30
 ---
 

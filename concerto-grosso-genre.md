@@ -21,8 +21,8 @@ instances:
   - pdmx-000550 | 巴赫《第六勃兰登堡协奏曲》，省略小提琴，中提琴与古大提琴构成暗色织体
   - pdmx-002054 | 英国作曲家阿维森的大协奏曲，听科雷利传统怎样在伦敦延续
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Concerto grosso" — definitions and dating checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 2 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Concerto grosso".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 2.
 updated: 2026-10-28
 ---
 

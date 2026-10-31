@@ -19,8 +19,8 @@ instances:
   - pdmx-000650 | 莫扎特 G 大调长笛协奏曲，写作时贝姆尚未出生，音色偏柔
   - pdmx-000002 | 安德森长笛练习曲，为贝姆长笛而写，音区均匀、跳进干净
 sources:
-  - Grove Music Online, entry Boehm — dates and bore changes checked, not quoted
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Flute — keywork history checked, not quoted
+  - Grove Music Online, entry Boehm.
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Flute.
 updated: 2026-10-30
 ---
 

@@ -21,8 +21,8 @@ instances:
   - atepp-006545 | 拉赫玛尼诺夫《幻想小品》作品3之2，低音敲击与宽和弦撑起著名的开场
   - giantmidi-007717 | 德彪西《亚麻色头发的少女》，前奏曲集里的一首，标题藏在音色后面
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Prelude" — definitions and dating checked, not quoted
-  - Jim Samson, The Music of Chopin — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Prelude".
+  - Jim Samson, The Music of Chopin.
 updated: 2026-10-28
 ---
 

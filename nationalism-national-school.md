@@ -21,8 +21,8 @@ instances:
   - pdmx-001888 | 德沃夏克斯拉夫舞曲让民间节奏进入管弦乐厅
   - giantmidi-008251 | 格林卡把俄罗斯主题写成对故土的问候
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Nationalism" — dates checked, not quoted
-  - Benedict Anderson, Imagined Communities (Verso) — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Nationalism".
+  - Benedict Anderson, Imagined Communities (Verso).
 updated: 2026-10-28
 ---
 

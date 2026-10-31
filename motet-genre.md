@@ -21,8 +21,8 @@ instances:
   - pdmx-002883 | 若斯坎《圣母颂》，持续旋律上展开模仿，文艺复兴经文歌的典范
   - pdmx-001151 | 普朗克《哦，伟大的奥秘》，二十世纪作曲家重新使用经文歌体裁
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Motet" — definitions checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 1 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Motet".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 1.
 updated: 2026-10-28
 ---
 

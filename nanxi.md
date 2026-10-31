@@ -19,7 +19,7 @@ instances:
   - chinafolk-000542 | 《十二月采茶》，采茶小戏的曲调，非南戏，只示南方小戏的歌舞底色；C3 民歌，C1 无该乐种录音
 sources:
   - 《永乐大典戏文三种》— 现存最早南戏剧本核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — opera history checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

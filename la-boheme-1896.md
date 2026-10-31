@@ -20,8 +20,8 @@ instances:
   - pdmx-002007 | 《托斯卡》选段，同一作曲家四年后的另一部歌剧，戏剧压强更大
   - pdmx-002329 | 《菊花》弦乐四重奏，听普契尼的抒情线条在没有舞台时怎样站立
 sources:
-  - Grove Music Online, entry "La bohème" — premiere and cast checked, not quoted
-  - Julian Budden, Puccini, His Life and Works (Oxford University Press) — reception checked, not quoted
+  - Grove Music Online, entry "La bohème".
+  - Julian Budden, Puccini, His Life and Works (Oxford University Press).
 updated: 2026-10-28
 ---
 

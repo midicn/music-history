@@ -22,8 +22,8 @@ instances:
   - cyberhymnal-004967 | 布利斯《让灯塔继续燃烧》，同一结构，旋律更像通俗叙事歌
   - mutopia-001103 | 《有福确据》，1873年的福音歌，副歌重复到人人会唱
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Gospel song" — Moody and Sankey dates checked, not quoted
-  - Sandra S. Sizer, Gospel Hymns and Social Religion (Temple University Press, 1978) — songbook publishing checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Gospel song".
+  - Sandra S. Sizer, Gospel Hymns and Social Religion (Temple University Press, 1978).
 updated: 2026-10-30
 ---
 

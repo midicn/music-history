@@ -21,8 +21,8 @@ instances:
   - pdmx-001877 | 拉威尔G大调协奏曲，钢琴在其中学爵士的语气
   - pdmx-002297 | 伯恩斯坦《西区故事》，切分与和声一起推动剧情
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Jazz" — influence section checked, not quoted
-  - Gunther Schuller, Musings (Oxford University Press) — Third Stream context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Jazz".
+  - Gunther Schuller, Musings (Oxford University Press).
 updated: 2026-10-28
 ---
 

@@ -21,8 +21,8 @@ instances:
   - pdmx-001010 | 马勒《第五交响曲》，乐队扩到百人，葬礼进行曲与柔板形成巨大反差
   - pdmx-002616 | 莫扎特《第四十一交响曲》K.551，末乐章把多个主题叠在一起，收束整部作品
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Symphony" — definitions and dating checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 2 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Symphony".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 2.
 updated: 2026-10-28
 ---
 

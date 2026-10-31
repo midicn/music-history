@@ -22,8 +22,8 @@ instances:
   - pdmx-001051 | 《贵人迷》，喜剧芭蕾，同一套宫廷语汇用在插科打诨里
   - giantmidi-006150 | 《四季芭蕾》，舞曲段落，听舞蹈如何承担结构而不只是插曲
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Lully" — the 1672 privilege and 1673 premiere checked, not quoted
-  - James R. Anthony, French Baroque Music from Beaujoyeulx to Rameau (W. W. Norton, rev. ed. 1997) — genre conventions checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Lully".
+  - James R. Anthony, French Baroque Music from Beaujoyeulx to Rameau (W. W. Norton, rev. ed. 1997).
 updated: 2026-10-30
 ---
 

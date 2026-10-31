@@ -21,7 +21,7 @@ instances:
   - chinafolk-001217 | C3 舞龙歌，歌舞场合的调子，听节奏的循环；C3 民歌，C1 无赞哈录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 傣族音乐与赞哈条目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

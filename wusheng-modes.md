@@ -20,7 +20,7 @@ instances:
   - essen-000232 | 湖南《古丈山歌》，句尾下沉，与徵类色彩形成明暗对照
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 调式条目与民歌分析核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

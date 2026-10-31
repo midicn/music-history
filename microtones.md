@@ -21,8 +21,8 @@ instances:
   - aria-002273 | 利盖蒂的钢琴练习曲以密集音簇逼近微分音，C1 无对应版本
   - aria-117667 | 谢尔西让单音内部游移，C1 无可用版本
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Microtonal music" — historical outline checked, not quoted
-  - Paul Griffiths, Modern Music and After (Oxford University Press, 3rd ed.) — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Microtonal music".
+  - Paul Griffiths, Modern Music and After (Oxford University Press, 3rd ed.).
 updated: 2026-10-28
 ---
 

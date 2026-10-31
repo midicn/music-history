@@ -20,8 +20,8 @@ instances:
   - atepp-000483 | 李斯特《侏儒之舞》，琴声要在大厅里站住，铁框开始起作用
   - atepp-006366 | 拉赫玛尼诺夫前奏曲，现代铁框钢琴的低音与共鸣
 sources:
-  - Grove Music Online, entry Pianoforte — iron frame and patents checked, not quoted
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Steinway — overstringing checked, not quoted
+  - Grove Music Online, entry Pianoforte.
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Steinway.
 updated: 2026-10-30
 ---
 

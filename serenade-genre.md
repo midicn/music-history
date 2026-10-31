@@ -21,8 +21,8 @@ instances:
   - pdmx-001619 | 德沃夏克《弦乐小夜曲》Op.22 选段，弦乐声部层层铺开，旋律温和而不断
   - musicnet-000283 | 莫扎特《降 E 大调小夜曲》小步舞曲乐章，两支单簧管、两支圆号与两支大管对话，三拍子保留社交功能
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Serenade — definitions and chronology checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, Vol. 2 (Oxford University Press, 2005) — classical-era context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Serenade.
+  - Richard Taruskin, The Oxford History of Western Music, Vol. 2 (Oxford University Press, 2005).
 updated: 2026-10-28
 ---
 

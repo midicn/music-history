@@ -22,9 +22,9 @@ instances:
   - m21-000599 | 帕莱斯特里纳《羔羊经》的段落，声部减少时和声变透明
   - pdmx-000032 | 拉索的牧歌式世俗作品，歌词重音与音乐重音贴得很紧
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Renaissance" — dates and repertory checked, not quoted
-  - Allan Atlas, Renaissance Music (Norton, 1998) — general narrative checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 1 — historical context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Renaissance".
+  - Allan Atlas, Renaissance Music (Norton, 1998).
+  - Richard Taruskin, The Oxford History of Western Music, vol. 1.
 updated: 2026-10-28
 ---
 

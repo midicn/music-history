@@ -21,7 +21,7 @@ instances:
   - chinafolk-002620 | 《河北梆子号》，北方梆子系统的曲调，非戏改后的舞台版；C3 民歌，C1 无该乐种录音
 sources:
   - 1951年5月5日政务院《关于戏曲改革工作的指示》— 条文核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — opera policy checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

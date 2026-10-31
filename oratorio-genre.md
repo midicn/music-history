@@ -21,8 +21,8 @@ instances:
   - mutopia-000998 | 海顿《创世记》选段，宗教叙事由独唱与合唱分担
   - pdmx-001324 | 门德尔松《以利亚》选段，浪漫主义清唱剧的戏剧张力
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Oratorio" — definitions and dating checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 2 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Oratorio".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 2.
 updated: 2026-10-28
 ---
 

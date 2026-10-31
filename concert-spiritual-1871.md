@@ -22,8 +22,8 @@ instances:
   - cyberhymnal-002828 | 《Deep River》，合唱化的灵歌，句尾拖长
   - wikifonia-000347 | 《Swing Low》，听应答结构在旋律谱里留下多少
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Jubilee Singers" — the 1871 tours checked, not quoted
-  - Dena J. Epstein, Sinful Tunes and Spirituals (University of Illinois Press, 1977) — oral tradition and early notation checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Jubilee Singers".
+  - Dena J. Epstein, Sinful Tunes and Spirituals (University of Illinois Press, 1977).
 updated: 2026-10-30
 ---
 

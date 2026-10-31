@@ -19,8 +19,8 @@ instances:
   - pdmx-000064 | 佩罗坦的四声部奥尔加农，长音托住花唱，几个声部靠谱面才能对齐
   - pdmx-001598 | 《Viderunt Omnes》的奥尔加农，花唱与持续音叠合，记谱让这种结构可以流传
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Guido of Arezzo" — dates and terms checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Guido of Arezzo".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

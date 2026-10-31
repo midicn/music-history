@@ -20,8 +20,8 @@ instances:
   - pdmx-002895 | 莱翁卡瓦洛1904年为卡鲁索写的《晨曲》几乎为唱片宣传而作
   - atepp-002446 | 古尔德1981年《哥德堡变奏曲》证明同一作品能靠不同录音长期销售
 sources:
-  - Pekka Gronow and Ilpo Saunio, An International History of the Recording Industry (Cassell) — chronology checked, not quoted
-  - Grove Music Online, entry "Record industry" — dates and terminology checked, not quoted
+  - Pekka Gronow and Ilpo Saunio, An International History of the Recording Industry (Cassell).
+  - Grove Music Online, entry "Record industry".
 updated: 2026-10-28
 ---
 

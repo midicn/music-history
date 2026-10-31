@@ -21,7 +21,7 @@ instances:
   - chinafolk-010302 | 天津《莲花落》，莲花落是鼓词类说唱的俗曲来源之一；C3 民歌，C1 无京韵大鼓录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 曲种条目与板式核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

@@ -20,8 +20,8 @@ instances:
   - giantmidi-001027 | 《五首钢琴小品》Op.23，末乐章第一次把十二音写成音列，句子短、跳进多
   - giantmidi-000930 | 韦伯恩《钢琴变奏曲》Op.27，音列被切成两三个音的细胞，音程与音色代替旋律
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Twelve-note music — method and chronology checked, not quoted
-  - Paul Griffiths, Modern Music and After, 3rd ed. (Oxford University Press, 2010) — serial repertoire checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Twelve-note music.
+  - Paul Griffiths, Modern Music and After, 3rd ed. (Oxford University Press, 2010).
 updated: 2026-10-28
 ---
 

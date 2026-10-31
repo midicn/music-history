@@ -20,8 +20,8 @@ instances:
   - atepp-001286 | 肖邦《夜曲》作品48之1，中段转暗，织体加厚，再回到开头
   - atepp-000369 | 格里格《抒情小品》作品54之4，标题就叫夜曲，和声带着北欧的凉意
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Nocturne" — definitions and dating checked, not quoted
-  - Jim Samson, The Music of Chopin — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Nocturne".
+  - Jim Samson, The Music of Chopin.
 updated: 2026-10-28
 ---
 

@@ -21,8 +21,8 @@ instances:
   - musicnet-000076 | 第八号开头，两件乐器用同一动机错开进入
   - musicnet-000110 | 《克鲁采》第一乐章，慢引子转快板，两件乐器争同一句话
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Sonata" — the accompanied sonata and Beethoven's title pages checked, not quoted
-  - Robin Stowell, ed., The Cambridge Companion to the Violin (Cambridge University Press, 1992) — repertory and performance checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Sonata".
+  - Robin Stowell, ed., The Cambridge Companion to the Violin (Cambridge University Press, 1992).
 updated: 2026-10-30
 ---
 

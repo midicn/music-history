@@ -21,8 +21,8 @@ instances:
   - giantmidi-002139 | 克拉拉·舒曼的浪漫曲，钢琴像她的第二副嗓子
   - pdmx-000719 | 莉莉·布朗热的和声，明亮里带着早熟的阴影
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Women in music" — outline checked, not quoted
-  - Karin Pendle, Women and Music, A History (Indiana University Press) — background checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Women in music".
+  - Karin Pendle, Women and Music, A History (Indiana University Press).
 updated: 2026-10-28
 ---
 

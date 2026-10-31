@@ -22,8 +22,8 @@ instances:
   - musicnet-000045 | B小调奏鸣曲的开头，听双音与隐伏声部怎样制造多声错觉
   - musicnet-000000 | E大调第三组曲的前奏曲，连续十六分音符把空弦当作低音踏板
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Bach" — the 1720 autograph and genre context checked, not quoted
-  - Joel Lester, Bach's Works for Solo Violin (Oxford University Press, 1999) — analysis and performance questions checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Bach".
+  - Joel Lester, Bach's Works for Solo Violin (Oxford University Press, 1999).
 updated: 2026-10-30
 ---
 

@@ -21,7 +21,7 @@ instances:
   - chinafolk-005565 | 唐代教坊曲名下的江苏民歌，听五声与句法；此曲属 C3 档，仅学习研究，因 C1 无唐代大曲录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 条目与年代核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

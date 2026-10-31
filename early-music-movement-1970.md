@@ -19,8 +19,8 @@ instances:
   - pdmx-002065 | 泰勒曼长笛与竖笛协奏曲，竖笛在20世纪由学校与古乐团一起复活
   - m21-000487 | 蒙特威尔第牧歌，无伴奏声部，听早期声乐的装饰与声部平衡
 sources:
-  - Grove Music Online, entry "Early music" and "Performance practice" — institutions and dates checked, not quoted
-  - Richard Taruskin, Text and Act (Oxford University Press) — authenticity debate checked, not quoted
+  - Grove Music Online, entry "Early music" and "Performance practice".
+  - Richard Taruskin, Text and Act (Oxford University Press).
 updated: 2026-10-30
 ---
 

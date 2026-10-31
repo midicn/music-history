@@ -21,8 +21,8 @@ instances:
   - atepp-006334 | 普罗科菲耶夫《罗密欧与朱丽叶》的告别场景用节奏停顿写不舍
   - pdmx-001318 | 普契尼《艺术家的生涯》把贫穷与爱情放在同一间阁楼
 sources:
-  - Grove Music Online, entry "Love" — examples checked, not quoted
-  - Denis de Rougemont, Love in the Western World (Princeton University Press) — argument checked, not quoted
+  - Grove Music Online, entry "Love".
+  - Denis de Rougemont, Love in the Western World (Princeton University Press).
 updated: 2026-10-28
 ---
 

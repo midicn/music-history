@@ -21,7 +21,7 @@ instances:
   - atepp-000234 | 《第二钢琴奏鸣曲》第一乐章，1943 年，听战后慢乐章的冷，C1
   - atepp-000238 | 《二十四首前奏曲与赋格》第 23 首，1950 至 1951 年，复调回到中心，C1
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Shostakovich, Dmitry" — 1937 premiere checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Shostakovich, Dmitry".
   - Grove Music Online 的 Symphony 条目，用于核对第五交响曲的创作背景与首演
 updated: 2026-10-28
 ---

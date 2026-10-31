@@ -20,8 +20,8 @@ instances:
   - giantmidi-004000 | 李斯特《梅菲斯托圆舞曲》第一首，1860年前后，听增和弦与半音经过
   - giantmidi-004026 | 李斯特改编的《罗恩格林》，听瓦格纳的和声离开人声后仍然发紧
 sources:
-  - Grove Music Online, entries "Harmony" and "Wagner, Richard" — chromatic practice checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — harmonic narrative checked, not quoted
+  - Grove Music Online, entries "Harmony" and "Wagner, Richard".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-30
 ---
 

@@ -20,8 +20,8 @@ instances:
   - pdmx-000092 | 门德尔松《仲夏夜之梦》的婚礼进行曲在19世纪成为入场信号
   - pdmx-002119 | 夏庞蒂埃《感恩赞》的前奏长期被当作颁奖礼开场，仪式音乐脱离了原场合
 sources:
-  - Catherine Bell, Ritual Theory, Ritual Practice (Oxford University Press) — framework checked, not quoted
-  - Grove Music Online, entry "Ritual" — examples checked, not quoted
+  - Catherine Bell, Ritual Theory, Ritual Practice (Oxford University Press).
+  - Grove Music Online, entry "Ritual".
 updated: 2026-10-28
 ---
 

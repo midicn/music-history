@@ -21,8 +21,8 @@ instances:
   - pdmx-001372 | 霍斯特军乐组曲把英国民歌带进军营与露天音乐会
   - atepp-001554 | 肖邦军队波罗乃兹在民族起义语境里被反复演奏
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "War and music" — dates checked, not quoted
-  - Annegret Fauser, Sounds of War (Oxford University Press) — background checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "War and music".
+  - Annegret Fauser, Sounds of War (Oxford University Press).
 updated: 2026-10-28
 ---
 

@@ -20,8 +20,8 @@ instances:
   - giantmidi-009373 | 乔普林《Elite Syncopations》，录音之前的拉格钢琴，听切分怎样写在谱面上
   - giantmidi-009404 | 乔普林《The Ragtime Dance》，同一时期拉格里的舞曲节奏
 sources:
-  - Grove Music Online, entry "Original Dixieland Jazz Band" — recording date and label checked, not quoted
-  - Ted Gioia, The History of Jazz (Oxford University Press) — early recording context checked, not quoted
+  - Grove Music Online, entry "Original Dixieland Jazz Band".
+  - Ted Gioia, The History of Jazz (Oxford University Press).
 updated: 2026-10-28
 ---
 

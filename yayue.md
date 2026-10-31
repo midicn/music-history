@@ -20,7 +20,7 @@ instances:
   - giantmidi-003591 | C1 现代钢琴曲，题名用“雅乐 E 角”，只是借律名，非雅乐
 sources:
   - 《周礼·春官》大司乐条 — 乐舞与职官记载核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — ritual framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

@@ -19,8 +19,8 @@ instances:
   - giantmidi-001027 | 作品23号五首钢琴曲，十二音技法成形前的临界作品
   - atepp-000115 | 韦伯恩作品27号变奏曲，十二音原则在节奏与音色上的延伸
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Schoenberg" — dates and works checked, not quoted
-  - Ethan Haimo, Schoenberg's Serial Odyssey (Oxford University Press, 1990) — row technique checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Schoenberg".
+  - Ethan Haimo, Schoenberg's Serial Odyssey (Oxford University Press, 1990).
 updated: 2026-10-28
 ---
 

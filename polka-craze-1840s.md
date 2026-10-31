@@ -22,8 +22,8 @@ instances:
   - atepp-000290 | 肖斯塔科维奇《黄金时代》中的波尔卡，舞曲变成讽刺
   - giantmidi-000312 | 鲍罗丁《海伦波尔卡》，沙龙波尔卡的优雅一面
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Polka" — the 1840s spread checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 3 (Oxford University Press, 2005) — dance music as commodity checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Polka".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 3 (Oxford University Press, 2005).
 updated: 2026-10-30
 ---
 

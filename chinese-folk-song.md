@@ -21,7 +21,7 @@ instances:
   - essen-000818 | C1 黄河船夫号子，号子的代表，听领合与短促重音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 分类与曲目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

@@ -20,8 +20,8 @@ instances:
   - giantmidi-006221 | Manookian 的萨克斯奏鸣曲，从低吟到高音区的爆发
   - wikifonia-000374 | 《Danny Boy》次中音萨克斯改编，听它在通俗旋律里的说话方式
 sources:
-  - Grove Music Online, entry "Saxophone" — patent and organology checked, not quoted
-  - Michael Segell, The Devil's Horn (Farrar, Straus and Giroux) — social history checked, not quoted
+  - Grove Music Online, entry "Saxophone".
+  - Michael Segell, The Devil's Horn (Farrar, Straus and Giroux).
 updated: 2026-10-28
 ---
 

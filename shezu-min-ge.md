@@ -20,7 +20,7 @@ instances:
   - chinafolk-000955 | 广东《客家山歌有名声》，畲族与客家杂居区的对照，听两种高腔的差别；C3 广东客家山歌，C1 无畲族录音
 sources:
   - 中国民间歌曲集成全国编辑委员会编，中国民间歌曲集成（中国 ISBN 中心）— 曲目与畲语区核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

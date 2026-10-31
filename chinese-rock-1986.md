@@ -18,7 +18,7 @@ instances:
   - essen-000818 | 陕北《黄河船夫号子》，一领众和的高腔，西北风与早期摇滚共用的腔调
 sources:
   - 郝舫《伤花怒放》与相关中国摇滚访谈，用于核对1986年演出与乐队年代
-  - Grove Music Online, entry "China, People's Republic of" — popular music after 1980 checked, not quoted
+  - Grove Music Online, entry "China, People's Republic of".
 updated: 2026-10-30
 ---
 

@@ -22,8 +22,8 @@ instances:
   - musicnet-000254 | F大调第三五重奏，听圆号如何在句尾托底
   - giantmidi-007829 | 贝多芬早年的管乐五重奏 Hess 19，同一编制在更重的和声里
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Wind quintet" — Cambini and Reicha dates checked, not quoted
-  - Ludwig Finscher, ed., Die Musik in Geschichte und Gegenwart, 2nd ed., article "Blaserquintett" — Paris publication context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Wind quintet".
+  - Ludwig Finscher, ed., Die Musik in Geschichte und Gegenwart, 2nd ed., article "Blaserquintett".
 updated: 2026-10-30
 ---
 

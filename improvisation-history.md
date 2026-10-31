@@ -20,8 +20,8 @@ instances:
   - atepp-001261 | 肖邦《幻想即兴曲》把即兴姿态写成固定作品
   - giantmidi-006448 | 胡梅尔为莫扎特协奏曲写的华彩证明自由也会被记谱保存
 sources:
-  - Paul Berliner, Thinking in Jazz (University of Chicago Press) — argument checked, not quoted
-  - Grove Music Online, entry "Improvisation" — history checked, not quoted
+  - Paul Berliner, Thinking in Jazz (University of Chicago Press).
+  - Grove Music Online, entry "Improvisation".
 updated: 2026-10-28
 ---
 

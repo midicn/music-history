@@ -19,8 +19,8 @@ instances:
   - pdmx-002697 | 维多利亚《圣体颂》，以圣咏为定旋律的复调，听圣咏怎样被其他声部包围
   - pdmx-002894 | 雷斯皮基《三首圣咏旋律前奏曲》，听圣咏在20世纪初变成音乐会素材
 sources:
-  - Grove Music Online, entry "Solesmes" — restoration, publications and papal documents checked, not quoted
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Gregorian chant" — notation and rhythm checked, not quoted
+  - Grove Music Online, entry "Solesmes".
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Gregorian chant".
 updated: 2026-10-30
 ---
 

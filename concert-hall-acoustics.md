@@ -21,8 +21,8 @@ instances:
   - mutopia-000497 | 贝多芬第五的合奏版，鞋盒厅把弦乐与定音鼓黏成一片
   - aria-194881 | 《一八一二年》要广场、钟声与炮声，混响由天空决定
 sources:
-  - Leo Beranek, Concert Halls and Opera Houses (Springer) — acoustic data checked, not quoted
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Acoustics" — history checked, not quoted
+  - Leo Beranek, Concert Halls and Opera Houses (Springer).
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Acoustics".
 updated: 2026-10-28
 ---
 

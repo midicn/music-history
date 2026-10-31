@@ -22,8 +22,8 @@ instances:
   - musicnet-000198 | 第四号奏鸣曲的慢引子，大提琴独白近乎宣叙调
   - musicnet-000224 | 勃拉姆斯第一号大提琴奏鸣曲，低音区与钢琴密集和声互相挤压
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Violoncello" — the Opus 5 sonatas and Duport checked, not quoted
-  - Robin Stowell, ed., The Cambridge Companion to the Cello (Cambridge University Press, 1999) — repertory development checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Violoncello".
+  - Robin Stowell, ed., The Cambridge Companion to the Cello (Cambridge University Press, 1999).
 updated: 2026-10-30
 ---
 

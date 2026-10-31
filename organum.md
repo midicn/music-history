@@ -19,8 +19,8 @@ instances:
   - pdmx-000064 | 佩罗坦《众君王坐席》，低音拉长、上方声部快速跑动
   - lakh-001773 | 学习区的奥尔加农示例，平行声部清楚；库内 C1 只有两首佩罗坦，此条为 C3 补充
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Organum" — terms and dating checked, not quoted
-  - Richard Hoppin, Medieval Music (Norton, 1978) — repertory checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Organum".
+  - Richard Hoppin, Medieval Music (Norton, 1978).
 updated: 2026-10-28
 ---
 

@@ -22,8 +22,8 @@ instances:
   - mutopia-000190 | 巴赫《In dulci jubilo》，圣诞歌被拆成声部之间的问答
   - giantmidi-003224 | 二十世纪的众赞歌前奏曲，听体裁如何被后来的管风琴家续写
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Chorale prelude" — genre types and dates checked, not quoted
-  - Peter Williams, The Organ Music of J. S. Bach (Cambridge University Press, 2nd ed. 2003) — Orgelbuchlein chronology checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Chorale prelude".
+  - Peter Williams, The Organ Music of J. S. Bach (Cambridge University Press, 2nd ed. 2003).
 updated: 2026-10-30
 ---
 

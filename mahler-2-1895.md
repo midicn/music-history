@@ -21,8 +21,8 @@ instances:
   - pdmx-001525 | 《亡儿之歌》选段，人声与乐队一起处理死亡与安慰
   - pdmx-001010 | 《第五交响曲》选段，听马勒后来怎样把葬礼与柔板放进同一部作品
 sources:
-  - Grove Music Online, entry "Symphony No. 2" — premiere and finale text checked, not quoted
-  - Jens Malte Fischer, Gustav Mahler (Yale University Press) — Berlin premiere checked, not quoted
+  - Grove Music Online, entry "Symphony No. 2".
+  - Jens Malte Fischer, Gustav Mahler (Yale University Press).
 updated: 2026-10-28
 ---
 

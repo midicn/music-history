@@ -22,9 +22,9 @@ instances:
   - pdmx-000540 | 马肖把常规弥撒五段写成一套，是中世纪复调的总结
   - pdmx-000875 | 希尔德加德的单声部作品，音域宽、跳进大胆，和圣咏的平稳形成对照
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Medieval music" — dating and repertory checked, not quoted
-  - Richard Hoppin, Medieval Music (Norton, 1978) — general narrative checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 1 — historical context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Medieval music".
+  - Richard Hoppin, Medieval Music (Norton, 1978).
+  - Richard Taruskin, The Oxford History of Western Music, vol. 1.
 updated: 2026-10-28
 ---
 

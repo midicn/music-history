@@ -20,7 +20,7 @@ instances:
   - chinafolk-000325 | 《翠莲卷》，卷本叙事，长篇韵文推进故事，非鼓词；C3 民歌，C1 无该乐种录音
 sources:
   - 贾凫西《木皮散人鼓词》— 明末鼓词文本核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — narrative song checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

@@ -21,7 +21,7 @@ instances:
   - chinafolk-004628 | 河南《锣鼓一打三不齐》，锣鼓调，听梆子腔流行区的节拍感，非豫剧唱段；C3 民歌，C1 无豫剧录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 条目与年代核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework and dates checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-28
 ---
 

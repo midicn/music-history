@@ -17,8 +17,7 @@ instances:
   - essen-000125 | 《双戴红花上北京》，进行曲节奏与明亮大调，听政治抒情的声音模板
   - essen-000189 | 《给北京捎封信》，同一时期北京题材民歌，句尾上扬的颂歌腔
 sources:
-  - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 样板戏条目与年代核对，未引用
-  - Grove Music Online, entry "China, People's Republic of" — model opera and orchestra checked, not quoted
+  - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）.
 updated: 2026-10-30
 ---
 

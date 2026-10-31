@@ -20,8 +20,8 @@ instances:
   - openscore-000025 | 《晨曲》的 OpenScore 数字转录，公共领域乐谱被转成可编辑、可交换的数据
   - atepp-002441 | 《哥德堡变奏曲》的演奏被录成 MIDI 事件，音符、时值与力度都成为可编辑的数据
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Computers and music" — terms checked, not quoted
-  - Nicholas Cook, Beyond the Score (Oxford University Press) — arguments checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Computers and music".
+  - Nicholas Cook, Beyond the Score (Oxford University Press).
 updated: 2026-10-28
 ---
 

@@ -20,7 +20,7 @@ instances:
   - chinafolk-008306 | C3 哭嫁（二），另一段哭嫁，听称呼与重复；C3 民歌，C1 无土家哭嫁录音
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 土家族音乐与打溜子条目核对，未引用
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China" — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
 updated: 2026-10-30
 ---
 

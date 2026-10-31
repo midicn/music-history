@@ -21,8 +21,8 @@ instances:
   - pdmx-001622 | 苏萨托的《Danserye》舞曲集，印本把同一套舞曲卖给不同编制的乐手
   - pdmx-000678 | 普莱福德《英国舞曲手册》中的《Argeers》，印刷让乡村舞曲成为城市读物
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Printing and publishing of music" — dates checked, not quoted
-  - Tim Carter, Music in Late Renaissance and Early Baroque Italy (Amadeus Press) — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Printing and publishing of music".
+  - Tim Carter, Music in Late Renaissance and Early Baroque Italy (Amadeus Press).
 updated: 2026-10-28
 ---
 

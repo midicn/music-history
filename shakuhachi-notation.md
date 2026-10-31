@@ -20,8 +20,8 @@ instances:
   - mutopia-001704 | 《樱花》改编版，听拨弦与吹管如何各自保留句读；非尺八录音
   - giantmidi-007368 | 山田耕筰《日本剪影》，近代日本作曲家把传统音阶写进钢琴
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Shakuhachi — schools and notation checked, not quoted
-  - William P. Malm, Traditional Japanese Music and Musical Instruments (Kodansha) — notation and transmission checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry Shakuhachi.
+  - William P. Malm, Traditional Japanese Music and Musical Instruments (Kodansha).
 updated: 2026-10-30
 ---
 

@@ -21,8 +21,8 @@ instances:
   - pdmx-000126 | 韩德尔《塞尔斯》HWV 40，著名咏叹调在极简伴奏上展开，返始段留给歌手加花
   - pdmx-000244 | 韩德尔《阿里奥丹特》HWV 33，三幕结构里宣叙调推剧情，咏叹调停下抒情
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Opera seria" — definitions and chronology checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 2 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Opera seria".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 2.
 updated: 2026-10-28
 ---
 

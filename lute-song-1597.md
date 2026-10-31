@@ -22,8 +22,8 @@ instances:
   - pdmx-001242 | 同一首《Come again》的另一份谱本，听旋律脱离原有伴奏独立流传
   - giantmidi-006717 | 《道兰的加利亚德》，纯器乐舞曲，同一语汇离开人声仍然成立
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Dowland" — dates and print history checked, not quoted
-  - Diana Poulton, John Dowland (Faber and Faber, 2nd ed. 1982) — biography and the 1597 songbook checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Dowland".
+  - Diana Poulton, John Dowland (Faber and Faber, 2nd ed. 1982).
 updated: 2026-10-30
 ---
 

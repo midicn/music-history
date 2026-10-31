@@ -19,8 +19,8 @@ instances:
   - pdmx-002271 | 《Alma Redemptoris Mater》是圣母对经，句尾落回同一终止音，调式轮廓靠记谱固定
   - pdmx-000875 | 希尔德加德的女声单旋律，修道院手稿里的纽姆传统，音域窄而起伏自由
 sources:
-  - Grove Music Online, entry "Neume" — history and terminology checked, not quoted
-  - Willi Apel, Gregorian Chant (Indiana University Press, 1958) — repertory and liturgy checked, not quoted
+  - Grove Music Online, entry "Neume".
+  - Willi Apel, Gregorian Chant (Indiana University Press, 1958).
 updated: 2026-10-28
 ---
 

@@ -21,8 +21,8 @@ instances:
   - pdmx-000302 | 普契尼《图兰朵》借中国旋律，却仍讲欧洲的东方故事
   - pdmx-002458 | 鲍罗丁《在中亚细亚草原》用双主题描绘东西相遇
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Orientalism" — dates checked, not quoted
-  - Edward W. Said, Orientalism (Pantheon Books) — framework checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Orientalism".
+  - Edward W. Said, Orientalism (Pantheon Books).
 updated: 2026-10-28
 ---
 

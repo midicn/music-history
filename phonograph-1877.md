@@ -20,8 +20,8 @@ instances:
   - m21-000481 | 《枫叶拉格》，1899年的谱面畅销曲，唱片工业早期的热门曲目
   - m21-000482 | 《亚历山大的拉格泰姆乐队》，1911年的流行热曲，留声机把舞曲带进客厅
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Recording" — dates and technology checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press) — narrative checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Recording".
+  - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
 updated: 2026-10-28
 ---
 

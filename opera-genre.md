@@ -21,8 +21,8 @@ instances:
   - pdmx-000368 | 比才《卡门》选段，西班牙节奏与主导动机贴着人物走
   - pdmx-001938 | 普契尼《贾尼·斯基基》中的女高音咏叹调，旋律线长而连贯
 sources:
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Opera" — definitions and dating checked, not quoted
-  - Richard Taruskin, The Oxford History of Western Music, vol. 2 — context checked, not quoted
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Opera".
+  - Richard Taruskin, The Oxford History of Western Music, vol. 2.
 updated: 2026-10-28
 ---
 

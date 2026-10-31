@@ -20,8 +20,8 @@ instances:
   - giantmidi-001633 | C.P.E.巴赫升f小调幻想曲H.300，1787年，听自由节奏与突强的极端
   - atepp-000474 | 海顿c小调奏鸣曲Hob.XVI:20行板，1771年，听小调里的克制与不安
 sources:
-  - Grove Music Online, entry "Sturm und Drang" — literary and musical usage checked, not quoted
-  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Haydn, Joseph" — symphonies and dates checked, not quoted
+  - Grove Music Online, entry "Sturm und Drang".
+  - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Haydn, Joseph".
 updated: 2026-10-30
 ---
 

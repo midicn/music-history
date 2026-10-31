@@ -19,8 +19,8 @@ instances:
   - openscore-000022 | 《夏夜》中的《维拉内尔》，1841年，听旋律的轻盈与和声的暗色并存
   - openscore-000007 | 《夏夜》中的《玫瑰幽灵》，同一套曲的慢歌，听人声被器乐化的伴奏托起
 sources:
-  - Grove Music Online, entry "Berlioz, Hector" — premiere, programme and revisions checked, not quoted
-  - David Cairns, Berlioz, The Making of an Artist (Allen Lane) — biography and first performance checked, not quoted
+  - Grove Music Online, entry "Berlioz, Hector".
+  - David Cairns, Berlioz, The Making of an Artist (Allen Lane).
 updated: 2026-10-30
 ---
 
