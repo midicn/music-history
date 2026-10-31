@@ -20,7 +20,7 @@ instances:
   - giantmidi-008252 | 《俄罗斯主题随想曲》——民歌主题被拆开重组，不是引用，而是把旋律的骨架拿来用（C1）
   - pdmx-000966 | 《夜莺》主题变奏——少年成名的钢琴曲，听一支浪漫曲怎样被拆成越来越华丽的变奏（C1）
 sources:
-  - 格林卡生平、两部歌剧的首演与作品，参 The New Grove Dictionary of Music and Musicians, "Glinka, Mikhail"；本文为原创表述
+  - 格林卡生平、两部歌剧的首演与作品，参 The New Grove Dictionary of Music and Musicians, "Glinka, Mikhail"
   - 俄罗斯民族乐派的形成与五人团，参通行格林卡研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

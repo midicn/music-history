@@ -21,7 +21,7 @@ instances:
   - openscore-001452 | 《Blow, Blow, Thou Winter Wind》，莎士比亚词，分节歌，听伴奏怎样跟着词义变（C1）
   - openscore-000003 | 《The Miller of Mansfield》，剧乐里的歌曲，句短、节奏活泼，是伦敦舞台的日常（C1）
 sources:
-  - 阿恩生平、伦敦剧院与沃克斯霍尔花园职位，参 The New Grove Dictionary of Music and Musicians 的 Arne 条；本文为原创表述
+  - 阿恩生平、伦敦剧院与沃克斯霍尔花园职位，参 The New Grove Dictionary of Music and Musicians 的 Arne 条
   - 十八世纪英国舞台音乐与莎士比亚配乐传统，参通行英国音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

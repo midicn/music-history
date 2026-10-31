@@ -22,7 +22,7 @@ instances:
   - giantmidi-006012 | 《法国王后的苦难》Op.23——用键盘写玛丽·安托瓦内特受刑，听钟声与进行曲的暗示（C1）
   - giantmidi-006000 | 《狩猎》C.146——听号角式音型怎样在键盘上模仿猎号（C1）
 sources:
-  - 杜塞克生平、伦敦出版事业与作品编号，参 The New Grove Dictionary of Music and Musicians, "Dussek, Jan Ladislav"；本文为原创表述
+  - 杜塞克生平、伦敦出版事业与作品编号，参 The New Grove Dictionary of Music and Musicians, "Dussek, Jan Ladislav"
   - 古典钢琴奏鸣曲与标题音乐早期形态，参通行杜塞克研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

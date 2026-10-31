@@ -22,7 +22,7 @@ instances:
   - giantmidi-008097 | 《奥里伯爵》幻想曲 Op.34——罗西尼歌剧改编，听炫技段落（C1）
   - mutopia-000593 | 《两首小前奏曲》——短小的和声练习，听调性色彩（C1）
 sources:
-  - 卡尔卡西生平、巴黎教学与作品目录，参 The New Grove Dictionary of Music and Musicians, "Carcassi, Matteo"；本文为原创表述
+  - 卡尔卡西生平、巴黎教学与作品目录，参 The New Grove Dictionary of Music and Musicians, "Carcassi, Matteo"
   - 十九世纪吉他教程与歌剧改编曲，参通行卡尔卡西研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

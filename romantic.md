@@ -23,7 +23,7 @@ instances:
   - pdmx-001623 | 两个乐章就结束的交响曲，抒情旋律与突然的停顿同样重要
   - pdmx-000580 | 庞大合唱与管弦乐把安魂曲变成公共仪式的声音，空间本身参与作曲
 sources:
-  - Taruskin, Music in the Nineteenth Century（Oxford, 2010），用于核对年代、体裁与社会背景，本文为原创表述
+  - Taruskin, Music in the Nineteenth Century（Oxford, 2010），用于核对年代、体裁与社会背景
   - Grove Music Online 的 Romanticism 与相关作曲家条目，用于交叉核对史实
   - midi-lib v1.23 catalog 的时期、乐器与许可字段，用于实例与选曲核验
 updated: 2026-10-28

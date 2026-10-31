@@ -20,7 +20,7 @@ instances:
   - giantmidi-001837 | 《三页奏鸣曲》——篇幅很短而密度极高，听左手固定音型与右手自由节奏怎样错开（C1）
   - giantmidi-001835 | 《左投手》——早期钢琴小品，标题来自棒球，语汇里有进行曲与拉格的影子（C1）
 sources:
-  - 艾夫斯生平、保险业职业与作品年表，参 The New Grove Dictionary of Music and Musicians, "Ives, Charles"；本文为原创表述
+  - 艾夫斯生平、保险业职业与作品年表，参 The New Grove Dictionary of Music and Musicians, "Ives, Charles"
   - 《康科德奏鸣曲》的标题与文字说明，参艾夫斯《Essays Before a Sonata》；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

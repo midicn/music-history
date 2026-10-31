@@ -21,7 +21,7 @@ instances:
   - atepp-006622 | 莫扎特《c 小调幻想曲》K. 475——莫扎特离开萨尔茨堡宫廷后，靠出版、演出与教学生活；这首钢琴曲是「市场里的自由」的声音（C1 · CC-BY-4.0）
   - atepp-003121 | 贝多芬《迪亚贝利变奏曲》Op. 120——为出版商与公开音乐会写作的变奏曲；听「作品」怎样取代「职务」（C1 · CC-BY-4.0）
 sources:
-  - 宫廷/教会赞助到公共音乐会与出版市场的转变，参 The New Grove Dictionary of Music and Musicians, "Patronage" 与 "Concert"；本文为原创表述
+  - 宫廷/教会赞助到公共音乐会与出版市场的转变，参 The New Grove Dictionary of Music and Musicians, "Patronage" 与 "Concert"
   - 海顿、莫扎特、贝多芬的职业处境，参通行音乐社会史；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

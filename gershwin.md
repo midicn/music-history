@@ -19,7 +19,7 @@ instances:
   - giantmidi-004937 | 《里亚托涟漪》——早期的拉格泰姆小品，听左手怎样把舞厅的节奏推起来（C1 · CC-BY-4.0）
   - giantmidi-004940 | 《我爱的男人》——原本是歌曲，钢琴版仍保留人声般的长线条与叹息（C1 · CC-BY-4.0）
 sources:
-  - 格什温生平、百老汇经历与作品目录，参 The New Grove Dictionary of Music and Musicians, "Gershwin, George"；本文为原创表述
+  - 格什温生平、百老汇经历与作品目录，参 The New Grove Dictionary of Music and Musicians, "Gershwin, George"
   - 《蓝色狂想曲》与爵士时代音乐背景，参通行格什温研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

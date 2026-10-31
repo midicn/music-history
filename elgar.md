@@ -20,7 +20,7 @@ instances:
   - pdmx-002713 | 《威仪堂堂进行曲》第一号——英国公共仪式的声音，听中段旋律怎样从庄严转向歌唱（C1 · CC-BY-4.0）
   - pdmx-002839 | 《大提琴协奏曲》Op. 85——晚期的沉郁，独奏一开口就像一个人独自说话（C1 · CC-BY-4.0）
 sources:
-  - 埃尔加生平、伍斯特出身与作品编号，参 The New Grove Dictionary of Music and Musicians, "Elgar, Edward"；本文为原创表述
+  - 埃尔加生平、伍斯特出身与作品编号，参 The New Grove Dictionary of Music and Musicians, "Elgar, Edward"
   - 《谜语变奏曲》与英国音乐复兴的背景，参通行埃尔加研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

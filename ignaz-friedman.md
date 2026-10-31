@@ -21,7 +21,7 @@ instances:
   - giantmidi-005769 | 《帕格尼尼主题练习曲》，听小提琴的跳弓被改成键盘上的跳跃（C1）
   - giantmidi-005759 | 《八首前奏曲》Op.80，每首一个情绪，短句收得干脆（C1）
 sources:
-  - 弗里德曼生平、莱比锡与维也纳学习经历，参 The New Grove Dictionary of Music and Musicians 的 Friedman 条目；本文为原创表述
+  - 弗里德曼生平、莱比锡与维也纳学习经历，参 The New Grove Dictionary of Music and Musicians 的 Friedman 条目
   - 波兰舞曲体裁与弗里德曼钢琴作品的出版情况，参通行二十世纪钢琴演奏史研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

@@ -20,7 +20,7 @@ instances:
   - giantmidi-005516 | 《织物》，节奏像织机反复，听机械的规律怎样变成结构（C1）
   - giantmidi-005514 | 《两首小品》HC 463，晚年作品，听音簇被收进更安静的和声里（C1）
 sources:
-  - 考威尔生平、加州童年与哥伦比亚任教，参 The New Grove Dictionary of Music and Musicians 的 Cowell 条目；本文为原创表述
+  - 考威尔生平、加州童年与哥伦比亚任教，参 The New Grove Dictionary of Music and Musicians 的 Cowell 条目
   - 音簇技法与《新音乐资源》的理论背景，参通行美国实验音乐研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

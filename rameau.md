@@ -21,7 +21,7 @@ instances:
   - mutopia-001372 | 《铃鼓舞》——节奏型反复出现，听右手旋律如何在固定低音上换气（C1）
   - giantmidi-006161 | 《A 小调组曲》RCT 5——较晚的组曲，和声更冒险，可与早期法国键盘传统对照（C1）
 sources:
-  - 拉莫生平、和声论著与歌剧年表，参 The New Grove Dictionary of Music and Musicians, "Rameau, Jean-Philippe"；本文为原创表述
+  - 拉莫生平、和声论著与歌剧年表，参 The New Grove Dictionary of Music and Musicians, "Rameau, Jean-Philippe"
   - 法国巴洛克键盘音乐与歌剧争论的背景，参通行拉莫研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

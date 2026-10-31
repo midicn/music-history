@@ -20,7 +20,7 @@ instances:
   - cyberhymnal-005801 | 《Low in the Grave He Lay》——复活节诗歌，主歌低沉、副歌突然昂扬，听对比怎样写成（C1）
   - cyberhymnal-000807 | 《All the Way My Savior Leads Me》——克罗斯比作词、劳里配曲，听旋律怎样一步步上行表示“一路引领”（C1）
 sources:
-  - 劳里生平、牧职与赞美诗作品，参 The New Grove Dictionary of Music and Musicians, "Lowry, Robert"；本文为原创表述
+  - 劳里生平、牧职与赞美诗作品，参 The New Grove Dictionary of Music and Musicians, "Lowry, Robert"
   - 十九世纪美国浸信会与福音诗歌，参通行美国宗教音乐研究；实例为声乐或管风琴改编，说明为本站听辨提示
 updated: 2026-10-30
 ---

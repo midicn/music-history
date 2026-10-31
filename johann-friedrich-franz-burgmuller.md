@@ -22,7 +22,7 @@ instances:
   - giantmidi-004438 | 《玫瑰的花篮》Op.68——沙龙小品集，听圆舞曲式的优雅（C1）
   - giantmidi-004439 | 《埃尔纳尼》华丽幻想曲 Op.92——歌剧改编，听炫技段落怎样串起威尔第旋律（C1）
 sources:
-  - 布格缪勒生平、巴黎教学与作品目录，参 The New Grove Dictionary of Music and Musicians, "Burgmüller, Friedrich"；本文为原创表述
+  - 布格缪勒生平、巴黎教学与作品目录，参 The New Grove Dictionary of Music and Musicians, "Burgmüller, Friedrich"
   - 十九世纪巴黎钢琴教材与歌剧改编曲，参通行布格缪勒研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

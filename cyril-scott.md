@@ -21,7 +21,7 @@ instances:
   - giantmidi-002319 | 《丛林之书印象》，几段短曲连成一组，听动物形象怎样靠节奏区分（C1）
   - giantmidi-002326 | 《第一钢琴奏鸣曲》Op.66，大结构里仍有小品的语气，听和声怎样代替发展（C1）
 sources:
-  - 斯科特生平、法兰克福求学与晚年写作，参 The New Grove Dictionary of Music and Musicians 的 Scott 条目；本文为原创表述
+  - 斯科特生平、法兰克福求学与晚年写作，参 The New Grove Dictionary of Music and Musicians 的 Scott 条目
   - 英国印象主义与《莲乡》的接受史，参通行二十世纪英国钢琴音乐研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

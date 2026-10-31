@@ -21,7 +21,7 @@ instances:
   - openscore-000556 | 《如果这一切只是一场可怜的梦》，长句被钢琴的琶音托住（C1）
   - openscore-000597 | 《在无边的悲伤里》，低音区缓慢移动，听悲伤怎样被写成和声而不是表情（C1）
 sources:
-  - 布隆热生平、1913 年罗马大奖与 1918 年早逝，参 The New Grove Dictionary of Music and Musicians 的 Boulanger, Lili 条目；本文为原创表述
+  - 布隆热生平、1913 年罗马大奖与 1918 年早逝，参 The New Grove Dictionary of Music and Musicians 的 Boulanger, Lili 条目
   - 《克莱里耶尔在天空》的诗歌来源与歌曲结构，参通行法国艺术歌曲研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

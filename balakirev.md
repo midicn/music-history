@@ -21,7 +21,7 @@ instances:
   - giantmidi-008293 | 《俄罗斯民歌大幻想曲》Op. 4——一串变奏把民歌从简推到繁，听织体怎样一层层加厚（C1）
   - giantmidi-008289 | 《摇篮曲》——短小的沙龙小品，听歌唱性旋律怎样靠左手的分句托住（C1）
 sources:
-  - 巴拉基列夫生平、五人团与俄罗斯民族乐派，参 The New Grove Dictionary of Music and Musicians, "Balakirev, Mily"；本文为原创表述
+  - 巴拉基列夫生平、五人团与俄罗斯民族乐派，参 The New Grove Dictionary of Music and Musicians, "Balakirev, Mily"
   - 《伊斯拉美》与民歌改编的听点，参通行巴拉基列夫研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

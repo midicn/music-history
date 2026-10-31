@@ -21,7 +21,7 @@ instances:
   - giantmidi-007647 | 《波多黎各纪念》Op.31——低音固定音型不断循环，听加勒比舞曲的脉搏怎样叠高（C1）
   - giantmidi-007652 | 《最后的希望》Op.16——沙龙抒情小品，听装饰音怎样代替人声的呼吸（C1）
 sources:
-  - 戈特沙尔克生平、新奥尔良与巴黎经历及作品编号，参 The New Grove Dictionary of Music and Musicians, "Gottschalk, Louis Moreau"；本文为原创表述
+  - 戈特沙尔克生平、新奥尔良与巴黎经历及作品编号，参 The New Grove Dictionary of Music and Musicians, "Gottschalk, Louis Moreau"
   - 十九世纪美国钢琴沙龙与加勒比舞曲背景，参通行戈特沙尔克研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

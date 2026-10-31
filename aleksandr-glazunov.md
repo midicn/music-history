@@ -21,7 +21,7 @@ instances:
   - giantmidi-000342 | 《以萨沙之名组曲》Op.2，听名字字母拼出的主题怎样逐段变形（C1）
   - giantmidi-000331 | 《四首前奏曲与赋格》Op.101，听晚期赋格的答题怎样保持调性清楚（C1）
 sources:
-  - 格拉祖诺夫生平、贝利亚耶夫圈子与圣彼得堡音乐学院任期，参 The New Grove Dictionary of Music and Musicians 的 Glazunov 条目，本文为原创表述
+  - 格拉祖诺夫生平、贝利亚耶夫圈子与圣彼得堡音乐学院任期，参 The New Grove Dictionary of Music and Musicians 的 Glazunov 条目
   - 八首交响曲与《伊戈尔王》补完工作的背景，参通行俄国音乐史研究，实例说明由本站撰写
 updated: 2026-10-30
 ---

@@ -22,7 +22,7 @@ instances:
   - giantmidi-005432 | 《三首夜曲》Op.87——非练习曲创作，听巴黎沙龙式的抒情与轻触（C1）
   - giantmidi-005440 | 《休息》Op.101——标题小品，听慢速连奏怎样保持气息（C1）
 sources:
-  - 贝尔蒂尼生平、巴黎室内乐活动与作品目录，参 The New Grove Dictionary of Music and Musicians, "Bertini, Henri"；本文为原创表述
+  - 贝尔蒂尼生平、巴黎室内乐活动与作品目录，参 The New Grove Dictionary of Music and Musicians, "Bertini, Henri"
   - 十九世纪巴黎钢琴教学与练习曲体裁，参通行贝尔蒂尼研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

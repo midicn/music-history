@@ -20,7 +20,7 @@ instances:
   - cyberhymnal-008684 | 《St Barnabas》曲调，旋律音域窄，听和声怎样在窄音域里做出方向（C1）
   - cyberhymnal-010650 | 《Wellington》曲调，篇幅较长，注意每句结尾的音高，判断是否回到原调（C1）
 sources:
-  - 冈特利特生平、伦敦管风琴职位与赞美诗曲调数量，参 The New Grove Dictionary of Music and Musicians 的 Gauntlett 条；本文为原创表述
+  - 冈特利特生平、伦敦管风琴职位与赞美诗曲调数量，参 The New Grove Dictionary of Music and Musicians 的 Gauntlett 条
   - 维多利亚时代赞美诗集与管风琴制作的改良，参通行英国宗教音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

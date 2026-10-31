@@ -21,7 +21,7 @@ instances:
   - giantmidi-008376 | 《西班牙相册》Op.21——西班牙节奏被写成沙龙舞曲，听响板的错觉从和弦里出来（C1）
   - giantmidi-008387 | 《音乐会大圆舞曲》Op.88——听圆舞曲的伴奏型怎样被加厚成炫技段落（C1）
 sources:
-  - 莫什科夫斯基生平、布雷斯劳与柏林学习经历及作品编号，参 The New Grove Dictionary of Music and Musicians, "Moszkowski, Moritz"；本文为原创表述
+  - 莫什科夫斯基生平、布雷斯劳与柏林学习经历及作品编号，参 The New Grove Dictionary of Music and Musicians, "Moszkowski, Moritz"
   - 十九世纪钢琴练习曲与沙龙舞曲的背景，参通行莫什科夫斯基研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

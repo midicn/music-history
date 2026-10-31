@@ -20,7 +20,7 @@ instances:
   - mutopia-001821 | 《茶花女》长段选场，听薇奥莱塔的声乐线条从说话般的音调展开成宽广旋律，乐队与合唱在后半段才加压（C1 · MUTOPIA-MIXED）
   - mutopia-001825 | 《茶花女》另一选段，听场景转折处乐队怎样加压，独唱仍在前景；此条为缩编谱，非歌剧院实况（C1 · MUTOPIA-MIXED）
 sources:
-  - 威尔第生平、意大利歌剧传统与晚年创作，参 The New Grove Dictionary of Music and Musicians 的 Verdi 条目；本文为原创表述
+  - 威尔第生平、意大利歌剧传统与晚年创作，参 The New Grove Dictionary of Music and Musicians 的 Verdi 条目
   - 《弄臣》《茶花女》的听点参通行歌剧分析，实例为 Mutopia 缩编谱，说明由本站撰写
 updated: 2026-10-28
 ---

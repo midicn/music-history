@@ -21,7 +21,7 @@ instances:
   - giantmidi-002421 | 《前奏曲、赋格与变奏》Op.18——原是管风琴曲，钢琴版仍保留厚实的和弦与连绵的低音（C1）
   - giantmidi-002414 | 《慢舞》——少见的舞曲笔触，句子短，和声却一层层加深（C1）
 sources:
-  - 弗兰克生平、圣克洛蒂尔德教堂职位与巴黎音乐学院教职，参 The New Grove Dictionary of Music and Musicians, "Franck, César"；本文为原创表述
+  - 弗兰克生平、圣克洛蒂尔德教堂职位与巴黎音乐学院教职，参 The New Grove Dictionary of Music and Musicians, "Franck, César"
   - 循环形式与法国后期浪漫主义的背景，参通行弗兰克研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

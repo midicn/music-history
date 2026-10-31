@@ -21,7 +21,7 @@ instances:
   - giantmidi-006891 | 《十二首小步舞曲》Hob.IX:8——小步舞曲的礼仪感与海顿式的小玩笑并存，注意句尾的意外转折（C1 · CC-BY-4.0）
   - giantmidi-006893 | 《D 大调对舞》Hob.XXXIc:17b——一首短小的对舞，结构却完整；听海顿怎样用最少的材料把一句话说完（C1 · CC-BY-4.0）
 sources:
-  - 海顿生平、埃斯特哈齐任职与体裁贡献，参 The New Grove Dictionary of Music and Musicians, "Haydn"；本文为原创表述
+  - 海顿生平、埃斯特哈齐任职与体裁贡献，参 The New Grove Dictionary of Music and Musicians, "Haydn"
   - 舞曲与对舞作品 Hob.IX / Hob.XXXIc 的听点，参通行海顿研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

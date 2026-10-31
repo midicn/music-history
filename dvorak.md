@@ -21,7 +21,7 @@ instances:
   - musicnet-000258 | 同一首四重奏的第三乐章「浪漫曲」——抒情、歌唱，听民间旋律怎样被写成室内乐（C1 · CC-BY-4.0）
   - musicnet-000259 | 同一首四重奏的末乐章——舞曲性的节奏与复调收束；听「民族」与「古典」怎样共存（C1 · CC-BY-4.0）
 sources:
-  - 德沃夏克生平、波希米亚与美国时期、作品，参 The New Grove Dictionary of Music and Musicians, "Dvořák"；本文为原创表述
+  - 德沃夏克生平、波希米亚与美国时期、作品，参 The New Grove Dictionary of Music and Musicians, "Dvořák"
   - 《第十弦乐四重奏》的听点，参通行德沃夏克研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

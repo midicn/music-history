@@ -20,7 +20,7 @@ instances:
   - cyberhymnal-000183 | 《In Lovingkindness Jesus Came》——副歌第一句最高，听它怎样用一次上行完成“被举起”的意象（C1）
   - cyberhymnal-001791 | 《Brighten the Corner Where You Are》——进行曲式的短副歌，重复多、音域窄，适合听会众齐唱的设计（C1）
 sources:
-  - 加布里埃尔生平、编集与福音诗歌作品，参 The New Grove Dictionary of Music and Musicians, "Gabriel, Charles Hutchinson"；本文为原创表述
+  - 加布里埃尔生平、编集与福音诗歌作品，参 The New Grove Dictionary of Music and Musicians, "Gabriel, Charles Hutchinson"
   - 二十世纪初美国福音诗歌与唱诗班运动，参通行美国宗教音乐研究；实例为管风琴改编，说明为本站听辨提示
 updated: 2026-10-30
 ---

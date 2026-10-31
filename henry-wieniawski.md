@@ -21,7 +21,7 @@ instances:
   - giantmidi-007205 | 《第二音乐会练习曲》Op.36——高音区连续跑动，听技巧里怎样安排呼吸（C1）
   - giantmidi-007209 | 《夜曲》Op.37——歌唱性长句，听装饰音怎样不切断旋律（C1）
 sources:
-  - 维尼亚夫斯基生平、巴黎音乐学院与圣彼得堡教职，参 The New Grove Dictionary of Music and Musicians 的 Wieniawski, Henryk 条目；本文为原创表述
+  - 维尼亚夫斯基生平、巴黎音乐学院与圣彼得堡教职，参 The New Grove Dictionary of Music and Musicians 的 Wieniawski, Henryk 条目
   - 十九世纪小提琴炫技传统与波兰舞曲的演奏惯例，参通行小提琴史研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

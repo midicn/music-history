@@ -19,7 +19,7 @@ instances:
   - pdmx-002233 | 莫扎特十八岁写的四乐章交响曲，末乐章用密集对位推进，体裁已能承载复杂结构
   - pdmx-001715 | 海顿为伦敦公共音乐会写的后期交响曲，乐队规模与听众都换了天地
 sources:
-  - Taruskin, Music in the Eighteenth Century（Oxford, 2005），用于核对交响曲早期形态与曼海姆乐队，本文为原创表述
+  - Taruskin, Music in the Eighteenth Century（Oxford, 2005），用于核对交响曲早期形态与曼海姆乐队
   - Grove Music Online 的 Symphony 与 Stamitz 条目，用于交叉核对年代与体裁细节
 updated: 2026-10-28
 ---

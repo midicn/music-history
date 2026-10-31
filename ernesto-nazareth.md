@@ -20,7 +20,7 @@ instances:
   - giantmidi-003398 | 《Brejeiro》——标题意为“调皮鬼”，听右手切分与左手稳健低音怎样互相逗弄（C1）
   - giantmidi-003396 | 《Apanhei-te, cavaquinho》——快速的巴西探戈，听短句怎样一句接一句地追赶（C1）
 sources:
-  - 纳扎雷特生平、里约热内卢的钢琴职业与作品，参 The New Grove Dictionary of Music and Musicians, "Nazareth, Ernesto"；本文为原创表述
+  - 纳扎雷特生平、里约热内卢的钢琴职业与作品，参 The New Grove Dictionary of Music and Musicians, "Nazareth, Ernesto"
   - 巴西探戈、马克西谢与乔罗的关系，参通行巴西流行音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

@@ -21,7 +21,7 @@ instances:
   - giantmidi-006149 | 《爱情医生的芭蕾》LWV 8——与莫里哀合作的喜剧芭蕾，听舞曲的低音怎样稳住整支乐队（C1）
   - mutopia-001151 | 《Salve Regina》——宗教声乐，听多声部怎样在长音上叠出庄严（C1）
 sources:
-  - 吕利生平、皇家音乐学院特权与 LWV 编号，参 The New Grove Dictionary of Music and Musicians, "Lully, Jean-Baptiste"；本文为原创表述
+  - 吕利生平、皇家音乐学院特权与 LWV 编号，参 The New Grove Dictionary of Music and Musicians, "Lully, Jean-Baptiste"
   - 法国抒情悲剧与宫廷芭蕾的体裁背景，参通行吕利研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

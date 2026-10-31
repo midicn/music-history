@@ -21,7 +21,7 @@ instances:
   - giantmidi-006472 | 《华丽回旋曲》Op.109——音乐会用的炫技曲，听琶音伴奏怎样托住一支轻快的主题（C1）
   - giantmidi-006448 | 为莫扎特第二十钢琴协奏曲 K.466 写的华彩段——学生给老师的作品补一段独白，最能听出他的师承（C1）
 sources:
-  - 胡梅尔生平、艾斯特哈齐与魏玛职位及作品编号，参 The New Grove Dictionary of Music and Musicians, "Hummel, Johann Nepomuk"；本文为原创表述
+  - 胡梅尔生平、艾斯特哈齐与魏玛职位及作品编号，参 The New Grove Dictionary of Music and Musicians, "Hummel, Johann Nepomuk"
   - 古典与浪漫之交的钢琴演奏风格，参通行胡梅尔研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

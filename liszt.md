@@ -21,7 +21,7 @@ instances:
   - atepp-000488 | 《音乐会练习曲》S.144 第二首「轻巧」——听手指的轻盈与踏板的控制；virtuosity 在这里是音色，不只是速度（C1 · CC-BY-4.0）
   - atepp-000492 | 《音乐会练习曲》S.144 第三首「叹息」——同一体裁的另一面：歌唱性的旋律被华丽的伴奏包围；听「炫技」怎样服务于表情（C1 · CC-BY-4.0）
 sources:
-  - 李斯特生平、魏玛时期、交响诗与钢琴作品，参 The New Grove Dictionary of Music and Musicians, "Liszt"；本文为原创表述
+  - 李斯特生平、魏玛时期、交响诗与钢琴作品，参 The New Grove Dictionary of Music and Musicians, "Liszt"
   - 《音乐会练习曲》S.144/S.145 的听点，参通行李斯特研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

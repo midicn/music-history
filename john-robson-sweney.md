@@ -20,7 +20,7 @@ instances:
   - cyberhymnal-001524 | 《The Everlasting Arms》——旋律稳定、和声保守，听“永久的膀臂”怎样被写成持续的低音（C1）
   - cyberhymnal-000505 | 《Rock in the Desert》——主歌叙述、副歌重复，听它怎样用一个小跳进把荒凉转成依靠（C1）
 sources:
-  - 斯威尼生平、营地聚会音乐与歌本编集，参 The New Grove Dictionary of Music and Musicians, "Sweney, John Robson"；本文为原创表述
+  - 斯威尼生平、营地聚会音乐与歌本编集，参 The New Grove Dictionary of Music and Musicians, "Sweney, John Robson"
   - 十九世纪美国营地聚会与福音诗歌，参通行美国宗教音乐研究；实例为管风琴改编，说明为本站听辨提示
 updated: 2026-10-30
 ---

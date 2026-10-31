@@ -19,7 +19,7 @@ instances:
   - giantmidi-001602 | C 大调第一钢琴奏鸣曲 Op. 24——火花四溅的钢琴写作，炫技里仍有歌剧式的呼吸（C1 · CC-BY-4.0）
   - giantmidi-001606 | 《华丽波洛奈兹》Op. 72——波兰舞曲的节奏被推成音乐会炫技曲，听低音怎样稳稳托住右手（C1 · CC-BY-4.0）
 sources:
-  - 韦伯生平、德累斯顿歌剧院职位与作品编号，参 The New Grove Dictionary of Music and Musicians, "Weber, Carl Maria von"；本文为原创表述
+  - 韦伯生平、德累斯顿歌剧院职位与作品编号，参 The New Grove Dictionary of Music and Musicians, "Weber, Carl Maria von"
   - 《魔弹射手》与德国浪漫主义歌剧的背景，参通行韦伯研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

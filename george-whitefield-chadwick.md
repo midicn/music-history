@@ -20,7 +20,7 @@ instances:
   - giantmidi-004971 | 《五首小品》——短小的性格小品，听抒情段落里接近民歌的旋律怎样被半音和声托住（C1）
   - giantmidi-004970 | 《三首情歌》Op.8 的钢琴版——原是声乐作品，听旋律线怎样从人声移到右手（C1）
 sources:
-  - 查德威克生平、新英格兰音乐学院任期与作品，参 The New Grove Dictionary of Music and Musicians, "Chadwick, George Whitefield"；本文为原创表述
+  - 查德威克生平、新英格兰音乐学院任期与作品，参 The New Grove Dictionary of Music and Musicians, "Chadwick, George Whitefield"
   - 第二新英格兰乐派的群体与教育背景，参通行美国音乐史研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

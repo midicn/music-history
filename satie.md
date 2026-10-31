@@ -19,7 +19,7 @@ instances:
   - giantmidi-003286 | 《玄秘曲》——左手几乎不动，右手绕着同一片音区打转，像一段没有目的地的散步（C1 · CC-BY-4.0）
   - giantmidi-003313 | 《烦恼》——同一段旋律要重复八百多次，听重复怎样把熟悉变成陌生（C1 · CC-BY-4.0）
 sources:
-  - 萨蒂生平、玫瑰十字时期与作品目录，参 The New Grove Dictionary of Music and Musicians, "Satie, Erik"；本文为原创表述
+  - 萨蒂生平、玫瑰十字时期与作品目录，参 The New Grove Dictionary of Music and Musicians, "Satie, Erik"
   - 《烦恼》与家具音乐的观念背景，参通行萨蒂研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

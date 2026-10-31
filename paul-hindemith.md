@@ -21,7 +21,7 @@ instances:
   - giantmidi-008768 | 《音的游戏》，十二首赋格与间奏，听巴赫的形式被用来组织新和声（C1）
   - giantmidi-008766 | 《钢琴音乐》Op.37，听机械节奏与对位同时进行，像一台会思考的机器（C1）
 sources:
-  - 兴德米特生平、柏林教职与美国流亡，参 The New Grove Dictionary of Music and Musicians 的 Hindemith 条目；本文为原创表述
+  - 兴德米特生平、柏林教职与美国流亡，参 The New Grove Dictionary of Music and Musicians 的 Hindemith 条目
   - 《作曲技法》的调性理论与《音的游戏》的结构，参通行兴德米特研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

@@ -20,7 +20,7 @@ instances:
   - pdmx-002060 | 《Credidi》ZWV 85，诗篇经文歌，声部密集，听长句怎样在低音上叠起（C1）
   - pdmx-000386 | 《Sepulto Domino》ZWV 55:27，圣周应答咏，低音沉重，和弦移动极慢（C1）
 sources:
-  - 泽伦卡生平、德累斯顿宫廷职位与 ZWV 编号，参 The New Grove Dictionary of Music and Musicians 的 Zelenka 条；本文为原创表述
+  - 泽伦卡生平、德累斯顿宫廷职位与 ZWV 编号，参 The New Grove Dictionary of Music and Musicians 的 Zelenka 条
   - 德累斯顿天主教宫廷音乐与圣周应答咏的用途，参通行巴洛克宗教音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

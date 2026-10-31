@@ -22,7 +22,7 @@ instances:
   - giantmidi-001511 | 《古典风格中的钢琴家》Op.856——用古典作品片段训练风格，听他对旧句法的整理（C1）
   - giantmidi-001538 | 《贝多芬葬礼进行曲》Op.146——为悼念老师而写，听低音与和声的庄重（C1）
 sources:
-  - 车尔尼生平、维也纳教学与作品目录，参 The New Grove Dictionary of Music and Musicians, "Czerny, Carl"；本文为原创表述
+  - 车尔尼生平、维也纳教学与作品目录，参 The New Grove Dictionary of Music and Musicians, "Czerny, Carl"
   - 十九世纪钢琴练习曲的教学功能，参通行车尔尼研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

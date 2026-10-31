@@ -21,7 +21,7 @@ instances:
   - giantmidi-000638 | 《交响曲、咏叙调与托卡塔》Op.59，三个乐章三种触键，托卡塔像机器（C1）
   - giantmidi-000623 | 《十一首儿童小品》Op.35，短小，调性清楚，听现代和声怎样写给孩子（C1）
 sources:
-  - 卡塞拉生平、巴黎求学与意大利新音乐团体，参 The New Grove Dictionary of Music and Musicians 的 Casella 条目；本文为原创表述
+  - 卡塞拉生平、巴黎求学与意大利新音乐团体，参 The New Grove Dictionary of Music and Musicians 的 Casella 条目
   - 意大利新古典主义与卡塞拉钢琴作品的体裁，参通行二十世纪意大利音乐研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

@@ -20,7 +20,7 @@ instances:
   - pdmx-002458 | 《在中亚细亚草原上》——不靠主题发展，而靠持续音与色彩变化画出距离，像一幅慢慢展开的地图（C1）
   - giantmidi-000313 | 钢琴谐谑曲——短小的键盘作品，听俄罗斯式的重音与突然的转调怎样在几页纸里出现（C1）
 sources:
-  - 鲍罗丁生平、化学教职与五人团关系，参 The New Grove Dictionary of Music and Musicians, "Borodin, Aleksandr"；本文为原创表述
+  - 鲍罗丁生平、化学教职与五人团关系，参 The New Grove Dictionary of Music and Musicians, "Borodin, Aleksandr"
   - 《伊戈尔王》的续完过程与《在中亚细亚草原上》的背景，参通行鲍罗丁研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

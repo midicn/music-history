@@ -20,7 +20,7 @@ instances:
   - pdmx-002219 | 《Youkali》——慢探戈节奏，和声比旋律复杂，听“想象中的岛”怎样被写成一种乡愁（C1）
   - pdmx-000545 | 《September Song》——百老汇时期的抒情曲，听半音化的和声怎样配合“时间不多”的词意（C1）
 sources:
-  - 魏尔生平、魏玛时期合作与百老汇作品，参 The New Grove Dictionary of Music and Musicians, "Weill, Kurt"；本文为原创表述
+  - 魏尔生平、魏玛时期合作与百老汇作品，参 The New Grove Dictionary of Music and Musicians, "Weill, Kurt"
   - 《三分钱歌剧》与百老汇音乐剧的语境，参通行音乐戏剧研究；实例为无乐器标注的改编谱，说明为本站听辨提示
 updated: 2026-10-30
 ---

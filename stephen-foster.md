@@ -20,7 +20,7 @@ instances:
   - pdmx-000743 | 《坎普敦赛马》——快速、带模仿马蹄的伴奏音型，听副歌与主歌的节奏对比（C1）
   - pdmx-000973 | 《故乡的亲人》主题与变奏——原曲被改成钢琴变奏，听主题每次回来时伴奏怎样加厚（C1）
 sources:
-  - 福斯特生平、歌曲目录与出版情况，参 The New Grove Dictionary of Music and Musicians, "Foster, Stephen"；本文为原创表述
+  - 福斯特生平、歌曲目录与出版情况，参 The New Grove Dictionary of Music and Musicians, "Foster, Stephen"
   - 十九世纪美国游吟秀与客厅歌曲的背景，参通行美国音乐史研究；实例为钢琴改编，说明为本站听辨提示
 updated: 2026-10-30
 ---

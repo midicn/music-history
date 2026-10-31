@@ -20,7 +20,7 @@ instances:
   - mutopia-001357 | 《亚瑟王》中的冷歌——同一段低音反复，声部却越唱越僵，听珀塞尔怎样用和声制造寒意（C1 · CC-BY-4.0）
   - pdmx-002789 | 降 B 大调三部奏鸣曲 Z.791——两把小提琴与低音互相追赶，是珀塞尔器乐写作最清爽的一面（C1 · CC-BY-4.0）
 sources:
-  - 珀塞尔生平、威斯敏斯特教堂职位与作品编号，参 The New Grove Dictionary of Music and Musicians, "Purcell, Henry"；本文为原创表述
+  - 珀塞尔生平、威斯敏斯特教堂职位与作品编号，参 The New Grove Dictionary of Music and Musicians, "Purcell, Henry"
   - 《狄多与埃涅阿斯》与半歌剧的体裁背景，参通行珀塞尔研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

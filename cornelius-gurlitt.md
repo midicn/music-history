@@ -22,7 +22,7 @@ instances:
   - giantmidi-002277 | 《啊，亲爱的奥古斯丁变奏曲》Op.115——每段模仿一位作曲家，听风格的变换（C1）
   - giantmidi-002275 | 《技巧与旋律》Op.228——听练习与歌唱怎样在同一首曲子里兼顾（C1）
 sources:
-  - 古利特生平、阿尔托纳与哥本哈根经历，参 The New Grove Dictionary of Music and Musicians, "Gurlitt, Cornelius"；本文为原创表述
+  - 古利特生平、阿尔托纳与哥本哈根经历，参 The New Grove Dictionary of Music and Musicians, "Gurlitt, Cornelius"
   - 十九世纪儿童钢琴教材与教学小曲，参通行古利特研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

@@ -21,7 +21,7 @@ instances:
   - giantmidi-001625 | 《告别我的西尔伯曼古钢琴》H.272，回旋曲里夹着宣叙，琴像在说话（C1）
   - giantmidi-001672 | 《f 小调奏鸣曲》H.40，三个乐章对比强烈，听奏鸣曲式未定型时的自由（C1）
 sources:
-  - 巴赫生平、柏林与汉堡职位及 H 编号，参 The New Grove Dictionary of Music and Musicians 的 Bach, Carl Philipp Emanuel 条；本文为原创表述
+  - 巴赫生平、柏林与汉堡职位及 H 编号，参 The New Grove Dictionary of Music and Musicians 的 Bach, Carl Philipp Emanuel 条
   - 《试论键盘演奏的正确方式》1753 年与 1762 年两卷，参通行十八世纪键盘研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

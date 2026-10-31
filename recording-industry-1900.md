@@ -43,7 +43,7 @@ updated: 2026-10-28
 
 ## 听一段转折
 
-库中没有1900年的原始唱片，以下为MIDI还原。先听卡鲁索唱红的《晨歌》，再听《丑角》咏叹调，然后听《枫叶拉格》与苏萨进行曲。听短句与铜管，想象78转唱片的窄频响。
+库中没有1900年的原始唱片，以下为 MIDI还原。先听卡鲁索唱红的《晨歌》，再听《丑角》咏叹调，然后听《枫叶拉格》与苏萨进行曲。听短句与铜管，想象78转唱片的窄频响。
 
 ```audiolab
 {"type":"instrument","gm":"Brass Section","synth":"brass","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"唱片工业：铜管进行曲成为货架上的声音","label_en":"Record industry: a brass march becomes a product","hint":"听强拍与合奏，想象它在78转唱片上的窄频响","hint_en":"Hear the strong beats and the ensemble, then imagine them through a 78 rpm horn"}

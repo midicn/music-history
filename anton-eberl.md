@@ -20,7 +20,7 @@ instances:
   - giantmidi-000882 | 《c 小调钢琴奏鸣曲》Op.1——以 c 小调写的第一号，听年轻作曲家的冲动（C1）
   - giantmidi-000883 | 《C 大调小奏鸣曲》Op.5——教学用小奏鸣曲，听简洁织体与清楚段落（C1）
 sources:
-  - 艾贝尔生平、圣彼得堡宫廷职位与作品目录，参 The New Grove Dictionary of Music and Musicians, "Eberl, Anton"；本文为原创表述
+  - 艾贝尔生平、圣彼得堡宫廷职位与作品目录，参 The New Grove Dictionary of Music and Musicians, "Eberl, Anton"
   - 维也纳古典乐派的同城竞争与出版环境，参通行艾贝尔研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

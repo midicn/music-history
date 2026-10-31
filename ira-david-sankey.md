@@ -20,7 +20,7 @@ instances:
   - cyberhymnal-001656 | 《Blessed Redeemer》——克罗斯比作词、桑基配曲，副歌短而重复，适合听会众跟唱的设计（C1）
   - cyberhymnal-004337 | 《Hiding in Thee》——旋律起伏不大，和声稳定，听它怎样用安静的语气唱出庇护的意象（C1）
 sources:
-  - 桑基生平、与穆迪的合作及《Sacred Songs and Solos》，参 The New Grove Dictionary of Music and Musicians, "Sankey, Ira David"；本文为原创表述
+  - 桑基生平、与穆迪的合作及《Sacred Songs and Solos》，参 The New Grove Dictionary of Music and Musicians, "Sankey, Ira David"
   - 十九世纪美国福音诗歌与布道会音乐，参通行美国宗教音乐研究；实例为管风琴改编，说明为本站听辨提示
 updated: 2026-10-30
 ---

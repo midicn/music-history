@@ -21,7 +21,7 @@ instances:
   - cyberhymnal-005988 | 《Marching Along》——进行曲式的主日学歌曲，听节奏的推动（C1）
   - cyberhymnal-004792 | 《在马槽里安放》——圣诞赞美诗，听分节歌的旋律怎样重复（C1）
 sources:
-  - 布拉德伯里生平、纽约教学与歌本出版，参 The New Grove Dictionary of Music and Musicians, "Bradbury, William Batchelder"；本文为原创表述
+  - 布拉德伯里生平、纽约教学与歌本出版，参 The New Grove Dictionary of Music and Musicians, "Bradbury, William Batchelder"
   - 十九世纪美国主日学歌曲与儿童赞美诗，参通行布拉德伯里研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

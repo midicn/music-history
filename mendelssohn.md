@@ -21,7 +21,7 @@ instances:
   - atepp-000400 | 《无词歌》Op. 102 第三首「塔兰泰拉」——一首没有歌词的歌；听钢琴怎样唱出旋律而保持伴奏的清晰（C1 · CC-BY-4.0）
   - atepp-000399 | 同一首谐谑曲的另一个钢琴改编录音——速度与触键不同；可对照听「精灵」的重量（C1 · CC-BY-4.0）
 sources:
-  - 门德尔松生平、莱比锡布商大厦与巴赫复兴，参 The New Grove Dictionary of Music and Musicians, "Mendelssohn"；本文为原创表述
+  - 门德尔松生平、莱比锡布商大厦与巴赫复兴，参 The New Grove Dictionary of Music and Musicians, "Mendelssohn"
   - 《仲夏夜之梦》与《无词歌》的听点，参通行门德尔松研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

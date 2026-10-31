@@ -20,7 +20,7 @@ instances:
   - atepp-005794 | 《童年情景》Op. 15 第十首《过分认真》，短小片段里调性与语气突然转折，是尤塞比乌斯式的低声独白（C1 · CC-BY-4.0）
   - aria-052086 | 《诗人之恋》Op. 48 的钢琴选段，听前奏与后奏替诗人说完没说出口的话；C1 仅有极短片段，此条为 C2 钢琴选段
 sources:
-  - 舒曼生平、大卫同盟与 1840 年歌曲创作，参 The New Grove Dictionary of Music and Musicians 的 Schumann 条目；本文为原创表述
+  - 舒曼生平、大卫同盟与 1840 年歌曲创作，参 The New Grove Dictionary of Music and Musicians 的 Schumann 条目
   - 钢琴小品与《诗人之恋》的听点参通行作品分析，实例说明由本站撰写
 updated: 2026-10-28
 ---

@@ -17,7 +17,7 @@ links:
   - "[[glossary:sonata-form]]"
   - "[[instrument:piano]]"
 sources:
-  - 贝多芬生平、三个创作时期与作品，参 The New Grove Dictionary of Music and Musicians, "Beethoven"；本文为原创表述
+  - 贝多芬生平、三个创作时期与作品，参 The New Grove Dictionary of Music and Musicians, "Beethoven"
   - 钢琴作品 Op. 51 与 Op. 120 的听点，参通行贝多芬研究；实例 why 为本站听辨提示
 instances:
   - atepp-003117 | 《C 大调回旋曲》Op. 51 No. 1——早期贝多芬的优雅与机智，句法仍然古典，但重音与转折已经开始「不听话」（C1 · CC-BY-4.0）

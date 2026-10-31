@@ -20,7 +20,7 @@ instances:
   - openscore-000007 | 《夏夜》中的《玫瑰幽灵》——同一套曲的慢歌，听人声如何被器乐化的伴奏托起（C1）
   - openscore-000071 | 《夏夜》中的《缺席》——离别之歌，听长线条旋律与不安的中声部（C1）
 sources:
-  - 柏辽兹生平、配器论与作品年表，参 The New Grove Dictionary of Music and Musicians, "Berlioz, Hector"；本文为原创表述
+  - 柏辽兹生平、配器论与作品年表，参 The New Grove Dictionary of Music and Musicians, "Berlioz, Hector"
   - 法国浪漫主义标题音乐与《夏夜》的背景，参通行柏辽兹研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

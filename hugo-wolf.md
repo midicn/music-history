@@ -21,7 +21,7 @@ instances:
   - openscore-000092 | 《沉默的爱》——低音沉下去、句子收住，听静默怎样被写出来（C1）
   - openscore-000257 | 《小夜曲》——钢琴模仿拨弦，听伴奏怎样一开口就定下场景（C1）
 sources:
-  - 沃尔夫生平、维也纳的评论写作与歌曲创作年表，参 The New Grove Dictionary of Music and Musicians 的 Wolf, Hugo 条目；本文为原创表述
+  - 沃尔夫生平、维也纳的评论写作与歌曲创作年表，参 The New Grove Dictionary of Music and Musicians 的 Wolf, Hugo 条目
   - 十九世纪德奥艺术歌曲与瓦格纳和声的关系，参通行艺术歌曲研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

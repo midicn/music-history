@@ -21,7 +21,7 @@ instances:
   - atepp-006367 | 同一首前奏曲的另一个录音——速度与触键不同，辽阔感也不同；可对照听「旋律」与「钟声」的比重（C1 · CC-BY-4.0）
   - atepp-006368 | 第三个录音——同一作品、不同传统；听拉赫玛尼诺夫式的「拉宽」怎样在钢琴上实现（C1 · CC-BY-4.0）
 sources:
-  - 拉赫玛尼诺夫生平、俄罗斯与美国时期、作品，参 The New Grove Dictionary of Music and Musicians, "Rachmaninoff"；本文为原创表述
+  - 拉赫玛尼诺夫生平、俄罗斯与美国时期、作品，参 The New Grove Dictionary of Music and Musicians, "Rachmaninoff"
   - 《十首前奏曲》Op. 23 的听点，参通行拉赫玛尼诺夫研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

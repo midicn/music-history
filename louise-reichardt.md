@@ -21,7 +21,7 @@ instances:
   - openscore-000203 | 《诺瓦利斯夜颂之后》——长句配圣咏式和声，听宗教语气进入情歌（C1）
   - openscore-000200 | 《民歌》——分节歌，旋律朴素，听钢琴只给和声骨架（C1）
 sources:
-  - 赖夏特生平、柏林家庭环境与汉堡歌唱学校，参 The New Grove Dictionary of Music and Musicians 的 Reichardt, Louise 条目；本文为原创表述
+  - 赖夏特生平、柏林家庭环境与汉堡歌唱学校，参 The New Grove Dictionary of Music and Musicians 的 Reichardt, Louise 条目
   - 柏林歌曲传统与早期浪漫派诗歌的谱曲史，参通行德国艺术歌曲研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

@@ -21,7 +21,7 @@ instances:
   - pdmx-002878 | 《威尼斯狂欢节》Op.10——一首民歌被变出各种花样，听泛音与拨弦怎样轮番上场（C1）
   - giantmidi-008480 | 《F 小调小行板》MS 102——炫技之外的一面，旋律安静，像在琴上低声说话（C1）
 sources:
-  - 帕格尼尼生平、1828 年起的欧洲巡演与作品编号，参 The New Grove Dictionary of Music and Musicians, "Paganini, Niccolò"；本文为原创表述
+  - 帕格尼尼生平、1828 年起的欧洲巡演与作品编号，参 The New Grove Dictionary of Music and Musicians, "Paganini, Niccolò"
   - 《二十四首随想曲》的技术背景与后世改编，参通行帕格尼尼研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

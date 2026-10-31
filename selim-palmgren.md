@@ -21,7 +21,7 @@ instances:
   - giantmidi-009432 | 《第一钢琴奏鸣曲》Op.11，单乐章的紧凑结构，听小品作者怎样处理大形式（C1）
   - giantmidi-009427 | 《左手间奏曲》，一只手完成伴奏与歌唱，听重心怎样留在低音（C1）
 sources:
-  - 帕姆格伦生平、赫尔辛基与北美任教经历，参 The New Grove Dictionary of Music and Musicians 的 Palmgren 条目；本文为原创表述
+  - 帕姆格伦生平、赫尔辛基与北美任教经历，参 The New Grove Dictionary of Music and Musicians 的 Palmgren 条目
   - 芬兰钢琴小品与二十四首前奏曲的体裁背景，参通行北欧钢琴音乐研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

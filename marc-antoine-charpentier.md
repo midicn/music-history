@@ -21,7 +21,7 @@ instances:
   - pdmx-002874 | 《圣诞午夜弥撒》慈悲经，法国圣诞歌被写进弥撒，听熟调藏在哪个声部（C1）
   - pdmx-002119 | 《感恩赞》H.146 全曲，独唱、合唱与乐队交替，听法国式的大协奏布局（C1）
 sources:
-  - 夏庞蒂埃生平、吉斯府与圣礼拜堂职位及 H 编号，参 The New Grove Dictionary of Music and Musicians 的 Charpentier 条；本文为原创表述
+  - 夏庞蒂埃生平、吉斯府与圣礼拜堂职位及 H 编号，参 The New Grove Dictionary of Music and Musicians 的 Charpentier 条
   - 法国十七世纪宗教音乐与圣诞歌弥撒的传统，参通行法国巴洛克研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

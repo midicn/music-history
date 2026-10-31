@@ -20,7 +20,7 @@ instances:
   - atepp-000299 | b 小调奏鸣曲 K. 27——半音与不协和音不断擦过，短小的二部结构里藏着不安（C1 · CC-BY-4.0）
   - atepp-000303 | D 大调奏鸣曲 K. 491——快速音型与跳跃的左手，典型的大键琴炫技，听重音怎样突然挪位（C1 · CC-BY-4.0）
 sources:
-  - 斯卡拉蒂生平、西班牙宫廷职位与 K 编号，参 The New Grove Dictionary of Music and Musicians, "Scarlatti, Domenico"；本文为原创表述
+  - 斯卡拉蒂生平、西班牙宫廷职位与 K 编号，参 The New Grove Dictionary of Music and Musicians, "Scarlatti, Domenico"
   - 键盘奏鸣曲的体裁与演奏特征，参通行斯卡拉蒂研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

@@ -21,7 +21,7 @@ instances:
   - giantmidi-008548 | 《钢琴奏鸣曲》Op.22，听单乐章怎样靠动机而不是旋律撑住结构（C1）
   - giantmidi-008555 | 《浪漫奏鸣曲》Op.53 之一，听晚期奏鸣曲的密集对位与长呼吸（C1）
 sources:
-  - 梅特纳生平、莫斯科音乐学院训练与伦敦晚年，参 The New Grove Dictionary of Music and Musicians 的 Medtner 条目，本文为原创表述
+  - 梅特纳生平、莫斯科音乐学院训练与伦敦晚年，参 The New Grove Dictionary of Music and Musicians 的 Medtner 条目
   - 《童话》与钢琴奏鸣曲的写作背景，参通行梅特纳研究，实例说明由本站撰写
 updated: 2026-10-30
 ---

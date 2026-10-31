@@ -21,7 +21,7 @@ instances:
   - giantmidi-008420 | 《第一钢琴奏鸣曲》Op.2 No.2——伦敦时期的早期奏鸣曲，听右手跑动与左手阿尔贝蒂低音（C1）
   - giantmidi-008419 | 《音乐性格》Op.19——每首模仿一位作曲家，可作为古典风格的听辨游戏（C1）
 sources:
-  - 克莱门蒂生平、伦敦乐谱出版与钢琴制造事业，参 The New Grove Dictionary of Music and Musicians, "Clementi, Muzio"；本文为原创表述
+  - 克莱门蒂生平、伦敦乐谱出版与钢琴制造事业，参 The New Grove Dictionary of Music and Musicians, "Clementi, Muzio"
   - 古典时期钢琴奏鸣曲与练习曲体裁的背景，参通行克莱门蒂研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

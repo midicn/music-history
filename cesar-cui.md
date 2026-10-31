@@ -21,7 +21,7 @@ instances:
   - giantmidi-002404 | 《小品集》Op. 20——一组性格小曲，听同一双手怎样在舞曲与抒情之间切换（C1）
   - giantmidi-002411 | 《主题与变奏》Op. 61——听主题每次回来时和声与织体怎样悄悄改变（C1）
 sources:
-  - 居伊生平、五人团与俄国音乐评论，参 The New Grove Dictionary of Music and Musicians, "Cui, César"；本文为原创表述
+  - 居伊生平、五人团与俄国音乐评论，参 The New Grove Dictionary of Music and Musicians, "Cui, César"
   - 居伊钢琴小品的体裁与听点，参通行俄国室内乐研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

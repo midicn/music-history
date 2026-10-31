@@ -19,7 +19,7 @@ instances:
   - atepp-005538 | 《古堡》——左手持续的伴奏像远方的河，右手唱出一段古老而忧郁的歌（C1 · CC-BY-4.0）
   - atepp-005560 | 《基辅大门》——钟声、和弦与庞大的结尾，把整幅画推到听众面前（C1 · CC-BY-4.0）
 sources:
-  - 穆索尔斯基生平、强力集团与作品整理情况，参 The New Grove Dictionary of Music and Musicians, "Mussorgsky, Modest"；本文为原创表述
+  - 穆索尔斯基生平、强力集团与作品整理情况，参 The New Grove Dictionary of Music and Musicians, "Mussorgsky, Modest"
   - 《图画展览会》的创作背景与钢琴写法，参通行穆索尔斯基研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

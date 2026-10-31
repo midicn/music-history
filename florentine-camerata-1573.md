@@ -73,7 +73,7 @@ In Caccini's solo songs, hear the melody follow the stress of the words while th
 
 ## Related entries
 
-See the Renaissance and Baroque period pages, the monody and madrigal entries, and the birth of opera on this site.
+See the Renaissance and Baroque period pages, the monody and madrigal entries, and the birth of opera.
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Guitar (nylon)","synth":"plucked","phrase":["E4","F4","G4","A4","G4","F4","E4","D4"],"label":"One line over accompaniment","label_en":"One line over accompaniment","hint":"Words in front, accompaniment behind, which is what the camerata wanted","hint_en":"Words in front, accompaniment behind, which is what the camerata wanted"}

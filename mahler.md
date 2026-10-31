@@ -21,7 +21,7 @@ instances:
   - pdmx-001010 | 《第五交响曲》——从葬礼进行曲到著名的柔板，听马勒怎样在一部作品里容纳极端相反的情绪（C1 · CC0）
   - pdmx-001525 | 《亡儿之歌》——人声与乐队，不是普通艺术歌曲；听管弦乐怎样把一首歌扩大成一场仪式（C1 · CC0）
 sources:
-  - 马勒生平、指挥职位与交响曲，参 The New Grove Dictionary of Music and Musicians, "Mahler"；本文为原创表述
+  - 马勒生平、指挥职位与交响曲，参 The New Grove Dictionary of Music and Musicians, "Mahler"
   - 第一、第五交响曲与《亡儿之歌》的听点，参通行马勒研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

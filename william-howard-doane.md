@@ -20,7 +20,7 @@ instances:
   - cyberhymnal-007317 | 《Pass Me Not, O Gentle Savior》——主歌反复出现同一句请求，听重复怎样变成恳求（C1）
   - mutopia-000771 | 《More Love to Thee》——旋律多向下走，句子安静，听它怎样不靠高潮表达虔诚（C1）
 sources:
-  - 多恩生平、辛辛那提事业与赞美诗曲调，参 The New Grove Dictionary of Music and Musicians, "Doane, William Howard"；本文为原创表述
+  - 多恩生平、辛辛那提事业与赞美诗曲调，参 The New Grove Dictionary of Music and Musicians, "Doane, William Howard"
   - 十九世纪美国福音诗歌与克罗斯比的合作，参通行美国宗教音乐研究；实例为声乐或管风琴改编，说明为本站听辨提示
 updated: 2026-10-30
 ---

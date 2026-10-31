@@ -21,7 +21,7 @@ instances:
   - atepp-000118 | 《钢琴变奏曲》Op. 27 第三乐章「Ruhig, fließend」——安静、流动，音与音之间留下大量空白；听「少」怎样成为结构（C1 · CC-BY-4.0）
   - atepp-000117 | 同一首 Op. 27 第二乐章的另一个录音——速度与触键不同，点与点之间的距离也不同；可对照听韦伯恩的「精准」（C1 · CC-BY-4.0）
 sources:
-  - 韦伯恩生平、第二维也纳乐派与十二音技术，参 The New Grove Dictionary of Music and Musicians, "Webern"；本文为原创表述
+  - 韦伯恩生平、第二维也纳乐派与十二音技术，参 The New Grove Dictionary of Music and Musicians, "Webern"
   - 《钢琴变奏曲》Op. 27 的听点，参通行韦伯恩研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

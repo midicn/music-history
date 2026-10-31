@@ -21,7 +21,7 @@ instances:
   - giantmidi-006491 | 众赞歌前奏曲《Werde munter, mein Gemüte》P.498，圣咏旋律被拉长（C1）
   - mutopia-001333 | 《圣母颂歌赋格》，短小赋格成组出现，听同一调式里的多种起句（C1）
 sources:
-  - 帕赫贝尔生平、纽伦堡与埃尔福特任职及 P 编号，参 The New Grove Dictionary of Music and Musicians 的 Pachelbel 条；本文为原创表述
+  - 帕赫贝尔生平、纽伦堡与埃尔福特任职及 P 编号，参 The New Grove Dictionary of Music and Musicians 的 Pachelbel 条
   - 南德管风琴传统与《阿波罗的六弦琴》1699 年印本，参通行巴洛克管风琴研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

@@ -22,7 +22,7 @@ instances:
   - mutopia-000030 | 《a 小调练习曲》——听固定音型上的旋律与左手支撑（C1）
   - mutopia-000031 | 《快板》——古典式句法，听终止式怎样收住段落（C1）
 sources:
-  - 阿瓜多生平、马德里与巴黎经历及两部教程，参 The New Grove Dictionary of Music and Musicians, "Aguado, Dionisio"；本文为原创表述
+  - 阿瓜多生平、马德里与巴黎经历及两部教程，参 The New Grove Dictionary of Music and Musicians, "Aguado, Dionisio"
   - 十九世纪吉他的构造改良与教学法，参通行阿瓜多研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

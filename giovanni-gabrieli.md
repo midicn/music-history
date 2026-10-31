@@ -20,7 +20,7 @@ instances:
   - giantmidi-005073 | 《Labra amarose è care》Ch.90，牧歌，半音走向牵着声部，听和声的颜色变化（C1）
   - pdmx-000962 | 《Da quei begl' occhi》，牧歌的另一面，句与句之间留出呼吸，听换句处的落点（C1）
 sources:
-  - 加布里埃利生平、圣马可管风琴职位与作品编号，参 The New Grove Dictionary of Music and Musicians 的 Gabrieli 条；本文为原创表述
+  - 加布里埃利生平、圣马可管风琴职位与作品编号，参 The New Grove Dictionary of Music and Musicians 的 Gabrieli 条
   - 威尼斯复合唱传统与《神圣交响曲》1597 年印本，参通行威尼斯音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

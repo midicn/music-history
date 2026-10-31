@@ -21,7 +21,7 @@ instances:
   - atepp-000238 | 二十四首前奏曲与赋格 Op. 87 第二十三首，听巴赫式对位怎样被现代和声与节奏撑开，赋格也可以有讽刺表情（C1 · CC-BY-4.0）
   - atepp-000228 | 《玩偶之舞》中的《抒情圆舞曲》，轻巧旋律里藏着不稳定的低音，是通俗外表下的双关语气（C1 · CC-BY-4.0）
 sources:
-  - 肖斯塔科维奇生平、斯大林时期与解冻年代，参 The New Grove Dictionary of Music and Musicians 的 Shostakovich 条目；本文为原创表述
+  - 肖斯塔科维奇生平、斯大林时期与解冻年代，参 The New Grove Dictionary of Music and Musicians 的 Shostakovich 条目
   - 交响曲、四重奏与前奏曲赋格的听点参通行作品分析，实例说明由本站撰写
 updated: 2026-10-28
 ---

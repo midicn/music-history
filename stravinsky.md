@@ -21,7 +21,7 @@ instances:
   - giantmidi-005793 | 《五根手指》——一首儿童钢琴曲，却把不协和与重音错位写得像游戏；听简单材料里的现代性（C1 · CC-BY-4.0）
   - giantmidi-005794 | 《钢琴拉格音乐》——爵士节奏进入他的语言；听切分与固定音型怎样把钢琴变成打击乐（C1 · CC-BY-4.0）
 sources:
-  - 斯特拉文斯基生平、三个创作阶段与作品，参 The New Grove Dictionary of Music and Musicians, "Stravinsky"；本文为原创表述
+  - 斯特拉文斯基生平、三个创作阶段与作品，参 The New Grove Dictionary of Music and Musicians, "Stravinsky"
   - 钢琴作品 Op. 7、Les cinq doigts、Piano-Rag-Music 的听点，参通行斯特拉文斯基研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

@@ -21,7 +21,7 @@ instances:
   - giantmidi-007559 | 《圣三一邀请咏》OL 52，管风琴圣咏，低音长音，高音逐句应答（C1）
   - giantmidi-007554 | 《Beata nobis gaudia》OL 37，圣咏旋律被拆成短句，听它在声部间换位置（C1）
 sources:
-  - 库普兰生平、圣热尔韦管风琴职位与作品编号，参 The New Grove Dictionary of Music and Musicians 的 Couperin 条；本文为原创表述
+  - 库普兰生平、圣热尔韦管风琴职位与作品编号，参 The New Grove Dictionary of Music and Musicians 的 Couperin 条
   - 法国十七世纪古钢琴与管风琴传统，参通行法国巴洛克键盘研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

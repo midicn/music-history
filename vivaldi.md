@@ -21,7 +21,7 @@ instances:
   - pdmx-000374 | 双曼陀林协奏曲 RV 532，两件拨弦乐器互相模仿、追逐，听巴洛克协奏曲最轻巧的一面（C1 · CC0-1.0）
   - pdmx-000601 | e 小调大提琴奏鸣曲 RV 40，慢乐章把装饰音写成歌唱，低音持续音让旋律有稳定的地面（C1 · PD）
 sources:
-  - 维瓦尔第生平、皮耶塔慈善院与协奏曲创作，参 The New Grove Dictionary of Music and Musicians 的 Vivaldi 条目；本文为原创表述
+  - 维瓦尔第生平、皮耶塔慈善院与协奏曲创作，参 The New Grove Dictionary of Music and Musicians 的 Vivaldi 条目
   - 《四季》的标题与听点参通行录音说明与协奏曲分析，实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

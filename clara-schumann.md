@@ -21,7 +21,7 @@ instances:
   - giantmidi-002151 | 《罗伯特·舒曼主题变奏》Op.20——以丈夫的主题写作，听变奏怎样逐步离开原调（C1）
   - giantmidi-002148 | 《第二谐谑曲》Op.14——听强烈对比的段落与八度技巧（C1）
 sources:
-  - 舒曼生平、莱比锡与法兰克福时期及作品编号，参 The New Grove Dictionary of Music and Musicians, "Schumann, Clara"；本文为原创表述
+  - 舒曼生平、莱比锡与法兰克福时期及作品编号，参 The New Grove Dictionary of Music and Musicians, "Schumann, Clara"
   - 十九世纪女性作曲与钢琴演奏职业化的背景，参通行克拉拉·舒曼研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

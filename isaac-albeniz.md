@@ -21,7 +21,7 @@ instances:
   - giantmidi-005832 | 《拉维加》，听阿尔罕布拉宫的回忆怎样写成钢琴的音色实验（C1）
   - giantmidi-005828 | 《西班牙》Op.165，听早期小品里探戈与马拉加舞曲的直白节奏（C1）
 sources:
-  - 阿尔贝尼兹生平、童年巡演与巴黎晚年，参 The New Grove Dictionary of Music and Musicians 的 Albéniz 条目，本文为原创表述
+  - 阿尔贝尼兹生平、童年巡演与巴黎晚年，参 The New Grove Dictionary of Music and Musicians 的 Albéniz 条目
   - 《伊比利亚》与佩德雷尔民族乐派主张的背景，参通行西班牙音乐研究，实例说明由本站撰写
 updated: 2026-10-30
 ---

@@ -21,7 +21,7 @@ instances:
   - giantmidi-001709 | 《三首小奏鸣曲》Op.98——教学用的短奏鸣曲，听呈示与再现怎样被压缩（C1）
   - giantmidi-001711 | 《叙事曲》Op.20——听叙事曲的段落感与和声的暗色（C1）
 sources:
-  - 赖内克生平、布商大厦乐团与莱比锡音乐学院职位，参 The New Grove Dictionary of Music and Musicians, "Reinecke, Carl"；本文为原创表述
+  - 赖内克生平、布商大厦乐团与莱比锡音乐学院职位，参 The New Grove Dictionary of Music and Musicians, "Reinecke, Carl"
   - 十九世纪莱比锡钢琴教学与变奏曲体裁的背景，参通行赖内克研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

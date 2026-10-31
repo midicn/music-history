@@ -20,7 +20,7 @@ instances:
   - cyberhymnal-004088 | 《Hallelujah! What a Savior》——主歌低回、副歌爆发，听对比怎样在一分钟内完成（C1）
   - cyberhymnal-000422 | 《Jesus Loves Even Me》——儿童也能唱的短句，副歌反复主句，听重复怎样变成确信（C1）
 sources:
-  - 布利斯生平、歌本与福音诗歌作品，参 The New Grove Dictionary of Music and Musicians, "Bliss, Philip Paul"；本文为原创表述
+  - 布利斯生平、歌本与福音诗歌作品，参 The New Grove Dictionary of Music and Musicians, "Bliss, Philip Paul"
   - 十九世纪美国布道会音乐与《Gospel Songs》歌本，参通行美国宗教音乐研究；实例为管风琴或钢琴改编，说明为本站听辨提示
 updated: 2026-10-30
 ---

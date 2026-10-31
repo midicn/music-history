@@ -21,7 +21,7 @@ instances:
   - giantmidi-009761 | 《孤独漫步者》Op.78——标题性小品，听散步式的乐句怎样走走停停（C1）
   - giantmidi-009758 | 《白夜》Op.82——听夜曲式织体里不安的切分（C1）
 sources:
-  - 海勒生平、佩斯出身与巴黎沙龙生涯，参 The New Grove Dictionary of Music and Musicians, "Heller, Stephen"；本文为原创表述
+  - 海勒生平、佩斯出身与巴黎沙龙生涯，参 The New Grove Dictionary of Music and Musicians, "Heller, Stephen"
   - 十九世纪钢琴练习曲与性格小品的背景，参通行海勒研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

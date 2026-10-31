@@ -21,7 +21,7 @@ instances:
   - cyberhymnal-008567 | 《Drop, Drop, Slow Tears》，短小圣咏，四声部同时下行，听和声的重量（C1）
   - giantmidi-008652 | 《Pavan》MB15，维吉纳琴舞曲，三段反复，听同一和声怎样被加花（C1）
 sources:
-  - 吉本斯生平、皇家礼拜堂与西敏寺职位，参 The New Grove Dictionary of Music and Musicians 的 Gibbons 条；本文为原创表述
+  - 吉本斯生平、皇家礼拜堂与西敏寺职位，参 The New Grove Dictionary of Music and Musicians 的 Gibbons 条
   - 英国牧歌集 1612 年印本与维吉纳琴曲手稿，参通行都铎与早期斯图亚特音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

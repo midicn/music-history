@@ -22,7 +22,7 @@ instances:
   - giantmidi-004455 | 《八首四手联弹圆舞曲》Op.24——听两个声部怎样分工与互相接住（C1）
   - giantmidi-004457 | 《悲怆风格的快板》Op.123——四手联弹的戏剧性段落，听齐奏与对话的对比（C1）
 sources:
-  - 库劳生平、哥本哈根宫廷职位与作品目录，参 The New Grove Dictionary of Music and Musicians, "Kuhlau, Friedrich"；本文为原创表述
+  - 库劳生平、哥本哈根宫廷职位与作品目录，参 The New Grove Dictionary of Music and Musicians, "Kuhlau, Friedrich"
   - 古典小奏鸣曲与十九世纪钢琴教学，参通行库劳研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

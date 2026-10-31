@@ -21,7 +21,7 @@ instances:
   - giantmidi-003823 | 《阴影》Op.64，低音区堆积的和弦把旋律压在中间，听重量感从何而来（C1）
   - giantmidi-003820 | 《集市音乐》Op.22，听街头乐队式的节奏被写成音乐会小品（C1）
 sources:
-  - 施米特生平、罗马大奖与巴黎时期，参 The New Grove Dictionary of Music and Musicians 的 Schmitt 条目；本文为原创表述
+  - 施米特生平、罗马大奖与巴黎时期，参 The New Grove Dictionary of Music and Musicians 的 Schmitt 条目
   - 施米特钢琴作品的体裁与出版情况，参通行法国二十世纪钢琴音乐研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

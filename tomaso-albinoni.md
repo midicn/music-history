@@ -20,7 +20,7 @@ instances:
   - pdmx-001608 | 《Adagio》钢琴改编，慢速和弦一层层叠起，注意它并非阿尔比诺尼原作（C1）
   - pdmx-002168 | 《Adagio》另一版，标注为传阿尔比诺尼，同一段音乐的来源问题（C1）
 sources:
-  - 阿尔比诺尼生平、威尼斯出版的作品集与歌剧目录，参 The New Grove Dictionary of Music and Musicians 的 Albinoni 条；本文为原创表述
+  - 阿尔比诺尼生平、威尼斯出版的作品集与歌剧目录，参 The New Grove Dictionary of Music and Musicians 的 Albinoni 条
   - 《g 小调慢板》1958 年由贾佐托整理出版的经过，参通行巴洛克协奏曲研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

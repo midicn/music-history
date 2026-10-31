@@ -22,7 +22,7 @@ instances:
   - giantmidi-003765 | 《吉他完整教程》——教程本身也是作品，听范例怎样示范指法与声部（C1）
   - giantmidi-003767 | 《柏林晚会回忆》Op.56——沙龙风格，听华丽音型与歌唱性旋律的结合（C1）
 sources:
-  - 索尔生平、伦敦与巴黎活动及作品目录，参 The New Grove Dictionary of Music and Musicians, "Sor, Fernando"；本文为原创表述
+  - 索尔生平、伦敦与巴黎活动及作品目录，参 The New Grove Dictionary of Music and Musicians, "Sor, Fernando"
   - 古典吉他的记谱、指法与十九世纪教程，参通行索尔研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

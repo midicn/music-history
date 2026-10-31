@@ -21,7 +21,7 @@ instances:
   - mutopia-000579 | 众赞歌前奏曲《Erhalt uns, Herr, bei deinem Wort》BuxWV 185——熟悉的圣咏旋律被拉长，其余声部围着它解释歌词（C1）
   - giantmidi-002536 | 组曲 BuxWV 233，d 小调——舞曲的次序与古钢琴的清脆，听教堂之外的布克斯特胡德（C1）
 sources:
-  - 布克斯特胡德生平、吕贝克圣母教堂职位与 BuxWV 编号，参 The New Grove Dictionary of Music and Musicians, "Buxtehude, Dieterich"；本文为原创表述
+  - 布克斯特胡德生平、吕贝克圣母教堂职位与 BuxWV 编号，参 The New Grove Dictionary of Music and Musicians, "Buxtehude, Dieterich"
   - 北德管风琴学派与巴赫 1705 年吕贝克之行，参通行布克斯特胡德研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

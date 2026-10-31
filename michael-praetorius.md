@@ -21,7 +21,7 @@ instances:
   - pdmx-001248 | 《Quem pastores laudavere》，牧人歌，四声部，听句尾装饰音落在哪个声部（C1）
   - pdmx-001817 | 《Ballet》CCLXVIII，法国式舞曲，重音错位，听《特尔西科瑞》里的另一面（C1）
 sources:
-  - 普雷托里乌斯生平、沃尔芬比特尔宫廷职位与著作，参 The New Grove Dictionary of Music and Musicians 的 Praetorius 条；本文为原创表述
+  - 普雷托里乌斯生平、沃尔芬比特尔宫廷职位与著作，参 The New Grove Dictionary of Music and Musicians 的 Praetorius 条
   - 《音乐大全》1614 至 1620 年三卷与《锡安之歌》九卷，参通行德国宗教音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

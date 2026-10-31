@@ -21,7 +21,7 @@ instances:
   - pdmx-002312 | 《Sing Joyfully》，英文全声部赞美歌，开口即模仿，句尾收到明确和弦（C1）
   - giantmidi-010504 | 《The Woods So Wild》FVB 67，主题加变奏，每段只改一件事，听变化的层次（C1）
 sources:
-  - 伯德生平、林肯与皇家礼拜堂职位、作品目录，参 The New Grove Dictionary of Music and Musicians 的 Byrd 条；本文为原创表述
+  - 伯德生平、林肯与皇家礼拜堂职位、作品目录，参 The New Grove Dictionary of Music and Musicians 的 Byrd 条
   - 英国宗教改革前后的拉丁与英文曲目，参通行都铎音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

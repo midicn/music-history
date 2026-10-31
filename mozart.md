@@ -21,7 +21,7 @@ instances:
   - atepp-006622 | 《c 小调幻想曲》K. 475——自由段落与严格和声交替，听莫扎特怎样在「幻想」与「结构」之间切换（C1 · CC-BY-4.0）
   - atepp-006627 | 《c 小调幻想曲》K. 475 的完整段落布局——从 Adagio 到 Allegro 再回到 Tempo primo，听一首钢琴曲怎样像一场戏（C1 · CC-BY-4.0）
 sources:
-  - 莫扎特生平、作品与歌剧成就，参 The New Grove Dictionary of Music and Musicians, "Mozart"；本文为原创表述
+  - 莫扎特生平、作品与歌剧成就，参 The New Grove Dictionary of Music and Musicians, "Mozart"
   - 钢琴作品 K. 475 与 K. 540 的体裁与听点，参通行莫扎特研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

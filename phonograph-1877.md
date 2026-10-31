@@ -42,7 +42,7 @@ updated: 2026-10-28
 
 ## 听一段转折
 
-库中没有当年的唱片，只有这些曲目的MIDI还原。先听《星条旗永不落》，再听《枫叶拉格》，最后听《亚历山大的拉格泰姆乐队》。听铜管、切分与舞步，想象它们从圆筒里放出来的粗糙声响。
+库中没有当年的唱片，只有这些曲目的 MIDI还原。先听《星条旗永不落》，再听《枫叶拉格》，最后听《亚历山大的拉格泰姆乐队》。听铜管、切分与舞步，想象它们从圆筒里放出来的粗糙声响。
 
 ```audiolab
 {"type":"instrument","gm":"Brass Section","synth":"brass","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"留声机：铜管乐队走进客厅","label_en":"Phonograph: a brass band enters the parlour","hint":"听进行曲的强拍如何被刻成一条可以反复播放的沟槽","hint_en":"Hear how the march's strong beats become a groove that can be played again and again"}

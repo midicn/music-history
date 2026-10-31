@@ -21,7 +21,7 @@ instances:
   - giantmidi-005078 | 《Anima mea turbata》——同一风格的另一种情绪：文本在不安，音乐仍然克制；听复调怎样把情感包在秩序里（C1 · CC-BY-4.0）
   - m21-000599 | 《Agnus》——弥撒的羔羊经：听「弥撒常规」怎样被写成连续的多声部音乐，而不是一组独立唱段（C1 · PD）
 sources:
-  - 帕莱斯特里纳生平、罗马教堂职位与作品，参 The New Grove Dictionary of Music and Musicians, "Palestrina"；本文为原创表述
+  - 帕莱斯特里纳生平、罗马教堂职位与作品，参 The New Grove Dictionary of Music and Musicians, "Palestrina"
   - 文艺复兴复调与弥撒/经文歌的听点，参通行文艺复兴音乐研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

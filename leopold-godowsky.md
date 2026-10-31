@@ -21,7 +21,7 @@ instances:
   - giantmidi-007465 | 《三首音乐会练习曲》Op.11，听技术难题被包在圆舞曲与夜曲的外形里（C1）
   - giantmidi-007473 | 《浪漫大圆舞曲》，听沙龙圆舞曲被加厚成三只手才能弹的织体（C1）
 sources:
-  - 戈多夫斯基生平、维也纳教职与纽约晚年，参 The New Grove Dictionary of Music and Musicians 的 Godowsky 条目；本文为原创表述
+  - 戈多夫斯基生平、维也纳教职与纽约晚年，参 The New Grove Dictionary of Music and Musicians 的 Godowsky 条目
   - 《爪哇组曲》的甘美兰素材与肖邦练习曲改编的背景，参通行戈多夫斯基研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

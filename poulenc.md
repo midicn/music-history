@@ -20,7 +20,7 @@ instances:
   - giantmidi-003887 | 《纳泽尔的夜晚》FP 84——变奏套曲，听沙龙式的俏皮怎样一步步走向安静（C1）
   - giantmidi-003878 | 双钢琴协奏曲 FP 61——两架钢琴的竞速与玩笑，听马达般的节奏里突然冒出的歌（C1）
 sources:
-  - 普朗克生平、六人团与作品 FP 编号，参 The New Grove Dictionary of Music and Musicians, "Poulenc, Francis"；本文为原创表述
+  - 普朗克生平、六人团与作品 FP 编号，参 The New Grove Dictionary of Music and Musicians, "Poulenc, Francis"
   - 二十世纪法国新古典主义与宗教音乐背景，参通行普朗克研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

@@ -20,7 +20,7 @@ instances:
   - aria-008426 | 《小宇宙》选段，短小练习曲把民间调式、切分与不协和音程拆成可听的零件；C1 无《小宇宙》录音，此条为 C2 钢琴演奏
   - aria-004100 | 《罗马尼亚民间舞曲》钢琴版，同一素材在钢琴上更干、更硬，踏板很少，节奏的棱角全露出来；C1 仅有第二首，此条为 C2 钢琴演奏
 sources:
-  - 巴托克生平、与柯达伊的民歌采集及美国流亡时期，参 The New Grove Dictionary of Music and Musicians 的 Bartók 条目；本文为原创表述
+  - 巴托克生平、与柯达伊的民歌采集及美国流亡时期，参 The New Grove Dictionary of Music and Musicians 的 Bartók 条目
   - 民间舞曲、小宇宙与弦乐四重奏的听点参通行作品分析，实例说明由本站撰写
 updated: 2026-10-28
 ---

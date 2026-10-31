@@ -21,7 +21,7 @@ instances:
   - openscore-000853 | 《假如我是一只鸟》——人声与钢琴互换角色，听谁在领、谁在跟（C1）
   - giantmidi-007533 | 《蛛网城堡》——钢琴小曲，句子极短，听儿童曲怎样不靠简化而靠分寸（C1）
 sources:
-  - 莱曼生平、伦敦的演唱与创作生涯，参 The New Grove Dictionary of Music and Musicians 的 Lehmann, Liza 条目；本文为原创表述
+  - 莱曼生平、伦敦的演唱与创作生涯，参 The New Grove Dictionary of Music and Musicians 的 Lehmann, Liza 条目
   - 英国客厅歌曲与二十世纪初女性音乐家组织，参通行英国音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

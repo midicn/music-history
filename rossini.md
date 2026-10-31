@@ -21,7 +21,7 @@ instances:
   - openscore-000043 | 《邀请》——沙龙小曲，听钢琴伴奏怎样模仿吉他（C1）
   - mutopia-001389 | 《爱德华多与克里斯蒂娜》——较少上演的正歌剧，可听严肃体裁里的装饰唱法（C1）
 sources:
-  - 罗西尼生平、巴黎时期与歌剧年表，参 The New Grove Dictionary of Music and Musicians, "Rossini, Gioachino"；本文为原创表述
+  - 罗西尼生平、巴黎时期与歌剧年表，参 The New Grove Dictionary of Music and Musicians, "Rossini, Gioachino"
   - 美声唱法与意大利歌剧体裁的背景，参通行罗西尼研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

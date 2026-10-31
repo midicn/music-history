@@ -21,7 +21,7 @@ instances:
   - openscore-000733 | 《船歌》——六八拍的摇曳，听伴奏音型怎样托住人声（C1）
   - openscore-000617 | 《爱的力量》——听同一句诗在大小调之间反复时的情绪转折（C1）
 sources:
-  - 金克尔生平、波恩出身与伦敦流亡时期，参 The New Grove Dictionary of Music and Musicians, "Kinkel, Johanna"；本文为原创表述
+  - 金克尔生平、波恩出身与伦敦流亡时期，参 The New Grove Dictionary of Music and Musicians, "Kinkel, Johanna"
   - 十九世纪德国家庭歌曲与一八四八年革命的背景，参通行金克尔研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

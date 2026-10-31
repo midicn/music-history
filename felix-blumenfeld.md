@@ -21,7 +21,7 @@ instances:
   - giantmidi-003575 | 《钟》Op.40，听钟声动机在高低音区之间传递，像教堂与街道的两种回响（C1）
   - giantmidi-003580 | 《奏鸣幻想曲》Op.46，单乐章的大结构，听主题如何被拉长又压紧（C1）
 sources:
-  - 布卢门菲尔德生平、圣彼得堡与基辅任教经历，参 The New Grove Dictionary of Music and Musicians 的 Blumenfeld 条目；本文为原创表述
+  - 布卢门菲尔德生平、圣彼得堡与基辅任教经历，参 The New Grove Dictionary of Music and Musicians 的 Blumenfeld 条目
   - 俄罗斯钢琴学派的传承与左手练习曲的教学用途，参通行俄派钢琴研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

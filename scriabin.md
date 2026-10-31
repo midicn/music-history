@@ -19,7 +19,7 @@ instances:
   - atepp-000094 | 第七奏鸣曲《白弥撒》Op. 64——和弦不再落地，音乐像一直在上升，听「神秘和弦」怎样撑起整首（C1 · CC-BY-4.0）
   - atepp-000110 | 《向火焰》Op. 72——晚期最短也最炽热的一首，颤音与八度不断加压，最后烧到顶点（C1 · CC-BY-4.0）
 sources:
-  - 斯克里亚宾生平、莫斯科音乐学院经历与作品编号，参 The New Grove Dictionary of Music and Musicians, "Scriabin, Alexander"；本文为原创表述
+  - 斯克里亚宾生平、莫斯科音乐学院经历与作品编号，参 The New Grove Dictionary of Music and Musicians, "Scriabin, Alexander"
   - 神秘和弦与《普罗米修斯》的色彩键盘构想，参通行斯克里亚宾研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

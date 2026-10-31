@@ -21,7 +21,7 @@ instances:
   - giantmidi-009262 | 《澳大利亚森林小品》——一组短曲各写一个画面，听空间怎样被写出来（C1）
   - giantmidi-009273 | 《第四前奏曲》——短小，结尾悬着，听没有回答的收束（C1）
 sources:
-  - 阿格纽生平、悉尼的教学生活与钢琴作品，参 The New Grove Dictionary of Music and Musicians 的 Agnew, Roy 条目；本文为原创表述
+  - 阿格纽生平、悉尼的教学生活与钢琴作品，参 The New Grove Dictionary of Music and Musicians 的 Agnew, Roy 条目
   - 澳大利亚二十世纪上半叶的钢琴音乐与近年录音整理，参通行澳大利亚音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

@@ -20,7 +20,7 @@ instances:
   - pdmx-002747 | 大奏鸣曲 Op.56——听炫技手法怎样被放进四乐章结构（C1）
   - pdmx-000568 | 《Graziosa》——短小的沙龙小品，听两只手的重量怎样分配（C1）
 sources:
-  - 塔尔贝格生平、日内瓦出身与欧洲巡演，参 The New Grove Dictionary of Music and Musicians, "Thalberg, Sigismond"；本文为原创表述
+  - 塔尔贝格生平、日内瓦出身与欧洲巡演，参 The New Grove Dictionary of Music and Musicians, "Thalberg, Sigismond"
   - 十九世纪歌剧幻想曲与炫技风格的背景，参通行塔尔贝格研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

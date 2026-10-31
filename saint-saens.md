@@ -20,7 +20,7 @@ instances:
   - pdmx-001271 | 第一大提琴协奏曲 Op. 33，独奏一开场就唱出完整主题，乐队之后才接管；听法国式的清晰句法与德奥式发展如何并存（C1 · CC0-1.0）
   - pdmx-001980 | 《动物狂欢节》选段，狮子、乌龟、大象与天鹅各有一段性格素描，配器就是漫画笔法；此条为组曲选段（C1 · CC0-1.0）
 sources:
-  - 圣-桑生平、玛德莱娜教堂任职与法国民族音乐协会，参 The New Grove Dictionary of Music and Musicians 的 Saint-Saëns 条目；本文为原创表述
+  - 圣-桑生平、玛德莱娜教堂任职与法国民族音乐协会，参 The New Grove Dictionary of Music and Musicians 的 Saint-Saëns 条目
   - 管弦乐与协奏曲的听点参通行作品分析，实例说明由本站撰写
 updated: 2026-10-28
 ---

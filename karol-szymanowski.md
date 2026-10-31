@@ -21,7 +21,7 @@ instances:
   - giantmidi-007272 | 《玛祖卡》Op.62，听民歌节奏被现代和声挤压后的棱角（C1）
   - giantmidi-007276 | 《第三钢琴奏鸣曲》Op.36，听单乐章的高潮怎样从安静的音型里长出来（C1）
 sources:
-  - 希曼诺夫斯基生平、青年波兰团体与华沙音乐学院任期，参 The New Grove Dictionary of Music and Musicians 的 Szymanowski 条目，本文为原创表述
+  - 希曼诺夫斯基生平、青年波兰团体与华沙音乐学院任期，参 The New Grove Dictionary of Music and Musicians 的 Szymanowski 条目
   - 《假面》《玛祖卡》与歌剧《罗杰王》的写作背景，参通行波兰音乐研究，实例说明由本站撰写
 updated: 2026-10-30
 ---

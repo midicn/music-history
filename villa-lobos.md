@@ -21,7 +21,7 @@ instances:
   - giantmidi-005401 | 《娃娃的家族》第一集——儿童组曲，听小标题里的民俗形象与和声色彩（C1）
   - giantmidi-005418 | 《粗野之诗》——大型钢琴作品，听打击式和弦与巴西节奏的叠加（C1）
 sources:
-  - 维拉-洛博斯生平、巴黎时期与作品编号，参 The New Grove Dictionary of Music and Musicians, "Villa-Lobos, Heitor"；本文为原创表述
+  - 维拉-洛博斯生平、巴黎时期与作品编号，参 The New Grove Dictionary of Music and Musicians, "Villa-Lobos, Heitor"
   - 巴西现代主义与肖罗体裁的背景，参通行维拉-洛博斯研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

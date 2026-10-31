@@ -21,7 +21,7 @@ instances:
   - giantmidi-002366 | 《吉他》Op.32——钢琴模仿拨弦，听低音拨奏与旋律的对话（C1）
   - giantmidi-002380 | 钢琴奏鸣曲 Op.21——少见的大结构作品，听沙龙语言怎样撑起奏鸣曲式（C1）
 sources:
-  - 夏米纳德生平、巴黎学习经历与作品编号，参 The New Grove Dictionary of Music and Musicians, "Chaminade, Cécile"；本文为原创表述
+  - 夏米纳德生平、巴黎学习经历与作品编号，参 The New Grove Dictionary of Music and Musicians, "Chaminade, Cécile"
   - 十九世纪法国沙龙钢琴音乐与女性作曲的背景，参通行夏米纳德研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

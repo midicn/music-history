@@ -21,7 +21,7 @@ instances:
   - giantmidi-003776 | 《致青年》BV 254，六首套曲，听他把钢琴写成乐队、又把乐队压回键盘（C1）
   - giantmidi-003775 | 《六首练习曲》Op.16，听技术难题怎样被写成有表情的乐句而不是机械跑动（C1）
 sources:
-  - 布索尼生平、柏林时期与《新音乐美学纲要》，参 The New Grove Dictionary of Music and Musicians 的 Busoni 条目；本文为原创表述
+  - 布索尼生平、柏林时期与《新音乐美学纲要》，参 The New Grove Dictionary of Music and Musicians 的 Busoni 条目
   - 《对位幻想曲》与巴赫改编曲的版本背景，参通行布索尼研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

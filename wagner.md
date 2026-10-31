@@ -21,7 +21,7 @@ instances:
   - giantmidi-009108 | 《来到黑天鹅旁》WWV 95——一首钢琴小品，却能听出瓦格纳式的和声色彩与延宕；不是歌剧，但同一种语言（C1 · CC-BY-4.0）
   - giantmidi-009109 | 《为 M.W. 女士的奏鸣曲》WWV 85——早期器乐作品，听古典形式里已经埋着后来的戏剧性（C1 · CC-BY-4.0）
 sources:
-  - 瓦格纳生平、音乐戏剧与拜罗伊特，参 The New Grove Dictionary of Music and Musicians, "Wagner"；本文为原创表述
+  - 瓦格纳生平、音乐戏剧与拜罗伊特，参 The New Grove Dictionary of Music and Musicians, "Wagner"
   - 歌曲与钢琴作品 WWV 的听点，参通行瓦格纳研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

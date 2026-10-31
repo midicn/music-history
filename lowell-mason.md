@@ -21,7 +21,7 @@ instances:
   - cyberhymnal-001395 | 《这必朽坏的身体岂能不死》——听庄重的葬礼式和声与低音走向（C1）
   - cyberhymnal-004181 | 《听，万张竖琴与声音》——听合唱式织体与高声部的引领（C1）
 sources:
-  - 梅森生平、波士顿音乐教育与赞美诗编集，参 The New Grove Dictionary of Music and Musicians, "Mason, Lowell"；本文为原创表述
+  - 梅森生平、波士顿音乐教育与赞美诗编集，参 The New Grove Dictionary of Music and Musicians, "Mason, Lowell"
   - 十九世纪美国公立学校音乐课程与歌本传统，参通行梅森研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

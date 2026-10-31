@@ -21,7 +21,7 @@ instances:
   - atepp-000124 | 《十二首练习曲》第二首「为三度」——三度不再只是音程，而是音色的层；听平行三度怎样失去功能、变成颜色（C1 · CC-BY-4.0）
   - atepp-000122 | 《十二首练习曲》第十二首「为和弦」——和弦被当成音块而不是功能；听德彪西怎样让和声「静止」却仍然流动（C1 · CC-BY-4.0）
 sources:
-  - 德彪西生平、和声语言与钢琴作品，参 The New Grove Dictionary of Music and Musicians, "Debussy"；本文为原创表述
+  - 德彪西生平、和声语言与钢琴作品，参 The New Grove Dictionary of Music and Musicians, "Debussy"
   - 《十二首练习曲》CD 143 的听点，参通行德彪西研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

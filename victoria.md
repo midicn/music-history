@@ -21,7 +21,7 @@ instances:
   - giantmidi-010073 | 《两个撒拉弗呼喊》——多声部经文歌，听高音区怎样制造光的感觉（C1）
   - giantmidi-010088 | 《十字架旗帜前进》——赞美诗，听定旋律在众声部中若隐若现（C1）
 sources:
-  - 维多利亚生平、罗马时期与马德里晚年，参 The New Grove Dictionary of Music and Musicians, "Victoria, Tomás Luis de"；本文为原创表述
+  - 维多利亚生平、罗马时期与马德里晚年，参 The New Grove Dictionary of Music and Musicians, "Victoria, Tomás Luis de"
   - 西班牙文艺复兴宗教音乐与特伦托改革后的礼仪背景，参通行维多利亚研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

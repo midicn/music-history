@@ -20,7 +20,7 @@ instances:
   - cyberhymnal-001785 | 《All Things Bright and Beautiful》马拉雅拉姆语版，听和声随语言落位（C1）
   - cyberhymnal-008727 | 《St Denys》曲调，篇幅短，听四个声部怎样在同一音区里保持平衡（C1）
 sources:
-  - 蒙克生平、伦敦教堂管风琴职位与《古今圣诗集》编辑工作，参 The New Grove Dictionary of Music and Musicians 的 Monk 条；本文为原创表述
+  - 蒙克生平、伦敦教堂管风琴职位与《古今圣诗集》编辑工作，参 The New Grove Dictionary of Music and Musicians 的 Monk 条
   - 维多利亚时代赞美诗集与 Eventide 曲调 1861 年的刊行，参通行英国赞美诗研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

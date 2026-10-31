@@ -21,7 +21,7 @@ instances:
   - atepp-006335 | 同一组曲的《罗密欧与朱丽叶临别前》，长旋律在高低音区之间跳跃，抒情被不安的低音持续音托住（C1 · CC-BY-4.0）
   - atepp-006361 | 《瞬间幻影》Op. 22 第三首，短小、古怪、和声突然转弯，是普罗科菲耶夫式幽默的浓缩样本（C1 · CC-BY-4.0）
 sources:
-  - 普罗科菲耶夫生平、十月革命后的欧美岁月与回国，参 The New Grove Dictionary of Music and Musicians 的 Prokofiev 条目；本文为原创表述
+  - 普罗科菲耶夫生平、十月革命后的欧美岁月与回国，参 The New Grove Dictionary of Music and Musicians 的 Prokofiev 条目
   - 钢琴奏鸣曲与芭蕾组曲的听点参通行作品分析，实例说明由本站撰写
 updated: 2026-10-28
 ---

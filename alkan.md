@@ -21,7 +21,7 @@ instances:
   - giantmidi-002009 | 《素描》Op.63——短小的性格小品集，听同一和弦在远近调之间换色（C1）
   - giantmidi-002035 | 《小托卡塔》Op.75——不到三分钟的持续跑动，听断奏与和弦怎样不给人喘气（C1）
 sources:
-  - 阿尔坎生平、巴黎音乐学院经历与作品编号，参 The New Grove Dictionary of Music and Musicians, "Alkan, Charles-Valentin"；本文为原创表述
+  - 阿尔坎生平、巴黎音乐学院经历与作品编号，参 The New Grove Dictionary of Music and Musicians, "Alkan, Charles-Valentin"
   - 钢琴独奏交响化的写法与 Op.39 的结构，参通行阿尔坎研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

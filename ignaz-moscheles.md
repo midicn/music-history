@@ -22,7 +22,7 @@ instances:
   - giantmidi-005786 | 《忧郁奏鸣曲》Op.49——听抒情主题与戏剧性段落怎样在同乐章里交替（C1）
   - giantmidi-005772 | 《三首勇敢的快板》Op.51——音乐会炫技曲，听八度与琶音怎样组织成段落（C1）
 sources:
-  - 莫谢莱斯生平、伦敦与莱比锡教职，参 The New Grove Dictionary of Music and Musicians, "Moscheles, Ignaz"；本文为原创表述
+  - 莫谢莱斯生平、伦敦与莱比锡教职，参 The New Grove Dictionary of Music and Musicians, "Moscheles, Ignaz"
   - 十九世纪钢琴练习曲与莱比锡音乐学院教学，参通行莫谢莱斯研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

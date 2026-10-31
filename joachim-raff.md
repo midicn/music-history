@@ -21,7 +21,7 @@ instances:
   - giantmidi-006287 | 《春天的信使》Op.55——标题性小品集，听同一动机在不同调性里变形（C1）
   - giantmidi-006289 | 《大奏鸣曲》Op.14——早期大结构作品，听舒曼式的段落连接与长气息（C1）
 sources:
-  - 拉夫生平、魏玛时期与法兰克福音乐学院职位，参 The New Grove Dictionary of Music and Musicians, "Raff, Joachim"；本文为原创表述
+  - 拉夫生平、魏玛时期与法兰克福音乐学院职位，参 The New Grove Dictionary of Music and Musicians, "Raff, Joachim"
   - 十九世纪钢琴组曲与标题小品的背景，参通行拉夫研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

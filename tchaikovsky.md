@@ -21,7 +21,7 @@ instances:
   - pdmx-000446 | 《睡美人》Op. 66，听圆舞曲与角色主题怎样在芭蕾里各自成形，舞蹈与音乐互为骨架（C1 · PD）
   - pdmx-001822 | 第四交响曲 Op. 36 选段，命运动机在铜管与弦乐间传递，抒情主题则用长句把紧张暂时推开（C1 · CC0-1.0）
 sources:
-  - 柴可夫斯基生平、莫斯科时期与芭蕾创作，参 The New Grove Dictionary of Music and Musicians 的 Tchaikovsky 条目；本文为原创表述
+  - 柴可夫斯基生平、莫斯科时期与芭蕾创作，参 The New Grove Dictionary of Music and Musicians 的 Tchaikovsky 条目
   - 芭蕾与交响曲的听点参通行作品分析，实例说明由本站撰写
 updated: 2026-10-28
 ---

@@ -21,7 +21,7 @@ instances:
   - atepp-000614 | 《音乐瞬间》D.780 第二首，降 A 大调——更慢、更内省，听和声怎样在一个小段落里转向远方又回来（C1 · CC-BY-4.0）
   - atepp-000543 | 《即兴曲》Op.90 No.1，c 小调——开头像一条河，中段突然转调；听舒伯特怎样在「歌」与「器乐」之间切换（C1 · CC-BY-4.0）
 sources:
-  - 舒伯特生平、艺术歌曲与器乐作品，参 The New Grove Dictionary of Music and Musicians, "Schubert"；本文为原创表述
+  - 舒伯特生平、艺术歌曲与器乐作品，参 The New Grove Dictionary of Music and Musicians, "Schubert"
   - 《音乐瞬间》D.780 与《即兴曲》Op.90 的听点，参通行舒伯特研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

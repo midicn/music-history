@@ -21,7 +21,7 @@ instances:
   - giantmidi-004998 | 《半音变奏曲》——钢琴上的比才，主题在变奏里越来越不安，和声一层层变暗（C1）
   - giantmidi-004994 | 《莱茵之歌》——六首钢琴小品的套曲，旋律明亮，伴奏却常藏着半音的阴影（C1）
 sources:
-  - 比才生平、罗马大奖与《卡门》1875 年首演，参 The New Grove Dictionary of Music and Musicians, "Bizet, Georges"；本文为原创表述
+  - 比才生平、罗马大奖与《卡门》1875 年首演，参 The New Grove Dictionary of Music and Musicians, "Bizet, Georges"
   - 法国十九世纪歌剧与喜歌剧院的制度背景，参通行比才研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

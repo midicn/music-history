@@ -21,7 +21,7 @@ instances:
   - giantmidi-000835 | 《十二首前奏曲》Op.63，听晚期写法怎样把和声收窄、句子缩短（C1）
   - giantmidi-000842 | 《六首小品》Op.53，听旋律与伴奏之间那种客气而顺滑的配合（C1）
 sources:
-  - 阿连斯基生平、莫斯科音乐学院教职与宫廷合唱团任期，参 The New Grove Dictionary of Music and Musicians 的 Arensky 条目，本文为原创表述
+  - 阿连斯基生平、莫斯科音乐学院教职与宫廷合唱团任期，参 The New Grove Dictionary of Music and Musicians 的 Arensky 条目
   - 第一钢琴三重奏与《柴可夫斯基主题变奏曲》的背景，参通行俄国音乐史研究，实例说明由本站撰写
 updated: 2026-10-30
 ---

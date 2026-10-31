@@ -20,7 +20,7 @@ instances:
   - mutopia-001618 | 《自由之钟》——三声中部转到下属调，听转调那一刻整支乐队像换了颜色（C1）
   - mutopia-001621 | 《华盛顿邮报》——为他人的报纸写的舞曲式进行曲，节奏轻快，适合听低音与旋律的问答（C1）
 sources:
-  - 苏萨生平、海军陆战队乐队任期与作品目录，参 The New Grove Dictionary of Music and Musicians, "Sousa, John Philip"；本文为原创表述
+  - 苏萨生平、海军陆战队乐队任期与作品目录，参 The New Grove Dictionary of Music and Musicians, "Sousa, John Philip"
   - 美国进行曲的曲式与管乐队编制，参通行管乐研究；实例为钢琴改编谱，说明为本站听辨提示
 updated: 2026-10-30
 ---

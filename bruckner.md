@@ -19,7 +19,7 @@ instances:
   - giantmidi-000853 | 四首管风琴前奏曲 WAB 128——短小却完整，能听出后来交响曲里那种块状和声的雏形（C1 · CC-BY-4.0）
   - giantmidi-000864 | 《秋夜静思》WAB 123——钢琴小品，旋律朴素，和声却已带上晚期浪漫的厚度（C1 · CC-BY-4.0）
 sources:
-  - 布鲁克纳生平、维也纳大学职位与 WAB 编号，参 The New Grove Dictionary of Music and Musicians, "Bruckner, Anton"；本文为原创表述
+  - 布鲁克纳生平、维也纳大学职位与 WAB 编号，参 The New Grove Dictionary of Music and Musicians, "Bruckner, Anton"
   - 布鲁克纳交响曲的版本与配器特征，参通行布鲁克纳研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

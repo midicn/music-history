@@ -21,7 +21,7 @@ instances:
   - cyberhymnal-005279 | 《叩门，叩门，谁在那里》——福音歌曲，听独唱与副歌的呼应（C1）
   - cyberhymnal-001286 | 《有一片不朽之地》——听十九世纪美国赞美诗的朴素旋律（C1）
 sources:
-  - 鲁特生平、芝加哥出版事业与内战歌曲，参 The New Grove Dictionary of Music and Musicians, "Root, George Frederick"；本文为原创表述
+  - 鲁特生平、芝加哥出版事业与内战歌曲，参 The New Grove Dictionary of Music and Musicians, "Root, George Frederick"
   - 十九世纪美国音乐教育与主日学歌曲，参通行鲁特研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

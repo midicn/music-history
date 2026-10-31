@@ -21,7 +21,7 @@ instances:
   - giantmidi-000481 | 《第一钢琴奏鸣曲》，单乐章，听碎片式动机怎样拼成一个大拱（C1）
   - giantmidi-000488 | 《泪》，短小的抒情曲，听半音下行的叹息动机（C1）
 sources:
-  - 斯坦钦斯基生平、莫斯科音乐学院学习与 1914 年早逝，参 The New Grove Dictionary of Music and Musicians 的 Stanchinsky 条目；本文为原创表述
+  - 斯坦钦斯基生平、莫斯科音乐学院学习与 1914 年早逝，参 The New Grove Dictionary of Music and Musicians 的 Stanchinsky 条目
   - 俄罗斯钢琴音乐中的调式实验与卡农写法，参通行二十世纪初俄国音乐研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

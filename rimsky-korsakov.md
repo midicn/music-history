@@ -21,7 +21,7 @@ instances:
   - giantmidi-008583 | 《B-A-C-H 主题变奏》Op.10——同一动机的变奏，适合比较钢琴与乐队两种写法（C1）
   - mutopia-001378 | 《小故事》——钢琴小品，听抒情旋律与半音化和声（C1）
 sources:
-  - 里姆斯基-科萨科夫生平、圣彼得堡音乐学院教职与作品年表，参 The New Grove Dictionary of Music and Musicians, "Rimsky-Korsakov, Nikolai"；本文为原创表述
+  - 里姆斯基-科萨科夫生平、圣彼得堡音乐学院教职与作品年表，参 The New Grove Dictionary of Music and Musicians, "Rimsky-Korsakov, Nikolai"
   - 俄罗斯民族乐派与配器教学的背景，参通行里姆斯基-科萨科夫研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

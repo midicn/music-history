@@ -21,7 +21,7 @@ instances:
   - giantmidi-004401 | 《路》，长篇套曲，每首短曲像一个站点，听即兴与记谱怎样交替（C1）
   - giantmidi-004389 | 《我的小男孩》，意第绪歌曲的变奏，听哀歌被一点点加厚（C1）
 sources:
-  - 热夫斯基生平、罗马电子音乐小组与布鲁塞尔晚年，参 The New Grove Dictionary of Music and Musicians 的 Rzewski 条目；本文为原创表述
+  - 热夫斯基生平、罗马电子音乐小组与布鲁塞尔晚年，参 The New Grove Dictionary of Music and Musicians 的 Rzewski 条目
   - 《温斯伯勒棉纺厂蓝调》所属《北美叙事曲》与变奏曲传统，参通行战后钢琴音乐研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

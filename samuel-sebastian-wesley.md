@@ -20,7 +20,7 @@ instances:
   - cyberhymnal-004143 | 《Harewood》曲调，听每次分句结束时低音落在哪个音上（C1）
   - cyberhymnal-003570 | 《Fowey》曲调，篇幅短，听管风琴怎样用同一音区把整首撑完（C1）
 sources:
-  - 韦斯利生平、赫里福德至格洛斯特各教堂管风琴职位，参 The New Grove Dictionary of Music and Musicians 的 Wesley 条；本文为原创表述
+  - 韦斯利生平、赫里福德至格洛斯特各教堂管风琴职位，参 The New Grove Dictionary of Music and Musicians 的 Wesley 条
   - 十九世纪英国教堂音乐改革与《欧洲赞美诗集》1872 年刊行，参通行维多利亚宗教音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

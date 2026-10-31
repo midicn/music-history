@@ -20,7 +20,7 @@ instances:
   - giantmidi-005963 | 《优雅与美》——中段转调后旋律更宽，听斯科特怎样在同一个节奏框架里换情绪（C1）
   - giantmidi-005958 | 《高潮拉格》——标题所指的推进感来自低音与右手重音同时加压，适合对比乔普林的从容（C1）
 sources:
-  - 斯科特生平与圣路易斯出版圈，参 The New Grove Dictionary of Music and Musicians, "Scott, James"；本文为原创表述
+  - 斯科特生平与圣路易斯出版圈，参 The New Grove Dictionary of Music and Musicians, "Scott, James"
   - 经典拉格泰姆的右手动机与左手伴奏，参通行拉格泰姆研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

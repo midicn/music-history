@@ -21,7 +21,7 @@ instances:
   - atepp-000334 | 同集第二首「圆舞曲」——三拍子的舞曲性格，却带一点北欧的凉意；听「民族」不是引用，而是语气（C1 · CC-BY-4.0）
   - atepp-000337 | 同集第四首「精灵之舞」——快速、轻盈、带奇幻色彩；听格里格怎样用钢琴制造「山妖」的世界（C1 · CC-BY-4.0）
 sources:
-  - 格里格生平、卑尔根与挪威民族音乐，参 The New Grove Dictionary of Music and Musicians, "Grieg"；本文为原创表述
+  - 格里格生平、卑尔根与挪威民族音乐，参 The New Grove Dictionary of Music and Musicians, "Grieg"
   - 《抒情小品》Op. 12 的听点，参通行格里格研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

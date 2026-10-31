@@ -21,7 +21,7 @@ instances:
   - giantmidi-003201 | 《音乐会快板》Op.46，听炫技段落怎样被西班牙节奏组织起来（C1）
   - giantmidi-003207 | 《木偶》，听戈雅题材的讽刺感怎样落在断奏与休止上（C1）
 sources:
-  - 格拉纳多斯生平、巴塞罗那教学与 1916 年海难，参 The New Grove Dictionary of Music and Musicians 的 Granados 条目，本文为原创表述
+  - 格拉纳多斯生平、巴塞罗那教学与 1916 年海难，参 The New Grove Dictionary of Music and Musicians 的 Granados 条目
   - 《戈雅之画》与西班牙舞曲的写作背景，参通行西班牙音乐研究，实例说明由本站撰写
 updated: 2026-10-30
 ---

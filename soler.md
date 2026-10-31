@@ -20,7 +20,7 @@ instances:
   - giantmidi-000972 | 键盘奏鸣曲 R.84，D 大调——双手交叉与快速音型，斯卡拉蒂式的顽皮在这里最明显（C1）
   - giantmidi-000973 | 键盘奏鸣曲 R.15，d 小调——小调的阴影与西班牙舞曲的脉搏，听低音怎样推着旋律走（C1）
 sources:
-  - 索莱尔生平、埃斯科里亚尔修道院职位与 R 编号，参 The New Grove Dictionary of Music and Musicians, "Soler, Antonio"；本文为原创表述
+  - 索莱尔生平、埃斯科里亚尔修道院职位与 R 编号，参 The New Grove Dictionary of Music and Musicians, "Soler, Antonio"
   - 与斯卡拉蒂的师承及西班牙键盘奏鸣曲背景，参通行索莱尔研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

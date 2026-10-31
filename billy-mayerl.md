@@ -21,7 +21,7 @@ instances:
   - giantmidi-001304 | 《邮差敲门》，节奏型模仿敲门声，听同一个动机怎样被反复错位（C1）
   - giantmidi-001294 | 《钟楼里的蝙蝠》，快速音型上下翻飞，听炫技与幽默怎样同时成立（C1）
 sources:
-  - 梅耶尔生平、伦敦轻音乐界与切分钢琴教学，参 The New Grove Dictionary of Music and Musicians 的 Mayerl 条目；本文为原创表述
+  - 梅耶尔生平、伦敦轻音乐界与切分钢琴教学，参 The New Grove Dictionary of Music and Musicians 的 Mayerl 条目
   - 英国 novelty piano 与《切分练习曲》的教材性质，参通行英国轻音乐研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

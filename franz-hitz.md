@@ -21,7 +21,7 @@ instances:
   - giantmidi-003987 | 《阳光雨》Op.219——琶音与跳音交替，听织体怎样代替旋律说话（C1）
   - giantmidi-003976 | 《问候》Op.146——早期小品，句子短而客气，听它如何两小节就交代完（C1）
 sources:
-  - 希茨生平、巴黎音乐学院学习与翁弗勒尔晚年，参 The New Grove Dictionary of Music and Musicians 的 Hitz, Franz 条目；本文为原创表述
+  - 希茨生平、巴黎音乐学院学习与翁弗勒尔晚年，参 The New Grove Dictionary of Music and Musicians 的 Hitz, Franz 条目
   - 十九世纪沙龙钢琴音乐的生产与销售，参通行沙龙音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

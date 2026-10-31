@@ -21,7 +21,7 @@ instances:
   - giantmidi-003059 | 《第二钢琴奏鸣曲“英雄”》Op.50——听亚瑟王题材怎样被写成四乐章（C1）
   - giantmidi-003057 | 《新英格兰田园曲》Op.62——听五声音阶式的旋律与家乡回忆（C1）
 sources:
-  - 麦克道尔生平、法兰克福学习与哥伦比亚大学职位，参 The New Grove Dictionary of Music and Musicians, "MacDowell, Edward"；本文为原创表述
+  - 麦克道尔生平、法兰克福学习与哥伦比亚大学职位，参 The New Grove Dictionary of Music and Musicians, "MacDowell, Edward"
   - 十九世纪美国民族乐派与钢琴小品的背景，参通行麦克道尔研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

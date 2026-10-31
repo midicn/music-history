@@ -21,7 +21,7 @@ instances:
   - pdmx-002838 | 大协奏曲 Op.6 第六首，F 大调——全奏的厚重与独奏的轻盈交替，像同一句话换了两副嗓子（C1）
   - pdmx-002854 | 大协奏曲 Op.6 第四首，D 大调——快速乐章里的模进一句接一句，注意简单音型怎样被推成高潮（C1）
 sources:
-  - 科雷利生平、罗马赞助关系与 Op.6 的出版，参 The New Grove Dictionary of Music and Musicians, "Corelli, Arcangelo"；本文为原创表述
+  - 科雷利生平、罗马赞助关系与 Op.6 的出版，参 The New Grove Dictionary of Music and Musicians, "Corelli, Arcangelo"
   - 巴洛克三重奏鸣曲与大协奏曲的体裁背景，参通行科雷利研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

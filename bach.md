@@ -21,7 +21,7 @@ instances:
   - atepp-001877 | 《三部创意曲》第十一首 BWV 797，g 小调——听半音与模进怎样在三个声部之间传递，一条线永远不会被另一条吞掉（C1 · CC-BY-4.0）
   - atepp-001883 | 《三部创意曲》第十五首 BWV 801，b 小调——同一体裁的终点，声部更密、和声更远，但仍然能听出「谁在说」 (C1 · CC-BY-4.0)
 sources:
-  - 巴赫生平、职位与作品目录，参 The New Grove Dictionary of Music and Musicians, "Bach, Johann Sebastian"；本文为原创表述
+  - 巴赫生平、职位与作品目录，参 The New Grove Dictionary of Music and Musicians, "Bach, Johann Sebastian"
   - 《三部创意曲》的体裁与教学用途，参通行巴赫研究（BWV 787–801）；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

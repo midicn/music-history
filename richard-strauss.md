@@ -21,7 +21,7 @@ instances:
   - giantmidi-009100 | 《海边的城堡》TrV 191——一首歌曲：人声与钢琴，听施特劳斯怎样用和声制造画面与情绪（C1 · CC-BY-4.0）
   - giantmidi-009101 | 《店主之镜》Op. 66——歌曲集里的讽刺与幽默；听施特劳斯不只是「宏大」，也能写尖刻的小品（C1 · CC-BY-4.0）
 sources:
-  - 施特劳斯生平、交响诗与歌剧，参 The New Grove Dictionary of Music and Musicians, "Strauss, Richard"；本文为原创表述
+  - 施特劳斯生平、交响诗与歌剧，参 The New Grove Dictionary of Music and Musicians, "Strauss, Richard"
   - 钢琴小品与歌曲 TrV/Op. 的听点，参通行施特劳斯研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

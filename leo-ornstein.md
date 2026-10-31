@@ -21,7 +21,7 @@ instances:
   - giantmidi-007409 | 《一九一七年的诗》，短曲连成组，听战争年代的紧张怎样停在小调上（C1）
   - giantmidi-007397 | 《九首小品》，每首一分钟上下，听他把不同风格压进同一个模子（C1）
 sources:
-  - 奥恩斯坦生平、1910 年代纽约演出与晚年创作，参 The New Grove Dictionary of Music and Musicians 的 Ornstein 条目；本文为原创表述
+  - 奥恩斯坦生平、1910 年代纽约演出与晚年创作，参 The New Grove Dictionary of Music and Musicians 的 Ornstein 条目
   - 美国早期现代主义钢琴音乐与奥恩斯坦作品目录 SO 编号，参通行美国音乐研究；实例说明由本站撰写
 updated: 2026-10-30
 ---

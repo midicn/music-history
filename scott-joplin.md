@@ -20,7 +20,7 @@ instances:
   - giantmidi-009402 | 《演艺人》——AABBACCDD 的段落怎样靠重复与转调撑住全曲，重点听第三段的短暂转调（C1）
   - giantmidi-009397 | 《安慰》——慢速拉格，低音带哈巴涅拉的味道，听乔普林抒情而不甜腻的一面（C1）
 sources:
-  - 乔普林生平、出版与作品，参 The New Grove Dictionary of Music and Musicians, "Joplin, Scott"；本文为原创表述
+  - 乔普林生平、出版与作品，参 The New Grove Dictionary of Music and Musicians, "Joplin, Scott"
   - 经典拉格泰姆的段落结构与左手伴奏型，参通行拉格泰姆研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

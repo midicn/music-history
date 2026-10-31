@@ -21,7 +21,7 @@ instances:
   - giantmidi-001202 | 《捷克民歌主题幻想曲》——民歌主题被展开成钢琴幻想曲，听变奏里的乡土色彩（C1）
   - giantmidi-001204 | 《麦克白与女巫》——标题性钢琴曲，听低音区的阴暗与快速音型（C1）
 sources:
-  - 斯美塔那生平、布拉格临时剧院任期与作品年表，参 The New Grove Dictionary of Music and Musicians, "Smetana, Bedřich"；本文为原创表述
+  - 斯美塔那生平、布拉格临时剧院任期与作品年表，参 The New Grove Dictionary of Music and Musicians, "Smetana, Bedřich"
   - 捷克民族复兴与交响诗套曲的背景，参通行斯美塔那研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

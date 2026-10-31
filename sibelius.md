@@ -20,7 +20,7 @@ instances:
   - aria-116449 | 第五交响曲选段，动机从圆号里缓慢长出，节拍在 3/2 与 4/4 之间摆动；C1 无该曲录音，此条为 C2 钢琴缩编
   - aria-142214 | d 小调小提琴协奏曲选段，独奏的寒风式音型与乐队低音对峙；C1 无该曲录音，此条为 C2 钢琴缩编
 sources:
-  - 西贝柳斯生平、芬兰民族觉醒与七部交响曲，参 The New Grove Dictionary of Music and Musicians 的 Sibelius 条目；本文为原创表述
+  - 西贝柳斯生平、芬兰民族觉醒与七部交响曲，参 The New Grove Dictionary of Music and Musicians 的 Sibelius 条目
   - 交响曲与音诗的听点参通行作品分析，实例均为钢琴缩编，说明由本站撰写
 updated: 2026-10-28
 ---

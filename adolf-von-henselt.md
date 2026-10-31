@@ -21,7 +21,7 @@ instances:
   - giantmidi-000085 | 《两首夜曲》Op.6——听长气息旋律怎样在宽琶音上浮起（C1）
   - giantmidi-000088 | 《叙事曲》Op.31——单乐章叙事曲，听和声的暗色与高潮的铺法（C1）
 sources:
-  - 亨泽尔特生平、圣彼得堡宫廷职位与教学，参 The New Grove Dictionary of Music and Musicians, "Henselt, Adolf von"；本文为原创表述
+  - 亨泽尔特生平、圣彼得堡宫廷职位与教学，参 The New Grove Dictionary of Music and Musicians, "Henselt, Adolf von"
   - 十九世纪钢琴伸展技巧与俄国钢琴教学的背景，参通行亨泽尔特研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

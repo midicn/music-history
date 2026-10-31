@@ -21,7 +21,7 @@ instances:
   - m21-000489 | 牧歌第三卷另一首——听「 seconda pratica」的苗头：不协和音为了歌词而存在，不再只是被解决的错误（C1 · PD）
   - m21-000490 | 同一卷的牧歌——和声的色彩与歌词的重音贴得更紧；这是从「复调」走向「戏剧」的一步（C1 · PD）
 sources:
-  - 蒙特威尔第生平、曼图亚与威尼斯时期、牧歌与歌剧，参 The New Grove Dictionary of Music and Musicians, "Monteverdi"；本文为原创表述
+  - 蒙特威尔第生平、曼图亚与威尼斯时期、牧歌与歌剧，参 The New Grove Dictionary of Music and Musicians, "Monteverdi"
   - 牧歌第三卷与 seconda pratica 的听点，参通行蒙特威尔第研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

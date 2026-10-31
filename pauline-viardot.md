@@ -21,7 +21,7 @@ instances:
   - openscore-001095 | 《Bonjour mon cœur!》VWV 1072——短小的情歌，听旋律怎样贴近法语的语调（C1）
   - openscore-001115 | 《爱米奥娜的场景》VWV 1007——音乐会场景，听宣叙与咏叹怎样连成一场小戏（C1）
 sources:
-  - 维亚尔多生平、巴黎与巴登巴登沙龙及歌曲编号，参 The New Grove Dictionary of Music and Musicians, "Viardot, Pauline"；本文为原创表述
+  - 维亚尔多生平、巴黎与巴登巴登沙龙及歌曲编号，参 The New Grove Dictionary of Music and Musicians, "Viardot, Pauline"
   - 十九世纪法国艺术歌曲与女作曲家处境的背景，参通行维亚尔多研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

@@ -21,7 +21,7 @@ instances:
   - giantmidi-000679 | 《静水之畔》Op.114——听左手琶音与右手旋律怎样互不干扰（C1）
   - openscore-000866 | 《一年之春》Op.44 No.1——最常被演唱的短歌，听钢琴前奏怎样定下语气（C1）
 sources:
-  - 比奇生平、波士顿时期与作品编号，参 The New Grove Dictionary of Music and Musicians, "Beach, Amy"；本文为原创表述
+  - 比奇生平、波士顿时期与作品编号，参 The New Grove Dictionary of Music and Musicians, "Beach, Amy"
   - 十九世纪美国女性作曲家与交响曲创作的背景，参通行比奇研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

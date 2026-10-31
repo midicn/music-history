@@ -21,7 +21,7 @@ instances:
   - giantmidi-000896 | 《七首民族舞曲》Op.82——俄、波、意舞曲并列，听节奏怎样换脸（C1）
   - giantmidi-000904 | 《第二钢琴奏鸣曲》Op.20——四乐章大结构，听主题怎样跨乐章呼应（C1）
 sources:
-  - 鲁宾斯坦生平、圣彼得堡音乐学院与历史音乐会，参 The New Grove Dictionary of Music and Musicians 的 Rubinstein, Anton 条目；本文为原创表述
+  - 鲁宾斯坦生平、圣彼得堡音乐学院与历史音乐会，参 The New Grove Dictionary of Music and Musicians 的 Rubinstein, Anton 条目
   - 十九世纪俄国音乐的专业化与强力集团之争，参通行俄国音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

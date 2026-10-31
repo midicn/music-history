@@ -21,7 +21,7 @@ instances:
   - pdmx-002041 | 《武士歌弥撒》，一首流行曲被拆进各声部，听弥撒怎样由它搭起来（C1）
   - pdmx-002883 | 《Ave Maria》，开头的长音与逐级下行的线条，他最常被引用的写法（C1）
 sources:
-  - 若斯坎生平、任职城市与作品归属，参 The New Grove Dictionary of Music and Musicians 的 Josquin des Prez 条；本文为原创表述
+  - 若斯坎生平、任职城市与作品归属，参 The New Grove Dictionary of Music and Musicians 的 Josquin des Prez 条
   - 文艺复兴模仿复调与彼得鲁奇 1502 年弥撒印本，参通行文艺复兴音乐研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

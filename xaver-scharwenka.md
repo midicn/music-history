@@ -21,7 +21,7 @@ instances:
   - giantmidi-010727 | 《圆舞曲随想曲》Op.31——听圆舞曲的转调怎样越走越远（C1）
   - giantmidi-010712 | 《船歌》Op.14——短小的船歌，听六八拍摇摆里的和声色彩（C1）
 sources:
-  - 沙尔文卡生平、波森出身与柏林音乐学院创办，参 The New Grove Dictionary of Music and Musicians, "Scharwenka, Franz Xaver"；本文为原创表述
+  - 沙尔文卡生平、波森出身与柏林音乐学院创办，参 The New Grove Dictionary of Music and Musicians, "Scharwenka, Franz Xaver"
   - 十九世纪波兰舞曲与柏林钢琴学派的背景，参通行沙尔文卡研究；实例 why 为本站听辨提示
 updated: 2026-10-30
 ---

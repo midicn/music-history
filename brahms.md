@@ -21,7 +21,7 @@ instances:
   - atepp-002974 | 《四首叙事曲》Op. 10 第二首，D 大调——同一体裁的另一面：更明亮、更流动，但内声部仍然密不透风（C1 · CC-BY-4.0）
   - atepp-002975 | 《四首叙事曲》Op. 10 第二首的另一个录音——同一作品、不同触键与速度；可对照听「古典结构」怎样容纳不同情绪（C1 · CC-BY-4.0）
 sources:
-  - 勃拉姆斯生平、与古典传统的关系及作品，参 The New Grove Dictionary of Music and Musicians, "Brahms"；本文为原创表述
+  - 勃拉姆斯生平、与古典传统的关系及作品，参 The New Grove Dictionary of Music and Musicians, "Brahms"
   - 《四首叙事曲》Op. 10 的听点，参通行勃拉姆斯研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

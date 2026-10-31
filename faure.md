@@ -20,7 +20,7 @@ instances:
   - mutopia-000793 | 《帕凡舞曲》Op. 50——同一支旋律反复回来，配器与和声每次换一层颜色（C1 · CC-BY-4.0）
   - musicnet-000265 | 第二钢琴四重奏第一乐章——室内乐的密度，钢琴与弦乐互相让路，听福雷怎样把抒情写得精密（C1 · CC-BY-4.0）
 sources:
-  - 福雷生平、巴黎音乐学院院长任期与作品编号，参 The New Grove Dictionary of Music and Musicians, "Fauré, Gabriel"；本文为原创表述
+  - 福雷生平、巴黎音乐学院院长任期与作品编号，参 The New Grove Dictionary of Music and Musicians, "Fauré, Gabriel"
   - 《安魂曲》与法国艺术歌曲的体裁背景，参通行福雷研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---

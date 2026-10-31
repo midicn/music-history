@@ -20,7 +20,7 @@ instances:
   - atepp-001842 | 键盘组曲 HWV 428 的前奏曲，法国序曲的附点节奏与大键琴的分解和弦，是亨德尔器乐语言的入口（C1 · CC-BY-4.0）
   - pdmx-001435 | 《塞尔斯》HWV 40 选段，听咏叹调怎样把简单的和声进行拉成宽广的声乐线条，乐队只负责托住呼吸（C1 · CC0-1.0）
 sources:
-  - 亨德尔生平、伦敦歌剧与清唱剧事业，参 The New Grove Dictionary of Music and Musicians 的 Handel 条目；本文为原创表述
+  - 亨德尔生平、伦敦歌剧与清唱剧事业，参 The New Grove Dictionary of Music and Musicians 的 Handel 条目
   - 聆听提示依据《弥赛亚》《塞尔斯》与键盘组曲的通行分析，实例说明由本站撰写
 updated: 2026-10-28
 ---

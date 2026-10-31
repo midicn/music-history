@@ -22,7 +22,7 @@ instances:
   - giantmidi-008155 | 《简易怡人小品集》Op.59——沙龙小曲，听分解和弦怎样托住旋律（C1）
   - giantmidi-008153 | 《蝴蝶》Op.50——听轻盈的装饰音与短句怎样连成一片（C1）
 sources:
-  - 朱利安尼生平、维也纳宫廷职位与作品目录，参 The New Grove Dictionary of Music and Musicians, "Giuliani, Mauro"；本文为原创表述
+  - 朱利安尼生平、维也纳宫廷职位与作品目录，参 The New Grove Dictionary of Music and Musicians, "Giuliani, Mauro"
   - 古典吉他从沙龙到音乐会的转变，参通行朱利安尼研究；实例说明为本站听辨提示
 updated: 2026-10-30
 ---

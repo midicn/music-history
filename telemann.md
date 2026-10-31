@@ -21,7 +21,7 @@ instances:
   - giantmidi-004819 | 《a 小调方法奏鸣曲》TWV 41:a2——把即兴装饰写成可教的范本，适合比较原作与加花（C1）
   - giantmidi-004820 | 康塔塔《你的居所何等可爱》TWV 1:1628——教堂康塔塔，听咏叹调与众赞歌怎样交替（C1）
 sources:
-  - 泰勒曼生平、汉堡职位与 TWV 编号，参 The New Grove Dictionary of Music and Musicians, "Telemann, Georg Philipp"；本文为原创表述
+  - 泰勒曼生平、汉堡职位与 TWV 编号，参 The New Grove Dictionary of Music and Musicians, "Telemann, Georg Philipp"
   - 德国晚期巴洛克器乐与出版文化的背景，参通行泰勒曼研究；实例 why 为本站听辨提示
 updated: 2026-10-28
 ---
