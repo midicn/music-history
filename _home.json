@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "kicker": {"zh": "音乐史", "en": "Music History"},
+    "title": {"zh": "一条时间线，也是一张听歌地图", "en": "A timeline you can listen your way through"},
+    "lead": {"zh": "可以从一个时代进去，也可以从一件乐器、一个人或一场争论进去。每条都写清“发生了什么、改变了什么、现在还能听什么”。", "en": "Enter through an era, an instrument, a person or an argument. Every entry says what happened, what changed and what you can still hear."}
+  },
+  "needs_title": {"zh": "你想从哪儿进历史", "en": "Where do you want to enter"},
+  "needs_sub": {"zh": "按时间、人物、流派、地域或问题进入，最后都能回到同一张地图。", "en": "Enter by period, person, genre, place or question; all routes return to the same map."},
+  "needs": [
+    {
+      "icon": "时",
+      "t": {"zh": "想按时代听一遍", "en": "Listen era by era"},
+      "d": {"zh": "从早期到当代，每个时代先抓声响变化，再记年份。", "en": "From early music to now: hear the change in sound first, then remember the dates."},
+      "links": [{"id": "medieval"}, {"id": "renaissance"}, {"id": "baroque"}, {"id": "romantic"}, {"id": "contemporary"}]
+    },
+    {
+      "icon": "人",
+      "t": {"zh": "想认识作曲家", "en": "Meet the composers"},
+      "d": {"zh": "不只看出名与否，还看他们靠什么活着、在哪儿工作。", "en": "Not just fame: how they made a living and where they worked."},
+      "links": [{"id": "louise-reichardt"}, {"id": "anton-rubinstein"}, {"id": "henry-wieniawski"}, {"id": "aleksandr-glazunov"}]
+    },
+    {
+      "icon": "流",
+      "t": {"zh": "想追一个流派", "en": "Trace a genre"},
+      "d": {"zh": "听它的节奏骨架、音色选择，以及它从谁那里长出来。", "en": "Hear its rhythmic skeleton, its timbral choices, and what it grew out of."},
+      "links": [{"id": "boogie-woogie"}, {"id": "rockabilly"}, {"id": "hard-bop"}, {"id": "new-wave"}, {"id": "death-metal"}]
+    },
+    {
+      "icon": "中",
+      "t": {"zh": "想听中国音乐的传统", "en": "Chinese musical traditions"},
+      "d": {"zh": "从劳动号子到宫廷乐器，听它们各自在什么场合活着。", "en": "From work songs to court instruments, each in the setting where it lived."},
+      "links": [{"id": "chuanjiang-haozi"}, {"id": "suona-tradition"}, {"id": "gaohu-tradition"}, {"id": "bianqing-tradition"}]
+    },
+    {
+      "icon": "技",
+      "t": {"zh": "音乐是怎么被记录和卖出去的", "en": "How music was recorded and sold"},
+      "d": {"zh": "记谱、录音、乐谱生意与经纪人，决定了什么能被留下来。", "en": "Notation, recording, sheet-music trade and agents decided what survived."},
+      "links": [{"id": "notation-history"}, {"id": "recording-history"}, {"id": "sheet-music-trade"}, {"id": "artist-agent"}]
+    },
+    {
+      "icon": "问",
+      "t": {"zh": "音乐和社会怎么互相塑形", "en": "Music and society shaping each other"},
+      "d": {"zh": "国歌、抗议歌、宗教与移民，都是音乐进入公共生活的方式。", "en": "Anthems, protest songs, religion and migration are how music enters public life."},
+      "links": [{"id": "protest-song"}, {"id": "national-anthem"}, {"id": "music-and-religion"}, {"id": "music-and-migration"}]
+    }
+  ],
+  "ladder_title": {"zh": "读一条历史条目的顺序", "en": "How to read a history entry"},
+  "ladder_sub": {"zh": "先定位，再听声音，最后看它改写了什么。", "en": "Locate it, hear it, then see what it rewrote."},
+  "ladder": [
+    {"n": "01", "t": {"zh": "先看时间与地点", "en": "Time and place"}, "d": {"zh": "同一件事在不同城市，意义完全不同。", "en": "The same event means something else in another city."}, "href": "patronage-system"},
+    {"n": "02", "t": {"zh": "听当时的声音", "en": "Hear the sound"}, "d": {"zh": "配器、音高与节奏，比形容词可靠。", "en": "Instrumentation, pitch and rhythm are more reliable than adjectives."}, "href": "notation-history"},
+    {"n": "03", "t": {"zh": "看它改变了什么", "en": "See what changed"}, "d": {"zh": "制度、听众与技术，往往一起变。", "en": "Institutions, audiences and technology usually change together."}, "href": "recording-history"},
+    {"n": "04", "t": {"zh": "再连到别处", "en": "Connect it elsewhere"}, "d": {"zh": "同一时期、同一问题，换一个站继续读。", "en": "Same period, same question, continue on another site."}, "href": "women-composers"}
+  ],
+  "picks_title": {"zh": "六条能当入口的条目", "en": "Six good ways in"},
+  "picks_sub": {"zh": "不是“最重要”，而是读完最容易接着往下走。", "en": "Not the most important, but the easiest to keep reading from."},
+  "picks": [
+    {"id": "notation-history", "why": {"zh": "三百年的记谱变化，决定我们今天怎么读音乐。", "en": "Three centuries of notation decide how we read music now."}},
+    {"id": "recording-history", "why": {"zh": "录音把“一次演出”变成了可复制的东西。", "en": "Recording turned a performance into something copyable."}},
+    {"id": "women-composers", "why": {"zh": "谁被写进历史，本身就是历史问题。", "en": "Who gets written into history is itself a historical question."}},
+    {"id": "patronage-system", "why": {"zh": "钱从哪来，决定了音乐长什么样。", "en": "Where the money came from shaped what the music could be."}},
+    {"id": "protest-song", "why": {"zh": "一首歌怎么进入公共生活，又怎么被禁。", "en": "How a song enters public life, and how it gets banned."}},
+    {"id": "music-and-migration", "why": {"zh": "人和声音一起移动，流派才不断混血。", "en": "People and sounds move together; genres keep mixing."}}
+  ],
+  "trails_title": {"zh": "三条穿过时间的线", "en": "Three lines through time"},
+  "trails_sub": {"zh": "按顺序听，能听出风格的接缝。", "en": "Read in order and you can hear the seams between styles."},
+  "trails": [
+    {"t": {"zh": "从格里高利到当代", "en": "From chant to the present"}, "d": {"zh": "七个时期，一条声响变化的线索。", "en": "Seven periods, one thread of changing sound."}, "stops": ["medieval", "renaissance", "baroque", "classical", "romantic", "modern", "contemporary"]},
+    {"t": {"zh": "录音如何改变音乐", "en": "How recording changed music"}, "d": {"zh": "从乐谱生意到流媒体，媒介一直在改写作曲。", "en": "From sheet music to streaming, the medium keeps rewriting composition."}, "stops": ["sheet-music-trade", "recording-history", "artist-agent", "music-and-globalization"]},
+    {"t": {"zh": "中国器乐的传统", "en": "Chinese instrumental traditions"}, "d": {"zh": "劳动、宫廷与地方乐种各自的声音。", "en": "The sounds of labour, court and regional traditions."}, "stops": ["chuanjiang-haozi", "suona-tradition", "gaohu-tradition", "paixiao-tradition"]}
+  ]
+}
