@@ -21,13 +21,13 @@ instances:
 sources:
   - Grove Music Online 的 Waltz 与 Ballroom dance 条目，用于核对舞曲与社交服饰的关系
   - 伊丽莎白·奥尔德里奇，《From the Ballroom to Hell》（Northwestern University Press，1991），用于核对19世纪舞会文化中的身体与礼仪
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
 ## 要回答的问题
 
-衣服不会发声，但舞会需要音乐。裙子多宽、鞋跟多高，往往由舞曲的速度决定。时尚与音乐怎样互相塑形？
+舞蹈动作、演出服饰与音乐风格会共同塑造一个场景，但三者之间不能建立简单的因果公式。华尔兹的旋转、摇摆舞的步伐和朋克演出的服饰，既涉及身体活动，也涉及场所、礼仪和群体身份。讨论某件服装与音乐的关系，需要具体的年代、图像、演出记录或设计资料，不能仅由曲子的速度推断裙摆和鞋跟。
 
 ## 历史的走向
 
@@ -53,7 +53,7 @@ updated: 2026-10-28
 ::: en
 ## Question
 
-Clothes make no sound, but a ball needs music. How wide a skirt can be and how high a heel can go are often decided by the speed of the dance. How do fashion and music shape each other?
+Dance movement, clothing and musical style can jointly shape a scene, but there is no simple causal formula between them. Waltz turns, swing steps and punk-stage clothing involve movement, setting, etiquette and group identity. Connecting particular clothes to music requires dated images, performance records or design evidence; tempo alone does not explain skirt width or heel height.
 
 ## Historical background
 

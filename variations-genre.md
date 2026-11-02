@@ -22,7 +22,7 @@ instances:
 sources:
   - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Variations".
   - Charles Rosen, The Classical Style.
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -34,7 +34,7 @@ updated: 2026-10-28
 
 ## 听辨特征
 
-先记住主题的旋律、低音与和声。听变奏改的是哪一层，加花、换拍、转小调、改织体还是换音色。固定低音变奏里，低音不动，上面在换。末段常回到主题，或写成赋格把材料再压一遍。
+先记住主题的旋律轮廓、低音与和声，再比较每段保留了什么、改变了什么。加花可能遮住旋律，但句长、和声进行或终止位置仍可保持；换拍、转入同主音小调或改变织体，也能在保留部分结构的同时形成对比。固定低音变奏通常围绕反复的低音模式展开，实际音符可有装饰或音区变化，并非每次逐音复制。结尾怎样处理材料，要看具体作品，不能预设一定返回主题或改写成赋格。
 
 ## 代表人物
 
@@ -62,7 +62,7 @@ In the sixteenth century lute and keyboard players varied a ground bass. Bach's 
 
 ## Listening features
 
-First remember the theme's melody, bass and harmony. Then hear which layer a variation changes, adding ornament, altering metre, turning minor, reworking texture or colour. In a ground-bass variation the bass stays while everything above moves. The last variation often returns to the theme, or turns into a fugue that compresses the material once more.
+Keep the theme’s contour, bass and harmony in mind, then compare what each variation retains and changes. Ornament can obscure a melody while phrase length, harmonic progression or cadence placement remains recognisable. A change of metre, parallel mode or texture can create contrast while preserving part of the design. Ground-bass variations use a recurring bass pattern, but its notes may be ornamented or moved between registers. Do not assume that every variation set must end with a literal return of the theme or a fugue.
 
 ## Composers and works
 

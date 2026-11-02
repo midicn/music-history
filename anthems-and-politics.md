@@ -21,9 +21,10 @@ instances:
   - pdmx-001144 | 1814年战争中的诗与曲，直到1931年才被正式定为美国国歌
   - pdmx-001594 | 从工人运动歌曲变成苏联国歌，歌词与立场几度更换
 sources:
+  - "https://www.elysee.fr/en/french-presidency/la-marseillaise-by-rouget-de-lisle"
   - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "National anthem".
   - David B. Dennis, Beethoven in German Politics 1870.
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -35,7 +36,7 @@ updated: 2026-10-28
 
 ## 历史脉络
 
-1745年《天佑国王》在英国演唱，后来成为多国借用的曲调。1792年《马赛曲》随革命军队传播，拿破仑时期被禁，1830年后再成国歌。1871年《国际歌》从工人运动升起，1922年成为苏联国歌。1814年《星条旗》写于战争，1931年才被国会定为美国国歌。新兴国家常从民歌、进行曲或比赛中挑选旋律，再填新词。
+《天佑国王》的曲调在18世纪英国公共生活中传播，后来被其他国家借用。《马赛曲》创作于1792年，1795年被定为法国国歌，第三共和国于1879年重新确认其国歌地位。《星条旗》的歌词写于1814年，美国国会到1931年才正式采用它。创作、流行和法律确认可能相隔很久，不能把其中一个年份当作同一事件。
 
 ## 关键转折
 
@@ -63,7 +64,7 @@ How does one song become the only song? Who decides the words, tempo and occasio
 
 ## Historical arc
 
-God Save the King was sung in Britain in 1745, and its tune was borrowed by several states. La Marseillaise spread with the revolutionary army in 1792, was banned under Napoleon, and returned after 1830. The Internationale rose from the workers' movement in 1871 and became the Soviet anthem in 1922. The Star-Spangled Banner was written during war in 1814 but became the American anthem only in 1931. New states often choose a folk tune or march, then add fresh words.
+The tune of God Save the King circulated in eighteenth-century Britain and was borrowed by other states. La Marseillaise was written in 1792, declared the French national anthem in 1795, and reaffirmed by the Third Republic in 1879. The words of The Star-Spangled Banner date from 1814, but Congress formally adopted it in 1931. Composition, popular use and official adoption can occur decades apart.
 
 ## The turning point
 

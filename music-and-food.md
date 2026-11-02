@@ -21,7 +21,7 @@ instances:
 sources:
   - Grove Music Online 的 Bach, Johann Sebastian 与 Drinking song 条目，用于核对饮食歌曲的场合与体裁
   - 詹姆斯·盖恩斯，《Evening in the Palace of Reason》中关于巴赫与莱比锡咖啡文化的章节，用于核对《咖啡康塔塔》的背景
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -39,7 +39,7 @@ updated: 2026-10-28
 
 ## 听这几处
 
-听音乐有没有留出说话的空隙，听副歌是否容易跟唱，听节奏是否在模仿倒酒、碰杯或气泡。
+把三类用途分开听：康塔塔以角色对话推进情节，饮酒歌的副歌可供集体加入，器乐小品则可能只在标题上提到饮品。可以比较独唱与合唱的交替、乐句长度和节奏重音。标题中的“香槟”并不能证明切分节奏在模仿气泡；同样，一首适合宴席的曲子也不必逐段留出谈话的空白。
 
 ```audiolab
 {"type":"instrument","gm":"Harpsichord","synth":"plucked","phrase":["C4","E4","G4","C5","G4","E4","C4","G4"],"label":"咖啡桌上的咏叹","label_en":"An aria at the coffee table","hint":"听伴奏怎样给歌声让路，又在句尾轻轻插话","hint_en":"Hear the accompaniment make room for the voice, then answer at the phrase end"}
@@ -65,7 +65,7 @@ BWV 211 stages a father-daughter quarrel over coffee. The Irish drinking song Pr
 
 ## Listen to these
 
-Hear whether the music leaves gaps for talk, whether the refrain invites singing, and whether the rhythm imitates pouring, clinking, or bubbles.
+Separate the uses of the examples: a cantata advances a dramatic exchange, a drinking-song refrain may invite participation, and an instrumental piece may refer to a drink only in its title. Compare solo–chorus alternation, phrase length and rhythmic accent. A champagne title does not prove that syncopation imitates bubbles, nor must every piece suitable for a meal contain literal gaps for conversation.
 
 ```audiolab
 {"type":"instrument","gm":"Harpsichord","synth":"plucked","phrase":["C4","E4","G4","C5","G4","E4","C4","G4"],"label":"An aria at the coffee table","label_en":"An aria at the coffee table","hint":"Hear the accompaniment make room for the voice, then answer at the phrase end","hint_en":"Hear the accompaniment make room for the voice, then answer at the phrase end"}

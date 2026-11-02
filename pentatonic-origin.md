@@ -23,11 +23,11 @@ instances:
 sources:
   - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Pentatonic".
   - Bruno Nettl, The Study of Ethnomusicology (University of Illinois Press).
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
-五个音能走多远？从中国编钟到苏格兰舞曲，五声音阶一直在旅行。
+五声音阶以五个音级组织音高材料，但“五个音”并不指一种全球统一的音阶。C–D–E–G–A 是常见的无半音五声音列；其他五声音列可以有不同的音程排列和调律。讨论五声的历史时，应分别说明具体传统、音列和用法，而不是从名称相同推断它们有共同起源。
 
 ## 问题
 
@@ -55,7 +55,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-How far can five notes travel? From Chinese bells to Scottish dances, the pentatonic scale has been on the move.
+Pentatonic scales organise pitch material using five pitch classes, but the label does not identify one universal scale. C–D–E–G–A is a familiar anhemitonic pattern; other five-note scales can use different interval arrangements and tunings. Historical comparisons should name the tradition, pitch collection and musical use rather than infer a shared origin from the label alone.
 
 ## The question
 

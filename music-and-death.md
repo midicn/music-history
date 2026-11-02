@@ -21,7 +21,7 @@ instances:
 sources:
   - Grove Music Online 的 Requiem 与 Funeral music 条目，用于核对安魂弥撒与葬礼音乐的体裁史
   - The Cambridge History of Nineteenth-Century Music（Cambridge University Press，2002），用于核对19世纪公共悼念与音乐的关系
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -39,7 +39,7 @@ updated: 2026-10-28
 
 ## 听这几处
 
-听鼓点或低音是否像脚步，听大调是否在最后转为安慰，听停顿是否比音符更长。
+比较葬礼进行曲与安魂弥撒时，先看作品的用途和编制：前者的稳定拍点可能服务于行进，后者往往依据经文组织段落。再记录节奏音型、声部进入和停顿的位置。附点节奏或低音反复可以形成行进感，但不能单凭一个大调和弦就断定作品在表达安慰；同一写法在不同曲目、仪式或演出中可能有不同作用。
 
 ```audiolab
 {"type":"instrument","gm":"Church Organ","synth":"blown","phrase":["D4","D4","E4","F4","E4","D4","C4","D4"],"label":"送葬的脚步","label_en":"A funeral tread","hint":"听低音怎样一步一步向前，不给旋律逃跑的机会","hint_en":"Hear the bass step forward and leave the melody no escape"}
@@ -65,7 +65,7 @@ An excerpt from Mozart's Requiem K.626 turns the Latin text into continuous plea
 
 ## Listen to these
 
-Hear whether drums or bass sound like footsteps, whether a major key finally offers consolation, and whether the pauses last longer than the notes.
+When comparing a funeral march with a requiem setting, begin with purpose and scoring: a regular pulse can support a procession, while a Mass setting is organised around its texts. Track rhythmic patterns, entries and pauses. Dotted rhythm or a repeated bass may create a processional character, but one major chord does not prove consolation; the same device can serve different purposes in different works or ceremonies.
 
 ```audiolab
 {"type":"instrument","gm":"Church Organ","synth":"blown","phrase":["D4","D4","E4","F4","E4","D4","C4","D4"],"label":"A funeral tread","label_en":"A funeral tread","hint":"Hear the bass step forward and leave the melody no escape","hint_en":"Hear the bass step forward and leave the melody no escape"}

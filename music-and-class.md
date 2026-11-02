@@ -21,7 +21,7 @@ instances:
 sources:
   - Grove Music Online 的 Opera buffa 与 Internationale 条目，用于核对喜歌剧与工人歌曲的阶层主题
   - 威廉·韦伯，《Music and the Middle Class》一书对19世纪音乐会生活的研究，用于核对听众结构的变化
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -39,7 +39,7 @@ updated: 2026-10-28
 
 ## 听这几处
 
-听仆人角色是否用更快的语速，听贵族是否被低音或笨重的和声嘲笑，听副歌是否故意写成容易合唱。
+比较歌剧中不同身份的角色时，先读剧情和台词，再听谁掌握发言的时机、谁被打断、哪些材料由独唱转为重唱。语速、声部高低或和声的复杂程度本身并不等于社会阶层。若讨论现实中的听众，还需区分宫廷赞助、售票音乐会、家庭演奏等场合；舞台上仆人获胜的情节不能直接证明现实中的阶层关系已经改变。
 
 ```audiolab
 {"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["C4","D4","E4","F4","G4","F4","E4","D4"],"label":"主仆的对话","label_en":"A dialogue of master and servant","hint":"听两个音区怎样一高一低地抢话，最后谁先停下","hint_en":"Hear the two registers interrupt each other, and who stops first"}
@@ -65,7 +65,7 @@ La serva padrona (1733) lets the servant Serpina outwit her master. Le nozze di 
 
 ## Listen to these
 
-Hear whether the servant speaks in faster phrases, whether the noble is mocked by a heavy bass or clumsy harmony, and whether the refrain is deliberately easy to sing together.
+Read the plot and words before comparing roles of different social rank. Listen for who controls an entry, who is interrupted, and how solo material becomes ensemble singing. Speed of delivery, vocal range or harmonic complexity is not itself a social class. Claims about actual audiences also require distinctions between court patronage, ticketed concerts and domestic performance; a servant’s victory on stage does not establish a change in social relations outside the theatre.
 
 ```audiolab
 {"type":"instrument","gm":"String Ensemble 1","synth":"bowed","phrase":["C4","D4","E4","F4","G4","F4","E4","D4"],"label":"A dialogue of master and servant","label_en":"A dialogue of master and servant","hint":"Hear the two registers interrupt each other, and who stops first","hint_en":"Hear the two registers interrupt each other, and who stops first"}

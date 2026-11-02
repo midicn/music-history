@@ -21,7 +21,7 @@ instances:
 sources:
   - Grove Music Online 的 Ein musikalischer Spass 与 Humoresque 条目，用于核对音乐玩笑的手法
   - 伦纳德·拉特纳，《Classic Music》（Schirmer Books，1980），用于核对古典时期的听众预期与修辞
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -39,7 +39,7 @@ updated: 2026-10-28
 
 ## 听这几处
 
-听和声有没有“走错门”，听节奏有没有突然停住，听低音是不是在模仿笨重的脚步。
+先找出音乐建立的预期，再定位偏离的位置：例如一句旋律重复时突然更改重音，接近终止时延迟解决，或某个声部故意与其他声部不协调。还应比较这些效果是否在作品中反复出现，以及标题、舞台动作或听众习惯是否提供笑点。一个不协和和弦或突然停顿并不天然可笑；若脱离前后文，同样的声音也可能紧张或严肃。
 
 ```audiolab
 {"type":"instrument","gm":"Bassoon","synth":"reed","phrase":["C3","C3","D3","E3","F3","E3","D3","C3"],"label":"笨拙的低声部","label_en":"A clumsy bass","hint":"听低音怎样晚半拍才跟上，像有人踩到自己的鞋带","hint_en":"Hear the bass arrive half a beat late, as if tripping on a shoelace"}
@@ -65,7 +65,7 @@ Mozart's K.522 makes horns miss notes and delays cadences again and again. Dvora
 
 ## Listen to these
 
-Hear whether the harmony walks through the wrong door, whether the rhythm stops short, and whether the bass imitates a heavy, clumsy step.
+Identify an expectation before locating its disruption: a repeated phrase may receive new accents, a cadence may be delayed, or one part may deliberately conflict with the others. Ask whether the effect recurs and whether a title, stage action or listening convention contributes to the joke. Dissonance and sudden silence are not inherently funny; in another context the same sounds may be tense or serious.
 
 ```audiolab
 {"type":"instrument","gm":"Bassoon","synth":"reed","phrase":["C3","C3","D3","E3","F3","E3","D3","C3"],"label":"A clumsy bass","label_en":"A clumsy bass","hint":"Hear the bass arrive half a beat late, as if tripping on a shoelace","hint_en":"Hear the bass arrive half a beat late, as if tripping on a shoelace"}

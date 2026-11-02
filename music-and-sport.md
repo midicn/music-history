@@ -19,9 +19,11 @@ instances:
   - pdmx-000156 | 苏萨《自由钟》进行曲被学校与军乐队带进看台，铜管成为比赛的开场信号
   - pdmx-002084 | 富奇克《角斗士入场》把竞技场的想象写成马戏与运动会共用的进行曲
 sources:
+  - "https://www.loc.gov/exhibits/baseballs-greatest-hits/take-me-out-the-ball-game.html"
+  - "https://baseballhall.org/discover/baseballs-anthem-began-as-tin-pan-alley-hit"
   - Grove Music Online 的 March 与 Band 条目，用于核对进行曲在公共竞技中的使用
   - The Cambridge History of American Music（Cambridge University Press，1998），用于核对美国进行曲与公共娱乐
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -35,7 +37,7 @@ updated: 2026-10-28
 
 ## 几个例子
 
-《带我去看棒球》1908年成为棒球场的集体歌；苏萨《自由钟》进行曲被学校乐队带进看台；富奇克《角斗士入场》从马戏走到运动会。三首分别代表球迷、学校与竞技场。
+《带我去看棒球》由杰克·诺沃思作词、阿尔伯特·冯·蒂尔策作曲，发表于1908年；创作年份不等于球场采用的年份。美国棒球名人堂把已知的球场演出追溯到1934年。它后来成为球场合唱曲，适合用来研究一首商业歌曲怎样被观众反复使用，成为比赛仪式的一部分。进行曲则可用来比较另一种参与方式：观众跟随稳定拍点拍手、行进或齐声喊唱。
 
 ## 听这几处
 
@@ -61,7 +63,7 @@ Military and brass bands played public celebrations in the nineteenth century, a
 
 ## A few examples
 
-Take Me Out to the Ball Game became a shared baseball song in 1908. Sousa's Liberty Bell march was carried into the stands by school bands, and Fucik's Entrance of the Gladiators moved from the circus to the athletics field. The three stand for the fan, the school, and the arena.
+Jack Norworth and Albert Von Tilzer published Take Me Out to the Ball Game in 1908. That is its publication date, not the beginning of the stadium tradition: the National Baseball Hall of Fame dates the earliest known ballpark performance to 1934. Its later use shows how repeated participation can turn a commercial song into part of a sporting ritual. Marches offer another comparison: a steady pulse supports clapping, movement and group chanting.
 
 ## Listen to these
 

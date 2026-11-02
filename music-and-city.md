@@ -21,7 +21,7 @@ instances:
 sources:
   - Grove Music Online 的 Tin Pan Alley 与 Popular music 条目，用于核对城市歌曲与出版业的关系
   - The Cambridge History of American Music（Cambridge University Press，1998），用于核对19世纪美国城市歌曲与娱乐业
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -39,7 +39,7 @@ updated: 2026-10-28
 
 ## 听这几处
 
-听低音是否像脚步，听旋律是否在模仿叫卖或汽笛，听段落有没有“到站”的停顿。
+先区分作品使用城市题材的方式：歌词可以直接说出地名或街头人物，器乐曲则可能借标题、舞曲节奏或织体提示场景。逐段记录反复句、速度变化、音区与伴奏型，再判断它们怎样配合标题或歌词。若没有明确的模仿证据，低音的规律重复不应直接标成脚步，停顿也不应直接标成火车到站。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["C4","E4","G4","A4","G4","E4","D4","C4"],"label":"城市的脚步","label_en":"Footsteps of a city","hint":"听低音像不像走路，旋律有没有在拐角处停一下","hint_en":"Hear the bass walk and the tune pause at a corner"}
@@ -65,7 +65,7 @@ The Sidewalks of New York (1894) sets street cries and place names to a singable
 
 ## Listen to these
 
-Hear whether the bass walks like footsteps, whether the tune mimics a vendor's cry or a train whistle, and whether a phrase pauses as if at a station.
+Distinguish how a work presents the city: words may name places or street characters, while instrumental music can suggest a setting through title, dance rhythm or texture. Track refrains, tempo changes, registers and accompaniment patterns, then relate them to the title or text. Without specific evidence of imitation, a regular bass should not automatically be labelled footsteps, or a pause a train arriving.
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["C4","E4","G4","A4","G4","E4","D4","C4"],"label":"Footsteps of a city","label_en":"Footsteps of a city","hint":"Hear the bass walk and the tune pause at a corner","hint_en":"Hear the bass walk and the tune pause at a corner"}

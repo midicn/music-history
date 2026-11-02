@@ -21,7 +21,7 @@ instances:
 sources:
   - Karen Collins, Game Sound (MIT Press).
   - Grove Music Online, entry "Video game music".
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -31,7 +31,7 @@ updated: 2026-10-28
 
 ## 历史的走向
 
-1970年代街机用单声道蜂鸣音标记碰撞与得分；1980年代家用机以三到四个声道写旋律，短循环必须十秒内抓住人。1990年代 CD让游戏配乐变成管弦乐，动态分层让音乐随战斗变化。2000年代网络游戏用无缝循环覆盖长时间在线，2010年代独立游戏把芯片音色变成怀旧风格。
+早期游戏的声音受各平台的音源和存储条件限制：有些设备以简短信号提示事件，有些能安排多个同时发声的声部，声道数量与音色能力不能用一个数字概括。后来，更大的存储空间和音频播放能力增加了录音与采样的使用，但合成音源、短循环和芯片音色并未因此消失。互动配乐还要处理状态切换：战斗开始、探索恢复或玩家停留时，音乐应怎样接续。
 
 ## 几个例子
 
@@ -57,7 +57,7 @@ Game music serves the player's actions and must survive endless repetition. How 
 
 ## The direction of history
 
-Arcade games of the 1970s used single-channel beeps to mark collisions and scores. Home consoles of the 1980s wrote melody in three or four channels, and a short loop had to catch the ear within ten seconds. CDs made orchestral scores possible in the 1990s, and dynamic layers let music change with battle. Online games of the 2000s used seamless loops across long sessions, and indie games of the 2010s turned chip timbres into a nostalgic style.
+Early game audio was constrained by each platform’s sound hardware and storage. Some devices used brief signals for events; others supported several simultaneous voices. Channel counts and timbral capabilities cannot be reduced to one figure. Later storage and playback systems expanded the use of recordings and samples without eliminating synthesis, short loops or chip timbres. Interactive scores must also manage transitions: how does music continue when combat starts, exploration resumes or the player waits?
 
 ## A few examples
 

@@ -21,13 +21,13 @@ instances:
 sources:
   - Grove Music Online 的 Pastoral 与 Nature 条目，用于核对田园体裁与自然描绘的历史
   - 查尔斯·罗森，《The Romantic Generation》（Harvard University Press，1995），用于核对19世纪自然观念与钢琴小品
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
 ## 要回答的问题
 
-自然本身没有旋律，鸟叫也不是十二平均律。作曲家凭什么说自己写的是自然？他们写的其实是听自然的方式。
+作曲家可以模仿鸟鸣、风雨的节奏和音高轮廓，也可以只借标题提示一个场景。辨别这两种情况，需要把作品标题、谱面和实际听到的声音分开：标题写着“森林”，并不意味着每个低音都对应树木或脚步。
 
 ## 脉络
 
@@ -53,7 +53,7 @@ updated: 2026-10-28
 ::: en
 ## Question
 
-Nature has no melody, and a bird does not sing in equal temperament. What gives a composer the right to call a piece natural? What is written is a way of hearing nature, not nature itself.
+A composer can imitate the rhythm or pitch contour of birds and weather, or use a title to suggest a setting without literal imitation. Keep the title, score and audible features separate: a forest title does not make every bass note a tree or footstep.
 
 ## Historical background
 

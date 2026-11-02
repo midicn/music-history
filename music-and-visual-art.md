@@ -22,7 +22,7 @@ instances:
 sources:
   - Simon Shaw-Miller, Visible Deeds of Music (Yale University Press).
   - Grove Music Online, entry "Painting and music".
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -32,7 +32,7 @@ updated: 2026-10-28
 
 ## 时间线
 
-文艺复兴的宫廷节庆把音乐、布景与舞蹈放在同一场演出。19世纪标题音乐用文字与绘画给器乐指路，穆索尔斯基为哈特曼的画展写下《图画展览会》。印象主义作曲家借用绘画的光影与色彩词，德彪西把日本浮世绘的平面感写进《版画集》。20世纪舞台设计、电影与投影让声音与图像再次同台。
+宫廷节庆、歌剧与芭蕾长期把音乐、布景和舞蹈结合在同一场演出中。19世纪标题音乐也会用文字、人物或图像提示器乐的构思，例如穆索尔斯基《图画展览会》与哈特曼纪念画展的联系。另一些作品使用视觉艺术的词汇作为标题，并不逐项描摹一幅画。比较这些关系时，应先区分确有来源的作品联系与听者自行产生的画面联想。
 
 ## 典型案例
 
@@ -58,7 +58,7 @@ Music cannot see a painting, and a painting cannot hear sound. Yet composers kee
 
 ## On the timeline
 
-Renaissance court festivities put music, scenery and dance on one stage. Nineteenth-century programme music used words and pictures to guide instrumental listening, and Mussorgsky wrote Pictures at an Exhibition for a memorial show of Hartmann's drawings. Impressionist composers borrowed the vocabulary of light and colour, and Debussy wrote the flatness of Japanese prints into Estampes. Stage design, film and projection put sound and image together again in the twentieth century.
+Court festivities, opera and ballet have long combined music, scenery and dance. Nineteenth-century programme music could also use words, characters or images to guide instrumental conception, as in the relationship between Mussorgsky’s Pictures at an Exhibition and the Hartmann memorial exhibition. Other works borrow visual-art vocabulary for their titles without describing a specific picture. Distinguish a documented connection from imagery supplied by the listener.
 
 ## Typical cases
 

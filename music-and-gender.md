@@ -21,7 +21,7 @@ instances:
 sources:
   - Grove Music Online 的 Gender and music 与 Breeches role 条目，用于核对歌剧中的性别表演
   - 苏珊·麦克拉里，《Feminine Endings》一书对音乐与性别表征的分析，用于核对女性角色的叙事套路
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -31,7 +31,7 @@ updated: 2026-10-28
 
 ## 历史的走向
 
-17至18世纪歌剧严重依赖阉人歌手，男性唱女角或英雄；19世纪女性歌手成为明星，但剧本常把她们写成为爱牺牲的堕落女人；20世纪反串与性别流动角色进入主流舞台，女性作曲家与指挥仍在争取位置。阉人歌手退场后，女高音接替了他们的位置，也接替了被观看的命运。
+17至18世纪欧洲歌剧的部分传统使用阉人歌手演唱高声部，女性扮演男角的写法也有自己的历史。演唱者的性别、角色的性别与声部音域并不总是一一对应。阉人歌手退出舞台后，其角色可能由不同声部、不同性别的歌手诠释，不能概括为由女高音统一接替。比较历史与现代演出时，应分别记录角色设定、原定声部和此次演出的配置。
 
 ## 几个例子
 
@@ -57,7 +57,7 @@ Gender in opera is sung and also acted. Who is allowed to sing the lead, who onl
 
 ## Historical background
 
-Opera in the seventeenth and eighteenth centuries relied heavily on castrati, men who sang female or heroic roles. Female singers became stars in the nineteenth century, but plots often cast them as fallen women who die for love. Breeches roles and gender-fluid characters reached mainstream stages in the twentieth century, while women composers and conductors still fight for position.
+Some European operatic traditions of the seventeenth and eighteenth centuries used castrati for high parts; women playing male roles also have a long history. Performer gender, character gender and vocal range do not always align. Roles once sung by castrati can now be assigned to different voice types and performers, rather than being uniformly inherited by sopranos. Compare the character, original voice assignment and casting of a particular production separately.
 
 ## A few examples
 

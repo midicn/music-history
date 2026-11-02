@@ -22,7 +22,7 @@ instances:
 sources:
   - 《中国音乐词典》编辑部编，中国音乐词典（人民音乐出版社）— 条目与年代核对，未引用
   - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "China".
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -40,7 +40,7 @@ updated: 2026-10-28
 
 ## 听什么
 
-先听《紫竹调》《茉莉花》，抓住五声骨架与句尾落音，再听《金蛇狂舞》的钢琴改编，辨认八板式的循环。重点不在齐奏的整齐，而在各声部怎样在同一旋律上错开加花。
+若先用《紫竹调》《茉莉花》等单旋律或钢琴版本熟悉曲调，再转听真实丝竹合奏，应注意两种材料提供的信息不同：前者有助于辨认旋律，后者才便于比较笛、二胡与弹拨乐器怎样围绕共同曲调形成不同的装饰和节奏。可先跟随一个声部听完整句，再比较另一声部是否在相同位置落音。钢琴改编或普通MIDI音色不能替代丝竹合奏的声部关系与演奏习惯。
 
 ## 常见误解
 
@@ -66,7 +66,7 @@ The traditional eight great pieces include Joyful Song, Cloud Celebration, Stree
 
 ## What to listen for
 
-Begin with Purple Bamboo Melody and Jasmine Flower to catch the pentatonic frame and phrase endings. Then hear the piano arrangement of Dance of the Golden Snake and trace the eight-beat cycle. Listen less for unison polish than for how the parts offset their ornaments on one tune.
+A single-line or piano version of a tune can help establish its melody before listening to an actual sizhu ensemble, but the sources offer different information. Ensemble recordings allow comparison of the ornaments and rhythms that flute, bowed strings and plucked instruments build around a common tune. Follow one part through a phrase, then compare where another part arrives. A piano reduction or generic MIDI timbre is not a substitute for the ensemble’s part relationships and performance practice.
 
 ## Common misunderstandings
 

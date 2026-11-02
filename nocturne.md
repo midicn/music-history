@@ -20,9 +20,12 @@ instances:
   - atepp-001286 | 肖邦《夜曲》作品48之1，中段转暗，织体加厚，再回到开头
   - atepp-000369 | 格里格《抒情小品》作品54之4，标题就叫夜曲，和声带着北欧的凉意
 sources:
+  - "https://storage.nifc.pl/web_files/_plik/file_manager_pmp/files/632572_061025_Kurier_Chopinowski_No_5_WEB.pdf"
+  - "https://chopin.nifc.pl/pl/chopin/kompozycja/242-nocturne-in-c-minor"
+  - "https://chopin.nifc.pl/en/chopin/gatunki/11_nokturny"
   - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Nocturne".
   - Jim Samson, The Music of Chopin.
-updated: 2026-10-28
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -30,11 +33,11 @@ updated: 2026-10-28
 
 ## 起源与年代
 
-1812 年前后，爱尔兰作曲家菲尔德在伦敦与圣彼得堡写下最早的夜曲。肖邦写了二十一首，把装饰、踏板与自由速度用得更大胆。福雷、格里格与德彪西各自延续，夜曲也从沙龙走进音乐厅。
+19世纪初，爱尔兰钢琴家约翰·菲尔德确立了歌唱旋律与分解和弦伴奏相配的钢琴夜曲传统。夜间演奏的器乐曲与 serenade、notturno 等名称此前已经存在，因此不宜把菲尔德说成所有“夜曲”的最早作者。肖邦发展了这种钢琴体裁；他生前出版十八首夜曲，通常使用的二十一首计数还包括身后发表的作品。
 
 ## 听辨特征
 
-右手长旋律，左手宽琶音，低音先落下。听自由速度，旋律句尾会稍慢，再回到原速。中段常转暗，调性或织体变厚，然后回到开头。装饰音多，但服务于歌唱，不抢旋律。
+先分辨旋律、伴奏与低音三层，再听伴奏音型怎样随乐句变化。自由速度不等于每个句尾都减速；要比较同一段里旋律的伸缩和伴奏的脉搏。例如肖邦《c小调夜曲》Op.48 No.1，中段转入C大调的和弦式段落，随后音响逐渐增强，开头旋律回归时伴奏也更密集。“中段转暗”并不是夜曲的固定结构。
 
 ## 代表人物
 
@@ -46,7 +49,7 @@ updated: 2026-10-28
 
 ## 常见误解
 
-夜曲不都写夜晚，也不都慢。它不是肖邦发明的，菲尔德才是最早的作者。
+夜曲的标题不规定情节或统一的情绪。钢琴夜曲常有歌唱性旋律，但也容纳激烈段落；德彪西的管弦乐《夜曲》又属于不同编制与构思。判断时要同时看作品年代、编制和具体写法。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["E4","G4","B4","E5","D5","B4","G4","E4","A4","C5","E5","A5","G5","E5","C5","A4"],"label":"旋律浮在琶音上","label_en":"Melody floating on arpeggios","hint":"低音先落，和弦铺开，旋律在最上面慢慢唱","hint_en":"The bass lands, the chord spreads, and the melody sings on top"}
@@ -58,11 +61,11 @@ The nocturne is a lyrical salon piece of the nineteenth century, its melody sing
 
 ## Origins and dates
 
-Around 1812 the Irish composer John Field wrote the first nocturnes in London and St Petersburg. Chopin wrote twenty-one and used ornament, pedal and free tempo more boldly. Fauré, Grieg and Debussy each continued the line, and the nocturne moved from the salon into the hall.
+In the early nineteenth century, John Field established the piano-nocturne tradition of a singing melody over broken-chord accompaniment. Earlier night music already circulated under names such as serenade and notturno; Field should not be credited with inventing every use of the nocturne title. Chopin developed the piano genre. He published eighteen nocturnes during his lifetime; the familiar total of twenty-one includes posthumously published pieces.
 
 ## Listening features
 
-A long melody in the right hand, wide arpeggios in the left, the bass landing first. Listen for rubato, the melody easing at the end of a phrase and returning to tempo. The middle section often darkens, the key or texture thickening before the opening returns. Ornaments are many but serve the song rather than compete with it.
+Separate melody, accompaniment and bass, then follow how their relationship changes across a phrase. Rubato does not require every phrase ending to slow down. In Chopin’s C-minor Nocturne, Op.48 No.1, the central chordal passage turns to C major; its sound grows, and the opening melody returns with denser accompaniment. A darkening middle section is not a rule for the genre.
 
 ## Composers and works
 
@@ -74,7 +77,7 @@ It grows from eighteenth-century night pieces and lyrical miniatures and leads t
 
 ## Misconceptions
 
-A nocturne is not always about night, nor always slow. Chopin did not invent it; Field wrote the first.
+The title does not prescribe one plot or mood. A piano nocturne may contain forceful contrasts, while Debussy’s orchestral Nocturnes use a different medium and conception. Identify the period, scoring and musical treatment rather than assuming that every work called a nocturne follows one model.
 
 ```audiolab
 {"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["E4", "G4", "B4", "E5", "D5", "B4", "G4", "E4", "A4", "C5", "E5", "A5", "G5", "E5", "C5", "A4"], "label": "Melody floating on arpeggios", "label_en": "Melody floating on arpeggios", "hint": "低音先落，和弦铺开，旋律在最上面慢慢唱", "hint_en": "The bass lands, the chord spreads, and the melody sings on top"}
