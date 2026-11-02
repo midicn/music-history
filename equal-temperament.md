@@ -4,8 +4,8 @@ site: hist
 cat: H2
 title: 平均律
 title_en: Equal Temperament
-summary: 十二个半音均分八度，让所有调在同一乐器上自由转调。
-summary_en: Twelve equal semitones let every key work on one instrument and made free modulation normal.
+summary: 把八度分成十二个相等的半音，以固定音程关系支持不同调的演奏。
+summary_en: Twelve equal semitones divide the octave, allowing the same interval structure in every key.
 level: standard
 tags: [音乐史, 调律, 巴洛克, 和声]
 tags_en: [music history, temperament, baroque, harmony]
@@ -16,14 +16,16 @@ links:
   - "[[glossary:key-signature]]"
   - "[[instrument:harpsichord]]"
 instances:
-  - atepp-001997 | C大调前奏曲，最白的键上先听十二个半音的循环
-  - atepp-001953 | 升C大调赋格，远调听起来和C大调一样自然
-  - atepp-001974 | 升F大调赋格，五个升号的调不再需要特殊调律
-  - atepp-001935 | 降A大调赋格，降号远调也能自由转回主调
+  - atepp-001997 | 键盘作品试听；当前MIDI回放不证明原作或历史演出所用律制 | Keyboard study material; present-day MIDI playback does not establish the temperament of the work or historical performance
+  - atepp-001953 | 键盘作品试听；当前MIDI回放不证明原作或历史演出所用律制 | Keyboard study material; present-day MIDI playback does not establish the temperament of the work or historical performance
+  - atepp-001974 | 键盘作品试听；当前MIDI回放不证明原作或历史演出所用律制 | Keyboard study material; present-day MIDI playback does not establish the temperament of the work or historical performance
+  - atepp-001935 | 键盘作品试听；当前MIDI回放不证明原作或历史演出所用律制 | Keyboard study material; present-day MIDI playback does not establish the temperament of the work or historical performance
 sources:
   - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Temperaments".
   - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
-updated: 2026-10-28
+  - https://www.bachfestleipzig.de/sites/default/files/files/BA_2025_184.pdf
+  - https://www.musikland-sachsenanhalt.de/beitraege/bach-johann-sebastian-1685-1750-in-koethen/
+updated: 2026-11-03
 ---
 
 ::: zh
@@ -31,7 +33,7 @@ updated: 2026-10-28
 
 ## 时间与地点
 
-十八世纪欧洲，1722年莱比锡。巴赫出版《平均律键盘曲集》第一卷，为二十四个大小调各写一首前奏曲与赋格。严格十二平均律的普及要到十九世纪，随钢琴制造与调律标准化完成。
+十八世纪欧洲。巴赫在科滕时期编成《平均律键盘曲集》第一卷，题名页署1722年；这里说的是作品编成，不是当年在莱比锡正式出版。曲集中二十四个大小调各有一首前奏曲与赋格。严格十二平均律的普及要到十九世纪，随钢琴制造与调律标准化完成。
 
 ## 发生了什么
 
@@ -39,7 +41,7 @@ updated: 2026-10-28
 
 ## 改变了什么
 
-调性网络变成一张均匀的地图，作曲家可以从任何调出发，也可以在任何调上停留。钢琴、管风琴与吉他的品丝据此定音，现代和声的转调、半音化与等音关系都建立在此。代价是纯律的纯净三度被牺牲，收益是十二个调的自由。
+严格十二平均律让各调的对应音程比例一致，便于在固定音高乐器上转调与作等音转换。钢琴和管风琴没有品丝；它们靠调弦或调管设置音高，吉他等有品乐器则借助品位安排。管风琴至今也可采用历史调律，不能把所有乐器与全部调性音乐都归为同一种调律。代价是纯律的纯净三度被牺牲，收益是十二个调的自由。
 
 ## 听这个转折
 
@@ -59,7 +61,7 @@ Dividing the octave into twelve equal semitones sounds mathematical. In practice
 
 ## Time and place
 
-Eighteenth-century Europe, Leipzig in 1722. Bach published Book I of the Well-Tempered Clavier, with a prelude and fugue in all twenty-four keys. Strict equal temperament spread only in the nineteenth century, with piano manufacture and standardised tuning.
+Eighteenth-century Europe. Bach compiled the first book of The Well-Tempered Clavier during his Köthen period; its title page is dated 1722. This marks compilation, not a Leipzig publication that year. The collection pairs a prelude with a fugue in each of the twenty-four keys. Strict equal temperament spread only in the nineteenth century, with piano manufacture and standardised tuning.
 
 ## What happened
 
@@ -67,7 +69,7 @@ Equal temperament divides the octave by the twelfth root of two, so every semito
 
 ## What changed
 
-The network of keys became an even map. Composers could start anywhere and stay anywhere, and guitars, organs and pianos were tuned accordingly. Modern modulation, chromaticism and enharmonic relations rest on this base. The price was the pure third of just intonation; the gain was the freedom of all twelve keys.
+Strict equal temperament gives corresponding intervals the same ratios in each key, facilitating modulation and enharmonic exchange on fixed-pitch instruments. Pianos and organs have no frets: their strings or pipes are tuned, while fretted instruments use fret placement. Organs can still use historical temperaments; neither every instrument nor all tonal music follows a single tuning system. The price was the pure third of just intonation; the gain was the freedom of all twelve keys.
 
 ## Listen for the turn
 

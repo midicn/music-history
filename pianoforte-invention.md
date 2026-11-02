@@ -4,8 +4,8 @@ site: hist
 cat: H2
 title: 钢琴的发明
 title_en: The Invention of the Pianoforte
-summary: 克里斯托福里用琴槌与擒纵机构，让键盘真正能弹出渐强与渐弱。
-summary_en: Cristofori's hammer and escapement gave the keyboard a true crescendo and diminuendo.
+summary: 克里斯托福里的击弦与擒纵机构，让击键速度能够控制单次发音强弱。
+summary_en: Cristofori's hammer and escapement mechanism made a note's initial loudness responsive to key velocity.
 level: standard
 tags: [钢琴, 克里斯托福里, 键盘, 十八世纪]
 tags_en: [piano, Cristofori, keyboard, eighteenth-century]
@@ -16,13 +16,14 @@ links:
   - "[[instrument:piano]]"
   - "[[instrument:clavichord]]"
 instances:
-  - giantmidi-001637 | C.P.E. 巴赫键盘奏鸣曲，处在古钢琴与早期钢琴的交界，触键层次被放大
-  - atepp-006652 | 莫扎特 K.332 慢乐章，旋律像人声一样起伏，力度随手指变化
-  - atepp-000431 | 海顿 Hob. XVI:52 快板，宽音域与辉煌跑句只有新式钢琴接得住
+  - giantmidi-001637 | 键盘编配试听素材；当前音源不代表克里斯托福里钢琴或原演出的音色 | Keyboard study material; the current sound generator does not represent a Cristofori piano or the original performance
+  - atepp-006652 | 键盘编配试听素材；当前音源不代表克里斯托福里钢琴或原演出的音色 | Keyboard study material; the current sound generator does not represent a Cristofori piano or the original performance
+  - atepp-000431 | 键盘编配试听素材；当前音源不代表克里斯托福里钢琴或原演出的音色 | Keyboard study material; the current sound generator does not represent a Cristofori piano or the original performance
 sources:
   - Grove Music Online, entry "Pianoforte".
   - Stewart Pollens, The Early Pianoforte (Cambridge University Press).
-updated: 2026-10-28
+  - https://www.metmuseum.org/essays/the-piano-the-pianofortes-of-bartolomeo-cristofori-1655-1731
+updated: 2026-11-03
 ---
 
 ::: zh
@@ -36,14 +37,14 @@ updated: 2026-10-28
 
 ## 影响与后果
 
-键盘从此能做出真正的渐强与渐弱，触键从按下去变成推动一个机构。这让演奏者可以在一个音上做表情，也为后来的奏鸣曲提供了力度对比的手段。不过钢琴并没有立刻取代羽管键琴，造价、触感与维护让它先在宫廷和沙龙里站稳，十八世纪后期才随着制造改良走向更广的听众。
+钢琴把击弦力度控制与较大的可用音量结合起来，为乐句和声部带来更灵活的力度对比；此前击弦古钢琴也有触键表现力。钢琴按键主要决定音头，单音发声后通常逐渐衰减，不能靠持续加压把同一个已经发出的音连续做强。不过钢琴并没有立刻取代羽管键琴，造价、触感与维护让它先在宫廷和沙龙里站稳，十八世纪后期才随着制造改良走向更广的听众。
 
 ## 听一段转折
 
-先听 C.P.E. 巴赫的一首键盘奏鸣曲，他的音乐处在古钢琴与早期钢琴之间，细微的触键差别被放大。再听莫扎特 K.332 的柔板，旋律的呼吸依赖手指对琴槌的控制。最后听海顿 Hob. XVI:52 的快板，宽音域与快速跑句需要一台结构更结实的新琴。听音头之后的余音，那是拨弦键盘给不了的空间。
+先听 C.P.E. 巴赫的一首键盘奏鸣曲，他的音乐处在古钢琴与早期钢琴之间，细微的触键差别被放大。再听莫扎特 K.332 的柔板，旋律的呼吸依赖手指对琴槌的控制。最后听海顿 Hob. XVI:52 的快板，宽音域与快速跑句需要一台结构更结实的新琴。比较这些作品中的乐句和力度安排；MIDI音源不等于克里斯托福里钢琴或历史羽管键琴的实际录音，不能据此判断两者余音的物理差异。
 
 ```audiolab
-{"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"琴槌击弦","label_en":"A hammer strikes the string","hint":"近代钢琴的击弦余音，拨弦键盘做不到这样延续","hint_en":"A modern piano's struck sound; a plucked keyboard cannot sustain it this way"}
+{"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"琴槌击弦","label_en":"A hammer strikes the string","hint":"现代合成钢琴示意音型；不用于比较历史键盘乐器的延音","hint_en":"A modern synthesized piano pattern, not a comparison of historical keyboard sustain"}
 ```
 
 ## 接着读
@@ -63,14 +64,14 @@ Cristofori kept the keyboard's shape but rebuilt the strike. A hammer rises, str
 
 ## Effects and aftermath
 
-A keyboard could now make a real crescendo and diminuendo, and touch became a way of driving a mechanism rather than merely pressing a key. A player could shape a single note, and the sonata gained dynamic contrast. The piano did not displace the harpsichord at once, however; cost, touch and maintenance kept it in courts and salons until manufacturing improvements carried it to a wider public late in the eighteenth century.
+The piano combined touch-sensitive hammer action with greater usable volume, enabling flexible dynamic contrasts across phrases and voices; the clavichord already offered expressive touch. A piano key mainly controls the attack. Once struck, a note normally decays: continued finger pressure cannot produce a continuous crescendo on that already-sounding note. The piano did not displace the harpsichord at once, however; cost, touch and maintenance kept it in courts and salons until manufacturing improvements carried it to a wider public late in the eighteenth century.
 
 ## Hear the turn
 
-Begin with C. P. E. Bach's keyboard sonata, poised between clavichord and early piano, where tiny differences of touch are magnified. Then the slow movement of Mozart's K. 332, its breath depending on the finger's control of the hammer. Finally the allegro of Haydn's Hob. XVI:52, whose wide range and fast runs need a sturdier new instrument. Hear the sound after the attack, the space a plucked keyboard cannot give.
+Begin with C. P. E. Bach's keyboard sonata, poised between clavichord and early piano, where tiny differences of touch are magnified. Then the slow movement of Mozart's K. 332, its breath depending on the finger's control of the hammer. Finally the allegro of Haydn's Hob. XVI:52, whose wide range and fast runs need a sturdier new instrument. Compare phrasing and dynamic organization. A MIDI patch is not a recording of Cristofori’s piano or a historical harpsichord and cannot establish their physical differences in sustain.
 
 ```audiolab
-{"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["C4", "E4", "G4", "C5", "G4", "E4", "C4"], "label": "A hammer strikes the string", "label_en": "A hammer strikes the string", "hint": "近代钢琴的击弦余音，拨弦键盘做不到这样延续", "hint_en": "A modern piano's struck sound; a plucked keyboard cannot sustain it this way"}
+{"type": "instrument", "gm": "Acoustic Grand Piano", "synth": "struck", "phrase": ["C4", "E4", "G4", "C5", "G4", "E4", "C4"], "label": "A hammer strikes the string", "label_en": "A hammer strikes the string", "hint": "现代合成钢琴示意音型；不用于比较历史键盘乐器的延音", "hint_en": "A modern synthesized piano pattern, not a comparison of historical keyboard sustain"}
 ```
 
 ## Read next

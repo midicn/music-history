@@ -4,8 +4,8 @@ site: hist
 cat: H2
 title: 留声机1877
 title_en: The Phonograph, 1877
-summary: 声音第一次被刻下并回放，唱片工业与明星制度随之而来。
-summary_en: Sound was captured and replayed for the first time, creating records, labels and stars.
+summary: 1877年的留声机实现录制与回放，后来的复制与发行技术推动唱片产业发展。
+summary_en: The 1877 phonograph combined recording and playback; later copying and distribution helped develop the record industry.
 level: standard
 tags: [音乐史, 录音, 唱片, 技术]
 tags_en: [music history, recording, records, technology]
@@ -16,17 +16,19 @@ links:
   - "[[glossary:mechanical-license]]"
   - "[[glossary:music-copyright]]"
 instances:
-  - pdmx-001697 | 《星条旗永不落》，苏萨乐队是早期唱片最卖座的铜管进行曲
-  - m21-000481 | 《枫叶拉格》，1899年的谱面畅销曲，唱片工业早期的热门曲目
-  - m21-000482 | 《亚历山大的拉格泰姆乐队》，1911年的流行热曲，留声机把舞曲带进客厅
+  - pdmx-001697 | 相关曲目的现代MIDI听例；不是早期唱片或1877年演示的原始声音 | A modern MIDI example of related repertoire, not an early record or original sound from the 1877 demonstration
+  - m21-000481 | 相关曲目的现代MIDI听例；不是早期唱片或1877年演示的原始声音 | A modern MIDI example of related repertoire, not an early record or original sound from the 1877 demonstration
+  - m21-000482 | 相关曲目的现代MIDI听例；不是早期唱片或1877年演示的原始声音 | A modern MIDI example of related repertoire, not an early record or original sound from the 1877 demonstration
 sources:
   - The New Grove Dictionary of Music and Musicians, 2nd ed., entry "Recording".
   - Richard Taruskin, The Oxford History of Western Music (Oxford University Press).
-updated: 2026-10-28
+  - https://www.nps.gov/edis/learn/historyculture/origins-of-sound-recording.htm
+  - https://www.loc.gov/static/managed-content/uploads/sites/6/2017/02/recorded_sound_timeline-2013.pdf
+updated: 2026-11-03
 ---
 
 ::: zh
-1877年，爱迪生让一台机器说出玛丽有只小羊羔。声音第一次脱离发声的人，被刻在锡箔上，再放给另一个时刻的耳朵。
+1877年，爱迪生让一台机器说出玛丽有只小羊羔。这项发明的重要之处是能录下声音，并由机器重放。此前斯科特的声波描记器已经能记录声波痕迹，但当时不能直接播放。
 
 ## 事情发生在哪一年
 
@@ -42,10 +44,10 @@ updated: 2026-10-28
 
 ## 听一段转折
 
-库中没有当年的唱片，只有这些曲目的 MIDI还原。先听《星条旗永不落》，再听《枫叶拉格》，最后听《亚历山大的拉格泰姆乐队》。听铜管、切分与舞步，想象它们从圆筒里放出来的粗糙声响。
+库中没有当年的唱片，只有这些曲目的 MIDI还原。先听《星条旗永不落》，再听《枫叶拉格》，最后听《亚历山大的拉格泰姆乐队》。这些作品帮助辨认当时流行音乐的风格；MIDI不能再现历史录音的频宽、噪声、演奏与录制条件。比较这些条件，需要查听博物馆或档案馆保存的实际录音。
 
 ```audiolab
-{"type":"instrument","gm":"Brass Section","synth":"brass","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"留声机：铜管乐队走进客厅","label_en":"Phonograph: a brass band enters the parlour","hint":"听进行曲的强拍如何被刻成一条可以反复播放的沟槽","hint_en":"Hear how the march's strong beats become a groove that can be played again and again"}
+{"type":"instrument","gm":"Brass Section","synth":"brass","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"留声机：铜管乐队走进客厅","label_en":"Phonograph: a brass band enters the parlour","hint":"合成铜管音型仅示意节奏，不模拟锡箔圆筒的录音与回放","hint_en":"This synthesized brass pattern illustrates rhythm, not tinfoil-cylinder recording or playback"}
 ```
 
 ## 接着读
@@ -54,7 +56,7 @@ updated: 2026-10-28
 :::
 
 ::: en
-In 1877 Edison made a machine speak Mary had a little lamb. For the first time a sound left the person who made it, was cut into tin foil and played back to another pair of ears at another moment.
+In 1877 Edison made a machine speak Mary had a little lamb. Its crucial feature was the ability both to record sound and to play it back mechanically. Scott’s earlier phonautograph had already traced sound waves, but could not directly replay them at the time.
 
 ## The year it happened
 
@@ -70,10 +72,10 @@ Listening no longer required a musician in the room. Recording made a copy of a 
 
 ## Listen for the turn
 
-The library has no historical discs, only MIDI realisations of these pieces. Begin with The Stars and Stripes Forever, then Maple Leaf Rag, then Alexander's Ragtime Band. Follow the brass, the syncopation and the dance step, and imagine them coming out of a cylinder with a rough and narrow sound.
+The library has no historical discs, only MIDI realisations of these pieces. Begin with The Stars and Stripes Forever, then Maple Leaf Rag, then Alexander's Ragtime Band. These pieces help identify musical styles associated with early commercial recording. MIDI cannot reproduce the bandwidth, noise, performances or recording conditions of historical discs and cylinders. Those comparisons require actual archival recordings.
 
 ```audiolab
-{"type": "instrument", "gm": "Brass Section", "synth": "brass", "phrase": ["C4", "E4", "G4", "C5", "G4", "E4", "C4"], "label": "Phonograph: a brass band enters the parlour", "label_en": "Phonograph: a brass band enters the parlour", "hint": "听进行曲的强拍如何被刻成一条可以反复播放的沟槽", "hint_en": "Hear how the march's strong beats become a groove that can be played again and again"}
+{"type": "instrument", "gm": "Brass Section", "synth": "brass", "phrase": ["C4", "E4", "G4", "C5", "G4", "E4", "C4"], "label": "Phonograph: a brass band enters the parlour", "label_en": "Phonograph: a brass band enters the parlour", "hint": "合成铜管音型仅示意节奏，不模拟锡箔圆筒的录音与回放", "hint_en": "This synthesized brass pattern illustrates rhythm, not tinfoil-cylinder recording or playback"}
 ```
 
 ## Read next
